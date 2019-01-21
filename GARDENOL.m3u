@@ -514,3 +514,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u
 #EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="INTERNACIONAL CARLOS",CANAL 5 TELESOL HD - ARGENTINA
 http://149.56.98.124:9090/hls/telesol_mid.m3u8?CARLOS
 
+
+#EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="2019",INSCREVA SE NO CANAL
+http://127.0.0.1
