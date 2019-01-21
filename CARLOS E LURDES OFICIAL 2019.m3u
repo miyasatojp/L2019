@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="2019",INSCREVA NO CANAL
+#EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="2019",SEJA BEM VINDO, DIVIRTA-SE
 http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="2019",CARLOS&LURDES OFICIAL 2019
@@ -135,7 +135,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zXNHpHV.png" group-title="CANAL ABERTO CARLOS", TV PANTANAL MS
-http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÊSABIANÃO
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?VOCÃŠSABIANÃƒO
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECT TV
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
