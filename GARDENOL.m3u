@@ -28,13 +28,13 @@ http://tv.factoryiptv.com:80/live/12345678/12345678/37126.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo News HD (Teste)
 http://tv.factoryiptv.com:80/live/12345678/12345678/36917.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="",GLOBO NORDESTE HD (Teste)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",GLOBO NORDESTE HD (Teste)
 http://tv.factoryiptv.com:80/live/12345678/12345678/38971.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="",Globo RJ HD (Teste)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo RJ HD (Teste)
 http://tv.factoryiptv.com:80/live/12345678/12345678/36968.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="",Globo SP HD (Teste)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo SP HD (Teste)
 http://tv.factoryiptv.com:80/live/12345678/12345678/37361.ts
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT PE HD
