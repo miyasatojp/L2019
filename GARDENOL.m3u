@@ -15,6 +15,7 @@ http://127.0.0.1
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="BBB19",BBB 19 SD (Teste)
 http://apk26.futeboltvgratis.com/live/7/chunks.m3u8
 
@@ -22,35 +23,19 @@ http://apk26.futeboltvgratis.com/live/7/chunks.m3u8
 http://127.0.0.1
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Band News (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37126.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo News HD (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36917.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",GLOBO NORDESTE HD (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/38971.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo RJ HD (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36968.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Globo SP HD (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37361.ts
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT PE HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT - PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" group-title="CANAL ABERTO CARLOS",SBT HD 2
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS", SBT GO HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8?
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" group-title="CANAL ABERTO CARLOS",SBT HD - ( Portugal )
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", RECORD TV AGUA BOA 1
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
@@ -190,12 +175,6 @@ http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",TV RIO LARGO
 http://stmv4.euroti.com.br:1935/tvriolargo/tvriolargo/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",Viva HD (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36931.ts
-
-
-
-
 
 
 
@@ -225,8 +204,6 @@ https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3
 #EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="INFANTIL CARLOS",GOSPEL CARTOON - DESENHOS CRISTAOS
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="INFANTIL CARLOS",Cartoon Network HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36927.ts
 
 
 
@@ -267,9 +244,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?
 #EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="RELIGIOSO CARLOS",GOSPEL CARTOON - DESENHOS CRISTAOS
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="RELIGIOSO CARLOS",CATHOLIC TV HD - USA
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="RELIGIOSO CARLOS",TV BOA ESPERANÇA
 http://45.43.208.2:1935/16692/16692/live.m3u8
 
@@ -279,13 +253,10 @@ http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="RELIGIOSO CARLOS",TV SANTUÁRIO
 http://45.43.208.2:1935/tvcatolic/tvcatolic/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="RELIGIOSO CARLOS",LEÃO DE JUDÁ - WEBTV
-http://streaming42.sitehosting.com.br:1935/juda/juda/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO CARLOS", REDE SECULO 21 - 1
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="CANAL ABERTO CARLOS",REDE SECULO 21 - 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO CARLOS",REDE SECULO 21 - 2
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 
@@ -353,135 +324,18 @@ http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 http://127.0.0.1
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="FILMES CARLOS",FOX MOVIES SD - USA
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-logo="https://goo.gl/Dxnuge" group-title="FILMES CARLOS", FILMES DO CARLOS SD - BR
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR (Legendados)
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS", TV ARACATI 1 SD BR
 https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS", TV ARACATI 2 SD BR
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",AXN HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36991.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",A&E HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36929.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",AMC HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36928.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Sony HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36987.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Sony SD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37007.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Cinemax HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36926.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Fox HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36972.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Fox Life HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36918.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Fox Premium 1 HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36974.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Fox Premium 2 HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36973.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",HBO HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36964.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",HBO 2 HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36966.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",HBO Family HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36965.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",HBO Plus HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36963.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",HBO Signature HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36962.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Max UP HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36911.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Megapix HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36958.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Space HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36944.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Studio Universal HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36904.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Syfy HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36903.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",TBS HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36940.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Telecine Pipoca HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36937.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Telecine Premium HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36936.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Telecine Touch HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36935.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",TNT HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36934.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",TNT Series HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36933.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Universal Channel HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36932.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Warner HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36930.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Max Prime HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36912.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Animal Planet HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36992.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Discovery Channel HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36985.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Discovery H&H BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37115.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",History 2 HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36961.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Investigação Discovery HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36959.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Multishow BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37070.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",TLC HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36902.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Tru TV BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/37032.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="FILMES CARLOS",Woohoo HD BR (Teste)
-http://tv.factoryiptv.com:80/live/12345678/12345678/36899.ts
-
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD - (Italia)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -495,8 +349,9 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="FILMES CARLOS",HBO2 HD - USA
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR (Legendados)
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="FILMES CARLOS",FOX MOVIES SD - USA
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
 
 
 
