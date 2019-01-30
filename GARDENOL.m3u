@@ -19,6 +19,8 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="BBB19",BBB 19 SD (Teste)
 http://apk26.futeboltvgratis.com/live/7/chunks.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="2019",### CANAL ABERTO CARLOS ###
 http://127.0.0.1
 
@@ -269,8 +271,17 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
  #EXTINF:-1 tvg-logo="https://i.imgur.com/BSliq5S.png" group-title="RELIGIOSO CARLOS", TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="RELIGIOSO CARLOS",IURD TV HD (UNIVERSAL)
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="RELIGIOSO CARLOS",IURD TV SD (UNIVERSAL)
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" tvg-id="0" group-title="RELIGIOSO CARLOS",IGREJA MUNDIAL SD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1894074969_b1431072.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="RELIGIOSO CARLOS",TV RESTAURA VIDAS - WEBTV
 http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8?
@@ -374,6 +385,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 3
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="ESPORTES CARLOS", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" group-title="ESPORTES CARLOS",CHELSEA TV - ( Esportes )
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
@@ -424,9 +438,6 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES CARLOS", ESPN BRASIL - SD
 http://apk26.futeboltvgratis.com/live/19/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="ESPORTES CARLOS", SEVILLA TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on
 
 
 
@@ -486,17 +497,19 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL CARLOS", BLOOMBERG TV HD
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="://channelpear.com/images/skyNEWS.jpg" group-title="INTERNACIONAL CARLOS", SKY NEWS HD
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS", SKY NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD - ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" group-title="INTERNACIONAL CARLOS", ALJAZEERA ENGLISH
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",AL JAZEERA ENGLISH HD
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS", ALJAZEERA DOCUMENTARIOS
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="INTERNACIONAL CARLOS", NHK WORLD HD-JP
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
