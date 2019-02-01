@@ -150,7 +150,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zXNHpHV.png" group-title="CANAL ABERTO CARLOS", TV PANTANAL MS
 http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.tv/novo/logos/viamorena.png" group-title="CANAL ABERTO",VIA MORENA SD - CG-MS
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.tv/novo/logos/viamorena.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD - CG-MS
 https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w1290991604.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECT TV
