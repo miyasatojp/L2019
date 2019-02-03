@@ -186,6 +186,10 @@ https://cdn.jmvstream.com/live/hls/lv_2824/LV2824_4v2y74MLaN.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV JAGUAR HD - CE - Variedades
+https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
+
+
 
 
 
@@ -406,9 +410,6 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES CARLOS", ESPN BRASIL - SD
 http://apk26.futeboltvgratis.com/live/19/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="ESPORTES CARLOS",TV JAGUAR HD - Esportes e Noticias
-https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
