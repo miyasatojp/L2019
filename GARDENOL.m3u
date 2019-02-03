@@ -340,6 +340,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg/1200px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg.png" group-title="MUSICA CARLOS", MUZ TV - Musica Russia
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" tvg-id="0" group-title="MUSICA CARLOS",RADIO 105 TV SD (ITALIA)
+http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
+
+
 
 
 
@@ -361,6 +365,9 @@ https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS", TV ARACATI 2 SD BR
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES CARLOS",TV CARIOCA.NET SD (Filmes e Musicas)
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1592693156.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD - (Italia)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -399,6 +406,9 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES CARLOS", ESPN BRASIL - SD
 http://apk26.futeboltvgratis.com/live/19/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="ESPORTES CARLOS",TV JAGUAR HD - Esportes e Noticias
+https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
