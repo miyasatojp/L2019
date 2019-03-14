@@ -22,12 +22,23 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS", SBT Interior HD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="CANAL ABERTO CARLOS",TV CIDADE VERDE HD
+https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", RECORD TV AGUA BOA 1
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", RECORD TV AGUA BOA
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", RECORD TV AGUA BOA 2
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", TV Vitória (Record ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", TV Tropical (Record RN)
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w351386748.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS BR
 http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
@@ -68,14 +79,14 @@ https://evpp.mm.uol.com.br/band/terraviva/chunklist_w46512296.m3u8
 #EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI
 http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="CANAL ABERTO CARLOS",TV CIDADE VERDE HD
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
-
 #EXTINF:-1 tvg-logo="http://portaltcm.com.br/assets/images/logo-tcm-hd.png" group-title="CANAL ABERTO CARLOS",TCM- TV Cabo Mossoró
 http://cw.tcm10.com.br/low/canal10.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/eco-tv-canal-9-santo-andre-sao-bernardo-sao-caetano-do-sul-diadema-maua.png" group-title="CANAL ABERTO CARLOS",Eco TV - Santo André SP
 https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w1637338398.m3u8
+
+
+
 
 
 
@@ -333,6 +344,9 @@ http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" tvg-id="0" group-title="MUSICA CARLOS",RADIO 105 TV SD (ITALIA)
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="MUSICA CARLOS",TV Jovem Pan SP
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w279861462.m3u8
 
 
 
