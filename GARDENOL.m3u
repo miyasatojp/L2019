@@ -390,11 +390,6 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/pu
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES CARLOS", ESPN BRASIL
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
@@ -403,10 +398,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 3
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-RHuX4wa4Poc/Uh9WSXvMmuI/AAAAAAAAANI/3zYe0fJquiA/s256/sevillafc.jpg" group-title="ESPORTES CARLOS", SEVILLA TV
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" group-title="ESPORTES CARLOS",CHELSEA TV - ( Futebol Inglês )
@@ -480,12 +471,6 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="CANAL ABERTO CARLOS",MIAMI TV HD
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://i.imgur.com/oi2akWf.png" group-title="INTERNACIONAL CARLOS",TVI INTERNACIONAL - ( Portugal )
-
-
 
 
 #EXTINF:-1 tvg-logo="http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD - (Portugual)
@@ -671,3 +656,6 @@ https://fso36-1.streamhoster.com/lv_ms_0001/_definst_/aspen-pool/chunklist.m3u8
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Copacabana _ RJ
 http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w2020714243.m3u8
+
+
+
