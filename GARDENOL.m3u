@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="2019",GARDENOL IPTV MARÇO 2019
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="TOP HITS",GARDENOL IPTV MARÇO 2019
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
@@ -668,3 +668,6 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/c
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Aspen Square Hotel - USA
 https://fso36-1.streamhoster.com/lv_ms_0001/_definst_/aspen-pool/chunklist.m3u8
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Copacabana _ RJ
+http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w2020714243.m3u8
