@@ -89,9 +89,8 @@ http://cw.tcm10.com.br/low/canal10.m3u8
 #EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/eco-tv-canal-9-santo-andre-sao-bernardo-sao-caetano-do-sul-diadema-maua.png" group-title="CANAL ABERTO CARLOS",Eco TV - Santo André SP
 https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w1637338398.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA
+http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="CANAL ABERTO CARLOS", CENTRAL TV - CURITIBA
@@ -497,6 +496,10 @@ http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1393580664.m3u8
 
 #EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="INTERNACIONAL CARLOS",HCH TV - Honduras
 http://stream.innovandote.com/hch/hch/chunklist_w1817670130.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL CARLOS",TeleSUR TV - Caracas Venezuela
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="INTERNACIONAL CARLOS", Aragon - Espanha
