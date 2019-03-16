@@ -31,12 +31,8 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", RECORD TV AGUA BOA
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", TV RECORD TV Vitória ES
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", TV RECORD - TV Tropical RN
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w351386748.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS", TV RECORD
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w787767459.m3u8
