@@ -652,11 +652,11 @@ http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w2020714243.m3u8
 http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist_w968253868.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",FM O Dia 100-5 FM
+#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",FM O Dia 100 5 FM
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio 99-5 FM
+#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio 99 5 FM
 https://5a7bcfb834235.streamlock.net/zw981/smil:zw981.smil/chunklist_w573855077_b350000.m3u8
 
 
@@ -668,7 +668,7 @@ http://69.162.122.45:8490/live
 http://64.15.147.220:8046/;
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Super Jovem 103-3 FM
+#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Super Jovem 103 3 FM
 http://radio3.logicahost.com.br:7825/stream.mp3
 
 
@@ -680,7 +680,7 @@ http://162.243.150.35:8068/live
 http://340045b.ha.azioncdn.net/primary/lfmv.sdp/chunklist_914bb25e-b9a0-4d75-a3c6-d68e820c4094.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Studio FM 99-1
+#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Studio FM 99 1
 http://paineldj4.com.br:10234/stream?type=.mp3
 
 
