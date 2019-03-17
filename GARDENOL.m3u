@@ -12,13 +12,6 @@ https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",REDE GLOBO
-https://www.skyiptv.com.br:25463/live/1x0/Palmeiras/17.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
@@ -196,29 +189,6 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" tvg-id="0" group-title="TV A CABO CARLOS",Nat Geo Wild - BR
-https://www.toquemp3.com:25463/live/1x0/Palmeiras/113.m3u8?token=QxBcWRdYGgoRAFUDUlFdWlFRBl0CBFNTXQoNC1oJB1NZBg0NAgMLUgBDHxcXREpcVghtUVcUXlIJARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoEAQYIGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1dJUgkSbFZaAQBXX01dUVpUVFdXRxg3HnkeEU0RVw1ESlhDABACEQdRUA0QFBFbVkBZTEBNGl4SemIRTRFQHERdV0QMXVYRDEYOC0cAERQbXERnQFFLEEJdUV4EQRdeEggbG0dfWUtpBwxWXF1QTFBaWUsQDhpUEhQSXg5dXBBfSmZHDFYaCRRVUg4EDxFF
-
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180810/avl/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment-and-nati-5b6dcc3b88bbb4.4369305215339223635601.jpg" tvg-id="0" group-title="TV A CABO CARLOS",National Geographic - BR
-https://www.toquemp3.com:25463/live/1x0/Palmeiras/112.m3u8?token=QxBcWRdYGgoRVwAHBgBaCQNUVFoLAAAFWwMMVQpYBFRbVgIPAVIAUwRDHxcXREpcVghtUVcUXlIJABQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACQEMCxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVVg0CGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGUQAGCQsaRA==
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" tvg-id="0" group-title="TV A CABO CARLOS",Discovery Turbo - BR
-https://www.toquemp3.com:25463/live/1x0/Palmeiras/109.m3u8?token=QxBcWRdYGgoRVFJWBwRaCAAGCgwGAVFWAFMNA1kKAA8BBQ0OVVYBAgJDHxcXREpcVghtUVcUXlIICxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCAoBDhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVUQ8AGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGUAoHDQMaRA==
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="0" group-title="TV A CABO CARLOS",Investigação Discovery - BR
-https://www.toquemp3.com:25463/live/1x0/Palmeiras/115.m3u8?token=QxBcWRdYGgoRVlANUwANCFIDC14HBQcCDFBbAw5bBQdeAAFaBwcMCAZDHxcXREpcVghtUVcUXlIJBxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCQEACxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVUQoFGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGWwsHDRFF
 
 
 
