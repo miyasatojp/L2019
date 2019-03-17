@@ -10,6 +10,15 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png " tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",REDE GLOBO
+https://www.skyiptv.com.br:25463/live/1x0/Palmeiras/17.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
@@ -195,17 +204,42 @@ https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" tvg-id="0" group-title="TV A CABO CARLOS",Nat Geo Wild - BR
+https://www.toquemp3.com:25463/live/1x0/Palmeiras/113.m3u8?token=QxBcWRdYGgoRAFUDUlFdWlFRBl0CBFNTXQoNC1oJB1NZBg0NAgMLUgBDHxcXREpcVghtUVcUXlIJARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoEAQYIGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1dJUgkSbFZaAQBXX01dUVpUVFdXRxg3HnkeEU0RVw1ESlhDABACEQdRUA0QFBFbVkBZTEBNGl4SemIRTRFQHERdV0QMXVYRDEYOC0cAERQbXERnQFFLEEJdUV4EQRdeEggbG0dfWUtpBwxWXF1QTFBaWUsQDhpUEhQSXg5dXBBfSmZHDFYaCRRVUg4EDxFF
+
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180810/avl/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment-and-nati-5b6dcc3b88bbb4.4369305215339223635601.jpg" tvg-id="0" group-title="TV A CABO CARLOS",National Geographic - BR
+https://www.toquemp3.com:25463/live/1x0/Palmeiras/112.m3u8?token=QxBcWRdYGgoRVwAHBgBaCQNUVFoLAAAFWwMMVQpYBFRbVgIPAVIAUwRDHxcXREpcVghtUVcUXlIJABQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACQEMCxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVVg0CGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGUQAGCQsaRA==
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" tvg-id="0" group-title="TV A CABO CARLOS",Discovery Turbo - BR
+https://www.toquemp3.com:25463/live/1x0/Palmeiras/109.m3u8?token=QxBcWRdYGgoRVFJWBwRaCAAGCgwGAVFWAFMNA1kKAA8BBQ0OVVYBAgJDHxcXREpcVghtUVcUXlIICxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCAoBDhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVUQ8AGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGUAoHDQMaRA==
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-id="0" group-title="TV A CABO CARLOS",Investigação Discovery - BR
+https://www.toquemp3.com:25463/live/1x0/Palmeiras/115.m3u8?token=QxBcWRdYGgoRVlANUwANCFIDC14HBQcCDFBbAw5bBQdeAAFaBwcMCAZDHxcXREpcVghtUVcUXlIJBxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCQEACxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEntWRwBeGGdTCAZbXVVGVlBWVltdUUtEYxZxHUMfFwZZTEtWEVcaCRRVUQoFGh8aWlpCVkZGQUYKGnJhQx8XAUhMXFkWW1ddFF5BVQFNCxoVF15LbUZdF0RKVVIMVkdGChoJFUkQVVJOOwBXXFZWW01cWFZBFgJGABocEQxcWw1EV0toFVtcEQxGWwsHDRFF
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.dlpng.com/static/png/394301_preview.png" group-title="INFANTIL CARLOS",Disney XD HD BR
 https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8?CARLOS
-
 
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://www.logolynx.com/images/logolynx/38/38cc39364bfc53e7579065a0e019b281.jpeg" group-title="INFANTIL CARLOS",Disney Junior HD BR
 https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8?CARLOS
 
+
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="INFANTIL CARLOS",Disney Channel SD BR
 https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8?CARLOS
-
 
 
 #EXTINF:-1 tvg-logo="http://truthpoint.org/monkimage.php?mediaDirectory=mediafiles&mediaId=3927927&fileName=gospel-kids-logo-0-0-526-435.jpg" group-title="INFANTIL CARLOS",GOSPEL CARTOON - DESENHOS CRISTAOS
@@ -259,8 +293,14 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO CARLOS",CANÇÃO NOVA HD
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO CARLOS", TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.fatima.pt/img/upload/maio/2018-05-12_Monograma_2.jpg" group-title="RELIGIOSO CARLOS",TV SANTUÁRIO DE FÁTIMA
+https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
+
+
 
  #EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="RELIGIOSO CARLOS", TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
@@ -338,7 +378,7 @@ https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w279861462.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS", FILMES DO CARLOS SD - BR
+#EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS",FILMES DO CARLOS SD - BR
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR (Legendados)
@@ -367,6 +407,15 @@ http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="FILMES CARLOS",FOX MOVIES SD - USA
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JPJ2WOwSR6I/WvsRTthPd4I/AAAAAAAAASg/hvIV70UEovkJlYo9PYOoqeoTCuiKzyY2gCPcBGAYYCw/s1600/Warner-azul.png" tvg-id="0" group-title="FILMES CARLOS",Warner Channel - BR
+https://www.toquemp3.com:25463/live/1x0/Palmeiras/116.m3u8?token=QxBcWRdYGgoRVwYNBwVcAVFUAgkHBFwAWlZdCw0PDFMIUwdeVAFcVVVDHxcXREpcVghtUVcUXlIJBBQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCQABGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9Gc1dJUgkSbFZaAQBXX01dUVpUVFdXRxg3HnkeEU0RVw1ESlhDABACEQRXVggQFBFbVkBZTEBNGl4SemIRTRFQHERdV0QMXVYRDEYOC0cAERQbXERnQFFLEEJdUV4EQRdeEggbG0dfWUtpBwxWXF1QTFBaWUsQDhpUEhQSXg5dXBBfSmZHDFYaCRRWVwoDGk4=
+
+
+
 
 
 
@@ -464,12 +513,17 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD - (Portugual)
+http://www.agueda.tv:8080/hls/stream.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="CANAL ABERTO CARLOS",MIAMI TV HD
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD - (Portugual)
-http://www.agueda.tv:8080/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",RPC HD canal 13 -1 (Paraguay)
 http://174.138.118.252/live/canal13stream_mid.m3u8
@@ -683,4 +737,52 @@ http://340045b.ha.azioncdn.net/primary/lfmv.sdp/chunklist_914bb25e-b9a0-4d75-a3c
 #EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Studio FM 99 1
 http://paineldj4.com.br:10234/stream?type=.mp3
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap1A-1
+https://luc-transcoder-5.info:8443/cam-01-01/tracks-v1a1/mono.m3u8?token=8d5cfe98c655603d878e0e9c76dafd0ae9df5c11-fb73afc254e25c15fe4468728acf8b6e-1552997930-1552625130
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap1A-2
+https://luc-transcoder-5.info:8443/cam-01-06/tracks-v1a1/mono.m3u8?token=fabfe4ec30a15c13ada4890c3d968c1ec95a02db-07ee5ad5f7a8348cdadb39ceb207f5ea-1552998646-1552625846
+
+
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap3B
+https://e15.voyeur-house.tv/realm19/stream/0e2fac03433c19ba9f10d857600cd190.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e04e60e0d0&p%5B2%5D=&p%5B3%5D=realm19&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552812924&p%5B8%5D=0&p%5B9%5D=vh&s=f7fc1eb965020f6662667615f6d5e868&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2dbd11f9a639bbec3f96b22291f4cd73&timestamp=1552812924695
+
+
+
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap4C
+https://e27.voyeur-house.tv/realm56/stream/be6f58c0d74ede354b2b8837d4f0d198.m3u8?p%5B0%5D=e27.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm56&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552813872&p%5B8%5D=0&p%5B9%5D=vh&s=c4f6a5dddf6eb4094ba24484d90e64a9&v=41432acf8ee3db91f8b9bc59985e5adb&sid=316ffaac90450a0d4ecf9da60052015d&timestamp=1552813872085
+
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap5D
+https://e10.voyeur-house.tv/realm53/stream/faa15a926a279ce78deeb2c767e68565.m3u8?p%5B0%5D=e10.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm53&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552814047&p%5B8%5D=0&p%5B9%5D=vh&s=545052ce1031044a956ad49132068264&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2d9fed6280b0f89fadd3b7496f42f4aa&timestamp=1552814048016
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap6E
+https://e12.voyeur-house.tv/realm3/stream/314f8c4eb47a9f22e97c3e6f4ccd9226.m3u8?p%5B0%5D=e12.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm3&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817506&p%5B8%5D=0&p%5B9%5D=vh&s=8b5727387c2bc68acb5243b3103ad178&v=41432acf8ee3db91f8b9bc59985e5adb&sid=685a07b63ef78903a32adead7d733e08&timestamp=1552817507382
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap7F-1
+https://e13.voyeur-house.tv/realm6/stream/6738e6c6f3526ab7cc2de77fd81c50e7.m3u8?p%5B0%5D=e13.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam12&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817736&p%5B8%5D=0&p%5B9%5D=vh&s=873120008e3f50b5e5b81336ab940e12&v=41432acf8ee3db91f8b9bc59985e5adb&sid=02658fadcf12716f10531c8500f5174f&timestamp=1552817736613
+
+
+
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap7F-2
+https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817885&p%5B8%5D=0&p%5B9%5D=vh&s=b4d06cc88f04b2edd2f1ac720c8f95cd&v=41432acf8ee3db91f8b9bc59985e5adb&sid=fb80471f7e4039f521c4aa67a354fd49&timestamp=1552817884325
 
