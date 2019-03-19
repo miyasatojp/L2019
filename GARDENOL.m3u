@@ -81,8 +81,6 @@ https://evpp.mm.uol.com.br/band/terraviva/chunklist_w46512296.m3u8
 #EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI
 http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
 
-#EXTINF:-1 tvg-logo="http://portaltcm.com.br/assets/images/logo-tcm-hd.png" group-title="CANAL ABERTO CARLOS",TCM TV Cabo Mossoró
-http://cw.tcm10.com.br/low/canal10.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/eco-tv-canal-9-santo-andre-sao-bernardo-sao-caetano-do-sul-diadema-maua.png" group-title="CANAL ABERTO CARLOS",Eco TV Santo André SP
 https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w1637338398.m3u8
@@ -536,8 +534,6 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 FRANCA HD 1
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ANRpSvd.png?1" group-title="INTERNACIONAL CARLOS", FRANÇA 24 HD
-http://vxlive.cdn.antel.net.uy/auth_livesignal_701,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNzAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NTI3NjAyMDAmcmFuZG9tPWxCN2dkZnZyMWkmYy1pcD0xNzcuMjIwLjE3NC43OSw4MzRlNzZiZTZmNzFkNjhiMzkwNWRhODhjMzQ0NTQ0N2ZjZWUwMGE2OTA2MDEzMjYwMDNlOGFiMTE0Yzc5ZjBl/vxfmt=hls/h_d828407a294da675a0e15763eb5ff980/var3000000/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS", SKY NEWS HD Reino Unido
@@ -577,10 +573,10 @@ http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS", Al Hurra Emirados Arabes
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",AL JAZEERA ENGLISH HD
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENGLISH HD
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",AL JAZEERA DOCUMENTARIOS
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOCUMENTARIOS
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL CARLOS", The Weather Channel HD
