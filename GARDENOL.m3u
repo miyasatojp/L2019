@@ -651,6 +651,17 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://wma10.fluidstream.net/HistoryLab/livestream/chunklist_w2130597865.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.dw.com/image/18370817_303.jpg" group-title="INTERNACIONAL CARLOS",Planeta RTR Russia
+https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tv-online.at.ua/1logo/1/43_kanal_v2.png" group-title="INTERNACIONAL CARLOS",43 HD Russia
+http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w794816092.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png" group-title="INTERNACIONAL CARLOS", CANAL 180 HD
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
 
