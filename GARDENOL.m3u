@@ -47,6 +47,11 @@ https://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce8406
 
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV Porto Alegre RS
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO CARLOS", TV GAZETA HD 1
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
@@ -132,9 +137,12 @@ http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura 2
 https://live01.video.globo.com/d/s/futura24ha/futura24ha_2316/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura 3
+http://tv.unisc.br/hls/test.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAL ABERTO CARLOS", TV CAXIAS
@@ -554,6 +562,23 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CX6LPjQCkGA/TcKkyZuTL2I/AAAAAAAAASE/L6BgEXAc1R0/s1600/MNC_TV_MNC-Group.png" group-title="INTERNACIONAL CARLOS",MNC TV Indonesia
+https://cdn-livetv5.metube.id/hls/eplmnctv_480/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rcti-png-4.png" group-title="INTERNACIONAL CARLOS",RCTI TV Indonesia
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INTERNACIONAL CARLOS",BERITA SATU HD Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS", China 8 China
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2000px-DMAX_-_Logo_2016.svg.png" group-title="INTERNACIONAL CARLOS",DMAX Italia
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
@@ -609,10 +634,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg",BADEN TV HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS", China 8 China
-http://ec.sinovision.net/video/ts/lv.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS", Knesset Channel Israel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
@@ -644,6 +665,9 @@ http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+
+
 
 
 
@@ -740,7 +764,4 @@ https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap7G ADULTO
 https://e45.voyeur-house.tv/realm10/stream/77d36fa56a8a72eb8f5ea17ce9e79630.m3u8?p%5B0%5D=e45.voyeur-house.tv&p%5B1%5D=5c900c0491cb7&p%5B2%5D=&p%5B3%5D=realm10&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552944396&p%5B8%5D=0&p%5B9%5D=vh&s=bcfa1c30eec13e83601768610e1c5172&v=41432acf8ee3db91f8b9bc59985e5adb&sid=672d8a848a6b7cfd2b9cf027e1ff4535&timestamp=1552944396664
-
-
-
 
