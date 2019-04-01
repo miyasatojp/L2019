@@ -7,6 +7,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png " tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
@@ -424,11 +425,6 @@ https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMAFAMILY.png" group-title="FILMES CARLOS",Sky Cinema Family HD Italia
 https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E4UK.png" group-title="FILMES CARLOS",E4 Ingraterra
-http://78.157.210.110:8000/play/a011/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men Ingraterra
