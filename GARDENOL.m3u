@@ -517,6 +517,11 @@ http://149.56.98.124:9090/hls/telesol_mid.m3u8?CARLOS
 #EXTINF:-1 tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-03.png" group-title="INTERNACIONAL CARLOS",Telpin Tv Canal 2 HD ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w367888730.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://elpinguino.com/assets/img/image.jpg" group-title="INTERNACIONAL CARLOS",El Pinguino Tv Chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Color_Vision.jpg/revision/latest?cb=20140525142927" group-title="INTERNACIONAL CARLOS",Color Vision Canal 9 Republica Dominicana
 http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1393580664.m3u8
 
@@ -659,6 +664,8 @@ https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.
 http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/BN_Televizija_Logo.svg.png/revision/latest?cb=20180911091938" group-title="INTERNACIONAL CARLOS",BN TV Bosnia e Herzegovina
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png" group-title="INTERNACIONAL CARLOS", CANAL 180 HD
