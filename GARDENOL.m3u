@@ -307,8 +307,6 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1894074969_b1
 #EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="RELIGIOSO CARLOS",TV TERCEIRO ANJO HD
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-bX1OGlr5NlQ/TgVBoH8Gq7I/AAAAAAAADKI/9hltPVTBHsM/s1600/logo_tv.png" tvg-id="0" group-title="RELIGIOSO CARLOS",TV GIDEÕES SD
-http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/chunklist_w1094267954_b796000.m3u8
 
 
 
@@ -317,9 +315,6 @@ http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/chunklist_w1094267
 
 
 
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/djing.png" group-title="MUSICA CARLOS",DIJING HD Musicas
-https://www.djing.com/tv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA CARLOS", NRJ HITS HD BELGICA Musicas
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
@@ -344,9 +339,6 @@ http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" tvg-id="0" group-title="MUSICA CARLOS",RADIO 105 TV SD ITALIA
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="MUSICA CARLOS",TV Jovem Pan SP
-https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w279861462.m3u8
 
 
 
