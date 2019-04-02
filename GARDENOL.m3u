@@ -84,6 +84,7 @@ http://150.161.93.173/hls/720/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="CANAL ABERTO CARLOS",TERRA VIVA
 https://evpp.mm.uol.com.br/band/terraviva/chunklist_w46512296.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI
 http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
 
@@ -95,40 +96,39 @@ https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w1637338398.m3u8
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS", DTTV BR
 http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAL ABERTO CARLOS", REDE TV SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAL ABERTO CARLOS",REDE TV SD
 http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS", REDE TV SP SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS",REDE TV SP SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS", REDE TV SP HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS",REDE TV SP HD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS", REDE BRASIL SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL SD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAL ABERTO CARLOS", AGRO BRASIL SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAL ABERTO CARLOS",AGRO BRASIL SD
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS", CAT TVE BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="CANAL ABERTO CARLOS", TOP TV BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="CANAL ABERTO CARLOS",TOP TV BR
 http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAL ABERTO CARLOS", TV CREATIVE PB
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAL ABERTO CARLOS",TV CREATIVE PB
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS", TV VIANNEY BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",TV VIANNEY BR
 http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="CANAL ABERTO CARLOS", TV Itapetinga SP HD
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="CANAL ABERTO CARLOS",TV Itapetinga SP HD
 http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
 
 
@@ -140,21 +140,21 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 http://tv.unisc.br/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAL ABERTO CARLOS", TV CAXIAS
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAL ABERTO CARLOS",TV CAXIAS
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/aP43yi" group-title="CANAL ABERTO CARLOS", TV ITAPETININGA HD
+#EXTINF:-1 tvg-logo="https://goo.gl/aP43yi" group-title="CANAL ABERTO CARLOS",TV ITAPETININGA HD
 http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?
 
-#EXTINF:-1 tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/logo_tv_horizonte.png" group-title="CANAL ABERTO CARLOS", TV LINHA HORIZONTE HD
+#EXTINF:-1 tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/logo_tv_horizonte.png" group-title="CANAL ABERTO CARLOS",TV LINHA HORIZONTE HD
 http://tv01.logicahost.com.br:1935/linhahorizonte/linhahorizonte/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CS8He7i.png" group-title="CANAL ABERTO CARLOS", TV NOVA PARAIBA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CS8He7i.png" group-title="CANAL ABERTO CARLOS",TV NOVA PARAIBA
 http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
 
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="CANAL ABERTO CARLOS", FonteTV GO
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="CANAL ABERTO CARLOS",FonteTV GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO CARLOS",TV Faap HD
@@ -238,23 +238,23 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="RELIGIOSO CARLOS", TV AD BELEM HD 1 Assembleia de Deus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 1 Assembleia de Deus
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="RELIGIOSO CARLOS", TV AD BELEM HD 2 Assembleia de Deus
+#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 2 Assembleia de Deus
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="http://www.webcactv.com.br/imu/imagens/logo-imu-jm.png" group-title="RELIGIOSO CARLOS", WEB CAC TV IMU JM
+#EXTINF:-1 tvg-logo="http://www.webcactv.com.br/imu/imagens/logo-imu-jm.png" group-title="RELIGIOSO CARLOS",WEB CAC TV IMU JM
 http://wse6.player.tv.br:1935/webcactv/webcactv/live.m3u8?
 
-#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="RELIGIOSO CARLOS", WEB TV IEQ SE Quadrangular
+#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="RELIGIOSO CARLOS",WEB TV IEQ SE Quadrangular
 http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
 
-#EXTINF:-1 tvg-logo="https://www.bordadosrl.com.br/31696-large_default/igreja-pentecostal-do-sobrenatural-de-deus.jpg" group-title="RELIGIOSO CARLOS", SOBRE NATURAL TV
+#EXTINF:-1 tvg-logo="https://www.bordadosrl.com.br/31696-large_default/igreja-pentecostal-do-sobrenatural-de-deus.jpg" group-title="RELIGIOSO CARLOS",SOBRE NATURAL TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?
 
-#EXTINF:-1 tvg-logo="https://www.bordadosrl.com.br/31696-large_default/igreja-pentecostal-do-sobrenatural-de-deus.jpg" group-title="RELIGIOSO CARLOS", SOBRE NATURAL Kids TV
+#EXTINF:-1 tvg-logo="https://www.bordadosrl.com.br/31696-large_default/igreja-pentecostal-do-sobrenatural-de-deus.jpg" group-title="RELIGIOSO CARLOS",SOBRE NATURAL Kids TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?
 
 
@@ -278,7 +278,7 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO CARLOS", TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO CARLOS",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.fatima.pt/img/upload/maio/2018-05-12_Monograma_2.jpg" group-title="RELIGIOSO CARLOS",SANTUÁRIO DE FÁTIMA
@@ -313,25 +313,25 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA CARLOS", NRJ HITS HD BELGICA Musicas
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA CARLOS",NRJ HITS HD BELGICA Musicas
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1588812/10441/v/950/depositphotos_104411862-stock-illustration-vector-logo-music.jpg" group-title="MUSICA CARLOS", TV CLIMA HD Musicas
+#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1588812/10441/v/950/depositphotos_104411862-stock-illustration-vector-logo-music.jpg" group-title="MUSICA CARLOS",TV CLIMA HD Musicas
 http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wIb4ZwM.png" group-title="MUSICA CARLOS", RUTV HD RUSSIA Musicas
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wIb4ZwM.png" group-title="MUSICA CARLOS",RUTV HD RUSSIA Musicas
 https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg?
 
 #EXTINF:-1 tvg-logo="http://www.florai1059.com.br/files/2017/05/conexao-br.jpg" group-title="MUSICA CARLOS",CONEXAO BR NRJ HITS Musicas
 http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/chunklist_w576217643_b1496608.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="MUSICA CARLOS", m2o TV 1 Musicas
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="MUSICA CARLOS",m2o TV 1 Musicas
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="MUSICA CARLOS", m2o TV 2 Musicas
+#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="MUSICA CARLOS",m2o TV 2 Musicas
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg/1200px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg.png" group-title="MUSICA CARLOS", MUZ TV Musica Russia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg/1200px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg.png" group-title="MUSICA CARLOS",MUZ TV Musica Russia
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" tvg-id="0" group-title="MUSICA CARLOS",RADIO 105 TV SD ITALIA
@@ -352,19 +352,19 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR Legendados
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS", TV ARACATI 1 SD BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI 1 SD BR
 https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS", TV ARACATI 2 SD BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI 2 SD BR
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
 
-#EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES CARLOS",TV CARIOCA.NET HD
+#EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES CARLOS",TV CARIOCA.NET HD BR
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w829869851.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="FILMES CARLOS", Rai Premium HD Italia
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="FILMES CARLOS",RAI Premium HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="FILMES CARLOS",RAI 4 HD Italia
@@ -417,6 +417,7 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/pu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7mDYhR.png?1" group-title="ESPORTES CARLOS", ESPORTE INTERATIVO BR HD
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES CARLOS",ALL SPORTS TV BR
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
@@ -453,25 +454,25 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS", ABU DABI SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS", ABU DABI SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS", ABU DABI SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS", ABU DABI SPORT EXTRA HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT EXTRA HD
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS", ABU DABI SPORT HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="ESPORTES CARLOS", AL KASS SPORTS HD Qatar
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="ESPORTES CARLOS",AL KASS SPORTS HD Qatar
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="ESPORTES CARLOS", AUTO MOTO TV Bulgaria
+#EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="ESPORTES CARLOS",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
@@ -582,7 +583,7 @@ http://185.243.139.5:5070/CanalSur1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 FRANCA HD 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 FRANÇA HD 1
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
@@ -591,7 +592,7 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="INTERNACIONAL CARLOS", NHK World HD Japão
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="INTERNACIONAL CARLOS",NHK World HD Japão
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 
@@ -607,7 +608,7 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS", China 8 China
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS",China 8 China
 http://ec.sinovision.net/video/ts/lv.m3u8
 
 
@@ -616,26 +617,26 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS", Canale 7  Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7  Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="INTERNACIONAL CARLOS", TV 538 SD USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="INTERNACIONAL CARLOS",TV 538 SD USA
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
 #EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="INTERNACIONAL CARLOS",TELE BARN HD  USA
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL CARLOS", BLOOMBERG TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL CARLOS",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS", Kanal D Turquia
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS", Al Hurra Emirados Arabes
+#EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS",Al Hurra Emirados Arabes
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENGLISH HD
@@ -645,22 +646,22 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOCUMENTARIOS
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL CARLOS", The Weather Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL CARLOS",The Weather Channel HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="INTERNACIONAL CARLOS", WGN CHICAGO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="INTERNACIONAL CARLOS",WGN CHICAGO HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS", Baden TV HD Alemanha
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",Baden TV HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="INTERNACIONAL CARLOS", Elbekanal HD Alemanha
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="INTERNACIONAL CARLOS",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vpnvergleich.net/wp-files/vpnvergleich.net/2016/01/telebasel-logo.jpg" group-title="INTERNACIONAL CARLOS", Telebasel HD Alemanha
+#EXTINF:-1 tvg-logo="https://www.vpnvergleich.net/wp-files/vpnvergleich.net/2016/01/telebasel-logo.jpg" group-title="INTERNACIONAL CARLOS",Telebasel HD Alemanha
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvo.de/storage/thumbs/r:1370081336/35300.jpg" group-title="INTERNACIONAL CARLOS", TV Oberfranken HD Alemanha
+#EXTINF:-1 tvg-logo="http://www.tvo.de/storage/thumbs/r:1370081336/35300.jpg" group-title="INTERNACIONAL CARLOS",TV Oberfranken HD Alemanha
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://videotron.com/vtrn/images/channels/logos/dw/dw_moyenne.png.pagespeed.ce.nNvbHQV6av.png",DW English HD Alemanha
@@ -670,14 +671,14 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS", Knesset Channel Israel
+#EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS",Knesset Channel Israel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS", Arise News Reino Unido
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS",Arise News Reino Unido
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL CARLOS", Mir 24 HD Russia
+#EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL CARLOS",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181002121121912.png" group-title="INTERNACIONAL CARLOS",History Lab Russia
@@ -696,7 +697,7 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png" group-title="INTERNACIONAL CARLOS", CANAL 180 HD
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png" group-title="INTERNACIONAL CARLOS",CANAL 180 HD
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD USA BR
@@ -777,7 +778,7 @@ http://stmv3.srvstm.com/fmsergipe/fmsergipe/playlist.m3u8?wowzasessionid=1290772
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap1A ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap1A ADULTO
 https://e47.voyeur-house.tv/realm44/stream/142684580454e2e1012b7684e16093d4.m3u8?p%5B0%5D=e47.voyeur-house.tv&p%5B1%5D=5c90e48941ca3&p%5B2%5D=&p%5B3%5D=realm44&p%5B4%5D=cam12&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552999565&p%5B8%5D=0&p%5B9%5D=vh&s=4bb4a87de5a1447e0fc1485eaec418bd&v=41432acf8ee3db91f8b9bc59985e5adb&sid=176daa8894de2b1811c7e1f2f618630d&timestamp=1552999565297
 
 
@@ -785,7 +786,7 @@ https://e47.voyeur-house.tv/realm44/stream/142684580454e2e1012b7684e16093d4.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap2B ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap2B ADULTO
 https://e15.voyeur-house.tv/realm19/stream/0e2fac03433c19ba9f10d857600cd190.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e04e60e0d0&p%5B2%5D=&p%5B3%5D=realm19&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552812924&p%5B8%5D=0&p%5B9%5D=vh&s=f7fc1eb965020f6662667615f6d5e868&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2dbd11f9a639bbec3f96b22291f4cd73&timestamp=1552812924695
 
 
@@ -793,31 +794,31 @@ https://e15.voyeur-house.tv/realm19/stream/0e2fac03433c19ba9f10d857600cd190.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap3C ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap3C ADULTO
 https://e27.voyeur-house.tv/realm56/stream/be6f58c0d74ede354b2b8837d4f0d198.m3u8?p%5B0%5D=e27.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm56&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552813872&p%5B8%5D=0&p%5B9%5D=vh&s=c4f6a5dddf6eb4094ba24484d90e64a9&v=41432acf8ee3db91f8b9bc59985e5adb&sid=316ffaac90450a0d4ecf9da60052015d&timestamp=1552813872085
 
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap4D ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap4D ADULTO
 https://e10.voyeur-house.tv/realm53/stream/faa15a926a279ce78deeb2c767e68565.m3u8?p%5B0%5D=e10.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm53&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552814047&p%5B8%5D=0&p%5B9%5D=vh&s=545052ce1031044a956ad49132068264&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2d9fed6280b0f89fadd3b7496f42f4aa&timestamp=1552814048016
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap5E ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap5E ADULTO
 https://e12.voyeur-house.tv/realm3/stream/314f8c4eb47a9f22e97c3e6f4ccd9226.m3u8?p%5B0%5D=e12.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm3&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817506&p%5B8%5D=0&p%5B9%5D=vh&s=8b5727387c2bc68acb5243b3103ad178&v=41432acf8ee3db91f8b9bc59985e5adb&sid=685a07b63ef78903a32adead7d733e08&timestamp=1552817507382
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap6F-1 ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap6F-1 ADULTO
 https://e13.voyeur-house.tv/realm6/stream/6738e6c6f3526ab7cc2de77fd81c50e7.m3u8?p%5B0%5D=e13.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam12&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817736&p%5B8%5D=0&p%5B9%5D=vh&s=873120008e3f50b5e5b81336ab940e12&v=41432acf8ee3db91f8b9bc59985e5adb&sid=02658fadcf12716f10531c8500f5174f&timestamp=1552817736613
 
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap6F-2 ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap6F-2 ADULTO
 https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817885&p%5B8%5D=0&p%5B9%5D=vh&s=b4d06cc88f04b2edd2f1ac720c8f95cd&v=41432acf8ee3db91f8b9bc59985e5adb&sid=fb80471f7e4039f521c4aa67a354fd49&timestamp=1552817884325
 
 
-#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg", Câmeras Voyeurs ap7G ADULTO
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap7G ADULTO
 https://e45.voyeur-house.tv/realm10/stream/77d36fa56a8a72eb8f5ea17ce9e79630.m3u8?p%5B0%5D=e45.voyeur-house.tv&p%5B1%5D=5c900c0491cb7&p%5B2%5D=&p%5B3%5D=realm10&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552944396&p%5B8%5D=0&p%5B9%5D=vh&s=bcfa1c30eec13e83601768610e1c5172&v=41432acf8ee3db91f8b9bc59985e5adb&sid=672d8a848a6b7cfd2b9cf027e1ff4535&timestamp=1552944396664
 
