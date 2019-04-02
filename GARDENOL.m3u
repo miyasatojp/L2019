@@ -170,10 +170,10 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3
 #EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
 http://186.227.165.118:1935/insatv/livestream/live.m3u8?CARLOS
 
-#EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="CANAL ABERTO CARLOS", TV UNIÃO HD RN
+#EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="CANAL ABERTO CARLOS",TV UNIÃO HD RN
 http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS", TV MAR SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="CANAL ABERTO CARLOS",ALPHA CHANNEL
