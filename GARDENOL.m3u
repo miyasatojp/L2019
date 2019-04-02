@@ -196,6 +196,11 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Mar Maceió AL
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
+
+
+
 
 
 
@@ -635,6 +640,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENGLISH HD
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOCUMENTARIOS
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
