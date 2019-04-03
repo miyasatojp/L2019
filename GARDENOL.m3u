@@ -576,33 +576,44 @@ http://185.243.139.5:5070/Antena3/index.m3u8
 http://185.243.139.5:5070/A3Series/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png" group-title="INTERNACIONAL CARLOS",NOVA Espanha
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png" group-title="INTERNACIONAL CARLOS",NOVA HD Espanha
 http://185.243.139.5:80/Nova/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" group-title="INTERNACIONAL CARLOS",CANAL SUR Espanha
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" group-title="INTERNACIONAL CARLOS",CANAL SUR HD Espanha
 http://185.243.139.5:5070/CanalSur1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 FRANÇA HD 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS", SKY NEWS HD Reino Unido
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGMAXFR.png" group-title="INTERNACIONAL CARLOS",GONG MAX França
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS",SKY NEWS HD Reino Unido
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS",Arise News HD Reino Unido
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="INTERNACIONAL CARLOS",NHK World HD Japão
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="INTERNACIONAL CARLOS",Arirang Koreia do Sul
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="INTERNACIONAL CARLOS",Arirang HD Koreia do Sul
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rcti-png-4.png" group-title="INTERNACIONAL CARLOS",RCTI TV Indonesia
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-rcti-png-4.png" group-title="INTERNACIONAL CARLOS",RCTI TV HD Indonesia
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 
@@ -610,7 +621,7 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS",China 8 China
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS",China 8 HD China
 http://ec.sinovision.net/video/ts/lv.m3u8
 
 
@@ -619,7 +630,7 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7  Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
@@ -647,7 +658,7 @@ https://1828529515.rsc.cdn77.org/b9ONv1OD1KA1xmQ2Gy0U0A==,1554285713/LS-ATL-5454
 https://1828529515.rsc.cdn77.org/kjOAT2FwBh0RfxRC5VYziw==,1554285085/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/220px-CHCH2010.svg.png" group-title="INTERNACIONAL CARLOS",CHCH LIVE USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/220px-CHCH2010.svg.png" group-title="INTERNACIONAL CARLOS",CHCH LIVE HD USA
 https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1683232158_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU1NDI4MDU5NCZpaW1hZTBVQzJhaGFzaD1hdHN2a0FOQm5CQldOUzg5ZTNpNnZDY3h3d1hQaTQyYks0a3FYc2pXdDMwPQ==.m3u8
 
 
@@ -723,9 +734,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u
 #EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS",Knesset Channel HD Israel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS",Arise News HD Reino Unido
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL CARLOS",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -745,13 +753,6 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/BN_Televizija_Logo.svg.png/revision/latest?cb=20180911091938" group-title="INTERNACIONAL CARLOS",BN TV HD Bosnia e Herzegovina
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGMAXFR.png" group-title="INTERNACIONAL CARLOS",GONG MAX França
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 
