@@ -371,11 +371,6 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men Ingraterra
-http://89.163.140.211:9898/movies4men/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="FILMES CARLOS",HBO2 HD USA
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 
@@ -385,9 +380,12 @@ http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="FILMES CARLOS",Syfy TESTE
 http://190.13.120.113/streams/syfy.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men TESTE
+http://89.163.140.211:9898/movies4men/index.m3u8
 
 
 
@@ -489,6 +487,7 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="INTERNACIONAL CARLOS",History TESTE
 http://190.13.120.113/streams/history.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="INTERNACIONAL CARLOS",RTP 1 Portugal
@@ -633,6 +632,37 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL CARLOS",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA
+https://1828529515.rsc.cdn77.org/0UrsZ5TQwNag8gjAGTIrNA==,1554271907/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/220px-CHCH2010.svg.png" group-title="INTERNACIONAL CARLOS",CHCH LIVE USA
+https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1683232158_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU1NDI4MDU5NCZpaW1hZTBVQzJhaGFzaD1hdHN2a0FOQm5CQldOUzg5ZTNpNnZDY3h3d1hQaTQyYks0a3FYc2pXdDMwPQ==.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" group-title="INTERNACIONAL CARLOS",CBS NEWS USA
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",Red Bull TV SD USA
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg",FOX 23 HD USA
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://shade7publishing.com/wp-content/uploads/2016/07/Islam-Channel-Logo.png" group-title="INTERNACIONAL CARLOS",ISLAM CHANNEL SD
+https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="INTERNACIONAL CARLOS",92 NEWS HD PLUS Pakistan
+https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w453533230.m3u8?nimblesessionid=39077943
+
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
@@ -702,15 +732,6 @@ http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD USA BR
 https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
-
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",Red Bull TV SD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
-
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg",FOX 23 HD USA
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
-
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
@@ -821,5 +842,4 @@ https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap7G ADULTO
 https://e45.voyeur-house.tv/realm10/stream/77d36fa56a8a72eb8f5ea17ce9e79630.m3u8?p%5B0%5D=e45.voyeur-house.tv&p%5B1%5D=5c900c0491cb7&p%5B2%5D=&p%5B3%5D=realm10&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552944396&p%5B8%5D=0&p%5B9%5D=vh&s=bcfa1c30eec13e83601768610e1c5172&v=41432acf8ee3db91f8b9bc59985e5adb&sid=672d8a848a6b7cfd2b9cf027e1ff4535&timestamp=1552944396664
-
 
