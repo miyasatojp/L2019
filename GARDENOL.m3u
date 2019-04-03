@@ -626,8 +626,12 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2000px-DMAX_-_Logo_2016.svg.png" group-title="INTERNACIONAL CARLOS",DMAX Alemanha
+http://62.210.81.11/q44/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2000px-DMAX_-_Logo_2016.svg.png" group-title="INTERNACIONAL CARLOS",DMAX Italia
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgCowqFDyJZMd46BpFwetIWeDaIVSSIbY12VXnFhZsI+q90baQfO99keBzDfIflrQgWJlVbjftmrEw%3d%3d
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
@@ -659,7 +663,7 @@ https://1828529515.rsc.cdn77.org/kjOAT2FwBh0RfxRC5VYziw==,1554285085/LS-ATL-5454
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/220px-CHCH2010.svg.png" group-title="INTERNACIONAL CARLOS",CHCH LIVE HD USA
-https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1683232158_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU1NDI4MDU5NCZpaW1hZTBVQzJhaGFzaD1hdHN2a0FOQm5CQldOUzg5ZTNpNnZDY3h3d1hQaTQyYks0a3FYc2pXdDMwPQ==.m3u8
+https://flowcaster1-sh.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w205885983_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU1NDI5OTg1MiZpaW1hZTBVQzJhaGFzaD1YdjJaTnRTbVNuX3BVaVJydEdyN0pYQ3lVUW8wVlR2eWNTZmMzU20xRzd3PQ==.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" group-title="INTERNACIONAL CARLOS",CBS NEWS HD USA
