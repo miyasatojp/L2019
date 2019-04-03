@@ -651,6 +651,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg",FOX 23 HD USA
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL CARLOS",The Weather Channel HD USA
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="INTERNACIONAL CARLOS",WGN CHICAGO HD USA
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
@@ -676,11 +685,6 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOCUMENTARIOS
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL CARLOS",The Weather Channel HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="INTERNACIONAL CARLOS",WGN CHICAGO HD
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",Baden TV HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
