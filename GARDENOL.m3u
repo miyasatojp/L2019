@@ -645,18 +645,6 @@ http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA 480p
-https://1828529515.rsc.cdn77.org/b9ONv1OD1KA1xmQ2Gy0U0A==,1554285713/LS-ATL-54548-9/tracks-v3a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA 1080p
-https://1828529515.rsc.cdn77.org/kjOAT2FwBh0RfxRC5VYziw==,1554285085/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/220px-CHCH2010.svg.png" group-title="INTERNACIONAL CARLOS",CHCH LIVE HD USA
-https://flowcaster1-sh.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w205885983_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU1NDI5OTg1MiZpaW1hZTBVQzJhaGFzaD1YdjJaTnRTbVNuX3BVaVJydEdyN0pYQ3lVUW8wVlR2eWNTZmMzU20xRzd3PQ==.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" group-title="INTERNACIONAL CARLOS",CBS NEWS HD USA
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
 
@@ -682,11 +670,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.
 
 #EXTINF:-1 tvg-logo="https://shade7publishing.com/wp-content/uploads/2016/07/Islam-Channel-Logo.png" group-title="INTERNACIONAL CARLOS",ISLAM CHANNEL SD
 https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="INTERNACIONAL CARLOS",92 NEWS HD PLUS Pakistan
-https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w1317623976.m3u8?nimblesessionid=39148560
-
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
