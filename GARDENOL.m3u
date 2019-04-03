@@ -707,10 +707,6 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2000px-DMAX_-_Logo_2016.svg.png" group-title="INTERNACIONAL CARLOS",DMAX Alemanha
-http://62.210.81.11/q44/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
-
-
 #EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="INTERNACIONAL CARLOS",TELE BARN HD  Alemanha
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?
 
