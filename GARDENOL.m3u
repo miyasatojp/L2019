@@ -632,8 +632,8 @@ http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA 720p
-https://1828529515.rsc.cdn77.org/0UrsZ5TQwNag8gjAGTIrNA==,1554271907/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA 480p
+https://1828529515.rsc.cdn77.org/b9ONv1OD1KA1xmQ2Gy0U0A==,1554285713/LS-ATL-54548-9/tracks-v3a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN Inter. HD USA 1080p
