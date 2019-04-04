@@ -47,12 +47,12 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunkl
 
 
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS BR
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD BR
 https://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b1089536.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV Porto Alegre RS
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV HD Porto Alegre RS
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
 
@@ -64,7 +64,7 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO CARLOS", TV GAZETA HD 2
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS", TV CIDADE OESTE RN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS", TV CIDADE OESTE HD RN
 http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i47.tinypic.com/2j64aw8.jpg" group-title="CANAL ABERTO CARLOS", TV CULTURA DO PARA HD
@@ -89,19 +89,23 @@ http://150.161.93.173/hls/720/index.m3u8
 https://evpp.mm.uol.com.br/band/terraviva/chunklist_w46512296.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI
+#EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI SD
 http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/eco-tv-canal-9-santo-andre-sao-bernardo-sao-caetano-do-sul-diadema-maua.png" group-title="CANAL ABERTO CARLOS",Eco TV Santo André SP
+#EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/eco-tv-canal-9-santo-andre-sao-bernardo-sao-caetano-do-sul-diadema-maua.png" group-title="CANAL ABERTO CARLOS",Eco TV HD Santo André SP
 https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w1637338398.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS", DTTV BR
-http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS", DTTV HD Lavras MG
+http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w795460412.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS", DTTV HD Nepomuceno MG
+http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w354561518.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAL ABERTO CARLOS",REDE TV SD
 http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
@@ -120,13 +124,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="CANAL ABERTO CARLOS",TOP TV BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="CANAL ABERTO CARLOS",TOP TV HD BR
 http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAL ABERTO CARLOS",TV CREATIVE PB
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAL ABERTO CARLOS",TV CREATIVE SD PB
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",TV VIANNEY BR
@@ -145,7 +149,7 @@ http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura HD
 http://tv.unisc.br/hls/test.m3u8
 
 
@@ -171,10 +175,10 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.tv/novo/logos/viamorena.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS
 https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w1290991604.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECT TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
+#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO SD
 http://186.227.165.118:1935/insatv/livestream/live.m3u8?CARLOS
 
 #EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="CANAL ABERTO CARLOS",TV UNIÃO HD RN
@@ -191,20 +195,26 @@ https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="CANAL ABERTO CARLOS",ALPHA CHANNEL HD
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" group-title="CANAL ABERTO CARLOS",CANAL 25 BR
+#EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" group-title="CANAL ABERTO CARLOS",CANAL 25 NET Jundiaí SP SD
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rio.rj.gov.br/igstatic/45/29/48/4529480.png" group-title="CANAL ABERTO CARLOS",MULTI RIO
+
+#EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" group-title="CANAL ABERTO CARLOS",CANAL 25 NET Jundiaí SP HD
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.rio.rj.gov.br/igstatic/45/29/48/4529480.png" group-title="CANAL ABERTO CARLOS",MULTI RIO SD
 http://187.111.97.45:1935/webtv/webtv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="CANAL ABERTO CARLOS",TV CIDADE FARROUPILHA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="CANAL ABERTO CARLOS",TV CIDADE HD NET FARROUPILHA
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV JAGUAR HD CE Variedades
+#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV JAGUAR HD Vale do Jaguaribe CE
 https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
@@ -405,12 +415,9 @@ http://89.163.140.211:9898/movies4men/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="ESPORTES CARLOS",SPORT TV 1 HD PT TESTE
-http://185-8-178-138.livesports24.online/ptsporttv1.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD PT TESTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE
 http://185-125-230-172.livesports24.online/portugalsport2.m3u8
 
 
@@ -438,8 +445,6 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="ESPORTES CARLOS",MUTV Manchester United
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESPORTS.png" group-title="ESPORTES CARLOS",MOVISTAR ESPORTS Espanha
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://booking.dubaisportsworld.ae/assets/sportsworld/logo.png" group-title="ESPORTES CARLOS",DUBAI SPORTS HD Emirados Árabes Unidos
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
