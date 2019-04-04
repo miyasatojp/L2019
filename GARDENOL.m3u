@@ -690,6 +690,40 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://pakistani.pk/uploads/reviews/photos/original/3b/62/6c/Samaa20News20Live20Logo-62-1476736147.jpg" group-title="INTERNACIONAL CARLOS",SAMAA NEWS Pakistan TESTE
+http://stream.tapmad.com:1935/pitvlive/samaanews3.stream/chunklist_w775282022.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.priceblaze.pk/static/images/infotainment/TV%20One%20Global.jpg" group-title="INTERNACIONAL CARLOS",TV One Pakistan TESTE
+http://stream.tapmad.com:1935/pitvlive/tvone3.stream/chunklist_w973353611.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/profile/1adec7336d9b0d92194be774a9105395.png" group-title="INTERNACIONAL CARLOS",Play Entertainment Pakistan TESTE
+http://stream.tapmad.com:1935/pitvlive/playmax3.stream/chunklist_w344189902.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2015/05/logo1.png" group-title="INTERNACIONAL CARLOS",Express Pakistan TESTE
+http://stream.tapmad.com:1935/pitvlive/express3.stream/chunklist_w2028935765.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",Aaj Tak Live India TESTE
+https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",SAFARI India TESTE
+https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kantipur_TV_new_logo.png/200px-Kantipur_TV_new_logo.png" group-title="INTERNACIONAL CARLOS",KANTIPUR KTV Nepal TESTE
+http://159.89.174.163:8081/ktvhdedgeusa1/edgeusacdnlive1/chunks.m3u8?nimblesessionid=1368446
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="INTERNACIONAL CARLOS",TELE BARN HD  Alemanha
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?
 
@@ -733,6 +767,9 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/BN_Televizija_Logo.svg.png/revision/latest?cb=20180911091938" group-title="INTERNACIONAL CARLOS",BN TV HD Bosnia e Herzegovina
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
+
+
+
 
 
 
