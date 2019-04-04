@@ -692,6 +692,8 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://pakistani.pk/uploads/reviews/photos/original/3b/62/6c/Samaa20News20Live20Logo-62-1476736147.jpg" group-title="INTERNACIONAL CARLOS",SAMAA NEWS Pakistan TESTE
 http://stream.tapmad.com:1935/pitvlive/samaanews3.stream/chunklist_w775282022.m3u8
 
@@ -712,12 +714,13 @@ http://stream.tapmad.com:1935/pitvlive/express3.stream/chunklist_w2028935765.m3u
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",SAFARI India TESTE
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925872549s.png" group-title="INTERNACIONAL CARLOS",SAFARI India TESTE
 https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kantipur_TV_new_logo.png/200px-Kantipur_TV_new_logo.png" group-title="INTERNACIONAL CARLOS",KANTIPUR KTV Nepal TESTE
 http://159.89.174.163:8081/ktvhdedgeusa1/edgeusacdnlive1/chunks.m3u8?nimblesessionid=1368446
+
 
 
 
