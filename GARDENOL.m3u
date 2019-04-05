@@ -450,29 +450,29 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD 
+#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD 
+#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 3 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 3 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 3 Emirados Árabes Unidos
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT EXTRA HD
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",Abu Dhabi Sports EXTRA HD Emirados Árabes Unidos
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
 
