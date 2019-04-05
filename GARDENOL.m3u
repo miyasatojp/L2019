@@ -449,14 +449,22 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://booking.dubaisportsworld.ae/assets/sportsworld/logo.png" group-title="ESPORTES CARLOS",DUBAI SPORTS HD Emirados Árabes Unidos
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
@@ -467,8 +475,6 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT EXTRA HD
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",ABU DABI SPORT HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="ESPORTES CARLOS",AL KASS SPORTS HD Qatar
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
