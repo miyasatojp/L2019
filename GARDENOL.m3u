@@ -8,7 +8,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png " tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND SD
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
@@ -728,10 +728,6 @@ http://stream.tapmad.com:1935/pitvlive/express3.stream/chunklist_w2028935765.m3u
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",Aaj Tak Live India TESTE
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kantipur_TV_new_logo.png/200px-Kantipur_TV_new_logo.png" group-title="INTERNACIONAL CARLOS",KANTIPUR KTV Nepal TESTE
-http://159.89.174.163:8081/ktvhdedgeusa1/edgeusacdnlive1/chunks.m3u8?nimblesessionid=1368446
 
 
 
