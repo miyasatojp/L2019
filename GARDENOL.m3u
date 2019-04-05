@@ -672,6 +672,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="INTERNACIONAL CARLOS",TVW Cable Channel HD Washington USA
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
+
+
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
@@ -696,6 +700,10 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 #EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS",Knesset Channel HD Israel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.agencysar.org/wp-content/uploads/2017/05/%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A7%D9%88%D8%B1%D9%8A%D9%86%D8%AA-1.png" group-title="INTERNACIONAL CARLOS",Orient News HD Syrian
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 
 
