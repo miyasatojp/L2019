@@ -687,8 +687,14 @@ https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS",Al Hurra HD Emirados Arabes
+#EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS",Al Hurra HD Emirados Árabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="INTERNACIONAL CARLOS",DUBAI TV HD Emirados Árabes Unidos
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENG HD Qatar
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
@@ -696,11 +702,6 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOC SD Qatar
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="INTERNACIONAL CARLOS",DUBAI TV HD Emirados Árabes Unidos
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="INTERNACIONAL CARLOS",Knesset Channel HD Israel
