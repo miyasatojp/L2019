@@ -604,8 +604,14 @@ http://185.243.139.5:5070/A3Series/index.m3u8
 http://185.243.139.5:80/Nova/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" group-title="INTERNACIONAL CARLOS",CANAL SUR HD Espanha
-http://185.243.139.5:5070/CanalSur1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/extremaduratv.png" group-title="INTERNACIONAL CARLOS",CANAL EXTREMADURA SAT Espanha
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="INTERNACIONAL CARLOS",Televisió de Catalunya TV3 Barcelona Espanha
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
+
 
 
 
