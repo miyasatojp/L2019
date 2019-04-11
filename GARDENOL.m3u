@@ -8,6 +8,10 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
+https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
 http://live.tcm10.com.br/tcm10.m3u8
 
@@ -16,12 +20,8 @@ http://live.tcm10.com.br/tcm10.m3u8
 http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND TESTE
-https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w983284434.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
@@ -494,8 +494,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
-https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="INTERNACIONAL CARLOS",RTP 1 Portugal
