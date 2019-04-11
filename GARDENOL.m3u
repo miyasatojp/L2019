@@ -8,7 +8,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND SD TESTE
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND TESTE
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
@@ -117,8 +117,10 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS",REDE TV SP HD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL SD
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL HD
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1865596030_b1096000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAL ABERTO CARLOS",AGRO BRASIL SD
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -180,10 +182,6 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3
 #EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
 https://5c5f323a5b8a8.streamlock.net:9443/tvriopreto322000001/tvriopreto1652206035/chunklist_w337059987.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="CANAL ABERTO CARLOS",TV UNIÃO HD RN
-https://57be005b6e062.streamlock.net/locamega/_definst_/locamega/chunklist_w414287994.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
@@ -197,12 +195,7 @@ https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" group-title="CANAL ABERTO CARLOS",CANAL 25 NET Jundiaí SP SD
-http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" group-title="CANAL ABERTO CARLOS",CANAL 25 NET Jundiaí SP HD
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://www.rio.rj.gov.br/igstatic/45/29/48/4529480.png" group-title="CANAL ABERTO CARLOS",MULTI RIO SD
@@ -402,8 +395,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men USA TESTE
-http://89.163.140.211:9898/movies4men/index.m3u8
 
 
 
@@ -416,19 +407,6 @@ http://89.163.140.211:9898/movies4men/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 1
-https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=uyY32CaQCmk9Zmw5x4O6zg&e=1554986631
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 2
-https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=BB7lqeYBqgkSjHbzZjpKjQ&e=1554986770
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 3
-https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=7Ug9F5Sucem5WQEVEvaiTg&e=1554986876
 
 
 
@@ -905,5 +883,4 @@ https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap7G ADULTO
 https://e45.voyeur-house.tv/realm10/stream/77d36fa56a8a72eb8f5ea17ce9e79630.m3u8?p%5B0%5D=e45.voyeur-house.tv&p%5B1%5D=5c900c0491cb7&p%5B2%5D=&p%5B3%5D=realm10&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552944396&p%5B8%5D=0&p%5B9%5D=vh&s=bcfa1c30eec13e83601768610e1c5172&v=41432acf8ee3db91f8b9bc59985e5adb&sid=672d8a848a6b7cfd2b9cf027e1ff4535&timestamp=1552944396664
-
 
