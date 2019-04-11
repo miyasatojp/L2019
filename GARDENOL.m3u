@@ -8,7 +8,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND SD TESTE
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
@@ -150,8 +150,7 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura HD
-http://tv.unisc.br/hls/test.m3u8
-
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAL ABERTO CARLOS",TV CAXIAS
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?
@@ -178,11 +177,13 @@ https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w1290991604.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO SD
-http://186.227.165.118:1935/insatv/livestream/live.m3u8?CARLOS
+#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
+https://5c5f323a5b8a8.streamlock.net:9443/tvriopreto322000001/tvriopreto1652206035/chunklist_w337059987.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="CANAL ABERTO CARLOS",TV UNIÃO HD RN
-http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8?
+https://57be005b6e062.streamlock.net/locamega/_definst_/locamega/chunklist_w414287994.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
@@ -401,7 +402,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" group-title="FILMES CARLOS",Movies4men USA TESTE
 http://89.163.140.211:9898/movies4men/index.m3u8
 
 
@@ -417,8 +418,20 @@ http://89.163.140.211:9898/movies4men/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal
-http://185-125-230-172.livesports24.online/portugalsport2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 1
+https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=uyY32CaQCmk9Zmw5x4O6zg&e=1554986631
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 2
+https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=BB7lqeYBqgkSjHbzZjpKjQ&e=1554986770
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="ESPORTES CARLOS",SPORT TV 2 HD Portugal TESTE 3
+https://ul.cdn574.net:8443/hls/2dbrbt50ibw21jq.m3u8?s=7Ug9F5Sucem5WQEVEvaiTg&e=1554986876
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES CARLOS",ALL SPORTS TV BR
@@ -617,7 +630,8 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="INTERNACIONAL CARLOS",NHK World HD Japão
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="INTERNACIONAL CARLOS",Arirang HD Koreia do Sul
@@ -713,16 +727,22 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pakistani.pk/uploads/reviews/photos/original/3b/62/6c/Samaa20News20Live20Logo-62-1476736147.jpg" group-title="INTERNACIONAL CARLOS",SAMAA NEWS Pakistan
-http://stream.tapmad.com:1935/pitvlive/samaanews3.stream/chunklist_w775282022.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="INTERNACIONAL CARLOS",92 NEWS HD Plus Pakistan TESTE
+https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w793786630.m3u8?nimblesessionid=45632901
 
 
-#EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/profile/1adec7336d9b0d92194be774a9105395.png" group-title="INTERNACIONAL CARLOS",Play Entertainment Pakistan
-http://stream.tapmad.com:1935/pitvlive/playmax3.stream/chunklist_w344189902.m3u8
+
+#EXTINF:-1 tvg-logo="https://stoppress.co.nz/media/VERSIONS/galleries/oldprimelogo_gallery_normal.jpg" group-title="INTERNACIONAL CARLOS",PRIME TV Pakistan TESTE
+http://wowza001.viewtvgroup.com:81/kapang-primetventertainment/ngrp:myStream_all/chunklist_w1184843891_b692000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2015/05/logo1.png" group-title="INTERNACIONAL CARLOS",Express Pakistan
-http://stream.tapmad.com:1935/pitvlive/express3.stream/chunklist_w2028935765.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan TESTE
+http://45.77.90.56:8080/hls/mystream.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",Aaj Tak Live India
