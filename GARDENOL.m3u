@@ -20,24 +20,8 @@ http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND TESTE
 https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w983284434.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-faGZH7xjtZg/U3QSRVpdUcI/AAAAAAABRGw/gtSbJnSq74g/s1600/band+news+logo.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND NEWS HD TESTE
-https://ori4.azureedge.net//hls1/bandnews.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-ED677327D2-seeklogo.com.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",REDE GLOBO HD TESTE
-https://ori3.azureedge.net//hls1/bobosp.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://noticiagora.com.br/wp-content/uploads/2018/12/bbb19-logo.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BBB19 HD TESTE
-https://ori4.azureedge.net//hls1/bbb19.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
@@ -385,10 +369,6 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-id="0" tvg-logo="https://www.phdmedia.com/belgium/wp-content/uploads/sites/50/2015/05/fox-tv-logo-300x300.jpg" group-title="FILMES CARLOS",FOX BR TESTE
-https://ori3.azureedge.net//hls1/fox.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR Legendados
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 
@@ -435,8 +415,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1.png" group-title="ESPORTES CARLOS",SporTV TESTE
-https://ori3.azureedge.net//hls1/sportv1.m3u8
 
 
 
