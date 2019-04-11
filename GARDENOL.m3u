@@ -8,8 +8,35 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND TESTE
-https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
+http://live.tcm10.com.br/tcm10.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.qwerty.com.br/wp-content/uploads/2016/03/qwerty_noticias_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
+http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD
+https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND TESTE
+https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w983284434.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-faGZH7xjtZg/U3QSRVpdUcI/AAAAAAABRGw/gtSbJnSq74g/s1600/band+news+logo.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BAND NEWS HD TESTE
+https://ori4.azureedge.net//hls1/bandnews.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-ED677327D2-seeklogo.com.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",REDE GLOBO HD TESTE
+https://ori3.azureedge.net//hls1/bobosp.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://noticiagora.com.br/wp-content/uploads/2018/12/bbb19-logo.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",BBB19 HD TESTE
+https://ori4.azureedge.net//hls1/bbb19.m3u8
+
+
 
 
 
@@ -134,9 +161,6 @@ http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAL ABERTO CARLOS",TV CREATIVE SD PB
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XzgB5z.png" group-title="CANAL ABERTO CARLOS",TV VIANNEY BR
-http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="CANAL ABERTO CARLOS",TV ITAPETININGA SP HD 1
@@ -360,6 +384,11 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS",FILMES DO CARLOS SD BR
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://www.phdmedia.com/belgium/wp-content/uploads/sites/50/2015/05/fox-tv-logo-300x300.jpg" group-title="FILMES CARLOS",FOX BR TESTE
+https://ori3.azureedge.net//hls1/fox.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV-BR Legendados
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 
@@ -406,7 +435,8 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1.png" group-title="ESPORTES CARLOS",SporTV TESTE
+https://ori3.azureedge.net//hls1/sportv1.m3u8
 
 
 
@@ -523,12 +553,6 @@ http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" tvg-id="0" group-title="INTERNACIONAL CARLOS",TVM Moçambique PT
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w557859220_b714000_slpor.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",RPC HD canal 13 1 Paraguay
-http://174.138.118.252/live/canal13stream_mid.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",RPC HD canal 13 2 Paraguay
-http://174.138.118.252/live/canal13stream_src.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.homemdeaco.xpg.com.br/superhqs//tv/canais/canais-de-tv/canal-26-hd-argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
