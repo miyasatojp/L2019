@@ -220,6 +220,18 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",NOVA ERA TV HD Lages SC
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title="CANAL ABERTO CARLOS",Tv Ambiental Ilha de Santa Maria Vitória ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
+
+
+#EXTINF:-72 tvg-name="TV V" tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="CANAL ABERTO CARLOS",TV V
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+
+
 
 
 
@@ -380,6 +392,11 @@ http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
 
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES CARLOS",TV CARIOCA.NET HD BR
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w829869851.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="FILMES CARLOS",Cine Sky SD BR
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/plalisty.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -553,9 +570,20 @@ http://stream.innovandote.com/hch/hch/chunklist_w1817670130.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://milhojas.is/wp-content/uploads/TC.jpg" group-title="INTERNACIONAL CARLOS",TC HD Equador
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="INTERNACIONAL CARLOS",History Espanha TESTE
 http://190.13.120.113/streams/history.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JO-TfUf-D0g/TaG_Bba0RKI/AAAAAAAAABo/41awCVfxexk/s1600/logo_cuatro.jpg" group-title="INTERNACIONAL CARLOS",TV Cuatro Espanha
+https://5a3911d64928b.streamlock.net/tv43/videotv43/chunklist_w1042330496_DVR.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/15946/logo_lancelot%20tv2.png" group-title="INTERNACIONAL CARLOS",TV Lancelot Espanha
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg" group-title="INTERNACIONAL CARLOS",ETB Sat Espanha
@@ -591,6 +619,8 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66YTjXy.jpg" group-title="INTERNACIONAL CARLOS",Milenio TV HD Mexico
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
