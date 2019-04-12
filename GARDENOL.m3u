@@ -228,7 +228,7 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 
 
-#EXTINF:-72 tvg-name="TV V" tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="CANAL ABERTO CARLOS",TV V
+#EXTINF:-1 tvg-name="TV V" tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="CANAL ABERTO CARLOS",TV V
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 
@@ -392,10 +392,6 @@ http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
 
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES CARLOS",TV CARIOCA.NET HD BR
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w829869851.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="FILMES CARLOS",Cine Sky SD BR
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/plalisty.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD Italia
