@@ -554,7 +554,7 @@ http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w557859220_b714000_slpor.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.homemdeaco.xpg.com.br/superhqs//tv/canais/canais-de-tv/canal-26-hd-argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
