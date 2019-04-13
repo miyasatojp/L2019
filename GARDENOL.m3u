@@ -5,7 +5,7 @@
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="VARIEDADES",OBRIGADO PELA COLABORAÇÃO
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="VARIEDADES",OBRIGADO POR COLABORAR
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
 
 
@@ -235,6 +235,12 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title="CANAL ABERTO CARLOS",TV AMBIENTAL Ilha de Santa Maria Vitória ES
 https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://legobr.files.wordpress.com/2010/12/logo-blog.png?w=468" group-title="CANAL ABERTO CARLOS",ALL TV São Paulo SP
+https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
+
+
 
 
 
