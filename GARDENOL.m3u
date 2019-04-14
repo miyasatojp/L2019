@@ -1,17 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="VARIEDADES",GARDENOL ABRIL 2019
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK C/ CANAIS",GARDENOL ABRIL 2019
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="VARIEDADES",OBRIGADO EM AJUDAR
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK C/ CANAIS",OBRIGADO EM AJUDAR
 https://livebr2.evoplay.com.br/hls/live/gvt-yeeah.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="VARIEDADES",FAÇA UMA DOAÇÃO NO BLOG
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK C/ CANAIS",FAÇA UMA DOAÇÃO NO BLOG
 https://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK C/ CANAIS",gardenoliptv.blogspot.com
+https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w54373211.m3u8
+
 
 
 
