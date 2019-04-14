@@ -62,8 +62,8 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunkl
 
 
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD BR
-https://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b1089536.m3u8
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD
+https://bussinesssoucerlive.global.ssl.fastly.net//hls1/recordnews.m3u8
 
 
 
