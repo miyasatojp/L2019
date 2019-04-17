@@ -655,6 +655,10 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/590px-13_TV.svg.png" group-title="INTERNACIONAL CARLOS",13 TV Espanha
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66YTjXy.jpg" group-title="INTERNACIONAL CARLOS",Milenio TV HD Mexico
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
