@@ -44,6 +44,11 @@ http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",LIVRE TV Parnamirim RN
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
