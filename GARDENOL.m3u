@@ -119,10 +119,20 @@ http://150.161.93.173:80/hls/720/index.m3u8?
 http://150.161.93.173/hls/720/index.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="CANAL ABERTO CARLOS",TERRA VIVA
 https://evpp.mm.uol.com.br/band/terraviva/chunklist_w46512296.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAL ABERTO CARLOS",AGRO BRASIL SD
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAL ABERTO CARLOS",CANAL DO BOI
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL_480/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sba1.com/img/canais/ac.png" group-title="CANAL ABERTO CARLOS",AGRO CANAL
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thathi.com.br/wp-content/uploads/2018/08/grupo-thathi.png" group-title="CANAL ABERTO CARLOS",TV THATHI SD
@@ -155,11 +165,6 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL HD
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1865596030_b1096000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="CANAL ABERTO CARLOS",AGRO BRASIL SD
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
