@@ -167,6 +167,11 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1865596030_b1096000.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL SD 2
+https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097282750.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 
@@ -217,7 +222,8 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.tv/novo/logos/viamorena.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS
-https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w1290991604.m3u8
+https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
