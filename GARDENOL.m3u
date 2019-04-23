@@ -637,10 +637,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INTERNACIONAL CARLOS",BERITA SATU HD Indonesia
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png" group-title="INTERNACIONAL CARLOS",China 8 HD China
 http://ec.sinovision.net/video/ts/lv.m3u8
 
@@ -725,11 +721,11 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://stoppress.co.nz/media/VERSIONS/galleries/oldprimelogo_gallery_normal.jpg" group-title="INTERNACIONAL CARLOS",PRIME TV Pakistan TESTE
+#EXTINF:-1 tvg-logo="https://stoppress.co.nz/media/VERSIONS/galleries/oldprimelogo_gallery_normal.jpg" group-title="INTERNACIONAL CARLOS",PRIME TV Pakistan
 http://wowza001.viewtvgroup.com:81/kapang-primetventertainment/ngrp:myStream_all/chunklist_w1184843891_b692000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan TESTE
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan
 http://45.77.90.56:8080/hls/mystream.m3u8
 
 
