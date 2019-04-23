@@ -9,19 +9,16 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 https://livebr2.evoplay.com.br/hls/live/gvt-yeeah.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",FAÇA UMA DOAÇÃO NO BLOG
-https://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-
+https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/chunklist_w864098735.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",gardenoliptv.blogspot.com
-https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w54373211.m3u8
-
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/chunklist_w1444776276.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",DEUS ABENÇOE VOCÊ!
-https://cdn.jmvstream.com/live/hls/lv_6820/LV6820_32yJNqgKKB.m3u8
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w1968350533.m3u8
 
 
 
@@ -293,6 +290,7 @@ http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.bordadosrl.com.br/31696-large_default/igreja-pentecostal-do-sobrenatural-de-deus.jpg" group-title="RELIGIOSO CARLOS",SOBRE NATURAL TV HD
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?
+
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/solomnikov/solomnikov1611/solomnikov161100064/65715336-church-logo-christian-symbols-the-cross-of-jesus-the-fire-of-the-holy-spirit-and-the-dove-.jpg" group-title="RELIGIOSO CARLOS",TV BOA ESPERANÇA HD
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
@@ -603,6 +601,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1280px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="INTERNACIONAL CARLOS",TÉBÉO TV HD França
+https://live2.awedia.com/hls/tebeo_hi.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
@@ -645,10 +647,6 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="INTERNACIONAL CARLOS",TV 538 SD Holanda
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD USA
@@ -696,6 +694,12 @@ https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/TRT_Belgesel_kurumsal_logo.png" group-title="INTERNACIONAL CARLOS",TRT Belgesel HD Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1550p_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS",Al Hurra HD Emirados Árabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -772,6 +776,10 @@ https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.
 
 #EXTINF:-1 tvg-logo="http://tv-online.at.ua/1logo/1/43_kanal_v2.png" group-title="INTERNACIONAL CARLOS",43 HD Russia
 http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD Russia
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/BN_Televizija_Logo.svg.png/revision/latest?cb=20180911091938" group-title="INTERNACIONAL CARLOS",BN TV HD Bosnia e Herzegovina
