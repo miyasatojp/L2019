@@ -544,20 +544,6 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 1 Espanha
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/cultura-01.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 2 Espanha
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/deportes-02.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 3 Espanha
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/15946/logo_lancelot%20tv2.png" group-title="INTERNACIONAL CARLOS",TV Lancelot Espanha
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
@@ -588,6 +574,18 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66YTjXy.jpg" group-title="INTERNACIONAL CARLOS",Milenio TV HD Mexico
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4.1 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/cultura-01.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4.2 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/deportes-02.png" group-title="INTERNACIONAL CARLOS",TV Cuatro 4.3 Guanajuato Mexico
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
