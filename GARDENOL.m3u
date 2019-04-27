@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",GARDENOL ABRIL 2019
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",GARDENOL MAIO 2019
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
@@ -22,6 +22,10 @@ https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w1968350533.
 
 
 
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="http://www.relax.cz/img/logo-relax.png",NATURE TV PURE RELAX HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/HS7ulzLL034.306/itag/0/playlist_type/DVR/ei/he3DXP-VI8SGwQTc0a6IBA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556365798/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/437849042D6893C823F5E3B9A0F96E6684654566.37AF9BFF996A289F136DE647EE2B308032EF4B89/key/yt8/file/index.m3u8
 
 
 
@@ -80,8 +84,19 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunkl
 
 
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD
-https://bussinesssoucerlive.global.ssl.fastly.net//hls1/recordnews.m3u8
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/f836POhdAzU.1/itag/0/playlist_type/DVR/ei/69bDXPi4N43GxwSvhYzYDA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556360012/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/6AE1B7CEB8D19049809BB46C4540E0BE04697F62.EA00F0FC6B6C5CEB69A8DCC755DE46B297D33222/key/yt8/file/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ec2-54-208-12-29.compute-1.amazonaws.com/wp-content/uploads/img/parceiros-0001.png" group-title="CANAL ABERTO CARLOS",TV HORIZONTE HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/ZSIUjKLngCg.0/itag/0/playlist_type/DVR/ei/UfrDXIXbA5XIwwTFjbngAw/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556369073/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cgo/signature/6B691980A097CB70D484EDD8E58AF05FD9455336.0F4F20FB9FA54C202DA8E9EE84EF9A42D437B524/key/yt8/file/index.m3u8
+
+
+
+
+
 
 
 
@@ -259,6 +274,43 @@ https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 #EXTINF:-1 tvg-logo="https://legobr.files.wordpress.com/2010/12/logo-blog.png?w=468" group-title="CANAL ABERTO CARLOS",ALL TV São Paulo SP
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",ChuChuTV Brazil Live Stream HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/BEvdDh0ZnIQ.0/itag/0/playlist_type/DVR/ei/0t_DXNGfKYfqxgSXobywCQ/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556362291/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/1E1FC52683979F5C119951A88085A2256F123F1B.397951BCA100FEAA1E41FC50B4B7B59C03E7EC72/key/yt8/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Talking Tom and Friends Minis HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/HVK1ehgomvA.173/itag/0/playlist_type/DVR/ei/d-TDXJXdO8LGwgTC6IHIBw/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556363480/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/42734CDBDA276EBBE10E157E17C7AB60F351B3FC.81419FF82013598FD1A577F9641EDAD2C50D62FB/key/yt8/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Peppa Pig Português Brasil HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/qFeyCipxdxY.1/itag/0/playlist_type/DVR/ei/6-XDXOOSD8rCwwSb1o-QCA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556363851/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/87472425148B844507B43D963722277443774D63.E10DBEE7F9BDA562757F936AAC8199993FAA3595/key/yt8/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Booba Tv HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/QougB4t6TWU.0/itag/0/playlist_type/DVR/ei/f-fDXPNXy-DBBMG3s4AK/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556364255/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/EAF55F6C8BD81411A3240A0AD441E2315D805D27.C70B64C565EE6BC31B6D2ECE2283E68885EB22C6/key/yt8/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Mr Bean Official HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/zS4C3yUzIK4.1/itag/0/playlist_type/DVR/ei/YunDXKW4GMbWwQS6z4PoCg/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556364738/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/A67854B42E6B2160D13100264E74F47934BC6BAA.A6EC4E9BA9200B1E4CA1CBF08E379FDBF3D26358/key/yt8/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",TOM & JERRY HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/9KZKJpOPo_E.1/itag/0/playlist_type/DVR/ei/K_TDXPuPNorewgS0iJaoAg/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556367500/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/6463A256B3ADDC6ADB83500A598A5EF3A2C947A2.9563CED64E3DB5298C2C854E4A5C4315386F28F5/key/yt8/file/index.m3u8
 
 
 
@@ -596,6 +648,10 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 https://live2.awedia.com/hls/tebeo_hi.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.playlivesnews.com/wp-content/uploads/2010/08/FRANCE24LIVE.png" group-title="INTERNACIONAL CARLOS",FRANCE 24 Live HD TESTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/O8yyiEfHIRA.0/itag/0/playlist_type/DVR/ei/FNrDXIH7IcfgwQT31ruIDw/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556360821/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cgo/signature/CA0DBAF5795F2AA3613117F9BD20D94E061ED028.D5A790B4FF73BBFEA5027749427E75E6C534ADD7/key/yt8/file/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
@@ -640,7 +696,7 @@ https://live.cgtn.com/1000d/prog_index.m3u8
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD USA
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
