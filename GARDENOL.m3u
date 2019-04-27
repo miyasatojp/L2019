@@ -48,22 +48,12 @@ https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 1
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAL ABERTO CARLOS",SBT HD 2
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" group-title="CANAL ABERTO CARLOS",SBT HD 3
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior HD Araçatuba SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="CANAL ABERTO CARLOS",TV CIDADE VERDE HD Teresina PI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="CANAL ABERTO CARLOS",SBT TV CIDADE VERDE HD Teresina PI
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV AGUA BOA SD MT
