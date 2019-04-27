@@ -24,8 +24,6 @@ https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w1968350533.
 
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="http://www.relax.cz/img/logo-relax.png",NATURE TV PURE RELAX HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/HS7ulzLL034.306/itag/0/playlist_type/DVR/ei/he3DXP-VI8SGwQTc0a6IBA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556365798/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/437849042D6893C823F5E3B9A0F96E6684654566.37AF9BFF996A289F136DE647EE2B308032EF4B89/key/yt8/file/index.m3u8
 
 
 
@@ -82,28 +80,8 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunkl
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w787767459.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/f836POhdAzU.1/itag/0/playlist_type/DVR/ei/69bDXPi4N43GxwSvhYzYDA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556360012/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/6AE1B7CEB8D19049809BB46C4540E0BE04697F62.EA00F0FC6B6C5CEB69A8DCC755DE46B297D33222/key/yt8/file/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://ec2-54-208-12-29.compute-1.amazonaws.com/wp-content/uploads/img/parceiros-0001.png" group-title="CANAL ABERTO CARLOS",TV HORIZONTE HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/ZSIUjKLngCg.0/itag/0/playlist_type/DVR/ei/UfrDXIXbA5XIwwTFjbngAw/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556369073/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cgo/signature/6B691980A097CB70D484EDD8E58AF05FD9455336.0F4F20FB9FA54C202DA8E9EE84EF9A42D437B524/key/yt8/file/index.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV HD Porto Alegre RS
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 1
@@ -161,9 +139,6 @@ http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS", DTTV HD Nepomuceno MG
 http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w354561518.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAL ABERTO CARLOS",REDE TV SD
-http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS",REDE TV SP SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
@@ -233,8 +208,6 @@ https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
-https://5c5f323a5b8a8.streamlock.net:9443/tvriopreto322000001/tvriopreto1652206035/chunklist_w337059987.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1
@@ -244,9 +217,6 @@ https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="CANAL ABERTO CARLOS",ALPHA CHANNEL HD
-http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.rio.rj.gov.br/igstatic/45/29/48/4529480.png" group-title="CANAL ABERTO CARLOS",MULTI RIO SD
@@ -259,8 +229,6 @@ http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaguar.com.br/images/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV JAGUAR HD Vale do Jaguaribe CE
-https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",NOVA ERA TV HD Lages SC
@@ -276,41 +244,6 @@ https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",ChuChuTV Brazil Live Stream HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/BEvdDh0ZnIQ.0/itag/0/playlist_type/DVR/ei/0t_DXNGfKYfqxgSXobywCQ/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556362291/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/1E1FC52683979F5C119951A88085A2256F123F1B.397951BCA100FEAA1E41FC50B4B7B59C03E7EC72/key/yt8/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Talking Tom and Friends Minis HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/HVK1ehgomvA.173/itag/0/playlist_type/DVR/ei/d-TDXJXdO8LGwgTC6IHIBw/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556363480/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/42734CDBDA276EBBE10E157E17C7AB60F351B3FC.81419FF82013598FD1A577F9641EDAD2C50D62FB/key/yt8/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Peppa Pig Português Brasil HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/qFeyCipxdxY.1/itag/0/playlist_type/DVR/ei/6-XDXOOSD8rCwwSb1o-QCA/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556363851/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/87472425148B844507B43D963722277443774D63.E10DBEE7F9BDA562757F936AAC8199993FAA3595/key/yt8/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Booba Tv HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/QougB4t6TWU.0/itag/0/playlist_type/DVR/ei/f-fDXPNXy-DBBMG3s4AK/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556364255/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/EAF55F6C8BD81411A3240A0AD441E2315D805D27.C70B64C565EE6BC31B6D2ECE2283E68885EB22C6/key/yt8/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",Mr Bean Official HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/zS4C3yUzIK4.1/itag/0/playlist_type/DVR/ei/YunDXKW4GMbWwQS6z4PoCg/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556364738/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/A67854B42E6B2160D13100264E74F47934BC6BAA.A6EC4E9BA9200B1E4CA1CBF08E379FDBF3D26358/key/yt8/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://thegarden.com.br/siteTG/wp-content/uploads/2018/02/onde-tem-espa%C3%A7o-kids-aclimacao-the-garden.png" group-title="INFANTIL CARLOS",TOM & JERRY HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/9KZKJpOPo_E.1/itag/0/playlist_type/DVR/ei/K_TDXPuPNorewgS0iJaoAg/tx/23722138/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556367500/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/6463A256B3ADDC6ADB83500A598A5EF3A2C947A2.9563CED64E3DB5298C2C854E4A5C4315386F28F5/key/yt8/file/index.m3u8
 
 
 
@@ -648,9 +581,6 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 https://live2.awedia.com/hls/tebeo_hi.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.playlivesnews.com/wp-content/uploads/2010/08/FRANCE24LIVE.png" group-title="INTERNACIONAL CARLOS",FRANCE 24 Live HD TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/O8yyiEfHIRA.0/itag/0/playlist_type/DVR/ei/FNrDXIH7IcfgwQT31ruIDw/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/go/1/keepalive/yes/dover/11/ip/2001%3A1284%3Af019%3A2d55%3Aacdb%3Ab9ad%3A1aa5%3A49bd/ipbits/0/expire/1556360821/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cgo/signature/CA0DBAF5795F2AA3613117F9BD20D94E061ED028.D5A790B4FF73BBFEA5027749427E75E6C534ADD7/key/yt8/file/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
@@ -787,9 +717,6 @@ http://45.77.90.56:8080/hls/mystream.m3u8
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="INTERNACIONAL CARLOS",TELE BARN HD  Alemanha
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",BADEN TV 1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -903,47 +830,23 @@ https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap1A ADULTO
+#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap1 ADULTO
 https://vide13-ord.camsoda.com/cam/mp4:voyeurcam-house-charleys-room-enc6-ord_h264_aac_480p/chunklist_w1527311229.m3u8
 
 
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap2B ADULTO
-https://vide4-ord.camsoda.com/cam/mp4:voyeurcam-latina-babe-bedroom-1-enc14-ord_h264_aac_480p/chunklist_w1485042396.m3u8
 
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap3C ADULTO
+#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap2 ADULTO
 https://vide14-ord.camsoda.com/cam/mp4:voyeurcam-naughty-bedroom-enc21-ord_h264_aac_480p/chunklist_w1597370985.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap4D ADULTO
-https://vide3-ord.camsoda.com/cam/mp4:voyeurcam-latina-babe-bedroom-4-enc15-ord_h264_aac_480p/chunklist_w51527408.m3u8
-
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap5E ADULTO
+#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap3 ADULTO
 https://vide13-ord.camsoda.com/cam/mp4:voyeurcam-marilynjane-01-enc15-ord_h264_aac_480p/chunklist_w1369415962.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap6F ADULTO
+#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap4 ADULTO
 https://5b33420f79f5f.streamlock.net:1443/voyeurfree/97/chunklist_w524892473.m3u8
-
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap7G ADULTO
-https://vide16-ord.camsoda.com/cam/mp4:voyeurcam-freakyfeline-01-enc21-ord_h264_aac_480p/chunklist_w576675157.m3u8
-
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap8H ADULTO
-https://vide2-ord.camsoda.com/cam/mp4:voyeurcam-missoliviablack-03-enc28-ord_h264_aac_480p/chunklist_w1715424135.m3u8
-
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap9I ADULTO
-https://vide5-ord.camsoda.com/cam/mp4:voyeurcam-latina-babe-bedroom-3-enc14-ord_h264_aac_480p/chunklist_w221589318.m3u8
 
 
 
