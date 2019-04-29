@@ -66,7 +66,7 @@ http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",TV RECORD HD TV Tropical RN
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w351386748.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",TV RECORD HD TESTE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",TV RECORD HD
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w787767459.m3u8
 
 
@@ -74,10 +74,10 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunkl
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 1 TESTE
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 1
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 2 TESTE
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 2
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS",TV CIDADE OESTE HD RN
@@ -119,7 +119,7 @@ https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
 http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA TESTE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
 
@@ -170,10 +170,6 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAL ABERTO CARLOS",TV CAXIAS TESTE
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CS8He7i.png" group-title="CANAL ABERTO CARLOS",TV NOVA PARAIBA
 http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
 
@@ -194,17 +190,13 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1 TESTE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9iIQBJG.png?1" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2 TESTE
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://www.rio.rj.gov.br/igstatic/45/29/48/4529480.png" group-title="CANAL ABERTO CARLOS",MULTI RIO SD TESTE
-http://187.111.97.45:1935/webtv/webtv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="CANAL ABERTO CARLOS",TV CIDADE HD NET FARROUPILHA
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
@@ -312,9 +304,6 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA CARLOS",NRJ HITS HD BELGICA
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/1588812/10441/v/950/depositphotos_104411862-stock-illustration-vector-logo-music.jpg" group-title="MUSICA CARLOS",TV CLIMA HD TESTE
-http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.florai1059.com.br/files/2017/05/conexao-br.jpg" group-title="MUSICA CARLOS",CONEXAO BR NRJ HITS
 http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/chunklist_w576217643_b1496608.m3u8
@@ -325,8 +314,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="MUSICA CARLOS",m2o TV 2
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg/1200px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg.png" group-title="MUSICA CARLOS",MUZ TV Russia TESTE
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" tvg-id="0" group-title="MUSICA CARLOS",RADIO 105 TV SD ITALIA
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
@@ -343,9 +330,6 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS",FILMES DO CARLOS SD BR
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
-
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES CARLOS",CLASSIQUE TV BR TESTE
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI 1 SD BR
 https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
@@ -388,17 +372,17 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES CARLOS",ALL SPORTS TV BR TESTE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES CARLOS",ALL SPORTS TV BR
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1 TESTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 3 TESTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="ESPORTES CARLOS",REAL MADRID TV HD 3
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
@@ -431,9 +415,6 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="ESPORTES CARLOS",YAS TV HD Abu Dhabi
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="ESPORTES CARLOS",AL KASS SPORTS HD Qatar TESTE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="ESPORTES CARLOS",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -483,7 +464,7 @@ http://www.agueda.tv:8080/hls/stream.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-03.png" group-title="INTERNACIONAL CARLOS",Telpin Tv Canal 2 HD ARGENTINA TESTE
+#EXTINF:-1 tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-03.png" group-title="INTERNACIONAL CARLOS",Telpin Tv Canal 2 HD ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w367888730.m3u8
 
 
@@ -560,15 +541,11 @@ https://live2.awedia.com/hls/tebeo_hi.m3u8
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGMAXFR.png" group-title="INTERNACIONAL CARLOS",GONG MAX França TESTE
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS",SKY NEWS HD Reino Unido TESTE
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS",Arise News HD Reino Unido TESTE
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5539.1408892311.png" group-title="INTERNACIONAL CARLOS",Arise News HD Reino Unido
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
 
@@ -639,10 +616,6 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://shade7publishing.com/wp-content/uploads/2016/07/Islam-Channel-Logo.png" group-title="INTERNACIONAL CARLOS",ISLAM CHANNEL SD TESTE
-https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
@@ -700,13 +673,8 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="INTERNACIONAL CARLOS",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vpnvergleich.net/wp-files/vpnvergleich.net/2016/01/telebasel-logo.jpg" group-title="INTERNACIONAL CARLOS",Telebasel HD Alemanha TESTE
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tvo.de/storage/thumbs/r:1370081336/35300.jpg" group-title="INTERNACIONAL CARLOS",TV Oberfranken HD Alemanha
@@ -719,9 +687,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL CARLOS",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181002121121912.png" group-title="INTERNACIONAL CARLOS",History Lab Russia TESTE
-http://wma10.fluidstream.net/HistoryLab/livestream/chunklist_w2130597865.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif" group-title="INTERNACIONAL CARLOS",Planeta PTP HD Russia
 https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
@@ -729,10 +694,6 @@ https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD Russia
 https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/BN_Televizija_Logo.svg.png/revision/latest?cb=20180911091938" group-title="INTERNACIONAL CARLOS",BN TV HD Bosnia e Herzegovina TESTE
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
 
 
 
@@ -769,10 +730,6 @@ http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio 99 5 FM TESTE
-https://5a7bcfb834235.streamlock.net/zw981/smil:zw981.smil/chunklist_w573855077_b350000.m3u8
-
-
 #EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Cidade Litoral 104 1 FM
 http://streaming03.zas.media:1935/radiocidade/radiocidade/chunklist_w366170268.m3u8
 
@@ -781,12 +738,6 @@ http://streaming03.zas.media:1935/radiocidade/radiocidade/chunklist_w366170268.m
 https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Difusora 560 AM Patrocínio MG TESTE
-https://srv02.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8
-
-
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Rádio Monte FM 96 7 Monte Carmelo MG TESTE
-https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 
 
 
