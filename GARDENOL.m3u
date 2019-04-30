@@ -724,14 +724,18 @@ https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w508099631.m3u8
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",TIMES SQUARE NY USA
-https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1218369505.m3u8
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w1533246051.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUARIO TUBAROES USA
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",5th Avenida NY USA
+https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w411913482.m3u8
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUÁRIO TUBARÕES USA
 https://videos3.earthcam.com/fecnetwork/nabtrcam1.flv/chunklist_w1872585772.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUARIO PEIXES USA
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUÁRIO PEIXES USA
 https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
