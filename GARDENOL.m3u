@@ -416,6 +416,14 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/83/c9/65/83c965e3e85b70a428a054aa62135168.png" group-title="ESPORTES CARLOS",AD Sports 1 HD Abu Dhabi
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.rab6.net/uploads/tv_image/sm/abu-dhabi-sports-2.png" group-title="ESPORTES CARLOS",AD SPORT 2 HD Abu Dhabi
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="ESPORTES CARLOS",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
@@ -466,6 +474,16 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-03.png" group-title="INTERNACIONAL CARLOS",Telpin Tv Canal 2 HD ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w367888730.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple60/v4/22/75/ef/2275efc3-21bb-d3a5-2315-982707b52e78/source/512x512bb.jpg" group-title="INTERNACIONAL CARLOS",WOW TV HD El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_de_TV_Per%C3%BA_HD.png" group-title="INTERNACIONAL CARLOS",TV Peru HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://elpinguino.com/assets/img/image.jpg" group-title="INTERNACIONAL CARLOS",El Pinguino Tv Chile
