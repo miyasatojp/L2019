@@ -634,6 +634,10 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 tvg-logo="https://www.readspeaker.com/wp-content/uploads/globalnews.png" group-title="INTERNACIONAL CARLOS",GLOBAL NEWS HD Toronto Canadá
+https://glbnewsspinldi-lh.akamaihd.net/i/glbnewsSpinCICT105_1@319755/index_1350_av-p.m3u8?sd=6&rebase=on
+
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
