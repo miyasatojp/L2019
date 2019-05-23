@@ -5,26 +5,8 @@
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",OBRIGADO EM AJUDAR
-https://livebr2.evoplay.com.br/hls/live/gvt-yeeah.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",FAÇA UMA DOAÇÃO NO BLOG
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",LBCTV
 https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/chunklist_w864098735.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="CLICK Q TEM CANAIS",gardenoliptv.blogspot.com
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/J/jesus-logo-036EB9FFC6-seeklogo.com.png" group-title="CLICK Q TEM CANAIS",DEUS ABENÇOE VOCÊ!
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w1968350533.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
@@ -170,10 +152,6 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CS8He7i.png" group-title="CANAL ABERTO CARLOS",TV NOVA PARAIBA
-http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
-
-
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="CANAL ABERTO CARLOS",FonteTV GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
@@ -287,7 +265,7 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UvBsf2XFUBE/hqdefault.jpg" tvg-id="0" group-title="RELIGIOSO CARLOS",IGREJA MUNDIAL SD
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w838248339_b506979.m3u8
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1868314637_b751618.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="RELIGIOSO CARLOS",TV TERCEIRO ANJO HD
