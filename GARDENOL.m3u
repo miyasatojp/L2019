@@ -194,6 +194,23 @@ https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.valuewalk.com/wp-content/uploads/2017/04/skype_1491430445.png" group-title="CANAL ABERTO CARLOS",TV SKYPE ÚBA MG
+http://173.236.10.10:1935/webtvminas/webtvminas/chunklist_w1729319025.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4a/TV_Caju_Logomarca.png" group-title="CANAL ABERTO CARLOS",TV CAJÚ Sergipe
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
+
+
+#EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="CANAL ABERTO CARLOS",MKK WebTV
+http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://macaibanoar.com.br/wp-content/uploads/2013/12/TV-Ponta-Negra.jpg" group-title="CANAL ABERTO CARLOS",TV PONTA NEGRA
+http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
+
+
+
 
 
 
@@ -609,6 +626,11 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN HD USA
+https://1828529515.rsc.cdn77.org/b65yIbxOm7hy4aYrADN5aw==,1558826147/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
@@ -795,7 +817,7 @@ http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",HOT FM 107
+#EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",HOT FM 107 SP
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
 
