@@ -631,6 +631,10 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_
 https://1828529515.rsc.cdn77.org/b65yIbxOm7hy4aYrADN5aw==,1558826147/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN News Live USA
+https://1861340594.rsc.cdn77.org/x9Ig8N7js_II-4_n-H7rZQ==,1558828802/ls-54548-1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
@@ -664,6 +668,10 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png",TRT WORLD USA
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_480p_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://www.readspeaker.com/wp-content/uploads/globalnews.png" group-title="INTERNACIONAL CARLOS",GLOBAL NEWS HD Toronto Canadá
@@ -827,6 +835,11 @@ https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="RADIOS AO VIVO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",RADIO GOSPEL FM
 http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
+
+
+
+
+
 
 
 
