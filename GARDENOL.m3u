@@ -29,11 +29,6 @@ http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",LIVRE TV Parnamirim RN
-https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior SD Araçatuba SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
@@ -67,8 +62,6 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS",TV CIDADE OESTE HD RN
 http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i47.tinypic.com/2j64aw8.jpg" group-title="CANAL ABERTO CARLOS",TV CULTURA DO PARA HD TESTE
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAL ABERTO CARLOS",TV BRASIL HD BA 1
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
@@ -122,9 +115,8 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL SD
-https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097282750.m3u8
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL HD
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w996759556_b1096000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
@@ -140,10 +132,6 @@ http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aP43yi" group-title="CANAL ABERTO CARLOS",TV ITAPETININGA SP HD 2
 http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura PR SD
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="CANAL ABERTO CARLOS",TV Futura SD
@@ -262,8 +250,6 @@ http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO CARLOS",REDE SECULO 21 HD 2
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO CARLOS",CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO CARLOS",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
@@ -460,10 +446,6 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 https://euronews-pt-b11-cdn.hexaglobe.net/adf89ccd408b5ef0f263b3f943170f1e/5ce9e8ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptbkp_por.smil/ewnsabrptbkp_por_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD Portugal
-http://www.agueda.tv:8080/hls/stream.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
@@ -599,19 +581,19 @@ https://stream-02.nyc.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXAl-AAAcTAGAOCjdo
 https://stream-02.nyc.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXAl-AAAcTAGAOCjdocDjto)/dm/3/x6qud17/s/live-3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="INTERNACIONAL CARLOS",TV3 Malaysia
-https://stream-02.nyc.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfMci-qlARJgad5poUqNcu0)/dm/3/x6qp375/d/live-3.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/150px-NTV7_logo_%282018%29.png" group-title="INTERNACIONAL CARLOS",NTV7 Malaysia
 https://stream-01.nyc.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXfGNNicwv9NVcTEDnTVCes)/dm/3/x6qp6ou/s/live-3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN HD Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" group-title="INTERNACIONAL CARLOS",kontra channel Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia TESTE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
@@ -633,15 +615,6 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN HD USA
-https://1828529515.rsc.cdn77.org/b65yIbxOm7hy4aYrADN5aw==,1558826147/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="INTERNACIONAL CARLOS",CNN News Live USA
-https://1861340594.rsc.cdn77.org/x9Ig8N7js_II-4_n-H7rZQ==,1558828802/ls-54548-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
@@ -679,32 +652,41 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png",TRT WORLD USA
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png",TRT WORLD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_480p_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://www.readspeaker.com/wp-content/uploads/globalnews.png" group-title="INTERNACIONAL CARLOS",GLOBAL NEWS HD Toronto Canadá
-https://glbnewsspinldi-lh.akamaihd.net/i/glbnewsSpinCICT105_1@319755/index_1350_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1550p_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/78ahjsqj-720.jpg",TRT MUZIK Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://arb4host.net/news/wp-content/uploads/2018/12/1-4.jpg",TRT TURK Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/56907_logo_trt_kurdi1.png",TRT KURDÎ Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250p_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="INTERNACIONAL CARLOS",TRT 1 HD Turquia
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1550_av-b.m3u8?sd=10&rebase=on
+https://redirector.gvt1.com/api/manifest/hls_playlist/id/d81cb37445d1a3db/itag/95/source/gfp_video_ads/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D160844%3Bdur%3D10.054%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1558536677690220/sgovp/clen%3D1430273%3Bdur%3D10.000%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1558536684098408/hls_chunk_host/redirector.gvt1.com/ei/0hDqXM6fG8eHwASY-LvgCg/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ctier/L/dover/6/ip/0.0.0.0/ipbits/0/expire/1590379599/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,acao,mime,ctier/signature/787F8F3A88C6E4BF50392053C5FFE50260EB6D36.9659A36E904029F7FF749DFF775502EAAEA5DF24/key/dg_yt0/playlist/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.miaminewsnet.com/wp-content/uploads/2017/07/trt-300x300.jpg" group-title="INTERNACIONAL CARLOS",TRT TURK HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250p_av-p.m3u8?sd=10&rebase=on
 
 
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="INTERNACIONAL CARLOS",Al Hurra HD Emirados Árabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="INTERNACIONAL CARLOS",DUBAI TV HD Emirados Árabes Unidos
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180720/hyc/kisspng-dubai-one-television-channel-dubai-racing-club-noor-dubai-939-5b52851c93cb37.4966386815321346846054.jpg" group-title="INTERNACIONAL CARLOS",DUBAI ONE HD Emirados Árabes Unidos
@@ -727,21 +709,12 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://stoppress.co.nz/media/VERSIONS/galleries/oldprimelogo_gallery_normal.jpg" group-title="INTERNACIONAL CARLOS",PRIME TV Pakistan
-http://wowza001.viewtvgroup.com:81/kapang-primetventertainment/ngrp:myStream_all/chunklist_w1184843891_b692000.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan
 http://45.77.90.56:8080/hls/mystream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51g2tn8s0uL._SY355_.png" group-title="INTERNACIONAL CARLOS",Aaj Tak Live India
-https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" group-title="INTERNACIONAL CARLOS",REPUBLIC TV India
 https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/640x360_576000/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",BADEN TV 1 HD Alemanha
