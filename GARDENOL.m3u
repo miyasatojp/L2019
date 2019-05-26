@@ -665,11 +665,11 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png",TRT WORLD
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png",TRT WORLD HD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_480p_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER Turquia
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1550p_av-p.m3u8?sd=10&rebase=on
 
 
@@ -681,12 +681,12 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250_av-b.m3u8?sd=1
 https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/56907_logo_trt_kurdi1.png",TRT KURDÎ Turquia
-https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250p_av-p.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-1 tvg-logo="http://www.miaminewsnet.com/wp-content/uploads/2017/07/trt-300x300.jpg" group-title="INTERNACIONAL CARLOS",TRT TURK HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250p_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/56907_logo_trt_kurdi1.png",TRT KURDÎ HD Turquia
+https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250p_av-p.m3u8?sd=10&rebase=on
 
 
 
