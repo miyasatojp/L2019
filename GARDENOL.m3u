@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="JUNHO 2019 06",ATUALIZADO PARA 06 2019
+
+
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="JUNHO 2019 06",GARDENOL JUNHO 2019
 https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
 
@@ -544,11 +547,6 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 https://live2.awedia.com/hls/tebeo_hi.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.tvfranca23.com.br/assets/img/logo.png" group-title="INTERNACIONAL CARLOS",23 TV HD França
-https://stream-03.nyc.dailymotion.com/sec(NHNrmhE_a5oYnthlz8G60pbj-xKNWFYLc60GbsNLnBo)/dm/3/x13p3qi/s/live-3.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
@@ -725,10 +723,6 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 http://45.77.90.56:8080/hls/mystream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" group-title="INTERNACIONAL CARLOS",REPUBLIC TV India
-https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/640x360_576000/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",BADEN TV 1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
@@ -770,8 +764,7 @@ https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offs
 
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Key West Duval Street USA
-http://wowza2.floridakeysmedia.com:1935/crowdcam/crowdcam.stream/chunklist_w1895701194.m3u8
+
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
@@ -831,12 +824,4 @@ https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="ADULTO CURIOSO +18" tvg-logo="https://banner2.kisspng.com/20180219/hpw/kisspng-logo-eye-cartoon-cute-eyes-5a8b6e13692cc0.7363406015190871234308.jpg",Câmeras Voyeurs ap1 ADULTO +18
-https://5b33420f79f5f.streamlock.net:1443/voyeurfree/97/chunklist_w524892473.m3u8
 
