@@ -456,6 +456,10 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL CARLOS",EURONEWS
+https://euronews-pt-b11-cdn.hexaglobe.net/adf89ccd408b5ef0f263b3f943170f1e/5ce9e8ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptbkp_por.smil/ewnsabrptbkp_por_720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD Portugal
 http://www.agueda.tv:8080/hls/stream.m3u8
 
@@ -625,10 +629,6 @@ https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist
 
 #EXTINF:-1 tvg-logo="http://www.roymorgan.com/~/media/files/morgan%20poll/2010s/2018/june/7641-media-trust-abc-logo.jpg" group-title="INTERNACIONAL CARLOS",ABC NEWS Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL CARLOS",EURONEWS
-351f308368ea/5ce9c30b/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD +18 USA
