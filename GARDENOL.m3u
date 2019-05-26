@@ -7,7 +7,6 @@
 #EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GARDENOL IPTV 2019
 
 
-
 #EXTINF:-1 tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png" group-title="CANAL ABERTO CARLOS",World Fashion Channel
 https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
 
@@ -684,10 +683,6 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250_av-b.m3u8?sd=10
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/56907_logo_trt_kurdi1.png",TRT KURDÎ Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250p_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="INTERNACIONAL CARLOS",TRT 1 HD Turquia
-https://redirector.gvt1.com/api/manifest/hls_playlist/id/d81cb37445d1a3db/itag/95/source/gfp_video_ads/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D160844%3Bdur%3D10.054%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1558536677690220/sgovp/clen%3D1430273%3Bdur%3D10.000%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1558536684098408/hls_chunk_host/redirector.gvt1.com/ei/0hDqXM6fG8eHwASY-LvgCg/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ctier/L/dover/6/ip/0.0.0.0/ipbits/0/expire/1590379599/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,acao,mime,ctier/signature/787F8F3A88C6E4BF50392053C5FFE50260EB6D36.9659A36E904029F7FF749DFF775502EAAEA5DF24/key/dg_yt0/playlist/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.miaminewsnet.com/wp-content/uploads/2017/07/trt-300x300.jpg" group-title="INTERNACIONAL CARLOS",TRT TURK HD Turquia
