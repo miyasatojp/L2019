@@ -456,7 +456,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL CARLOS",EURONEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL CARLOS",EURONEWS Portugal
 https://euronews-pt-b11-cdn.hexaglobe.net/adf89ccd408b5ef0f263b3f943170f1e/5ce9e8ae/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptbkp_por.smil/ewnsabrptbkp_por_720p.m3u8
 
 
