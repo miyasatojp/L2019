@@ -542,6 +542,10 @@ https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/xhgjg.jpg" group-title="INTERNACIONAL CARLOS",XHGJG Mexico
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w2067677294.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
@@ -550,11 +554,16 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 https://live2.awedia.com/hls/tebeo_hi.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-aci-tv-5427.jpg" group-title="INTERNACIONAL CARLOS",ACI TV França
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GONGFR.png" group-title="INTERNACIONAL CARLOS",GONG França
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS",SKY NEWS HD Reino Unido TESTE
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="INTERNACIONAL CARLOS",SKY NEWS HD Reino Unido
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
@@ -590,12 +599,29 @@ https://live.cgtn.com/1000d/prog_index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" group-title="INTERNACIONAL CARLOS",kontra channel Grecia
+#EXTINF:-1 tvg-logo="http://www.khaosodenglish.com/wp-content/uploads/2017/03/VoiceTV.jpg" group-title="INTERNACIONAL CARLOS",Voice TV Thailand
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/04/21/20160421142920-6ba0f52f.png" group-title="INTERNACIONAL CARLOS",Kepez TV Azerbaijan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" group-title="INTERNACIONAL CARLOS",Kontra Channel Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alpha-TV-Logo.png/480px-Alpha-TV-Logo.png" group-title="INTERNACIONAL CARLOS",Alpha TV Grecia
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="INTERNACIONAL CARLOS",RAI 5 HD Italia
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/CBC_TV_8.png" group-title="INTERNACIONAL CARLOS",CBC TV 8 BARBADOS 1
@@ -653,6 +679,10 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.frosat.net/images/logotv/original/tv2-tr.jpg",TV2 HD Turquia
+https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1550p_av-p.m3u8?sd=10&rebase=on
 
@@ -698,8 +728,24 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="INTERNACIONAL CARLOS",LJBC TV Libya
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan
 http://45.77.90.56:8080/hls/mystream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s247702d.png" group-title="INTERNACIONAL CARLOS",Al Hurria Iraq
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-hFfwsrYbVfM/Uh0IGTVr1II/AAAAAAAACMU/_rxVIjcHUUo/s1600/live.jpg" group-title="INTERNACIONAL CARLOS",Tojor Al-Janah Jordan
+http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/chunklist_w702774000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://audiobulletin.omroepbrabant.nl/images/logo_ob.png" group-title="INTERNACIONAL CARLOS",Omroep Brabant Holanda
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",BADEN TV 1 HD Alemanha
@@ -722,6 +768,11 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Sferatv_Poland.jpg" group-title="INTERNACIONAL CARLOS",Sfera TV Poland
+/sferalive/smil:sferalive.smil/chunklist_w1236037069_b1128000_slpl.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL CARLOS",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
@@ -733,6 +784,14 @@ https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD Russia
 https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 
+
+#EXTINF:-1 tvg-logo="https://www.barcelona-airport.com/images/airlines17/rossiya-russian-airlines.png" group-title="INTERNACIONAL CARLOS",ROSSIYA Russia
+http://tvsamara.ru/streaming/rk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="INTERNACIONAL CARLOS",TV5 Ukraine
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
 
