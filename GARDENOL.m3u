@@ -607,15 +607,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b3840
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/04/21/20160421142920-6ba0f52f.png" group-title="INTERNACIONAL CARLOS",Kepez TV Azerbaijan
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" group-title="INTERNACIONAL CARLOS",Kontra Channel Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alpha-TV-Logo.png/480px-Alpha-TV-Logo.png" group-title="INTERNACIONAL CARLOS",Alpha TV Grecia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alpha-TV-Logo.png/480px-Alpha-TV-Logo.png" group-title="INTERNACIONAL CARLOS",Alpha TV HD Grecia
 https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
 
 
@@ -763,8 +759,8 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Sferatv_Poland.jpg" group-title="INTERNACIONAL CARLOS",Sfera TV Poland
-/sferalive/smil:sferalive.smil/chunklist_w1236037069_b1128000_slpl.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Sferatv_Poland.jpg" group-title="INTERNACIONAL CARLOS",Sfera TV Poland 480p
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w278545363_b1128000_slpl.m3u8
 
 
 
