@@ -443,7 +443,7 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="INTERNACIONAL CARLOS",EURONEWS Teste Portugal 540p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL CARLOS",EURONEWS Teste Portugal 540p
 https://euronews-pt-p10-cdn.hexaglobe.net/582bdf5179d42daabc7620572bca39ee/5cec6924/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/ewnsabrptpri_por_540p.m3u8
 
 
