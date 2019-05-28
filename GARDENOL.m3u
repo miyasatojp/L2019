@@ -71,6 +71,9 @@ http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV HD Porto Alegre RS
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
@@ -225,6 +228,8 @@ http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337
 http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="CANAL ABERTO CARLOS",TVT
+https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gw48S2Uax7YG-MNo8mDJuOY)/dm/3/x6ph7x7/s/live-3.m3u8
 
 
 
