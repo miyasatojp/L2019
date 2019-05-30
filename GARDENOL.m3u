@@ -262,6 +262,10 @@ http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w2009248527.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBuplGQd8Io/hqdefault_live.jpg" group-title="CANAL ABERTO CARLOS",WebTV
+http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
+
+
 
 
 
