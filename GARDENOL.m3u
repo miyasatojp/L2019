@@ -1,26 +1,31 @@
+#Se você copiar os dados desta lista
+#pelo menos me de os créditos, me deu muito trabalho
+#Para Buscar,Fazer e Manter a Lista, Obrigado.
+#Carlos - Gardenol Iptv
+#Blog https://gardenoliptv.blogspot.com
+
+
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",MÊS 06 2019 GRÁTIS
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",MONTH 06 2019 FREE
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",BLOG GARDENOL IPTV 2019
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GARDENOL IPTV-BRAZIL
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",https://gardenoliptv.blogspot.com
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",Welcome Free IPTV List
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1240802876.m3u8
 
 
 
 
 
+#=============== CANAL ABERTO CARLOS
 
 
-
-#EXTINF:-1 tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png" group-title="CANAL ABERTO CARLOS",World Fashion Channel
-https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/d1/48/5ad1486b9aa62c4603e866765a340881.png" group-title="CANAL ABERTO CARLOS",SUMMERTV
@@ -272,7 +277,7 @@ http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 
 
-
+#=============== RELIGIOSO CARLOS
 
 
 
@@ -336,6 +341,10 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
 
 
+#=================== MUSICA CARLOS
+
+
+
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="MUSICA CARLOS",Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
@@ -359,7 +368,7 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 
-
+#=================== FILMES CARLOS
 
 
 
@@ -403,13 +412,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-
-
-
-
-
-
-
+#=================== ESPORTES CARLOS
 
 
 
@@ -478,7 +481,7 @@ https://5c64355d4b57c.streamlock.net:1936/mundoautotv/mundoautotv/chunklist_w747
 
 
 
-
+#=================== INTERNACIONAL CARLOS
 
 
 
@@ -671,6 +674,10 @@ https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png" group-title="CANAL ABERTO CARLOS",World Fashion Channel
+https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL CARLOS",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
@@ -821,7 +828,7 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
 
-
+#=================== CÂMERAS AO VIVO
 
 
 
@@ -858,7 +865,7 @@ https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
 
-
+#=================== RADIOS AO VIVO
 
 
 
