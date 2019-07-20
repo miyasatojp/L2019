@@ -39,10 +39,6 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/32.png" group-title="CANAL ABERTO CARLOS",LBCTV
-https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/chunklist_w864098735.m3u8
-
-
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
 https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
 
@@ -251,7 +247,7 @@ http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="CANAL ABERTO CARLOS",REDE TVT SP
-https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7uzSl8sk0j67B8BNKdn-4k)/dm/3/x6ph7x7/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8sSIXH8uUgFyZWSaP7w3yA)/dm/3/x6ph7x7/s/live-3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" group-title="CANAL ABERTO CARLOS",TV CARIOCA.NET
@@ -288,8 +284,6 @@ http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 2 Assembleia de Deus
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
 
-#EXTINF:-1 tvg-logo="http://www.webcactv.com.br/imu/imagens/logo-imu-jm.png" group-title="RELIGIOSO CARLOS",WEB CAC TV IMU JM HD
-http://wse6.player.tv.br:1935/webcactv/webcactv/live.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="RELIGIOSO CARLOS",WEB TV IEQ SE Quadrangular
 http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
@@ -368,11 +362,8 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI 1 SD BR
-https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI 2 SD BR
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI SD BR
+https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8?wowzasessionid=2112062059
 
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD Italia
@@ -500,6 +491,9 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="INTERNACIONAL CARLOS",RTP INTER PT
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" group-title="INTERNACIONAL CARLOS",RPC Red Paraguaya de Comunicacion
+http://174.138.118.252/live/canal13stream_src.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
@@ -691,7 +685,7 @@ https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER HD Turquia
-https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1550p_av-p.m3u8?sd=10&rebase=on
+https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-b.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/78ahjsqj-720.jpg",TRT MUZIK Turquia
