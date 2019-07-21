@@ -192,7 +192,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.tv/novo/logos/viamorena.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS TESTE
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/via_morena_tv_br.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS TESTE
 https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897.m3u8
 
 
@@ -493,7 +493,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" group-title="INTERNACIONAL CARLOS",RPC Red Paraguaya de Comunicacion
-http://174.138.118.252/live/canal13stream_src.m3u8
+http://174.138.118.252/live/canal13stream_mid.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
