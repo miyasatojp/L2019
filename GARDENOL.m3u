@@ -74,7 +74,7 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD Recife
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD Recife PE
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
 
 
@@ -111,6 +111,10 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS",TV CIDADE OESTE HD RN
 http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAL ABERTO CARLOS",TV BRASIL HD
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w729796385.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAL ABERTO CARLOS",TV BRASIL 2 HD
@@ -157,12 +161,21 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w996759556_b1096000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Fam%C3%ADlia.png/200px-Rede_Fam%C3%ADlia.png" group-title="CANAL ABERTO CARLOS",Rede Família de Televisão
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/chunklist_w1103145337.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAL ABERTO CARLOS",TV CULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/69/Logo_Ulbra.png" group-title="CANAL ABERTO CARLOS",Ulbra TV Canoas RS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w358350187.m3u8?ValterHD
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="CANAL ABERTO CARLOS",TOP TV SD BR
@@ -192,7 +205,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/via_morena_tv_br.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS TESTE
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/via_morena_tv_br.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS
 https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897.m3u8
 
 
@@ -205,7 +218,7 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
 
 
-#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2 TESTE
+#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 
 
@@ -258,8 +271,16 @@ http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w2009248527.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="CANAL ABERTO CARLOS",AMAZON SAT 2
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w961005415.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBuplGQd8Io/hqdefault_live.jpg" group-title="CANAL ABERTO CARLOS",WebTV
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://alfatv.net/wp-content/uploads/2018/04/logo-alfa.png" group-title="CANAL ABERTO CARLOS",ALFA TV
+http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
@@ -548,6 +569,30 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunkl
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" group-title="INTERNACIONAL CARLOS",TV Canaria Sat Espanha
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Canaria_2.jpg" group-title="INTERNACIONAL CARLOS",TV Canaria 2 Espanha
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-jHE5rcAyQNo/VnBHJmGO4iI/AAAAAAAABOg/9Z9FbZ8q86w/s320/TelevisionMelilla-Logo.jpg" group-title="INTERNACIONAL CARLOS",TV Melilla HD Espanha
+https://livestartover.atresmedia.com/antena3/bitrate_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/d7/94/9fd79429-154e-7810-799a-0c332c672d14/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.jpeg/246x0w.jpg" group-title="INTERNACIONAL CARLOS",TeleMadrid Espanha
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/2e/ba/d1/2ebad111b1ec7a7fa4a815baf4eb0206.jpg" group-title="INTERNACIONAL CARLOS",EITB Espanha
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?sd=8&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="INTERNACIONAL CARLOS",TV Melilla Espanha
+https://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_med/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66YTjXy.jpg" group-title="INTERNACIONAL CARLOS",Milenio TV HD Mexico
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
@@ -795,8 +840,12 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte da Amizade sentido Brasil
+https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte da Amizade sentido Paraguay
+https://cdn.jmvstream.com/w/IPC-7044/camera.stream/chunklist_w1905836054.m3u8
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",NEW ORLEANS 1 USA
