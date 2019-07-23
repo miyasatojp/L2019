@@ -91,10 +91,6 @@ http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
 http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Fam%C3%ADlia.png/200px-Rede_Fam%C3%ADlia.png" group-title="CANAL ABERTO CARLOS",REDE FAMILIA TV Limeira SP
-https://redefamilia.opic.live/chunklist.m3u8
-
-
 
 
 
@@ -157,11 +153,11 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916530446/Untitled-2_400x400.jpg" group-title="CANAL ABERTO CARLOS",REDE ESTAÇÃO HD Recife
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w996759556_b1096000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Fam%C3%ADlia.png/200px-Rede_Fam%C3%ADlia.png" group-title="CANAL ABERTO CARLOS",Rede Família de Televisão
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL tv metropolitana
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/chunklist_w1103145337.m3u8
 
 
@@ -570,10 +566,6 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3781629_logo_canal_4_tenerife.png" group-title="INTERNACIONAL CARLOS",Canal 4 Tenerife Ilhas Canárias Espanha
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="INTERNACIONAL CARLOS",Antena 3 HD Espanha
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/d7/94/9fd79429-154e-7810-799a-0c332c672d14/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.jpeg/246x0w.jpg" group-title="INTERNACIONAL CARLOS",TeleMadrid Espanha
