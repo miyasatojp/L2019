@@ -7,7 +7,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",Month 07 2019 FREE
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",Month 08 2019
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
 
@@ -20,7 +20,7 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1240802876.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",FILMES&SÉRIES MEU CANAL YOUTUBE!
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",FAÇA DOAÇÃO
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 
 
@@ -78,6 +78,10 @@ https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+
 
 
 
@@ -91,6 +95,17 @@ http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
 http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV Água Boa
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV A Crítica Manaus AM
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+
+
+
+
+
 
 
 
@@ -102,8 +117,14 @@ https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 1
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 2
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041426459259297792/Gw2DdV-l.jpg" group-title="CANAL ABERTO CARLOS",TV Teen Net
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=384808324
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="CANAL ABERTO CARLOS",TV CIDADE OESTE HD RN
 http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
@@ -376,6 +397,14 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI SD BR
 https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8?wowzasessionid=2112062059
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+
+#EXTINF:-1 tvg-logo="http://fc09.deviantart.net/fs39/i/2008/339/d/f/Locomotion_by_minino.png" group-title="FILMES CARLOS",LOCOMOTION Espanha
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ANTONYGTV
 
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES CARLOS", RAI Movie HD Italia
@@ -724,11 +753,11 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-b.m3u8?sd
 https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="http://www.miaminewsnet.com/wp-content/uploads/2017/07/trt-300x300.jpg" group-title="INTERNACIONAL CARLOS",TRT TURK HD Turquia
+#EXTINF:-1 tvg-logo="https://www.canlitvplayer.com/wp-content/uploads/2017/11/trt-turk-tv-player.png" group-title="INTERNACIONAL CARLOS",TRT TURK HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250p_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/56907_logo_trt_kurdi1.png",TRT KURDÎ HD Turquia
+#EXTINF:-1 tvg-logo="http://www.kent32.com/d/news/11132.jpg" group-title="INTERNACIONAL CARLOS",TRT KURDÎ HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250_av-b.m3u8?sd=10&rebase=on
 
 
@@ -794,6 +823,11 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://videotron.com/vtrn/images/channels/logos/dw/dw_moyenne.png.pagespeed.ce.nNvbHQV6av.png",DW English HD Alemanha
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png",TELE BARN HD Alemanha
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
+
 
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Sferatv_Poland.jpg" group-title="INTERNACIONAL CARLOS",Sfera TV Poland 480p
