@@ -104,9 +104,6 @@ http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV A Crítica Manaus AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-
 
 
 
@@ -162,13 +159,6 @@ https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w61031853.m3
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS",DTTV HD Lavras MG
-http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w795460412.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW_400x400.jpg" group-title="CANAL ABERTO CARLOS",DTTV HD Nepomuceno MG
-http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w354561518.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO CARLOS",REDE TV SP SD
@@ -282,10 +272,6 @@ https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8sSIXH8uUgFyZWSaP
 
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" group-title="CANAL ABERTO CARLOS",TV CARIOCA.NET
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w2009248527.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="CANAL ABERTO CARLOS",AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/561624964411822080/4Gb6JokX.jpeg" group-title="CANAL ABERTO CARLOS",Diario do Sertão
@@ -501,8 +487,6 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3784390/logo_mundo%20auto.png" group-title="ESPORTES CARLOS",MUNDO AUTO TV HD Espanha
-https://5c64355d4b57c.streamlock.net:1936/mundoautotv/mundoautotv/chunklist_w747058260.m3u8
 
 
 
