@@ -11,7 +11,7 @@
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",CARLOS-GARDENOL IPTV-BRAZIL
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GARDENOL IPTV-BRAZIL
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
 
 
@@ -20,7 +20,7 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1240802876.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",DOAÇÕES OBRIGADO
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",CARLOS E ANDERSON
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 
 
@@ -102,6 +102,27 @@ http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV Água Boa
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAL ABERTO CARLOS",BAND
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAL ABERTO CARLOS",BAND NEWS
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/98.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="CANAL ABERTO CARLOS",VIVA
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/82.m3u8
+
+
 
 
 
@@ -382,15 +403,32 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS",FILMES DO CARLOS SD BR
+#EXTINF:-1 tvg-id="0" tvg-logo="http://reporterregional.com.br/wp-content/uploads/2014/11/filmes_logo.jpg" group-title="FILMES CARLOS",FILMES DO CARLOS Brasil
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI SD BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI Brasil
 https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8?wowzasessionid=2112062059
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="FILMES CARLOS",TC PIPOCA Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/49.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="FILMES CARLOS",TC FUN Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/50.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="FILMES CARLOS",TC PREMIUM Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/48.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/hbo-logo-png-1.png" group-title="FILMES CARLOS",HBO Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/54.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV Brasil
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
