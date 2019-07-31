@@ -105,21 +105,16 @@ http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD HD
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAL ABERTO CARLOS",BAND
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAL ABERTO CARLOS",BAND HD
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/4.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAL ABERTO CARLOS",BAND NEWS
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/98.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="CANAL ABERTO CARLOS",VIVA
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="CANAL ABERTO CARLOS",VIVA HD
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/82.m3u8
 
 
@@ -421,11 +416,6 @@ https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="FILMES CARLOS",TC PREMIUM Brasil
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/48.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/hbo-logo-png-1.png" group-title="FILMES CARLOS",HBO Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/54.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV Brasil
