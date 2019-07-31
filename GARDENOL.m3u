@@ -105,6 +105,8 @@ http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD HD
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/3.m3u8
 
@@ -118,7 +120,20 @@ https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/4.m3u8
 https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/82.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg" group-title="CANAL ABERTO CARLOS",NAT GEO Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/112.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/H2-Logo.png" group-title="CANAL ABERTO CARLOS",H2 Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/103.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="CANAL ABERTO CARLOS",HISTORY Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/102.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181109/iiw/kisspng-logo-animal-planet-television-channel-boomerang-livas-t-5be630065dc7d8.9212391915418122303841.jpg" group-title="CANAL ABERTO CARLOS",ANIMAL PLANET Brasil
+https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/101.m3u8
 
 
 
