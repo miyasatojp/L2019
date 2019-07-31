@@ -27,9 +27,6 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 
 
 
-
-
-
 #=============== CANAL ABERTO CARLOS
 
 
@@ -102,36 +99,6 @@ http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD TV Água Boa
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO CARLOS",RECORD HD SP
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/3.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAL ABERTO CARLOS",BAND HD
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="CANAL ABERTO CARLOS",VIVA HD
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/82.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg" group-title="CANAL ABERTO CARLOS",NAT GEO Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/112.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/H2-Logo.png" group-title="CANAL ABERTO CARLOS",H2 Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/103.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181109/iiw/kisspng-logo-animal-planet-television-channel-boomerang-livas-t-5be630065dc7d8.9212391915418122303841.jpg" group-title="CANAL ABERTO CARLOS",ANIMAL PLANET Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/101.m3u8
-
-
 
 
 
@@ -415,18 +382,6 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI Brasil
 https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8?wowzasessionid=2112062059
-
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="FILMES CARLOS",TC PIPOCA Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/49.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.clarohdtvpromocao.com.br/assets/images/canais/1693.jpg" group-title="FILMES CARLOS",TC FUN Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/50.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="FILMES CARLOS",TC PREMIUM Brasil
-https://tvweb.xyz:25463/live/Palmeiras/Godoy_Hoje/48.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV Brasil
@@ -734,6 +689,20 @@ https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT NEWS HD USA
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT AMERICA HD USA
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
@@ -869,10 +838,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif" group-title="INTERNACIONAL CARLOS",Planeta PTP HD Russia
 https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD Russia
-https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="INTERNACIONAL CARLOS",TV5 Ukraine
