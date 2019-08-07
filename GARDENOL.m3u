@@ -32,33 +32,6 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/d1/48/5ad1486b9aa62c4603e866765a340881.png" group-title="CANAL ABERTO CARLOS",SUMMERTV
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
-
-
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
-https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
-http://live.tcm10.com.br/tcm10.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.qwerty.com.br/wp-content/uploads/2016/03/qwerty_noticias_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
-http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
-https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD Nordeste 1080p
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
 
@@ -93,6 +66,24 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/d1/48/5ad1486b9aa62c4603e866765a340881.png" group-title="CANAL ABERTO CARLOS",SUMMERTV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
+https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
+http://live.tcm10.com.br/tcm10.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.qwerty.com.br/wp-content/uploads/2016/03/qwerty_noticias_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
+http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
+https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="CANAL ABERTO CARLOS",RDC TV HD Porto Alegre RS
