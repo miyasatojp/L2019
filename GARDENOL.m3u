@@ -315,7 +315,7 @@ http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
 
 
-#EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="Evangelico",TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="Evangelico",TV NOVO TEMPO BR
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
 
@@ -341,7 +341,7 @@ http://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Catolica",TV EVANGELIZAR SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Catolica",TV EVANGELIZAR PR
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
