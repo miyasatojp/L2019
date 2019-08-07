@@ -292,59 +292,65 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6e/Cut_the_Rope_logo.png" group-title="RELIGIOSO CARLOS",TUTU DESENHOS GOSPEL BR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6e/Cut_the_Rope_logo.png" group-title="Evangelico",TUTU DESENHOS GOSPEL BR
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1k3Jy-EPuWU/hqdefault.jpg" tvg-id="0" group-title="RELIGIOSO CARLOS",TUTU FILMES GOSPEL BR
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1k3Jy-EPuWU/hqdefault.jpg" tvg-id="0" group-title="Evangelico",TUTU FILMES GOSPEL BR
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 1 Assembleia de Deus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Evangelico",Assembleia de Deus 1 TV AD BELEM HD
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 2 Assembleia de Deus
+#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="Evangelico",Assembleia de Deus 2 TV AD BELEM HD
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="RELIGIOSO CARLOS",WEB TV IEQ SE Quadrangular
+#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="Evangelico",Quadrangular WEB TV IEQ SE
 http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/solomnikov/solomnikov1611/solomnikov161100064/65715336-church-logo-christian-symbols-the-cross-of-jesus-the-fire-of-the-holy-spirit-and-the-dove-.jpg" group-title="RELIGIOSO CARLOS",TV BOA ESPERANÇA HD
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/solomnikov/solomnikov1611/solomnikov161100064/65715336-church-logo-christian-symbols-the-cross-of-jesus-the-fire-of-the-holy-spirit-and-the-dove-.jpg" group-title="Evangelico",TV BOA ESPERANÇA HD PE Belo Jardim
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="RELIGIOSO CARLOS",TV EVANGELIZAR SD
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO CARLOS",REDE SECULO 21 HD 1
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO CARLOS",REDE SECULO 21 HD 2
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO CARLOS",TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
-
-
- #EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="RELIGIOSO CARLOS",TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="Evangelico",TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="RELIGIOSO CARLOS",IURD TV HD UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Evangelico",IURD TV HD UNIVERSAL
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="RELIGIOSO CARLOS",IURD TV SD UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Evangelico",IURD TV SD UNIVERSAL
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="RELIGIOSO CARLOS",TV TERCEIRO ANJO HD
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Evangelico",TV TERCEIRO ANJO HD Igreja Adventista
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HwUh03uvDZo/WjlIrr-qo3I/AAAAAAAADM0/57onlDQYOvURa0iMd73XlCTrjoTrZ3-9wCLcBGAs/s1600/canal-promessas.png" group-title="RELIGIOSO CARLOS",CANAL PROMESSAS
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HwUh03uvDZo/WjlIrr-qo3I/AAAAAAAADM0/57onlDQYOvURa0iMd73XlCTrjoTrZ3-9wCLcBGAs/s1600/canal-promessas.png" group-title="Evangelico",CANAL PROMESSAS GO
 http://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Catolica",TV EVANGELIZAR SD
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Catolica",REDE SECULO 21 HD 1
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Catolica",REDE SECULO 21 HD 2
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="Catolica",TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
+
 
 
 
