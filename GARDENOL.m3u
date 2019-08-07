@@ -319,6 +319,10 @@ http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
 
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="Evangelico" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Evangelico",IURD TV HD UNIVERSAL
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
 
@@ -743,10 +747,6 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png" group-title="INTERNACIONAL CARLOS",TRT WORLD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.frosat.net/images/logotv/original/tv2-tr.jpg",TV2 HD Turquia
