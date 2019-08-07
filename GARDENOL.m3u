@@ -69,12 +69,8 @@ https://live.multicanais.com/live/globosphd/video.m3u8?md5=rzS-E-QjoAZB8D0E6hMtA
 
 
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior SD Araçatuba SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
-
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT SD Teresina PI
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD Nordeste 1080p
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD SP
@@ -93,8 +89,12 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD Nordeste 1080p
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior SD Araçatuba SP
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
+
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT SD Teresina PI
+https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8 
 
 
 
