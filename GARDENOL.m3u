@@ -7,11 +7,11 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",Month 08 2019
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",MÊS 08 2019
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",GARDENOL IPTV-BRAZIL
+#EXTINF:-1 tvg-logo="http://www.baruerinarede.com.br/wp-content/uploads/2018/07/emoji-doido.png" group-title="BEM VINDO",LISTA GARDENOL IPTV
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
 
 
@@ -252,6 +252,10 @@ http://173.236.10.10:1935/webtvminas/webtvminas/chunklist_w1729319025.m3u8
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/561624964411822080/4Gb6JokX.jpeg" group-title="CANAL ABERTO CARLOS",Diario do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w961005415.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="CANAL ABERTO CARLOS",MKK WebTV
 http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
 
@@ -261,15 +265,11 @@ http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="CANAL ABERTO CARLOS",REDE TVT SP
-https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gzss0_rI-0Bd8vqXXgbj4PU)/dm/3/x6ph7x7/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxqhTBmkotJ7Wh9CI4f4t6o)/dm/3/x6ph7x7/s/live-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" group-title="CANAL ABERTO CARLOS",TV CARIOCA.NET
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w2009248527.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/561624964411822080/4Gb6JokX.jpeg" group-title="CANAL ABERTO CARLOS",Diario do Sertão
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w961005415.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBuplGQd8Io/hqdefault_live.jpg" group-title="CANAL ABERTO CARLOS",WebTV
@@ -292,8 +292,12 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://truthpoint.org/monkimage.php?mediaDirectory=mediafiles&mediaId=3927927&fileName=gospel-kids-logo-0-0-526-435.jpg" group-title="RELIGIOSO CARLOS",GOSPEL CARTOON DESENHOS CRISTAOS SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6e/Cut_the_Rope_logo.png" group-title="RELIGIOSO CARLOS",TUTU DESENHOS GOSPEL BR
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1k3Jy-EPuWU/hqdefault.jpg" tvg-id="0" group-title="RELIGIOSO CARLOS",TUTU FILMES GOSPEL BR
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 1 Assembleia de Deus
@@ -382,10 +386,6 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES CARLOS",TV ARACATI Brasil
 https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8?wowzasessionid=2112062059
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="FILMES CARLOS",GOSPEL FILMES TV Brasil
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
 #EXTINF:-1 tvg-logo="http://fc09.deviantart.net/fs39/i/2008/339/d/f/Locomotion_by_minino.png" group-title="FILMES CARLOS",LOCOMOTION Espanha
