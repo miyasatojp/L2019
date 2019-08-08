@@ -8,19 +8,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eas495Adu4I/maxresdefault.jpg" group-title="BEM VINDO",AGOSTO 2019
-https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w80320070.m3u8
+https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptv.repres.com.br/wp-content/uploads/2018/09/LIVE-LOGO.png" group-title="BEM VINDO",GARDENOL IPTV
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1335270830
+https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w1553376313.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://fc07.deviantart.net/fs71/f/2012/312/f/4/welcome_deviantart_logo_by_mr_emoo-d5kdeoi.png" group-title="BEM VINDO",Welcome Free IPTV List
+#EXTINF:-1 tvg-logo="http://fc07.deviantart.net/fs71/f/2012/312/f/4/welcome_deviantart_logo_by_mr_emoo-d5kdeoi.png" group-title="BEM VINDO",SEJA BEM VINDO!
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1240802876.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="BEM VINDO",CARLOS ANDERSON e TUTU
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="BEM VINDO",CARLOS&LURDES ANDERSON&TUTU
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
 
 
@@ -272,11 +272,11 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6e/Cut_the_Rope_logo.png" group-title="Evangelico",TUTU DESENHOS GOSPEL BR
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1ijzakBcPrI/V-WrBBCeiKI/AAAAAAAAFd4/8d4ZJ90mYW8_e5sgiie_I_YFSNa0H5nIQCK4B/s1600/amiguinhos-de-deus.png" group-title="Evangelico",TUTU DESENHOS GOSPEL BR
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1k3Jy-EPuWU/hqdefault.jpg" tvg-id="0" group-title="Evangelico",TUTU FILMES GOSPEL BR
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-13eIsJaYvao/V_B_yfnS_VI/AAAAAAAAZBk/FmQfrwfas8QYyu56eilFfkJAVJ_20g7dQCLcB/s1600/Cine%2BCrist%25C3%25A3o.png" tvg-id="0" group-title="Evangelico",TUTU FILMES GOSPEL BR
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
@@ -303,10 +303,11 @@ http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b212800
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Evangelico",IURD TV HD UNIVERSAL
-https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Evangelico",IURD TV UNIVERSAL HD 720p
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Evangelico",IURD TV SD UNIVERSAL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Evangelico",IURD TV UNIVERSAL 480p
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
@@ -316,6 +317,17 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HwUh03uvDZo/WjlIrr-qo3I/AAAAAAAADM0/57onlDQYOvURa0iMd73XlCTrjoTrZ3-9wCLcBGAs/s1600/canal-promessas.png" group-title="Evangelico",CANAL PROMESSAS GO
 http://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/a4/30/ca/93/imagen-rede-brasil-tv-0thumb.jpg" group-title="Evangelico",Rede Brasil de Comunicação HD GO
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1453307995_b1096000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radaramazonico.com.br/wp-content/uploads/2019/01/igreja-mundial-do-poder-de-deus-original.jpg" group-title="Evangelico",TV Igreja Mundial do Poder de Deus IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w196508913_b2628000.m3u8
+
+
+
 
 
 
@@ -334,6 +346,10 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="Catolica",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-162-canal-rede-vida.png" group-title="Catolica",Rede Vida HD SP São José do Rio Preto
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
 
