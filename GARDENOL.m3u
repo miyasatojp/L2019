@@ -21,8 +21,7 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1240802876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="BEM VINDO",CARLOS&LURDES ANDERSON&TUTU
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1389027036.m3u8
-
+https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 
 
 
@@ -61,6 +60,11 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Guará (Record News) Teste
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1061913802.m3u8
 
 
 
@@ -147,10 +151,6 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w996759556_b1096000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="CANAL ABERTO CARLOS",REDE BRASIL tv metropolitana
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/chunklist_w1103145337.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
 
@@ -184,10 +184,6 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO CARLOS",TV Faap HD
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/via_morena_tv_br.png" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS
-https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
@@ -272,12 +268,23 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1ijzakBcPrI/V-WrBBCeiKI/AAAAAAAAFd4/8d4ZJ90mYW8_e5sgiie_I_YFSNa0H5nIQCK4B/s1600/amiguinhos-de-deus.png" group-title="Evangelico",TUTU DESENHOS GOSPEL BR
+#EXTINF:-1 tvg-logo="https://ottvsimg.blob.core.windows.net/res/channels/playkids.png" group-title="Evangelico",TUTU Desenhos Gospel
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-13eIsJaYvao/V_B_yfnS_VI/AAAAAAAAZBk/FmQfrwfas8QYyu56eilFfkJAVJ_20g7dQCLcB/s1600/Cine%2BCrist%25C3%25A3o.png" tvg-id="0" group-title="Evangelico",TUTU FILMES GOSPEL BR
+#EXTINF:-1 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Evangelico",TUTU Radio Infantil (Audio)
+http://192.99.150.31:9431/;
+
+
+#EXTINF:-1 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Evangelico",TUTU Historinha Infantil (Audio)
+http://192.99.150.31:8371/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/android-3d-png-8.png" tvg-id="0" group-title="Evangelico",TUTU Filmes Gospel
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Evangelico",Assembleia de Deus 1 TV AD BELEM HD
@@ -707,10 +714,6 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="INTERNACIONAL CARLOS",RT Documentary Channel HD
 https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
-http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL CARLOS",BLOOMBERG TV HD NY USA
