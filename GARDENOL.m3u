@@ -273,18 +273,11 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 
 
-#EXTINF:0 tvg-logo=" " group-title="Evangelico" tvg-name="RADIO TESTE"radio=true,RADIO TESTE 1
+#EXTINF:0 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Evangelico" tvg-name=""radio=true,TUTU Radio Infantil (Audio)
 http://192.99.150.31:9431/;
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Evangelico",TUTU Radio Infantil (Audio)
-http://192.99.150.31:9431/;
-
-
-#EXTINF:-1 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Evangelico",TUTU Historinha Infantil (Audio)
+#EXTINF:0 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Evangelico" tvg-name=""radio=true,TUTU Historinha Infantil (Audio)
 http://192.99.150.31:8371/stream
 
 
