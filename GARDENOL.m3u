@@ -268,7 +268,7 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ottvsimg.blob.core.windows.net/res/channels/playkids.png" group-title="Evangelico",TUTU Desenhos Gospel
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/26/ee/7c/26ee7c3f-ee41-25a1-10be-13a0ca7cad86/source/512x512bb.jpg" group-title="Evangelico",TUTU Desenhos Gospel
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
@@ -281,7 +281,7 @@ http://192.99.150.31:9431/;
 http://192.99.150.31:8371/stream
 
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/android-3d-png-8.png" tvg-id="0" group-title="Evangelico",TUTU Filmes Gospel
+#EXTINF:-1 tvg-logo="http://www.relatably.com/m/img/buddy-jesus-meme-generator/buddy_christ.jpg" tvg-id="0" group-title="Evangelico",TUTU Filmes Gospel
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
