@@ -272,6 +272,14 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
+
+#EXTINF:0 tvg-logo=" " group-title="Evangelico" tvg-name=""radio=true,Radio TEste
+http://192.99.150.31:9431/;
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Evangelico",TUTU Radio Infantil (Audio)
 http://192.99.150.31:9431/;
 
