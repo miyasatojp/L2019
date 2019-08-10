@@ -16,12 +16,13 @@ http://192.99.150.31:9485/;
 
 
 #EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="BEM VINDO",SEJAM BEM VINDOS!
-https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w1553376313.m3u8
+http://192.99.150.31:8056/;
 
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="BEM VINDO",CARLOS&LURDES ANDERSON&TUTU
-https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
+https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w1553376313.m3u8
+
 
 
 
