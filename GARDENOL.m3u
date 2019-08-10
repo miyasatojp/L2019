@@ -7,20 +7,20 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="BEM VINDO",AGOSTO 2019 (Audio)
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="CARLOS&LURDES&ANDERSON&TUTU",AGOSTO 2019 (Audio)
 http://192.99.150.31:8775/;
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="BEM VINDO",GARDENOL IPTV (Audio)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="CARLOS&LURDES&ANDERSON&TUTU",GARDENOL IPTV (Audio)
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="BEM VINDO",SEJAM BEM VINDOS! (Audio)
+#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="CARLOS&LURDES&ANDERSON&TUTU",SEJAM BEM VINDOS! (Audio)
 http://192.99.150.31:8056/;
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="BEM VINDO",CARLOS&LURDES ANDERSON&TUTU
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="CARLOS&LURDES&ANDERSON&TUTU",Tv Banqueta(CARLOS&LURDES&ANDERSON&TUTU)
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w1553376313.m3u8
 
 
