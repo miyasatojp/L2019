@@ -270,69 +270,73 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Evangelico" tvg-name=""radio=true,TUTU (Audio) Radio Infantil
+#EXTINF:0 tvg-logo="http://www.softautomotiva.com.br/marketing/Banco-de-Imagens/Mascotes/Super-SOFT-Chutando-01.png" tvg-id="0" group-title="Família Cristã" tvg-name=""radio=true,TUTU Radio Infantil (Audio)
 http://192.99.150.31:9431/;
 
 
-#EXTINF:0 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Evangelico" tvg-name=""radio=true,TUTU (Audio) Historinha Infantil
+#EXTINF:0 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Família Cristã" tvg-name=""radio=true,TUTU Historinha Infantil (Audio)
 http://192.99.150.31:8371/stream
 
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/26/ee/7c/26ee7c3f-ee41-25a1-10be-13a0ca7cad86/source/512x512bb.jpg" group-title="Evangelico",TUTU Desenhos Gospel
+#EXTINF:-1 tvg-logo="https://radioviagospel.files.wordpress.com/2018/12/cropped-logo-2019.png" group-title="Família Cristã" tvg-name=""radio=true,TUTU Radio Gospel (Audio)
+http://192.99.150.31:9101/;
+
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/26/ee/7c/26ee7c3f-ee41-25a1-10be-13a0ca7cad86/source/512x512bb.jpg" group-title="Família Cristã",TUTU Desenhos Gospel
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
-#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1832477/14384/v/1600/depositphotos_143844661-stock-illustration-cinema-objects-popcorn-bucket-and.jpg" tvg-id="0" group-title="Evangelico",TUTU Filmes Gospel
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/1832477/14384/v/1600/depositphotos_143844661-stock-illustration-cinema-objects-popcorn-bucket-and.jpg" tvg-id="0" group-title="Família Cristã",TUTU Filmes Gospel
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Evangelico",Assembleia de Deus 1 TV AD BELEM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Família Cristã",Assembleia de Deus 1 TV AD BELEM HD
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="Evangelico",Assembleia de Deus 2 TV AD BELEM HD
+#EXTINF:-1 tvg-logo="https://goo.gl/QCj1io" group-title="Família Cristã",Assembleia de Deus 2 TV AD BELEM HD
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="Evangelico",Quadrangular WEB TV IEQ SE
+#EXTINF:-1 tvg-logo="https://www.nbz.com.br/ieq/images/dpto/ieq0026.jpg" group-title="Família Cristã",Quadrangular WEB TV IEQ SE
 http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/solomnikov/solomnikov1611/solomnikov161100064/65715336-church-logo-christian-symbols-the-cross-of-jesus-the-fire-of-the-holy-spirit-and-the-dove-.jpg" group-title="Evangelico",TV BOA ESPERANÇA HD PE Belo Jardim
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/solomnikov/solomnikov1611/solomnikov161100064/65715336-church-logo-christian-symbols-the-cross-of-jesus-the-fire-of-the-holy-spirit-and-the-dove-.jpg" group-title="Família Cristã",TV BOA ESPERANÇA HD PE Belo Jardim
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
 
 
-#EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="Evangelico",TV NOVO TEMPO BR
+#EXTINF:-1 tvg-logo="http://novotempo.com/tv/files/logo-tv.jpg" group-title="Família Cristã",TV NOVO TEMPO BR
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="Evangelico" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="Família Cristã" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Evangelico",IURD TV UNIVERSAL HD 720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Família Cristã",IURD TV UNIVERSAL HD 720p
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Evangelico",IURD TV UNIVERSAL 480p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Família Cristã",IURD TV UNIVERSAL 480p
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Evangelico",TV TERCEIRO ANJO HD Igreja Adventista
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Família Cristã",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HwUh03uvDZo/WjlIrr-qo3I/AAAAAAAADM0/57onlDQYOvURa0iMd73XlCTrjoTrZ3-9wCLcBGAs/s1600/canal-promessas.png" group-title="Evangelico",CANAL PROMESSAS GO
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HwUh03uvDZo/WjlIrr-qo3I/AAAAAAAADM0/57onlDQYOvURa0iMd73XlCTrjoTrZ3-9wCLcBGAs/s1600/canal-promessas.png" group-title="Família Cristã",CANAL PROMESSAS GO
 http://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/a4/30/ca/93/imagen-rede-brasil-tv-0thumb.jpg" group-title="Evangelico",Rede Brasil de Comunicação HD GO
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/a4/30/ca/93/imagen-rede-brasil-tv-0thumb.jpg" group-title="Família Cristã",Rede Brasil de Comunicação HD GO
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1453307995_b1096000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://radaramazonico.com.br/wp-content/uploads/2019/01/igreja-mundial-do-poder-de-deus-original.jpg" group-title="Evangelico",TV Igreja Mundial do Poder de Deus IMPD TV
+#EXTINF:-1 tvg-logo="https://radaramazonico.com.br/wp-content/uploads/2019/01/igreja-mundial-do-poder-de-deus-original.jpg" group-title="Família Cristã",TV Igreja Mundial do Poder de Deus IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w196508913_b2628000.m3u8
 
 
@@ -342,22 +346,22 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w196508913_b26
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Catolica",TV EVANGELIZAR PR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Família Cristã",TV EVANGELIZAR PR
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Catolica",REDE SECULO 21 HD 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Família Cristã",REDE SECULO 21 HD 1
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Catolica",REDE SECULO 21 HD 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Família Cristã",REDE SECULO 21 HD 2
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="Catolica",TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="Família Cristã",TV APARECIDA HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-162-canal-rede-vida.png" group-title="Catolica",Rede Vida HD SP São José do Rio Preto
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-162-canal-rede-vida.png" group-title="Família Cristã",Rede Vida HD SP São José do Rio Preto
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
