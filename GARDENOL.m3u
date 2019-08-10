@@ -7,15 +7,15 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="BEM VINDO",AGOSTO 2019
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="BEM VINDO",AGOSTO 2019 (Audio)
 http://192.99.150.31:8775/;
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="BEM VINDO",GARDENOL IPTV
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="BEM VINDO",GARDENOL IPTV (Audio)
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="BEM VINDO",SEJAM BEM VINDOS!
+#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="BEM VINDO",SEJAM BEM VINDOS! (Audio)
 http://192.99.150.31:8056/;
 
 
