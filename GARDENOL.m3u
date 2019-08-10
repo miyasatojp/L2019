@@ -7,15 +7,15 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="LURDES&ANDERSON&TUTU",AGOSTO 2019 (Audio)
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="LURDES&ANDERSON&TUTU",AGOSTO 2019 (Audio)(MPB)
 http://192.99.150.31:8775/;
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="LURDES&ANDERSON&TUTU",GARDENOL IPTV (Audio)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pUabh1ejL.png" group-title="LURDES&ANDERSON&TUTU",GARDENOL IPTV (Audio)(Sertanejo)
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="LURDES&ANDERSON&TUTU",SEJAM BEM VINDOS! (Audio)
+#EXTINF:-1 tvg-logo="https://abeon-hosting.com/images/logo-familia-png-10.jpg" group-title="LURDES&ANDERSON&TUTU",SEJAM BEM VINDOS! (Audio)(Anos 90)
 http://192.99.150.31:8056/;
 
 
