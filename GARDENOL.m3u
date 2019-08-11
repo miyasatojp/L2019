@@ -271,7 +271,7 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://mljarmin.com/wp-content/uploads/2014/06/StealthyBox1.png" tvg-id="0" group-title="Família Cristã",TUTU Radio Infantil (Audio)
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ba/85/f4/ba85f418acc7f6e69eca574c41155b3a.png" tvg-id="0" group-title="Família Cristã",TUTU Radio Infantil (Audio)
 http://192.99.150.31:9431/;
 
 
@@ -279,7 +279,7 @@ http://192.99.150.31:9431/;
 http://192.99.150.31:8371/stream
 
 
-#EXTINF:-1 tvg-logo="https://radioviagospel.files.wordpress.com/2018/12/cropped-logo-2019.png" group-title="Família Cristã",TUTU Radio Gospel (Audio)
+#EXTINF:-1 tvg-logo="https://sp.ii-sys.jp/wp-content/uploads/2017/11/417fd0ced4d7ecad9e32bc813bc5f5b7.png" group-title="Família Cristã",TUTU Radio Gospel (Audio)
 http://192.99.150.31:9101/;
 
 
