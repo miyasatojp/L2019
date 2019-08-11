@@ -940,7 +940,7 @@ http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
 
 
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" tvg-name=""radio=true,Radio Forro
+#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Forro
 http://192.99.150.31:9019/;
 
 #EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" tvg-name=""radio=true,Radio Rock Classico
