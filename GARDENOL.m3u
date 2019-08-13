@@ -1023,11 +1023,7 @@ http://noasrv.caster.fm:10124/stream
 
 
 
-
 #======================= FILMES ANIMAÇÃO
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9f/18/87/9f1887de657a19550890105b1f4434c1.png" group-title="LHMTV FILMES",CARLOS e LHMTV.NET (Créditos Filmes)
@@ -1108,6 +1104,11 @@ http://tyr.lhmtv.gq/redecanais/AAVTRSDTNFILME.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Bob Esponja O Filme (Animação)
 http://tyr.lhmtv.gq/redecanais/BOBOFILME.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Jovens Titas O Contrato de Judas (Animação)
+http://freya.lhmtv.gq/redecanais/JVNSTSOCTRTDJDS.mp4?LHMTv
+
 
 
 
@@ -1287,5 +1288,99 @@ http://freya.lhmtv.gq/redecanais/MASHUM.mp4?LHMTv
 http://freya.lhmtv.gq/redecanais/LVNDA.mp4?LHMTv
 
 
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Jose do Egito O Filme (Nacional)
+http://freya.lhmtv.gq/redecanais/JSDEGTOFLM.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Pandora
+http://freya.lhmtv.gq/redecanais/PNDRA.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Horizonte Profundo Desastre no Golfo
+http://freya.lhmtv.gq/redecanais/HRZNTPRFNDSTRDGLF.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Hancock
+http://freya.lhmtv.gq/redecanais/HNCK.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Call to Duty Fora de Alcance
+http://freya.lhmtv.gq/redecanais/CLTDTY.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",A ultima ressaca do ano
+http://freya.lhmtv.gq/redecanais/AULTMRSCDAN.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Um Suburbano Sortudo (Nacional)
+http://freya.lhmtv.gq/redecanais/UMSUBSRTDO.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Sete Minutos Depois da Meia Noite
+http://freya.lhmtv.gq/redecanais/STMNDPSDMENTDUB.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Nao Me Abandone Jamais
+http://freya.lhmtv.gq/redecanais/NMABNDJMS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Nao e Mais Um Besteirol Americano
+http://freya.lhmtv.gq/redecanais/NEUMBSTRAMRCN.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Jonas (Nacional)
+http://freya.lhmtv.gq/redecanais/JNS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Escondidos
+http://freya.lhmtv.gq/redecanais/ESCNDS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Entre Abelhas (Nacional)
+http://freya.lhmtv.gq/redecanais/ENTRABLHS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Depois de Tudo (Nacional)
+http://freya.lhmtv.gq/redecanais/DPSDTD.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Deidra e Laney Assaltam um Trem
+http://freya.lhmtv.gq/redecanais/DEDRELNYASTMUTRM.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Capitao Fantastico
+http://freya.lhmtv.gq/redecanais/CPTFNTSC.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Chato O Rei do Brasil (Nacional)
+http://freya.lhmtv.gq/redecanais/CHTORDBR.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Resgate Suicida
+http://freya.lhmtv.gq/redecanais/RSGTSCD.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Rogue One Uma Historia Star Wars
+http://freya.lhmtv.gq/redecanais/RGONUHSTRWRS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Monster Trucks
+http://freya.lhmtv.gq/redecanais/MNSTRRCK.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Do Que as Mulheres Gostam
+http://freya.lhmtv.gq/redecanais/DQAMLHRSGSTM.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",A Lenda do Rei Macaco
+http://freya.lhmtv.gq/redecanais/ALNDRMC.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",A Lenda do Rei Macaco 2 Viagem ao Oeste
+http://freya.lhmtv.gq/redecanais/ALNDRMC2.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="LHMTV FILMES",Halloweentown A Cidade do Halloween
+http://freya.lhmtv.gq/redecanais/ACDDHLWN.mp4?LHMTv
 
 
