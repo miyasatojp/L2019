@@ -9,7 +9,13 @@
 
 
 ##################################################
+##                   CRÉDITOS                   ##
+##     LISTA IPTV : CARLOS-GARDENOL IPTV        ##
+##     https://gardenoliptv.blogspot.com        ##
 ##                                              ##
+##           ( SEM FINS LUCRATIVOS )            ##
+##                                              ##
+##     FILMES : LHMTV.NET - WWW.LHMTV.NET       ##
 ## OS FILMES SÃO UMA CORTESIA DE WWW.LHMTV.NET  ##
 ##                                              ##
 ##################################################
@@ -1037,6 +1043,14 @@ http://noasrv.caster.fm:10124/stream
 
 
 
+##################################################
+##                                              ##
+## OS FILMES SÃO UMA CORTESIA DE WWW.LHMTV.NET  ##
+##                                              ##
+##################################################
+
+
+
 
 #======================= FILMES ANIMAÇÃO
 
@@ -1155,153 +1169,253 @@ http://tyr.lhmtv.gq/redecanais/OCRCNDDNTRDM2.mp4?LHMTv
 
 
 
+#======================= COLEÇÃO 007
 
-#======================= CARLOS e LHMTv.NET FILMES
+##COLEÇÃO 007##
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra O foguete da Morte
+http://balder.lhmtv.gq/redecanais/0071979CNTROFGUT.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Cassino Royale
+http://balder.lhmtv.gq/redecanais/0072006CSNRYL.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra A chantagem atomica
+http://balder.lhmtv.gq/redecanais/0071965CNTRACTGMATN.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 A servico secreto da sua majestade
+http://balder.lhmtv.gq/redecanais/0071969ASVCSCRT.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra Goldeneye
+http://balder.lhmtv.gq/redecanais/0071995CNTRGLDNE.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra Goldfinger
+http://balder.lhmtv.gq/redecanais/0071964CNTRGLDFNG.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra o homem com a pistola de ouro
+http://balder.lhmtv.gq/redecanais/0071974CNTROHMN.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra O satanico Dr. No
+http://balder.lhmtv.gq/redecanais/0071962CNTROSTNC.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra Octopussy
+http://balder.lhmtv.gq/redecanais/0071983CNTROPCTPS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra Spectre
+http://balder.lhmtv.gq/redecanais/0072016CNTRSPCTR.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Marcado para Morte
+http://balder.lhmtv.gq/redecanais/0071987MRCDOMRT.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Na mira dos assassinos
+http://balder.lhmtv.gq/redecanais/0071985NMRDSASNS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 O Amanha nunca morre
+http://balder.lhmtv.gq/redecanais/0071997OAMNHNCM.mp4?LHMTv
 
 
 
-##CARLOS e LHMTv.NET FILMES##
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Street Fighter A Ultima Batalha
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 O espiao que me amava
+http://balder.lhmtv.gq/redecanais/0071977OESPNHQMA.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 O Mundo nao e o bastante
+http://balder.lhmtv.gq/redecanais/0071999OMNDNAOEOBST.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Operacao SkyFall
+http://balder.lhmtv.gq/redecanais/0072012SKYFL.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 OS diamantes sao eternos
+http://balder.lhmtv.gq/redecanais/0071971OSDAMTS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Permissao para matar
+http://balder.lhmtv.gq/redecanais/0071989PRMSPMTR.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Quantum of Solage
+http://balder.lhmtv.gq/redecanais/0072008QNTOFSLC.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 So se vive 2 vezes
+http://balder.lhmtv.gq/redecanais/0071967CM007SSVDV.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Somente para seus olhos
+http://balder.lhmtv.gq/redecanais/0071981SMNTPSOLHS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Um novo dia para morrer
+http://balder.lhmtv.gq/redecanais/0072002UNDPM.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Viva e deixe morrer
+http://balder.lhmtv.gq/redecanais/0071973VIVADXMR.mp4?LHMTv
+
+
+
+
+
+
+
+#======================= FILMES DUBLADOS
+
+
+
+##FILMES DUBLADOS##
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Street Fighter A Ultima Batalha
 http://tyr.lhmtv.gq/redecanais/STRTFGTRAULTMBTLH.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",D.U.F.F. Voce Conhece, Tem ou e
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",D.U.F.F. Voce Conhece Tem ou e
 http://tyr.lhmtv.gq/redecanais/DUFFVCNHECTMOE.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Swindle
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Swindle
 http://tyr.lhmtv.gq/redecanais/SWINDLE.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Pixels
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Pixels
 http://tyr.lhmtv.gq/redecanais/PIXRLS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Um Brinde a Amizade
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Um Brinde a Amizade
 http://tyr.lhmtv.gq/redecanais/UBRNDAMZD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",TED
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",TED
 http://tyr.lhmtv.gq/redecanais/TED.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Belas e Perseguidas
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Belas e Perseguidas
 http://tyr.lhmtv.gq/redecanais/BLSEPRSGDS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Procura da Felicidade
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Procura da Felicidade
 http://tyr.lhmtv.gq/redecanais/APRCRDFLCDAD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Um Milhao de Maneiras de Pegar na Pistola
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Um Milhao de Maneiras de Pegar na Pistola
 http://tyr.lhmtv.gq/redecanais/UMLHDMNRSDPGRNPSTL.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Sem Direito a Resgate
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Sem Direito a Resgate
 http://tyr.lhmtv.gq/redecanais/SMDRTARSGT.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Relatos Selvagens
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Relatos Selvagens
 http://tyr.lhmtv.gq/redecanais/RLTSSLVGNS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Nos Nunca Teremos Paris
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Nos Nunca Teremos Paris
 http://tyr.lhmtv.gq/redecanais/NSNCTRMSPRS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Mais Estranho Que A Ficcao
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Mais Estranho Que A Ficcao
 http://tyr.lhmtv.gq/redecanais/MSESTNHQFCAO.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Como Se Fosse a Primeira Vez
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Como Se Fosse a Primeira Vez
 http://tyr.lhmtv.gq/redecanais/CMSFSAPRMVZ.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Birdman ou
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Birdman ou
 http://tyr.lhmtv.gq/redecanais/BRDMAINSPDVRTDAIGN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Morte no Funeral
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Morte no Funeral
 http://tyr.lhmtv.gq/redecanais/MRTNFNRL.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Mentira
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Mentira
 http://tyr.lhmtv.gq/redecanais/AMNTR.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Lar Doce Inferno
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Lar Doce Inferno
 http://tyr.lhmtv.gq/redecanais/LRDCINFN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Golpe Duplo
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Golpe Duplo
 http://tyr.lhmtv.gq/redecanais/GLPDPL.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Grandes Olhos
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Grandes Olhos
 http://tyr.lhmtv.gq/redecanais/GRNDSOLHS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Caminhos da Floresta
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Caminhos da Floresta
 http://tyr.lhmtv.gq/redecanais/CMNHSDFLRST.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Fantastica Fabrica de Chocolate
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Fantastica Fabrica de Chocolate
 http://tyr.lhmtv.gq/redecanais/AFNTSCFBRCDCHCLT2005.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Entrevista
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Entrevista
 http://tyr.lhmtv.gq/redecanais/AERVTVST.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Uma Noticia Inesperada
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Uma Noticia Inesperada
 http://tyr.lhmtv.gq/redecanais/UNTCINSPRD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Joao Maria E a Bruxa da Floresta Negra
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Joao Maria E a Bruxa da Floresta Negra
 http://tyr.lhmtv.gq/redecanais/JAOMRAEABXDFLRSNG.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Piratas do Caribe Navegando em Aguas Misteriosas
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Piratas do Caribe Navegando em Aguas Misteriosas
 http://tyr.lhmtv.gq/redecanais/PRTSDCRB04.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",O Amor e Cego
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",O Amor e Cego
 http://tyr.lhmtv.gq/redecanais/OAMRECG.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Maluca Paixao
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Maluca Paixao
 http://tyr.lhmtv.gq/redecanais/MLCPXAO.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Hitch Conselheiro Amoroso
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Hitch Conselheiro Amoroso
 http://tyr.lhmtv.gq/redecanais/HTCHCNSLHAMRS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",O Novo Pesadelo O Retorno de Freddy Krueger
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",O Novo Pesadelo O Retorno de Freddy Krueger
 http://tyr.lhmtv.gq/redecanais/AHRDPSDL07.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",As Aventuras de Paddington
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",As Aventuras de Paddington
 http://tyr.lhmtv.gq/redecanais/ASAVNTRDPNGTN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Crepusculo
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO01.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Crepusculo Lua Nova
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo Lua Nova
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO02.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Crepusculo Eclipse
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo Eclipse
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO03.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Crepusculo Amanhacer 1
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo Amanhacer 1
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO04.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Crepusculo Amanhacer 2
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo Amanhacer 2
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO05.mp4?LHMTv
 
 
@@ -1310,203 +1424,203 @@ http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO05.mp4?LHMTv
 
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Max Steel
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Max Steel
 http://freya.lhmtv.gq/redecanais/MXSTL.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Mundo Cao (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Mundo Cao (Nacional)
 http://freya.lhmtv.gq/redecanais/MNDCA.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Mae So Ha Uma (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Mae So Ha Uma (Nacional)
 http://freya.lhmtv.gq/redecanais/MASHUM.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Lavanda
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Lavanda
 http://freya.lhmtv.gq/redecanais/LVNDA.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Jose do Egito O Filme (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Jose do Egito O Filme (Nacional)
 http://freya.lhmtv.gq/redecanais/JSDEGTOFLM.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Pandora
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Pandora
 http://freya.lhmtv.gq/redecanais/PNDRA.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Horizonte Profundo Desastre no Golfo
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Horizonte Profundo Desastre no Golfo
 http://freya.lhmtv.gq/redecanais/HRZNTPRFNDSTRDGLF.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Hancock
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Hancock
 http://freya.lhmtv.gq/redecanais/HNCK.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Call to Duty Fora de Alcance
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Call to Duty Fora de Alcance
 http://freya.lhmtv.gq/redecanais/CLTDTY.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A ultima ressaca do ano
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A ultima ressaca do ano
 http://freya.lhmtv.gq/redecanais/AULTMRSCDAN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Um Suburbano Sortudo (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Um Suburbano Sortudo (Nacional)
 http://freya.lhmtv.gq/redecanais/UMSUBSRTDO.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Sete Minutos Depois da Meia Noite
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Sete Minutos Depois da Meia Noite
 http://freya.lhmtv.gq/redecanais/STMNDPSDMENTDUB.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Nao Me Abandone Jamais
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Nao Me Abandone Jamais
 http://freya.lhmtv.gq/redecanais/NMABNDJMS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Nao e Mais Um Besteirol Americano
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Nao e Mais Um Besteirol Americano
 http://freya.lhmtv.gq/redecanais/NEUMBSTRAMRCN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Jonas (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Jonas (Nacional)
 http://freya.lhmtv.gq/redecanais/JNS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Escondidos
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Escondidos
 http://freya.lhmtv.gq/redecanais/ESCNDS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Entre Abelhas (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Entre Abelhas (Nacional)
 http://freya.lhmtv.gq/redecanais/ENTRABLHS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Depois de Tudo (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Depois de Tudo (Nacional)
 http://freya.lhmtv.gq/redecanais/DPSDTD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Deidra e Laney Assaltam um Trem
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Deidra e Laney Assaltam um Trem
 http://freya.lhmtv.gq/redecanais/DEDRELNYASTMUTRM.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Capitao Fantastico
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Capitao Fantastico
 http://freya.lhmtv.gq/redecanais/CPTFNTSC.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Chato O Rei do Brasil (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Chato O Rei do Brasil (Nacional)
 http://freya.lhmtv.gq/redecanais/CHTORDBR.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Resgate Suicida
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Resgate Suicida
 http://freya.lhmtv.gq/redecanais/RSGTSCD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Rogue One Uma Historia Star Wars
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Rogue One Uma Historia Star Wars
 http://freya.lhmtv.gq/redecanais/RGONUHSTRWRS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Monster Trucks
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Monster Trucks
 http://freya.lhmtv.gq/redecanais/MNSTRRCK.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Do Que as Mulheres Gostam
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Do Que as Mulheres Gostam
 http://freya.lhmtv.gq/redecanais/DQAMLHRSGSTM.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Lenda do Rei Macaco
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Lenda do Rei Macaco
 http://freya.lhmtv.gq/redecanais/ALNDRMC.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Lenda do Rei Macaco 2 Viagem ao Oeste
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Lenda do Rei Macaco 2 Viagem ao Oeste
 http://freya.lhmtv.gq/redecanais/ALNDRMC2.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Halloweentown A Cidade do Halloween
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Halloweentown A Cidade do Halloween
 http://freya.lhmtv.gq/redecanais/ACDDHLWN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Nossos Amantes
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Nossos Amantes
 http://freya.lhmtv.gq/redecanais/NOSAMNTS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Manchester a Beira Mar
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Manchester a Beira Mar
 http://freya.lhmtv.gq/redecanais/MACHABRMR.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Rebelde Sem Pascoa
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Rebelde Sem Pascoa
 http://freya.lhmtv.gq/redecanais/HOPRBLSPSC.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Fazenda dos Cisnes
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Fazenda dos Cisnes
 http://freya.lhmtv.gq/redecanais/FZNDSCSN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Coragem em Campo
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Coragem em Campo
 http://freya.lhmtv.gq/redecanais/CRGMEMCMP.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Best Player Guerreiros Virtuais
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Best Player Guerreiros Virtuais
 http://freya.lhmtv.gq/redecanais/BSTPLY.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Ate o Ultimo Homem
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Ate o Ultimo Homem
 http://freya.lhmtv.gq/redecanais/ATOULHMN.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Armas na Mesa
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Armas na Mesa
 http://freya.lhmtv.gq/redecanais/ARMSNMSA.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Bem Casados (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Bem Casados (Nacional)
 http://freya.lhmtv.gq/redecanais/BMCSDOS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Aquarius (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Aquarius (Nacional)
 http://freya.lhmtv.gq/redecanais/AQRIS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Apostando Tudo
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Apostando Tudo
 http://freya.lhmtv.gq/redecanais/APSTNDTD.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Amor em Sampa (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Amor em Sampa (Nacional)
 http://freya.lhmtv.gq/redecanais/AMREMSP.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Fabulosa Gilly Hopkins
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Fabulosa Gilly Hopkins
 http://freya.lhmtv.gq/redecanais/AFBLSGLHP.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",A Descoberta
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",A Descoberta
 http://freya.lhmtv.gq/redecanais/ADSCBRT.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Vizinhos Nada Secretos
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Vizinhos Nada Secretos
 http://freya.lhmtv.gq/redecanais/VZNHSNDSCRTS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Um Limite Entre Nos
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Um Limite Entre Nos
 http://freya.lhmtv.gq/redecanais/UMLMTENTNS.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Sangue Azul (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Sangue Azul (Nacional)
 http://freya.lhmtv.gq/redecanais/SNGAZL.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Peles
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Peles
 http://freya.lhmtv.gq/redecanais/PLES.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",O Olho do Mal
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",O Olho do Mal
 http://freya.lhmtv.gq/redecanais/OLHDML.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",O Desvio
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",O Desvio
 http://freya.lhmtv.gq/redecanais/ODSVIO.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Albatroz (Nacional +14)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Albatroz (Nacional +14)
 http://meili.lhmtv.gq/Filmes/PT/2019/Albatroz.2019.720p.BR.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="CARLOS e LHMTv.NET FILMES",Chorar de Rir (Nacional)
+#EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Chorar de Rir (Nacional)
 http://meili.lhmtv.gq/Filmes/PT/2019/Chorar.de.Rir.2019.1080.mp4?LHMTv
 
 
