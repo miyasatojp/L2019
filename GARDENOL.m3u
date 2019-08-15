@@ -13,7 +13,7 @@
 ##     LISTA IPTV : CARLOS-GARDENOL IPTV        ##
 ##     https://gardenoliptv.blogspot.com        ##
 ##                                              ##
-##           ( SEM FINS LUCRATIVOS )            ##
+##   ( LISTA GRÁTIS - SEM FINS LUCRATIVOS )     ##
 ##                                              ##
 ##     FILMES : LHMTV.NET - WWW.LHMTV.NET       ##
 ## OS FILMES SÃO UMA CORTESIA DE WWW.LHMTV.NET  ##
@@ -31,7 +31,7 @@
 http://192.99.150.31:8775/;
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9f/18/87/9f1887de657a19550890105b1f4434c1.png" group-title="SEJA BEM VINDO!",GARDENOL IPTV (Sertanejo)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9f/18/87/9f1887de657a19550890105b1f4434c1.png" group-title="SEJA BEM VINDO!",GARDENOL IPTV GRATIS (Sertanejo)
 http://192.99.150.31:9485/;
 
 
@@ -1228,12 +1228,20 @@ http://tyr.lhmtv.gq/redecanais/AERDGL3.mp4?LHMTv
 http://tyr.lhmtv.gq/redecanais/AERDGL4.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Happy Feet(Animação)
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Happy Feet (Animação)
 http://freya.lhmtv.gq/redecanais/HPYFT.mp4?LHMTv
 
 
 #EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Happy Feet 2 O Pinguim (Animação)
 http://freya.lhmtv.gq/redecanais/HPYFT2.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Rio (Animação)
+http://freya.lhmtv.gq/redecanais/RIO.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Rio 2 (Animação)
+http://freya.lhmtv.gq/redecanais/RIO2.mp4?LHMTv
 
 
 
@@ -1962,4 +1970,33 @@ http://freya.lhmtv.gq/redecanais/ELDNCEUDNC4.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Ela Danca Eu Danco 5 Tudo ou Nada
 http://freya.lhmtv.gq/redecanais/ELDNCEUDNC5.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Cruzeiro das Loucas
+http://freya.lhmtv.gq/redecanais/OCRZRDLCS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Uma Noite de Crime
+http://freya.lhmtv.gq/redecanais/UMNTDCRM.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Uma Noite de Crime 2 Anarquia
+http://freya.lhmtv.gq/redecanais/UMNTDCRM2ARQU.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Uma Noite de Crime 3
+http://freya.lhmtv.gq/redecanais/UMNTDCRM3.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Mad Max
+http://tyr.lhmtv.gq/redecanais/MDMX01.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Mad Max 2 A Cacada continua
+http://tyr.lhmtv.gq/redecanais/MDMX02.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Mad Max Alem da cupula do dragao
+http://tyr.lhmtv.gq/redecanais/MDMX03.mp4?LHMTv
+
 
