@@ -1260,8 +1260,12 @@ http://tyr.lhmtv.gq/redecanais/APRNCSENCTDAORNDMSCA.mp4?LHMTv
 http://tyr.lhmtv.gq/redecanais/MSNGLNK.mp4?LHMTv
 
 
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Dumbo (Animação)
+http://thor.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
 
 
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",O Retorno de Mary Poppins (Animação)
+http://thor.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
 
 
 
@@ -1976,10 +1980,6 @@ http://thor.lhmtv.gq/filmes/osoldadodecristo-dub-720p.mp4?LHMTv
 http://thor.lhmtv.gq/filmes/operacaofronteira-dub-720p.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_960_720.png" group-title="FILMES DUBLADOS 2",Dumbo
-http://thor.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
-
-
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_960_720.png" group-title="FILMES DUBLADOS 2",10 Segundos para Vencer (Nacional)
 http://thor.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
 
@@ -2007,9 +2007,6 @@ http://thor.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
 EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_960_720.png" group-title="FILMES DUBLADOS 2",Holmes & Watson
 http://thor.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
 
-
-EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_960_720.png" group-title="FILMES DUBLADOS 2",O Retorno de Mary Poppins
-http://thor.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
 
 
 
