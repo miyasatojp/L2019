@@ -109,7 +109,7 @@ http://live.tcm10.com.br/tcm10.m3u8
 http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Bah-Amped-Logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
+#EXTINF:-1 tvg-logo="http://jrscomunicacao.com/wp-content/uploads/2017/06/18838957_10214153705821742_4176658407251604279_n-540x480.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
@@ -263,10 +263,6 @@ http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337
 http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="CANAL ABERTO CARLOS",REDE TVT SP
-https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxqhTBmkotJ7Wh9CI4f4t6o)/dm/3/x6ph7x7/s/live-2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" group-title="CANAL ABERTO CARLOS",TV CARIOCA.NET
 http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w2009248527.m3u8
 
@@ -298,7 +294,7 @@ http://192.99.150.31:9431/;
 http://192.99.150.31:8371/stream
 
 
-#EXTINF:-1 tvg-logo="https://sp.ii-sys.jp/wp-content/uploads/2017/11/417fd0ced4d7ecad9e32bc813bc5f5b7.png" group-title="Família Cristã",TUTU Radio Gospel (Audio)
+#EXTINF:-1 tvg-logo="https://sintonizeradios.com/wp-content/uploads/2016/09/radio-gospel-hits-640x640.png" group-title="Família Cristã",TUTU Radio Gospel (Audio)
 http://192.99.150.31:9101/;
 
 
