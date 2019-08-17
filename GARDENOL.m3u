@@ -27,15 +27,19 @@
 #======================= SEJA BEM VINDO!
 
 ##SEJA BEM VINDO!##
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="SEJA BEM VINDO!",AGOSTO 2019 (MPB)
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="SEJA BEM VINDO!",AGOSTO 2019
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SUPER GRATIS (MPB)
 http://192.99.150.31:8775/;
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9f/18/87/9f1887de657a19550890105b1f4434c1.png" group-title="SEJA BEM VINDO!",GARDENOL IPTV GRATIS (Sertanejo)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",GARDENOL IPTV CARLOS (Sertanejão)
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://cuadrosyvinilos.es/content/upload/master/thumb/470/e9dc2f97-3fa0-4bcc-bc28-c56c28e69d15.png" group-title="SEJA BEM VINDO!",SEJAM BEM VINDOS!(Anos 90)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SEJAM BEM VINDOS!(Anos 90)
 http://192.99.150.31:8056/;
 
 
