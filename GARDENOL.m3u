@@ -111,7 +111,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
 http://live.tcm10.com.br/tcm10.m3u8
 
 
@@ -425,7 +425,7 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 ##TV FILMES ONLINE##
-#EXTINF:-1 tvg-id="0" tvg-logo="https://listimg.pinclipart.com/picdir/s/53-533877_24-hour-fast-clipart-cliparthut-free-clipart-jrguqr.png" group-title="TV FILMES ONLINE",TUTU 24HS Br
+#EXTINF:-1 tvg-id="0" tvg-logo="https://www.aberturadecofres.pt/wp-content/uploads/2015/05/icono-24h.png" group-title="TV FILMES ONLINE",TUTU 24HS Br
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 
 
@@ -459,7 +459,7 @@ https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&re
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="TV FILMES ONLINE",FOX MOVIES SD USA
+#EXTINF:-1 tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2018/03/2016_fox_orange_s_fundo.png" tvg-id="0" group-title="TV FILMES ONLINE",FOX MOVIES SD USA
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
