@@ -577,6 +577,14 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w367888730.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1280px-Telemax.png" group-title="INTERNACIONAL CARLOS",TELEMAX Canal 6 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781239_logo_tele_red_alajuela2.png" group-title="INTERNACIONAL CARLOS",Telered Costa Rica
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple60/v4/22/75/ef/2275efc3-21bb-d3a5-2315-982707b52e78/source/512x512bb.jpg" group-title="INTERNACIONAL CARLOS",WOW TV HD El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -591,6 +599,10 @@ http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1393580664.m3u8
 
 #EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="INTERNACIONAL CARLOS",HCH TV Honduras
 http://stream.innovandote.com/hch/hch/chunklist_w1817670130.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-10.jpg" group-title="INTERNACIONAL CARLOS",TEN Canal 10 Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAL CARLOS",TeleSUR TV Caracas Venezuela
@@ -659,6 +671,10 @@ https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b1
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/xhgjg.jpg" group-title="INTERNACIONAL CARLOS",XHGJG Mexico
 http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w2067677294.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="INTERNACIONAL CARLOS",Canal 10 Cancun Mexico
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
