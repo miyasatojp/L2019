@@ -24,11 +24,6 @@
 
 #EXTM3U
 
-#======================= SEJA BEM VINDO!
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="SEJA BEM VINDO!",AGOSTO 2019
 http://0.0.0.0
@@ -54,7 +49,6 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
 
-#======================= CANAL ABERTO CARLOS
 
 
 
@@ -294,7 +288,6 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-#======================= Família Cristã
 
 
 
@@ -401,7 +394,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 
 
 
-#======================= Clipes Musicais
 
 
 
@@ -423,7 +415,6 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 
-#======================= TV FILMES ONLINE
 
 
 
@@ -475,7 +466,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-#======================= ESPORTES CARLOS
 
 
 
@@ -541,7 +531,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
-#======================= INTERNACIONAL CARLOS
 
 
 
@@ -924,7 +913,6 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
 
-#======================= CÂMERAS AO VIVO
 
 
 
@@ -966,7 +954,6 @@ https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
 
-#======================= RADIOS NO ESTUDIO
 
 
 
@@ -995,7 +982,6 @@ http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
 
 
 
-#======================= Radios Apenas Audio
 
 
 
@@ -1086,16 +1072,9 @@ http://noasrv.caster.fm:10124/stream
 
 
 
-##################################################
-##                                              ##
-## OS FILMES SÃO UMA CORTESIA DE WWW.LHMTV.NET  ##
-##                                              ##
-##################################################
 
 
 
-
-#======================= FILMES ANIMAÇÃO
 
 
 ##FILMES ANIMAÇÃO##
@@ -1376,9 +1355,7 @@ http://thor.lhmtv.gq/filmes/temalienigenasnomeuquarto-dub-720p.mp4?LHMTv
 
 
 
-#======================= COLEÇÃO 007
 
-##COLEÇÃO 007##
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CPQd22-VAAEHMgH.jpg" group-title="COLEÇÃO 007",007 Contra O foguete da Morte
 http://balder.lhmtv.gq/redecanais/0071979CNTROFGUT.mp4?LHMTv
 
@@ -1477,11 +1454,9 @@ http://balder.lhmtv.gq/redecanais/0071973VIVADXMR.mp4?LHMTv
 
 
 
-#======================= FILMES DUBLADOS
 
 
 
-##FILMES DUBLADOS##
 #EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Street Fighter A Ultima Batalha
 http://tyr.lhmtv.gq/redecanais/STRTFGTRAULTMBTLH.mp4?LHMTv
 
@@ -1624,10 +1599,6 @@ http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO04.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="https://filmesx.biz/wp-content/uploads/2019/03/icon.png" group-title="FILMES DUBLADOS",Crepusculo Amanhacer 2
 http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO05.mp4?LHMTv
-
-
-
-
 
 
 
@@ -1839,11 +1810,9 @@ http://meili.lhmtv.gq/Filmes/PT/2019/Chorar.de.Rir.2019.1080.mp4?LHMTv
 
 
 
-#======================= FILMES DUBLADOS 2
 
 
 
-##FILMES DUBLADOS 2##
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_960_720.png" group-title="FILMES DUBLADOS 2",Uma Crianca Como Jake
 http://tyr.lhmtv.gq/redecanais/UMCRANCCMJKE.mp4?LHMTv
 
@@ -2333,13 +2302,11 @@ http://thor.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
 
 
 
-#======================= FILMES CLASSICOS
 
 
 
 
 
-##FILMES CLASSICOS##
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",De Volta para o Futuro
 http://tyr.lhmtv.gq/redecanais/DVLTPROFUT1.mp4?LHMTv
 
@@ -2545,12 +2512,6 @@ http://tyr.lhmtv.gq/redecanais/AHRDRSH03.mp4?LHMTv
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/botao-iniciar-png-5.png" group-title="FILMES CLASSICOS",Matrix
 http://freya.lhmtv.gq/redecanais/MTRX.mp4?LHMTv
 
@@ -2632,7 +2593,6 @@ http://tyr.lhmtv.gq/redecanais/MDMX03.mp4?LHMTv
 
 
 
-#======================= SERIE A FORMULA
 
 
 
@@ -2682,7 +2642,6 @@ http://vidar.lhmtv.gq/Series/A.Formula.1/A.Formula.S01E08.mkv?LHMTv
 
 
 
-#======================= SERIE A MULHER INVISIVEL
 
 
 
@@ -2763,7 +2722,6 @@ http://vidar.lhmtv.gq/Series/Mulher.Invisivel.2/T02E08.mp4?LHMTv
 
 
 
-#======================= SERIE AMERICAN CRIME STORY
 
 
 
@@ -2870,7 +2828,6 @@ http://vidar.lhmtv.gq/Series/ACS.2/American.Crime.Story.S02E09.mkv?LHMTv
 
 
 
-#======================= SERIE Band of Brothers
 
 
 
