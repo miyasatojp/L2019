@@ -206,7 +206,7 @@ http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
 
 
-#EXTINF:-1 tvg-name="TV V" tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="CANAL ABERTO CARLOS",TV V FUTURA SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="CANAL ABERTO CARLOS",TV V FUTURA SD
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 
@@ -226,7 +226,8 @@ http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
 
 
-#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2
+
+#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 
 
@@ -234,7 +235,8 @@ https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
 
@@ -361,12 +363,6 @@ https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1453307995_b10
 
 #EXTINF:-1 tvg-logo="https://radaramazonico.com.br/wp-content/uploads/2019/01/igreja-mundial-do-poder-de-deus-original.jpg" group-title="Família Cristã",TV Igreja Mundial do Poder de Deus IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w196508913_b2628000.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Família Cristã",TV EVANGELIZAR PR
