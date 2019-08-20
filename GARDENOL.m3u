@@ -26,7 +26,10 @@
 
 #======================= SEJA BEM VINDO!
 
-##SEJA BEM VINDO!##
+
+
+
+
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="SEJA BEM VINDO!",AGOSTO 2019
 http://0.0.0.0
 
@@ -57,7 +60,6 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
 
-##CANAL ABERTO CARLOS##
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 1080p Nordeste
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
 
@@ -78,19 +80,18 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior 480p Araçatuba SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior 480p Araçatuba SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
 
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT 480p Teresina PI
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT 480p Teresina PI
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8 
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Guará (Record News) Teste
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CANAL ABERTO CARLOS",TV Guará (Record News) Teste
 https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1061913802.m3u8
 
 
@@ -107,19 +108,22 @@ https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO CARLOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png" group-title="CANAL ABERTO CARLOS",CBTV HD Inter Brasil
 https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
 http://live.tcm10.com.br/tcm10.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.qwerty.com.br/wp-content/uploads/2016/03/qwerty_noticias_logo.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
+
+#EXTINF:-1 tvg-logo="http://www.qwerty.com.br/wp-content/uploads/2016/03/qwerty_noticias_logo.png" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
 http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BTVADecadeUnmatched.jpg" tvg-id="0" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BTVADecadeUnmatched.jpg" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
 https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
 
 
@@ -240,8 +244,7 @@ http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" tvg-id="0" group-title="CANAL ABERTO CARLOS",NOVA ERA TV HD Lages SC
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="CANAL ABERTO CARLOS",NOVA ERA TV HD Lages SC
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
 
@@ -295,12 +298,14 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w322234270.m3u8
 
 
 
-##Família Cristã##
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ba/85/f4/ba85f418acc7f6e69eca574c41155b3a.png" tvg-id="0" group-title="Família Cristã",TUTU Radio Infantil (Audio)
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ba/85/f4/ba85f418acc7f6e69eca574c41155b3a.png" group-title="Família Cristã",TUTU Radio Infantil (Audio)
 http://192.99.150.31:9431/;
 
 
-#EXTINF:0 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" tvg-id="0" group-title="Família Cristã",TUTU Historinha Infantil (Audio)
+#EXTINF:-1 tvg-logo="https://macmagazine.uol.com.br/wp-content/uploads/2012/01/18-cigarra_icon.png" group-title="Família Cristã",TUTU Historinha Infantil (Audio)
 http://192.99.150.31:8371/stream
 
 
@@ -312,10 +317,8 @@ http://192.99.150.31:9101/;
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/a9/0b/18a90bcf03111c0eeef2c07fca3925d9.png" tvg-id="0" group-title="Família Cristã",TUTU Filmes Gospel
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/a9/0b/18a90bcf03111c0eeef2c07fca3925d9.png" group-title="Família Cristã",TUTU Filmes Gospel
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-
-
 
 
 
@@ -338,7 +341,8 @@ http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="Família Cristã" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
+
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Família Cristã",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
@@ -346,7 +350,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" tvg-id="0" group-title="Família Cristã",IURD TV UNIVERSAL 480p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Família Cristã",IURD TV UNIVERSAL 480p
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
@@ -401,7 +405,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 
 
 
-##Clipes Musicais##
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="Clipes Musicais",Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
@@ -424,12 +427,14 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 
-##TV FILMES ONLINE##
-#EXTINF:-1 tvg-id="0" tvg-logo="https://www.aberturadecofres.pt/wp-content/uploads/2015/05/icono-24h.png" group-title="TV FILMES ONLINE",TUTU 24HS Br
+
+
+
+#EXTINF:-1 tvg-logo="https://www.aberturadecofres.pt/wp-content/uploads/2015/05/icono-24h.png" group-title="TV FILMES ONLINE",TUTU 24HS Br
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
 
 
-#EXTINF:-1 tvg-id="0" tvg-logo="https://img.ibxk.com.br/2015/02/25/25124926922563.jpg" group-title="TV FILMES ONLINE",FILMES DO CARLOS Brasil
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2015/02/25/25124926922563.jpg" group-title="TV FILMES ONLINE",FILMES DO CARLOS Brasil
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 
@@ -455,11 +460,12 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="TV FILMES ONLINE",HBO2 HD USA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="TV FILMES ONLINE",HBO2 HD USA
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2018/03/2016_fox_orange_s_fundo.png" tvg-id="0" group-title="TV FILMES ONLINE",FOX MOVIES SD USA
+#EXTINF:-1 tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2018/03/2016_fox_orange_s_fundo.png" group-title="TV FILMES ONLINE",FOX MOVIES SD USA
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
@@ -473,7 +479,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-##ESPORTES CARLOS##
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES CARLOS",ALL SPORTS TV BR
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
@@ -542,7 +547,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
-##INTERNACIONAL CARLOS##
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="INTERNACIONAL CARLOS",RTP 1 Portugal
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
@@ -613,11 +617,14 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg" group-title="INTERNACIONAL CARLOS",ETB Sat Espanha
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png",TVE 24h HD Espanha
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="INTERNACIONAL CARLOS",TVE 24h HD Espanha
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
 
 
@@ -776,10 +783,13 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",Red Bull TV SD USA
+
+#EXTINF:-1 tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="INTERNACIONAL CARLOS",Red Bull TV SD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg",FOX 23 HD USA
+
+
+#EXTINF:-1 tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg" group-title="INTERNACIONAL CARLOS",FOX 23 HD USA
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
 
 
@@ -800,15 +810,16 @@ https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w79540448
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.frosat.net/images/logotv/original/tv2-tr.jpg",TV2 HD Turquia
+
+#EXTINF:-1 tvg-logo="http://www.frosat.net/images/logotv/original/tv2-tr.jpg" group-title="INTERNACIONAL CARLOS",TV2 HD Turquia
 https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png",TRT HABER HD Turquia
+#EXTINF:-1 tvg-logo="http://www.movsan.com/Dosyalar/Haberler/9055_trt_haber_logo.png" group-title="INTERNACIONAL CARLOS",TRT HABER HD Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/78ahjsqj-720.jpg",TRT MUZIK Turquia
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/78ahjsqj-720.jpg" group-title="INTERNACIONAL CARLOS",TRT MUZIK Turquia
 https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250p_av-p.m3u8?sd=10&rebase=on
 
 
@@ -868,7 +879,8 @@ http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/chunklist_w702774000.m3
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg",BADEN TV 2 HD Alemanha
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318682252/BadenTVLogo_weiss_twitter_400x400.jpg" group-title="INTERNACIONAL CARLOS",BADEN TV 2 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
@@ -880,11 +892,12 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://videotron.com/vtrn/images/channels/logos/dw/dw_moyenne.png.pagespeed.ce.nNvbHQV6av.png",DW English HD Alemanha
+
+#EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/dw/dw_moyenne.png.pagespeed.ce.nNvbHQV6av.png" group-title="INTERNACIONAL CARLOS",DW English HD Alemanha
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL CARLOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png",TELE BARN HD Alemanha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="INTERNACIONAL CARLOS",TELE BARN HD Alemanha
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
 
 
@@ -915,36 +928,37 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
 
-##CÂMERAS AO VIVO##
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte da Amizade sentido Brasil
+
+
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",Ponte da Amizade sentido Brasil
 https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",Ponte da Amizade sentido Paraguay
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",Ponte da Amizade sentido Paraguay
 https://cdn.jmvstream.com/w/IPC-7044/camera.stream/chunklist_w1905836054.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",NEW ORLEANS 1 USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",NEW ORLEANS 1 USA
 https://videos3.earthcam.com/fecnetwork/4280.flv/chunklist_w1926261271.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",NEW ORLEANS 2 USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",NEW ORLEANS 2 USA
 https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w508099631.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",TIMES SQUARE NY USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",TIMES SQUARE NY USA
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w1533246051.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",5th Avenida NY USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",5th Avenida NY USA
 https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w411913482.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUÁRIO TUBARÕES USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",AQUÁRIO TUBARÕES USA
 https://videos3.earthcam.com/fecnetwork/nabtrcam1.flv/chunklist_w1872585772.m3u8
 
 
-#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CÂMERAS AO VIVO" tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png",AQUÁRIO PEIXES USA
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",AQUÁRIO PEIXES USA
 https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
@@ -957,24 +971,24 @@ https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w130146608.m3u8
 
 
 
-##RADIOS NO ESTUDIO##
-#EXTINF:-1 group-title="RADIOS NO ESTUDIO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",Transamerica FM Estúdio
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png" group-title="RADIOS NO ESTUDIO",Transamerica FM Estúdio
 http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist_w968253868.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS NO ESTUDIO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",FM O Dia 100 5 FM
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png" group-title="RADIOS NO ESTUDIO",FM O Dia 100 5 FM
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS NO ESTUDIO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",HOT FM 107 SP
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png" group-title="RADIOS NO ESTUDIO",HOT FM 107 SP
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS NO ESTUDIO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",CBN SP 90 5 FM
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png" group-title="RADIOS NO ESTUDIO",CBN SP 90 5 FM
 https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 group-title="RADIOS NO ESTUDIO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png",RADIO GOSPEL FM
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/png-radio-stations-1.png" group-title="RADIOS NO ESTUDIO",RADIO GOSPEL FM
 http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
 
 
@@ -984,83 +998,86 @@ http://62.138.8.15:1935/gospel90/gospel90/chunklist_w1665336773.m3u8
 #======================= Radios Apenas Audio
 
 
-##Radios Apenas Audio##
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Forro
+
+
+
+
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Forro
 http://192.99.150.31:9019/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Rock Classico
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Rock Classico
 http://192.99.150.31:9125/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Roberto Carlos
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Roberto Carlos
 http://192.99.150.31:9137/stream
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Anos 70
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Anos 70
 http://192.99.150.31:8241/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Anos 80
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Anos 80
 http://192.99.150.31:8697/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Romantica
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Romantica
 http://192.99.150.31:8962/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Eletronica
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Eletronica
 http://192.99.150.31:9095/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Hip Hop
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Hip Hop
 http://192.99.150.31:8721/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Jazz
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Jazz
 http://192.99.150.31:8042/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Axe
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Axe
 http://192.99.150.31:8305/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Brega
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Brega
 http://192.99.150.31:9007/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Reggae
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Reggae
 http://192.99.150.31:8715/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Sertanejo Universitario
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Sertanejo Universitario
 http://192.99.150.31:9191/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Studio do Amor
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Studio do Amor
 http://192.99.150.31:8962/stream
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Alegria FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Alegria FM
 http://stream.ouveai.com.br:8061/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Esperança AM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Esperança AM
 http://200.175.79.171:8000/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Novo Tempo FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Novo Tempo FM
 http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Atlantida FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Atlantida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Farroupilha FM AM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Farroupilha FM AM
 http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Mix FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Mix FM
 http://mixaac.crossradio.com.br:1100/live
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Mania FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Mania FM
 http://radio.servercsi.com.br:8595/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Transamerica FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Transamerica FM
 http://transamerica.crossradio.com.br:9114/live.mp3
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Jovem Pan FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Jovem Pan FM
 http://centova6.ciclanohost.com.br:9256/;
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Eldorado FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Tramandai­ FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Tramandai­ FM
 http://noasrv.caster.fm:10133/stream
 
-#EXTINF:-1 group-title="Radios Apenas Audio" tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png",Radio Princesa FM
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Princesa FM
 http://noasrv.caster.fm:10124/stream
 
 
