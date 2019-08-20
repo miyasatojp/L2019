@@ -550,6 +550,8 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="INTERNACIONAL CARLOS",RTP AFRICA Moçambique PT
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="INTERNACIONAL CARLOS",RTP INTER PT
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
@@ -828,7 +830,8 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" tvg-id="0" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENG HD Qatar
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENG HD Qatar
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 
 
@@ -1073,7 +1076,6 @@ http://noasrv.caster.fm:10124/stream
 
 
 
-##FILMES ANIMAÇÃO##
 #EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",O Que Sera de Nozes? (Animação)
 http://tyr.lhmtv.gq/redecanais/OQUSRDNZS.mp4?LHMTv
 
