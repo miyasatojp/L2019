@@ -34,15 +34,19 @@
 
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/number8/number8_PNG18664.png" group-title="SEJA BEM VINDO!",AGOSTO 2019
-http://0.0.0.0
+http://noasrv.caster.fm:10133/stream
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",CARLOS GARDENOL (Sertanejão)
+http://192.99.150.31:9485/;
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",WWW.LHMTV.NET FILMES e SERIES (CORTESIA)
+http://noasrv.caster.fm:10124/stream
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SUPER GRATIS (MPB)
 http://192.99.150.31:8775/;
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",GARDENOL IPTV CARLOS (Sertanejão)
-http://192.99.150.31:9485/;
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SEJAM BEM VINDOS! (Anos 90)
@@ -1072,22 +1076,12 @@ http://centova6.ciclanohost.com.br:9256/;
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
 
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Tramandai­ FM
-http://noasrv.caster.fm:10133/stream
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Princesa FM
-http://noasrv.caster.fm:10124/stream
-
-
-
 
 
 
 ############################################################################################################################
 ## FILMES E SÉRIES LHMTV - ADAPTAÇÃO : CARLOS GARDENOL IPTV ##
 ############################################################################################################################
-
-
 
 
 
