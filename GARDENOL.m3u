@@ -41,11 +41,11 @@ http://noasrv.caster.fm:10133/stream
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",WWW.LHMTV.NET FILMES e SERIES (CORTESIA)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LHMTV.NET FILMES.SERIES.(CORTESIA)
 http://noasrv.caster.fm:10124/stream
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SUPER GRATIS (MPB)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA SUPER GRATIS (MPB)
 http://192.99.150.31:8775/;
 
 
