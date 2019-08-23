@@ -41,11 +41,11 @@ http://noasrv.caster.fm:10133/stream
 http://192.99.150.31:9485/;
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LHMTV.NET FILMES.SERIES.(CORTESIA)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LHMTV.NET FILMES
 http://noasrv.caster.fm:10124/stream
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA SUPER GRATIS (MPB)
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS (MPB)
 http://192.99.150.31:8775/;
 
 
@@ -53,7 +53,7 @@ http://192.99.150.31:8775/;
 http://192.99.150.31:8056/;
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="SEJA BEM VINDO!",LURDES.ANDERSON.TUTU
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="SEJA BEM VINDO!",ANDERSON e TUTU
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
@@ -91,7 +91,7 @@ https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CANAL ABERTO CARLOS",TV Guará (Record News) Teste
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CANAL ABERTO CARLOS",TV Guará Record News Teste
 https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1061913802.m3u8
 
 
@@ -417,10 +417,10 @@ http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.aberturadecofres.pt/wp-content/uploads/2015/05/icono-24h.png" group-title="TV FILMES ONLINE",TUTU 24HS Br
-http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+https://live.multicanais.com/live/tnthd/video.m3u8?md5=wWFgR0xTkeS81nGGBlUCKw&expires=1566541427
 
 
-#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2015/02/25/25124926922563.jpg" group-title="TV FILMES ONLINE",FILMES DO CARLOS Brasil
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2015/02/25/25124926922563.jpg" group-title="TV FILMES ONLINE",FILMES DA LURDES Br
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
 
 
