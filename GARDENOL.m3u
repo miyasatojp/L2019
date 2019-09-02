@@ -398,6 +398,20 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="Família Cristã",Cristo Vive IGreja Cristã
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-luzdavida.jpg" group-title="Família Cristã",Igreja Luz da Vida
+http://streaming03.zas.media:1935/luzdavida/luzdavida/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://radiorenacergospel.adcast.com.br/admin/assets/img/locutores/padrao.png?img=August+30%2C+2019%2C+7%3A32+pm+51" group-title="Família Cristã",Tv Renacer Muriaé MG
+https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=888825082
+
+
+
+
 
 
 
