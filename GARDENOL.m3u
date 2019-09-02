@@ -379,6 +379,18 @@ https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1453307995_b10
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w196508913_b2628000.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="Família Cristã",Cristo Vive IGreja Cristã
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-luzdavida.jpg" group-title="Família Cristã",Igreja Luz da Vida
+http://streaming03.zas.media:1935/luzdavida/luzdavida/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://radiorenacergospel.adcast.com.br/admin/assets/img/locutores/padrao.png?img=August+30%2C+2019%2C+7%3A32+pm+51" group-title="Família Cristã",Tv Renacer Muriaé MG
+https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=888825082
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Família Cristã",TV EVANGELIZAR PR
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
@@ -398,16 +410,29 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="Família Cristã",Cristo Vive IGreja Cristã
-https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-luzdavida.jpg" group-title="Família Cristã",Igreja Luz da Vida
-http://streaming03.zas.media:1935/luzdavida/luzdavida/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://radiorenacergospel.adcast.com.br/admin/assets/img/locutores/padrao.png?img=August+30%2C+2019%2C+7%3A32+pm+51" group-title="Família Cristã",Tv Renacer Muriaé MG
-https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=888825082
+
+## LISTA CARLOS GARDENOL IPTV - Tv Espirita##
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/R8JAXdjqqqw/hqdefault.jpg" group-title="Tv Espirita",Tv Japí Jundiaí
+https://v3.ciclano.io:1443/tvjapi/_definst_/tvjapi/chunklist_w969157927.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvalvoradaespirita.com.br/imgs/logo.png" group-title="Tv Espirita",Tv Alvorada Espirita
+https://5b6d86cbca7b3.streamlock.net/tvalvorada/tvalvorada/chunklist_w179791546.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/0/4f0dcea9d5f61c539d3df4dc9b45c90b_icon.png?w=240" group-title="Tv Espirita",TV ZOOM Nova Friburgo RJ
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
+
+
 
 
 
