@@ -330,6 +330,14 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ne9VLH9XwiKgP1qoYZm_5xg0QHo9QakBmPWTzQ_1kgQVnRqr-dI4MtsU382zaih6dg" group-title="Família Cristã",TUTU Clipes Gospel
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/WlKRLelp-zWIbpX4SrAzGhwGmDpqZv9AL41ZYCcRMUjhKp3LJXP7wxaLxB5J7LLfXLk" group-title="Família Cristã",Rede Universo Tv BH-MG
+https://5c5f323a5b8a8.streamlock.net:9443/rglocutor215000001/rglocutor167532539/chunklist_w734401487.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Família Cristã",Assembleia de Deus 1 TV AD BELEM HD
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
