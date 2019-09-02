@@ -32,34 +32,28 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="SEJA BEM VINDO!",VINHETA GARDENOL
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="SEJA BEM VINDO!",GARDENOL Vinheta
 https://ia801503.us.archive.org/11/items/vinhetagardenol02/Vinheta%20Gardenol%2002.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="SEJA BEM VINDO!",SETEMBRO 2019
-http://noasrv.caster.fm:10133/stream
+http://192.99.150.31:8775/;
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",CARLOS GARDENOL (Sertanejão)
 http://192.99.150.31:9485/;
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS (MPB)
-http://192.99.150.31:8775/;
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS
+http://noasrv.caster.fm:10133/stream
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SEJAM BEM VINDOS! (Anos 90)
 http://192.99.150.31:8056/;
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kOC01pm6L.png" group-title="SEJA BEM VINDO!",ANDERSON e TUTU
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/logo/lhmtv.png" group-title="SEJA BEM VINDO!",TV LHMTV.NET (Visite)
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/logo/lhmtv.png" group-title="SEJA BEM VINDO!",LHMTV.NET Vinheta
 http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 
 
@@ -67,6 +61,16 @@ http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 
 
 ## LISTA CARLOS GARDENOL IPTV - CANAL ABERTO CARLOS ## 
+
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="CANAL ABERTO CARLOS",TV GARDENOL 1080p
+https://ia801500.us.archive.org/12/items/tvgardenol1/Tv%20Gardenol%201.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Tutu-designstyle-cartoon-m.png" group-title="CANAL ABERTO CARLOS",TV-TUTU-ANDERSON
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
 
