@@ -35,7 +35,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="SEJA BEM VINDO!",SETEMBRO 2019
-http://192.99.150.31:8775/;
+http://192.99.150.31:9485/;
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="SEJA BEM VINDO!",GARDENOL Vinheta
@@ -46,8 +46,9 @@ https://ia801503.us.archive.org/11/items/vinhetagardenol02/Vinheta%20Gardenol%20
 http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",CARLOS GARDENOL (Sertanejão)
-http://192.99.150.31:9485/;
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",CARLOS GARDENOL
+http://192.99.150.31:8775/;
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS
