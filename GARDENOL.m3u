@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="SEJA BEM VINDO!",SETEMBRO 2019
+#EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="SEJA BEM VINDO!",SETEMBRO 2019 (Sertaneja)
 http://192.99.150.31:9485/;
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="SEJA BEM VINDO!",GARDENOL Vinheta
@@ -11,8 +11,8 @@ http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",CARLOS GARDENOL (MPB)
 http://192.99.150.31:8775/;
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS
-http://noasrv.caster.fm:10133/stream
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",LISTA GRATIS (FM 101.7)
+http://streaming.a6.com.br:5043/stream
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2016/07/09/118496_message_512x512.png" group-title="SEJA BEM VINDO!",SEJAM BEM VINDOS! (Anos 90)
 http://192.99.150.31:8056/;
@@ -1134,8 +1134,16 @@ http://vidar.lhmtv.gq/Servidor/inf/pavsdb.mp4?LHMTv
 http://vidar.lhmtv.gq/Servidor/inf/soceir.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Scooby-doo Lego (Animação)
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Scooby doo Lego (Animação)
 http://vidar.lhmtv.gq/Servidor/inf/lsdhhk.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Scooby doo Curse Of The Speed Demon (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/sbeawm.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Scooby doo Shaggys Showdown (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/sdeocs.mp4?LHMTv
 
 
 #EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Space Dogs Aventuras Na Lua (Animação)
@@ -1391,6 +1399,47 @@ http://thor.lhmtv.gq/filmes/dcsuperheroeslendasdeatlantida-dub-720p.mp4?LHMTv
 http://thor.lhmtv.gq/filmes/festasalsicha-dub-720p.mp4?LHMTv
 
 
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Pocoyo Halloween Invencoes malucas(Animação)
+http://thor.lhmtv.gq/babys/Pcyo-Hllwn. Inv.Malucas.LHMTv.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Pocoyo Historias de amizade Feliz Dia dos namorados!(Animação)
+http://thor.lhmtv.gq/babys/Pcyo-H.d.amizade-F.D.d.n.LHMTv.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Pocoyo Dia das Bruxas (Animação)
+http://thor.lhmtv.gq/babys/Pcyo-D.d.B.Halloween.LHMTv.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Pocoyo Dia das Bruxas 2 (Animação)
+http://thor.lhmtv.gq/babys/Pcyo-D.d.B.2017.LHMTv.mp4?LHMTv
+
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",O Bom Dinossauro (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/obdken.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",O Bicho Vai Pegar 4 (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/obvp4k.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",O Reino Gelado 2 (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/org2in.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Ta Dando Onda 2 (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/tdo2bn.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Trolls (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/tlscnj.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Zootopia (Animação)
+http://vidar.lhmtv.gq/Servidor/inf/zeceob.mp4?LHMTv
+
+
 #EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Dumbo
 http://thor.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
 
@@ -1399,7 +1448,7 @@ http://thor.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
 http://thor.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Shazam
+#EXTINF:-1 tvg-logo="https://worldgamehubblog.files.wordpress.com/2016/09/mobile_supermariorun_icon.png" group-title="FILMES ANIMAÇÃO",Shazam 720p
 http://thor.lhmtv.gq/filmes/shazam-dub-720p.mp4?LHMTv
 
 
