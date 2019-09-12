@@ -85,6 +85,14 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1061913802.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CANAL ABERTO CARLOS",TV Guará 2 (Record News)
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1527168257.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/803px-Record_News_%28color%29.svg.png" group-title="CANAL ABERTO CARLOS",Record News
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w377097715.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.tvfeiradesantana.com/uploads/images/img_social_1508684724.png" group-title="CANAL ABERTO CARLOS",TV BANQUETA
 https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w1553376313.m3u8
 
