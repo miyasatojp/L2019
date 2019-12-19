@@ -44,30 +44,16 @@ http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 https://ia801500.us.archive.org/12/items/tvgardenol1/Tv%20Gardenol%201.mp4?cnt=0
 
 
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Tutu-designstyle-cartoon-m.png" group-title="CANAL ABERTO CARLOS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 1080p Nordeste
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 720p PE
-https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT CARUARU HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1664504031_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 720p PE 2
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 720p SP
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT HD 720p Recife
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT RECIFE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1664504031_b216000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO CARLOS",SBT Interior 480p Araçatuba SP
@@ -817,4 +803,6 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
+
+
 
