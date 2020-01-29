@@ -25,7 +25,7 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 2 TV Cidade Verde Teresina PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
 
-#EXTINF:-1 tvg-logo="http://www.rjwebhost.com.br/icones/tv.png" group-title="Gardenol Nacional",Master TV HD
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/141331/isolated/preview/af441172d836f3c46459cca29c19d224---cone-quadrado-de-televis--o-3-by-vexels.png" group-title="Gardenol Nacional",Master TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-tvsol.png" group-title="Gardenol Nacional",Tv Sol HD
@@ -237,9 +237,6 @@ http://192.99.150.31:8371/stream
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg" group-title="Gardenol Filmes Online",Thrill TV
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="Gardenol Filmes Online",RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
@@ -279,18 +276,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/soccer-14/33/live_sport-512.png" group-title="Gardenol Esportes",LIVRE TV BR
 http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="Gardenol Esportes",REAL MADRID TV HD 1
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="Gardenol Esportes",REAL MADRID TV HD 2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="Gardenol Esportes",REAL MADRID TV HD 3
-http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="Gardenol Esportes",REAL MADRID TV HD 4
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -373,12 +358,6 @@ https://live.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="Gardenol World",CNN HD Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/06/Tv-icon1.png" group-title="Gardenol World",RTV Indonesia
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-u1-gnfi.imgix.net/post/large-1200px-new-logo-tvri-c66f4d6117d976888505a9797a22bad9.jpg" group-title="Gardenol World",TVRI Indonesia
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/flat-icons.com/flat/512/Flat-TV-icon.png" group-title="Gardenol World",TVKU Indonesia
 http://103.30.1.14:8080/hls/live.m3u8
 
@@ -414,9 +393,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="Gardenol World",TVW Cable Channel HD Washington USA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
-
-#EXTINF:-1 tvg-logo="http://storage0.dms.mpinteractiv.ro/media/1/381/17906/10537990/1/da-vinci-learning.jpg" group-title="Gardenol World",DA VINCI LEARNING
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iPtkl28YYZc/WqpT7aEjI2I/AAAAAAAAB3M/C5yzsH9sL_wkbmpLf__o_yaGHAnkjjeMACLcBGAs/s320/TRT%2BWORLD%2BTurke%2Bsat%2B42%25C2%25B0E%2BBiss%2BKey%2B2018.png" group-title="Gardenol World",TRT WORLD
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
