@@ -8,7 +8,7 @@ http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?EDSONSOUSALI
 
 ##################################################
 ##                  CRÉDITOS                    ##
-##     LISTA IPTV : CARLOS-GARDENOL IPTV        ##
+##         LISTA IPTV : GARDENOL IPTV           ##
 ##          gardenoliptv.blogspot.com           ##
 ##                                              ##
 ##               ( LISTA 2020 )                 ##
@@ -164,15 +164,6 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000
 #EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Cristã",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/a4/30/ca/93/imagen-rede-brasil-tv-0thumb.jpg" group-title="Gardenol Cristã",RBC HD GO 1
-https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1453307995_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/1e/cb/c6/c6/imagen-rede-brasil-radio-0thumb.jpg" group-title="Gardenol Cristã",RBC HD GO 2
-http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916530446/Untitled-2_400x400.jpg" group-title="Gardenol Cristã",RBC HD Recife
-https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w996759556_b1096000.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
@@ -204,13 +195,6 @@ https://5b6d86cbca7b3.streamlock.net/tvalvorada/tvalvorada/chunklist_w179791546.
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/0/4f0dcea9d5f61c539d3df4dc9b45c90b_icon.png?w=240" group-title="Gardenol Religiões",TV ZOOM Nova Friburgo RJ
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
 
-#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/100/134/kaaba-mecca-png-clip-art-thumbnail.png" group-title="Gardenol Religiões",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/511/691/685/medina-umrah-islam-others.jpg" group-title="Gardenol Religiões",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-
-
 
 
 
@@ -240,12 +224,6 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 #EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/designbolts/rio-2-movie/512/Rio2-Blu-icon.png" group-title="Gardenol KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-
-#EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/designbolts/rio-2-movie/512/Rio2-Blu-icon.png" group-title="Gardenol KIDS",My KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/designbolts/rio-2-movie/512/Rio2-Blu-icon.png" group-title="Gardenol KIDS",MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://download.seaicons.com/icons/designbolts/rio-2-movie/512/Rio2-Blu-icon.png" group-title="Gardenol KIDS",TUTU Radio Infantil
 http://192.99.150.31:9431/;
@@ -300,10 +278,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 ## Gardenol Esportes ##
 
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="Gardenol Esportes",ALL SPORTS TV BR
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/soccer-14/33/live_sport-512.png" group-title="Gardenol Esportes",LIVRE TV BR
 http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
 
@@ -319,30 +293,6 @@ http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" group-title="Gardenol Esportes",REAL MADRID TV HD 4
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="Gardenol Esportes",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="Gardenol Esportes",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
-
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="Gardenol Esportes",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.racethedash.com/abu-dhabi-dash/wp-content/uploads/sites/3/2018/05/ADSC-logo-500.jpg" group-title="Gardenol Esportes",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?
-
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="Gardenol Esportes",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/ae.admedia.ADMCSport-w250.png" group-title="Gardenol Esportes",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/83/c9/65/83c965e3e85b70a428a054aa62135168.png" group-title="Gardenol Esportes",AD Sports 1 HD Abu Dhabi
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rab6.net/uploads/tv_image/sm/abu-dhabi-sports-2.png" group-title="Gardenol Esportes",AD SPORT 2 HD Abu Dhabi
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
@@ -351,28 +301,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 ## Gardenol World ##
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="Gardenol World",RTP 1 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="Gardenol World",RTP 2 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="Gardenol World",RTP 3 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="Gardenol World",RTP MADEIRA  Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="Gardenol World",RTP ACORES  Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="Gardenol World",RTP AFRICA Moçambique PT
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="Gardenol World",RTP INTER PT
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" group-title="Gardenol World",RPC Red Paraguaya de Comunicacion
 http://174.138.118.252/live/canal13stream_mid.m3u8
@@ -645,9 +573,6 @@ http://192.99.150.31:8715/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Studio do Amor
 http://192.99.150.31:8962/stream
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Alegria FM
-http://stream.ouveai.com.br:8061/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Esperança AM
 http://200.175.79.171:8000/;
