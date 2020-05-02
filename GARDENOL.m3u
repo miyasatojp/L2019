@@ -125,7 +125,7 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000
 #EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Cristã",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cristovive.com.br/wp-content/uploads/2014/12/logo-Igreja-Cristo-Vive.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
