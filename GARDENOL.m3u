@@ -55,7 +55,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="Gardenol Nacional",TV Faap HD 2
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/08ihVF6.jpg" group-title="Gardenol Nacional",TV GUARULHOS CANAL 3 HD
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-14-icon.png" group-title="Gardenol Nacional",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Gardenol Nacional",NOVA ERA TV HD Lages SC
@@ -183,7 +183,7 @@ http://192.99.150.31:8371/stream
 
 
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="Gardenol Filmes Online",RAI Movie HD Italia
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol Filmes Online",RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol Filmes Online",RAI Premium HD Italia
