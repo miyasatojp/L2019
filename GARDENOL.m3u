@@ -164,16 +164,16 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 ## ARTHUR KIDS ##
 
 
-#EXTINF:-1 tvg-logo="http://purepng.com/public/uploads/large/purepng.com-tom-and-jerrytom-and-jerrytomjerryanimated-seriesin-1940characters-1701528659725jqelo.png" group-title="ARTHUR KIDS",TUTU Desenhos Gospel
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Desenhos Gospel
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
 
-#EXTINF:-1 tvg-logo="http://purepng.com/public/uploads/large/purepng.com-tom-and-jerrytom-and-jerrytomjerryanimated-seriesin-1940characters-1701528659725jqelo.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
-#EXTINF:-1 tvg-logo="http://purepng.com/public/uploads/large/purepng.com-tom-and-jerrytom-and-jerrytomjerryanimated-seriesin-1940characters-1701528659725jqelo.png" group-title="ARTHUR KIDS",TUTU Radio Infantil
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Radio Infantil
 http://192.99.150.31:9431/;
 
-#EXTINF:-1 tvg-logo="http://purepng.com/public/uploads/large/purepng.com-tom-and-jerrytom-and-jerrytomjerryanimated-seriesin-1940characters-1701528659725jqelo.png" group-title="ARTHUR KIDS",TUTU Historinha Infantil
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Historinha Infantil
 http://192.99.150.31:8371/stream
 
 
@@ -427,4 +427,3 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
-
