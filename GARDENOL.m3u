@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",Gardenol 2020
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",GARDENOL 2020
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
@@ -16,7 +16,7 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 ## Gardenol Nacional ## 
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 1 TV Cidade Verde Teresina PI
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 2 TV Cidade Verde Teresina PI
