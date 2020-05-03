@@ -192,26 +192,26 @@ http://192.99.150.31:8371/stream
 
 
 
-## Gardenol Filmes Online ##
+## Gardenol Filmes Italia ##
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol Filmes Online",RAI Movie HD Italia
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol Filmes Italia",RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol Filmes Online",RAI Premium HD Italia
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol Filmes Italia",RAI Premium HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol Filmes Online",RAI 4 HD Italia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol Filmes Italia",RAI 4 HD Italia
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol Filmes Online",RAI 5 HD Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol Filmes Italia",RAI 5 HD Italia
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Gardenol Filmes Online",CLASSIC ARTS SHOWCASE USA
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Gardenol Filmes Italia",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/american-states/256/Texas-Flag-icon.png" group-title="Gardenol Filmes Online",TSTV CH29 UT Austin TV Texas USA
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/american-states/256/Texas-Flag-icon.png" group-title="Gardenol Filmes Italia",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 
@@ -512,7 +512,7 @@ http://lhmtv.gq/mazzaropi/(1980)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Mil
 ## FILMES LHMTv ## 
 
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",Paradise Leg
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",Parasita (Legendado)
 http://topvod.tk/LHMTvPlay/ParasiteLEG?LHMTv
 
 #EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",Mad Max
@@ -607,7 +607,7 @@ http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo7.mp4?LHMTv
 http://lhmtv.gq/bonus/deuseloucos/Os%20Deuses%20Devem%20Estar%20Loucos%203.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",Devolta Para o Futuro
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",De Volta Para o Futuro
 http://lhmtv.gq/bonus/devoltaparaofuturo/De.Volta.Para.o.Futuro.1.DVDRip.XviD.%5bDublagem.BKS%5d.Portugues.avi?LHMTv
 
 
@@ -794,5 +794,77 @@ http://aranami.lhmtv.gq/filmes/A-Carga.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/A-Casa-Caiu-Um-Cassino-na-Vizinhanca.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",376
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-Torta
+http://aranami.lhmtv.gq/filmes/A-Casa-Torta.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-de-Cera
+http://aranami.lhmtv.gq/filmes/A-Casa-de-Cera.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-de-Vidro
+http://aranami.lhmtv.gq/filmes/A-Casa-de-Vidro.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-do-Lago
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Lago.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-do-Medo Incidente-em-Ghostland
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo---Incidente-em-Ghostland.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-do-Medo
+http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Casa-dos-Sonhos
+http://aranami.lhmtv.gq/filmes/A-Casa-dos-Sonhos.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Caverna-Perigo-Subterraneo
+http://aranami.lhmtv.gq/filmes/A-Caverna-Perigo-Subterraneo.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Centopeia-Humana
+http://aranami.lhmtv.gq/filmes/A-Centopeia-Humana.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Chefa
+http://aranami.lhmtv.gq/filmes/A-Chefa.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Forma-da-Agua
+http://aranami.lhmtv.gq/filmes/A-Forma-da-Agua.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-2
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-2.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-3
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-3.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-4
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-4.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-5
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-5.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-6
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-6.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-7
+http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-7.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",461
 
