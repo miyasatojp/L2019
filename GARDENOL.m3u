@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",Gardenol 2020
-http://192.99.150.31:8775/;
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
 ##################################################
@@ -114,7 +114,8 @@ http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 ## Gardenol Cristã ##
 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Gardenol Cristã",Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Gardenol Cristã",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
@@ -158,6 +159,13 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/14/67/f5/1467f567ea23b123bcb78f36f9a57e95.png" group-title="Gardenol Clipes",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.osxdaily.com/wp-content/uploads/2015/01/garageband-ios-icon.png" group-title="Gardenol Clipes",ONE 1300
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="http://cdn.osxdaily.com/wp-content/uploads/2015/01/garageband-ios-icon.png" group-title="Gardenol Clipes",ONE 2300
+http://rtmp.one.by:2300
+
+
 
 
 
@@ -169,6 +177,11 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",CN HD Indonesia
+https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Radio Infantil
 http://192.99.150.31:9431/;
@@ -362,8 +375,12 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 ## Gardenol Radios ## 
 
 
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio MPB 
+http://192.99.150.31:8775/;
+
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",FM O Dia
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",TUTU Radio Gospel
 http://192.99.150.31:9101/;
@@ -427,3 +444,139 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
+
+
+
+## FILMES LHMTv ## 
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Paradise Leg
+http://topvod.tk/LHMTvPlay/ParasiteLEG?LHMTv
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mad Max
+http://topvod.tk/LHMTvPlay/Mad-Max?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mad Max 2
+http://topvod.tk/LHMTvPlay/Mad-Max-2?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mad Max 3
+http://topvod.tk/LHMTvPlay/Mad-Max-3?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mad Max 4
+http://topvod.tk/LHMTvPlay/Mad-Max-4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2001
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Pedra.Filosofal.2001.mkv?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2002
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Camara.Secreta.2002.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2004
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.mkv?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2005
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Calice.de.Fogo.2005.mkv?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2007
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Ordem.da.Fenix.2007.mkv?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Harry Potter 2010 p1
+http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.1.2010.mkv?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1952
+http://lhmtv.gq/mazzaropi/(1952)%20Mazzaropi%20-%20Sai%20da%20frente.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1953
+http://lhmtv.gq/mazzaropi/(1953)%20Mazzaropi%20-%20Candinho.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1955
+http://lhmtv.gq/mazzaropi/(1955)%20Mazzaropi%20-%20A%20Carrocinha.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1956
+http://lhmtv.gq/mazzaropi/(1956)%20Mazzaropi%20-%20Gato%20de%20Madame.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1957
+http://lhmtv.gq/mazzaropi/(1957)%20Mazzaropi-%20O%20Noivo%20Da%20Girafa.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1959
+http://lhmtv.gq/mazzaropi/(1959)%20Mazzaropi%20-%20Chofer%20de%20Pra%c3%a7a.avi?LHMTv
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1960 Pedro Malazartes
+http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20As%20Aventuras%20de%20Pedro%20Malazartes.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1960 Ze do Periquito
+http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20Z%c3%a9%20Periquito.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1963
+http://lhmtv.gq/mazzaropi/(1963)%20Mazzaropi%20-%20Casinha%20Pequenina.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1964
+http://lhmtv.gq/mazzaropi/(1964)%20Mazzaropi%20-%20Meu%20Jap%c3%a3o%20Brasileiro.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1966
+http://lhmtv.gq/mazzaropi/(1966)%20Mazzaropi%20-%20O%20Corintiano.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1967
+http://lhmtv.gq/mazzaropi/(1967)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Freira.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1973
+http://lhmtv.gq/mazzaropi/(1973)%20Mazzaropi%20-%20Um%20Caipira%20em%20Bariloche.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Mazzaropi 1980
+http://lhmtv.gq/mazzaropi/(1980)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Milagrosa.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Silencio dos Inocentes
+http://lhmtv.gq/hannibal/O%20Sil%c3%aancio%20dos%20Inocentes%20(1991)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Hannibal 2001
+http://lhmtv.gq/hannibal/Hannibal%20(2001)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Hannibal Dragao Vermelho
+http://lhmtv.gq/hannibal/Drag%c3%a3o%20Vermelho%20(2002)%20-%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Hannibal A Origem do Mal
+http://lhmtv.gq/hannibal/Hannibal%20-%20A%20Origem%20do%20Mal%20(2007)%20-%20Dublado%20720p%20(By-Luanharper).mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Braddock O Super Comando
+http://lhmtv.gq/bonus/Braddock/Braddock%20%e2%80%93%20O%20Super%20Comando%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Braddock 2 O Inicio da Missao
+http://lhmtv.gq/bonus/Braddock/Braddock%202%20-%20O%20Inicio%20da%20Miss%c3%a3o%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",Braddock 3 O Resgate
+http://lhmtv.gq/bonus/Braddock/Braddock%203%20-%20O%20Resgate%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/apathae/satellite/512/2-Movies-icon.png" group-title="FILMES LHMTv",216
+
+
+
