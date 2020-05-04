@@ -9,14 +9,14 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 ##                                              ##
 ##               ( LISTA 2020 )                 ##
 ##    CRIAÇÃO E ADAPTAÇÃO: GARDENOL IPTV        ##
-##              E COLABORADORES                 ##
+##           LHMTv E COLABORADORES              ##
 ##################################################
 
 
 ## Gardenol Nacional ## 
 
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT FREE
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 2 TV Cidade Verde Teresina PI
@@ -1098,4 +1098,52 @@ http://aranami.lhmtv.gq/filmes/A-Mulher-De-Preto.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/A-Mulher-do-Meu-Marido.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",520
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Mumia-1999
+http://aranami.lhmtv.gq/filmes/A-Mumia-1999.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Mumia-2
+http://aranami.lhmtv.gq/filmes/A-Mumia-2.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Mumia
+http://aranami.lhmtv.gq/filmes/A-Mumia.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Musica-da-Minha-Vida
+http://aranami.lhmtv.gq/filmes/A-Musica-da-Minha-Vida..mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Namorada-do-Meu-Irmao
+http://aranami.lhmtv.gq/filmes/A-Namorada-do-Meu-Irmao.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Noite-Devorou-o-Mundo
+http://aranami.lhmtv.gq/filmes/A-Noite-Devorou-o-Mundo.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Odisseia-De-Jacques
+http://aranami.lhmtv.gq/filmes/A-Odisseia-De-Jacques.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Onda
+http://aranami.lhmtv.gq/filmes/A-Onda.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Orfa
+http://aranami.lhmtv.gq/filmes/A-Orfa.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Origem-dos-Guardioes
+http://aranami.lhmtv.gq/filmes/A-Origem-dos-Guardioes.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Origem
+http://aranami.lhmtv.gq/filmes/A-Origem.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",A-Outra-Face
+http://aranami.lhmtv.gq/filmes/A-Outra-Face.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/sign-boards-images-of-movies-folder-pictures-2.png" group-title="FILMES LHMTv",540
