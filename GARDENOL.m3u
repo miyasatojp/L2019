@@ -174,11 +174,6 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
-#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",CN HD Indonesia
-https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Radio Infantil
 http://192.99.150.31:9431/;
 
@@ -676,7 +671,7 @@ http://aranami.lhmtv.gq/filmes/20-Anos-Mais-Jovem.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/3-Dias-para-Matar.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/55_steps-638061586-large.jpg" group-title="FILMES LHMTv",55 Passos (Fato Real)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJkZjExNzEtMGE1ZS00ZmIwLThiZTMtM2Y1Y2RkOGI4MmU2XkEyXkFqcGdeQXVyMjMwMDI5Ng@@._V1_SY1000_CR0,0,772,1000_AL_.jpg" group-title="FILMES LHMTv",55 Passos (Fato Real)
 http://aranami.lhmtv.gq/filmes/55-Passos.mp4?LHMTv
 
 
@@ -884,7 +879,7 @@ http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-2.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-3.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/Xy1idlk0yLIWG-JtnZHbrMgc2WM=/fit-in/210x312/smart/media/movies/covers/2011/11/0450dae1f136d61c39409002ac71c1e1_1.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-4
 http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-4.mp4?LHMTv
 
 
