@@ -108,6 +108,11 @@ http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/0/4f0dcea9d5f61c539d3df4dc9b45c90b_icon.png?w=240" group-title="Gardenol Nacional",TV ZOOM Nova Friburgo RJ
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
+
+
+
 
 
 
@@ -129,17 +134,8 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/600x600/61479995_IZXSxdLjXnk4fEmS1aY6Pj1hBzL2xBCyVKQ_hxcQ2_Q.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-
-
-## Gardenol Religiões ##
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/0/4f0dcea9d5f61c539d3df4dc9b45c90b_icon.png?w=240" group-title="Gardenol Religiões",TV ZOOM Nova Friburgo RJ
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
 
 
 
@@ -150,19 +146,19 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&r
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/wilnichols/alumin-folders/512/Music-Black-Folder-icon.png" group-title="Gardenol Clipes",TUTU Clipes Gospel
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
 
-#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="Gardenol Clipes",Retro Music Television Republica Tcheca
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/retro_music_background_man_casette_notes_icons_decor_6836089.jpg" group-title="Gardenol Clipes",Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="Gardenol Clipes",m2o TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_(2012).png" group-title="Gardenol Clipes",m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/14/67/f5/1467f567ea23b123bcb78f36f9a57e95.png" group-title="Gardenol Clipes",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.osxdaily.com/wp-content/uploads/2015/01/garageband-ios-icon.png" group-title="Gardenol Clipes",ONE 1300
+#EXTINF:-1 tvg-logo="http://fc04.deviantart.net/fs71/i/2010/218/5/7/Music_Folder_HD_by_JackXan.png" group-title="Gardenol Clipes",ONE 1300
 http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-logo="http://cdn.osxdaily.com/wp-content/uploads/2015/01/garageband-ios-icon.png" group-title="Gardenol Clipes",ONE 2300
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/fabf/f/2015/182/d/f/music_folder_icon_7_by_gterritory-d8zgrjc.png" group-title="Gardenol Clipes",ONE 2300
 http://rtmp.one.by:2300
 
 
@@ -192,38 +188,14 @@ http://192.99.150.31:8371/stream
 
 
 
-## Gardenol Filmes Italia ##
-
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol Filmes Italia",RAI Movie HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol Filmes Italia",RAI Premium HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol Filmes Italia",RAI 4 HD Italia
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol Filmes Italia",RAI 5 HD Italia
-https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Gardenol Filmes Italia",CLASSIC ARTS SHOWCASE USA
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/american-states/256/Texas-Flag-icon.png" group-title="Gardenol Filmes Italia",TSTV CH29 UT Austin TV Texas USA
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
-
-
 
 ## Gardenol Esportes ##
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/soccer-14/33/live_sport-512.png" group-title="Gardenol Esportes",LIVRE TV BR
+#EXTINF:-1 tvg-logo="http://www.iconeasy.com/icon/png/Folder/Movie%20Folders%20-%20IconSet/Sport.png" group-title="Gardenol Esportes",LIVRE TV BR
 http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/automototv.jpg" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Bulgaria-icon.png" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
@@ -241,7 +213,7 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="Gardenol World",CANAL 26 HD ARG.2
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1280px-Telemax.png" group-title="Gardenol World",TELEMAX Canal 6 ARGENTINA
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Argentina-icon.png" group-title="Gardenol World",TELEMAX Canal 6 ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/square-flags/1024/Chile-Flag-icon.png" group-title="Gardenol World",El Pinguino Tv Chile
@@ -295,13 +267,25 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b3840
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/flat-icons.com/flat/512/Flat-TV-icon.png" group-title="Gardenol World",TVKU Indonesia
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/f0/33/2ef033369f33d3bd70488b802df2bab8--tv-channels-live.jpg" group-title="Gardenol World",Kontra Channel Grecia
+#EXTINF:-1 tvg-logo="http://www.clipartbest.com/cliparts/MTL/M78/MTLM78GGc.png" group-title="Gardenol World",Kontra Channel Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="Gardenol World",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.omroepwest.nl/Content/Images/west/logo.png" group-title="Gardenol World",Omroep West Holanda
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol World",RAI Movie HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol World",RAI Premium HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol World",RAI 4 HD Italia
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol World",RAI 5 HD Italia
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.bevrijdingsfestivaldenhaag.nl/wp-content/uploads/2016/04/omroepwest-logo400x400.jpg" group-title="Gardenol World",Omroep West Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="Gardenol World",MIAMI TV HD +18 USA
@@ -328,19 +312,25 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="Gardenol World",TVW Cable Channel HD Washington USA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Gardenol World",CLASSIC ARTS SHOWCASE USA
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/american-states/256/Texas-Flag-icon.png" group-title="Gardenol World",TSTV CH29 UT Austin TV Texas USA
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.hanyramsay.com/wp-content/uploads/2013/10/alhurra-1.jpg" group-title="Gardenol World",Al Hurra HD Emirados Árabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180720/hyc/kisspng-dubai-one-television-channel-dubai-racing-club-noor-dubai-939-5b52851c93cb37.4966386815321346846054.jpg" group-title="Gardenol World",DUBAI ONE HD Emirados Árabes Unidos
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/11/Knesset-Channel-1.png" group-title="Gardenol World",Knesset Channel HD Israel
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Israel-icon.png" group-title="Gardenol World",Knesset Channel HD Israel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-button-square-250.png" group-title="Gardenol World",LJBC TV Libya
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/front/images/venus_logo_new.png" group-title="Gardenol World",VENUS TV Pakistan
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Pakistan-icon.png" group-title="Gardenol World",VENUS TV Pakistan
 http://45.77.90.56:8080/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s247702d.png" group-title="Gardenol World",Al Hurria Iraq
@@ -451,58 +441,58 @@ http://noasrv.caster.fm:10136/stream
 
 ## MAZZAROPI LHMTv ## 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1952
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1952
 http://lhmtv.gq/mazzaropi/(1952)%20Mazzaropi%20-%20Sai%20da%20frente.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1953
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1953
 http://lhmtv.gq/mazzaropi/(1953)%20Mazzaropi%20-%20Candinho.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1955
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1955
 http://lhmtv.gq/mazzaropi/(1955)%20Mazzaropi%20-%20A%20Carrocinha.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1956
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1956
 http://lhmtv.gq/mazzaropi/(1956)%20Mazzaropi%20-%20Gato%20de%20Madame.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1957
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1957
 http://lhmtv.gq/mazzaropi/(1957)%20Mazzaropi-%20O%20Noivo%20Da%20Girafa.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1959
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1959
 http://lhmtv.gq/mazzaropi/(1959)%20Mazzaropi%20-%20Chofer%20de%20Pra%c3%a7a.avi?LHMTv
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Pedro Malazartes
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Pedro Malazartes
 http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20As%20Aventuras%20de%20Pedro%20Malazartes.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Ze do Periquito
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Ze do Periquito
 http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20Z%c3%a9%20Periquito.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1963
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1963
 http://lhmtv.gq/mazzaropi/(1963)%20Mazzaropi%20-%20Casinha%20Pequenina.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1964
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1964
 http://lhmtv.gq/mazzaropi/(1964)%20Mazzaropi%20-%20Meu%20Jap%c3%a3o%20Brasileiro.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1966
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1966
 http://lhmtv.gq/mazzaropi/(1966)%20Mazzaropi%20-%20O%20Corintiano.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1967
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1967
 http://lhmtv.gq/mazzaropi/(1967)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Freira.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1973
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1973
 http://lhmtv.gq/mazzaropi/(1973)%20Mazzaropi%20-%20Um%20Caipira%20em%20Bariloche.avi?LHMTv
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Film-Noir-icon.png" group-title="MAZZAROPI LHMTv",Mazzaropi 1980
+#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1980
 http://lhmtv.gq/mazzaropi/(1980)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Milagrosa.avi?LHMTv
 
 
