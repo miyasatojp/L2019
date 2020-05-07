@@ -31,13 +31,13 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha-TV-Logo.png" group-title="Gardenol Nacional",ALPHA CHANNEL HD
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rHbUm0XcEI4/W_648pjn4sI/AAAAAAAAfPw/zoguiDTf6ckyyYFu_SQV_k8q0YkR68kUACLcBGAs/s1600/42194270_333869323840106_1799758676194492416_n.png" group-title="Gardenol Nacional",RDC TV HD Porto Alegre RS
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="Gardenol Nacional",RDC TV HD Porto Alegre RS
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV_400x400.png" group-title="Gardenol Nacional",TV Transamerica HD
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/454270404887322624/glhOfSqk_400x400.jpeg" group-title="Gardenol Nacional",TV Itape HD
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895809b0930ad99fff5e29fcf6644f31.png" group-title="Gardenol Nacional",Tv Itapetininga HD
 http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1i0fc51bv4e6i.cloudfront.net/noticias/wp-content/uploads/2016/02/19141635/e-parana-300x274.png" group-title="Gardenol Nacional",TVE Paraná HD
@@ -76,9 +76,6 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="Gardenol Nacional",TOP TV SD BR
 http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Gardenol Nacional",FonteTV GO
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" group-title="Gardenol Nacional",TV MAR Maceió AL SD 1
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
@@ -136,6 +133,9 @@ https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.
 
 #EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/600x600/61479995_IZXSxdLjXnk4fEmS1aY6Pj1hBzL2xBCyVKQ_hxcQ2_Q.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Gardenol Cristã",FonteTV Goiânia-GO
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 
 
@@ -223,9 +223,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/9317d31c-53ae-4043-a9bd-3dfb87d4d97e.png" group-title="Gardenol World",7 HD Espanha
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Mexico-Flag-icon.png" group-title="Gardenol World",TV 10 HD Mexico
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.pngio.com/png-mexico-flag-icon-free-download-mexico-flag-png-250_250.png" group-title="Gardenol World",TV 11 HD Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
@@ -241,7 +238,10 @@ https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b
 #EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/deportes-02.png" group-title="Gardenol World",TV Cuatro 4.3 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Gardenol World",Canal 10 Cancun Mexico
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Gardenol World",Canal 10 HD Cancun Mexico 1
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Gardenol World",Canal 10 HD Cancun Mexico 2
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="Gardenol World",ALSACE 20 HD França
@@ -819,7 +819,7 @@ http://aranami.lhmtv.gq/filmes/A-Forma-da-Agua.mp4?LHMTv
 http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo1.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo 1
 http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo.mp4?LHMTv
 
 
