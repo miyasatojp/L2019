@@ -355,17 +355,8 @@ https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Gardenol World",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Polsat_News_Logo.svg/370px-Polsat_News_Logo.svg.png" group-title="Gardenol World",POLSAT NEWS HD Polónia
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1280px-TVP_Info_logo.svg.png" group-title="Gardenol World",TVP INFO Polónia
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Superstacja_lo.jpg" group-title="Gardenol World",Superstacja Polónia
-http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Viasat_Nature-2014.png/171px-Viasat_Nature-2014.png" group-title="Gardenol World",Polsat Viasat Nature Polónia
-http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
 
 
 
