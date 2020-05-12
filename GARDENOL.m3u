@@ -28,9 +28,6 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-tvsol.png" group-title="Gardenol Nacional",Tv Sol HD
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha-TV-Logo.png" group-title="Gardenol Nacional",ALPHA CHANNEL HD
-http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="Gardenol Nacional",RDC TV HD Porto Alegre RS
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
@@ -88,9 +85,6 @@ https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" group-title="Gardenol Nacional",SUMMERTV
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
-
-#EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="Gardenol Nacional",Tv Vitoria
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="Gardenol Nacional",TV CIDADE NET FARROUPILHA
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
@@ -435,66 +429,6 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
-
-
-
-
-
-## MAZZAROPI LHMTv ## 
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1952
-http://lhmtv.gq/mazzaropi/(1952)%20Mazzaropi%20-%20Sai%20da%20frente.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1953
-http://lhmtv.gq/mazzaropi/(1953)%20Mazzaropi%20-%20Candinho.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1955
-http://lhmtv.gq/mazzaropi/(1955)%20Mazzaropi%20-%20A%20Carrocinha.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1956
-http://lhmtv.gq/mazzaropi/(1956)%20Mazzaropi%20-%20Gato%20de%20Madame.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1957
-http://lhmtv.gq/mazzaropi/(1957)%20Mazzaropi-%20O%20Noivo%20Da%20Girafa.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1959
-http://lhmtv.gq/mazzaropi/(1959)%20Mazzaropi%20-%20Chofer%20de%20Pra%c3%a7a.avi?LHMTv
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Pedro Malazartes
-http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20As%20Aventuras%20de%20Pedro%20Malazartes.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1960 Ze do Periquito
-http://lhmtv.gq/mazzaropi/(1960)%20Mazzaropi%20-%20Z%c3%a9%20Periquito.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1963
-http://lhmtv.gq/mazzaropi/(1963)%20Mazzaropi%20-%20Casinha%20Pequenina.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1964
-http://lhmtv.gq/mazzaropi/(1964)%20Mazzaropi%20-%20Meu%20Jap%c3%a3o%20Brasileiro.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1966
-http://lhmtv.gq/mazzaropi/(1966)%20Mazzaropi%20-%20O%20Corintiano.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1967
-http://lhmtv.gq/mazzaropi/(1967)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Freira.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1973
-http://lhmtv.gq/mazzaropi/(1973)%20Mazzaropi%20-%20Um%20Caipira%20em%20Bariloche.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://cultura.culturamix.com/blog/wp-content/gallery/amacio-mazzaropi-6/Am%C3%A1cio-Mazzaropi-18.jpg" group-title="MAZZAROPI LHMTv",Mazzaropi 1980
-http://lhmtv.gq/mazzaropi/(1980)%20Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Milagrosa.avi?LHMTv
 
 
 
