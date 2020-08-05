@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",GARDENOL 2020 FREE
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+http://192.99.150.31:8775/;
 
 
 ##################################################
@@ -22,29 +22,14 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 2 TV Cidade Verde Teresina PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-14-icon.png" group-title="Gardenol Nacional",Master TV HD
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-tvsol.png" group-title="Gardenol Nacional",Tv Sol HD
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="Gardenol Nacional",RDC TV HD Porto Alegre RS
-https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV_400x400.png" group-title="Gardenol Nacional",TV Transamerica HD
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895809b0930ad99fff5e29fcf6644f31.png" group-title="Gardenol Nacional",Tv Itapetininga HD
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://d1i0fc51bv4e6i.cloudfront.net/noticias/wp-content/uploads/2016/02/19141635/e-parana-300x274.png" group-title="Gardenol Nacional",TVE Paraná HD
 http://200.189.113.201:80/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Gardenol Nacional",CAT TVE HD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="Gardenol Nacional",TV CULTURA
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #EXTINF:-1 tvg-logo="http://vestibular.faap.br/images/global-management.png" group-title="Gardenol Nacional",TV Faap HD 1
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
@@ -58,18 +43,8 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Gardenol Nacional",NOVA ERA TV HD Lages SC
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
-#EXTINF:-1 tvg-logo="https://legobr.files.wordpress.com/2010/12/logo-blog.png?w=468" group-title="Gardenol Nacional",ALL TV São Paulo SP
-https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="Gardenol Nacional",TV PONTA NEGRA
-http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Gardenol Nacional",TCM 10 HD Mossoró RN
 http://live.tcm10.com.br/tcm10.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/ea/4f/48ea4ff85326624b84b1e17d241bccf5.png" group-title="Gardenol Nacional",REDE TV SP SD
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="Gardenol Nacional",TOP TV SD BR
 http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
@@ -125,9 +100,6 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
-#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/600x600/61479995_IZXSxdLjXnk4fEmS1aY6Pj1hBzL2xBCyVKQ_hxcQ2_Q.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Gardenol Cristã",FonteTV Goiânia-GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
@@ -162,9 +134,6 @@ http://rtmp.one.by:2300
 ## ARTHUR KIDS ##
 
 
-#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Desenhos Gospel
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
-
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
@@ -181,9 +150,6 @@ http://192.99.150.31:8371/stream
 ## Gardenol Esportes ##
 
 
-#EXTINF:-1 tvg-logo="http://files.softicons.com/download/sport-icons/world-cup-icons-by-libardo-gomez-pulido/png/256x256/Games.png" group-title="Gardenol Esportes",LIVRE TV BR
-http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/travel-car-png-icon-23.png" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
@@ -192,9 +158,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 ## Gardenol World ##
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" group-title="Gardenol World",RPC Red Paraguaya de Comunicacion
-http://174.138.118.252/live/canal13stream_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="Gardenol World",CANAL 26 HD ARG.1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -250,9 +213,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set40/dbb6cbf2.png" group-title="Gardenol World",JAPANET TAKADA HD Japão Sasebo Nagasaki
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Gardenol World",CGTN DOCUMENTARY China
-https://live.cgtn.com/1000d/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="Gardenol World",CNN HD Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
@@ -265,22 +225,10 @@ http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="Gardenol World",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol World",RAI Movie HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol World",RAI Premium HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol World",RAI 4 HD Italia
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol World",RAI 5 HD Italia
-https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="http://www.bevrijdingsfestivaldenhaag.nl/wp-content/uploads/2016/04/omroepwest-logo400x400.jpg" group-title="Gardenol World",Omroep West Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.xtrimtv.com/iptvadmin/tvlogo/logo-miami-tv.png" group-title="Gardenol World",MIAMI TV HD +18 USA
+#EXTINF:-1 tvg-logo="https://www.imagensbrasil.org/images/2017/05/14/miami_tv_us.md.png" group-title="Gardenol World",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="Gardenol World",BLOOMBERG TV HD NY USA
@@ -288,9 +236,6 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 
 #EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" group-title="Gardenol World",CBS NEWS HD USA
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="Gardenol World",WGN CHICAGO HD USA
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/usa-flag-icon-png-2.png" group-title="Gardenol World",Davos HD USA
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
@@ -316,14 +261,8 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados Árabes Unidos
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Israel-icon.png" group-title="Gardenol World",Knesset Channel HD Israel
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-button-square-250.png" group-title="Gardenol World",LJBC TV Libya
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Pakistan-icon.png" group-title="Gardenol World",VENUS TV Pakistan
-http://45.77.90.56:8080/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000197167962-ymoex2-t500x500.jpg" group-title="Gardenol World",Al Hurria Iraq
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
@@ -337,17 +276,12 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Gardenol World",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_TV-Oberfranken.svg/1280px-Logo_TV-Oberfranken.svg.png" group-title="Gardenol World",TV Oberfranken HD Alemanha
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="Gardenol World",TELE BARN HD Alemanha
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-mir-tv.png" group-title="Gardenol World",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rtr-rossiya.png" group-title="Gardenol World",Planeta PTP HD Russia
-https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Gardenol World",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
@@ -358,13 +292,6 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 
 
 ## Gardenol Radios ## 
-
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio MPB 
-http://192.99.150.31:8775/;
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",FM O Dia
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",TUTU Radio Gospel
@@ -435,129 +362,6 @@ http://noasrv.caster.fm:10136/stream
 
 
 ## FILMES LHMTv ## 
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/sLgiKjxctIwCDNOEb_Vy_h-BPxA=/fit-in/290x478/smart/media/movies/covers/2019/08/x23Fqkt00uqV2TzfSiB60hrc3HY.jpg" group-title="FILMES LHMTv",Parasita (Legendado)
-http://topvod.tk/LHMTvPlay/ParasiteLEG?LHMTv
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/62/64/20105202.jpg" group-title="FILMES LHMTv",Mad Max
-http://topvod.tk/LHMTvPlay/Mad-Max?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://blurppy.files.wordpress.com/2014/10/madmax2.png" group-title="FILMES LHMTv",Mad Max 2
-http://topvod.tk/LHMTvPlay/Mad-Max-2?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YFG4QdPZW8M/U6FUFPmeKpI/AAAAAAAAFYw/R6zposdIhCY/s1600/Mad+Max+3+-+Al%C3%A9m+da+C%C3%BApula+do+Trov%C3%A3o.jpg" group-title="FILMES LHMTv",Mad Max 3
-http://topvod.tk/LHMTvPlay/Mad-Max-3?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://esportenerd.com/app/webroot/ckfinder/userfiles/images/mad-max-poster.jpg" group-title="FILMES LHMTv",Mad Max 4
-http://topvod.tk/LHMTvPlay/Mad-Max-4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://img.hindilinks4u.to/2014/12/Harry-Potter-and-the-Sorcerers-Stone-2001-In-Hindi.jpg" group-title="FILMES LHMTv",Harry Potter 2001
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Pedra.Filosofal.2001.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/HO8CXSBC1w5d1RgIJX94YmWANWM=/fit-in/290x478/smart/media/movies/covers/2011/06/cf81510c617c5438dce5f27ba74fe537_4.jpg" group-title="FILMES LHMTv",Harry Potter 2002
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Camara.Secreta.2002.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/muLkxh2w9KEEc7H1GFEcx-JU_nc=/fit-in/290x478/smart/media/movies/covers/2011/07/37ace79c744e1065fe2a2f8ee11bca45_2.jpg" group-title="FILMES LHMTv",Harry Potter 2004
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/87/95/20282862.jpg" group-title="FILMES LHMTv",Harry Potter 2005
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.o.Calice.de.Fogo.2005.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/JoKpDjvL1ZLtZjiadgmmDKB8Wk.jpg" group-title="FILMES LHMTv",Harry Potter 2007
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.a.Ordem.da.Fenix.2007.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.coverwhiz.com/content/Harry-Potter-And-The-Deathly-Hallows-Part-1.jpg" group-title="FILMES LHMTv",Harry Potter 2010 p1
-http://iara.lhmtv.gq/Filmes/Dublados/Harry.Potter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.1.2010.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2016/03/o-silencio-dos-inocentes_t7031.jpg" group-title="FILMES LHMTv",Silencio dos Inocentes
-http://lhmtv.gq/hannibal/O%20Sil%c3%aancio%20dos%20Inocentes%20(1991)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.coverwhiz.com/content/Hannibal-Rising.jpg" group-title="FILMES LHMTv",Hannibal 2001
-http://lhmtv.gq/hannibal/Hannibal%20(2001)%20-%205.1%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/B0ZpkWx2XtYL244AnTQpPzKAaLM=/fit-in/290x478/smart/media/movies/covers/2013/03/8d510ed9bdfe7901121f74dcbe0a34cd_1.jpg" group-title="FILMES LHMTv",Hannibal Dragao Vermelho
-http://lhmtv.gq/hannibal/Drag%c3%a3o%20Vermelho%20(2002)%20-%20Dublado%20720p%20(By-LuanHarper).mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/7/7/0/9789724617077.jpg" group-title="FILMES LHMTv",Hannibal A Origem do Mal
-http://lhmtv.gq/hannibal/Hannibal%20-%20A%20Origem%20do%20Mal%20(2007)%20-%20Dublado%20720p%20(By-Luanharper).mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/vmdhSZQSMxXf6yO9OKzrd8XYW64=/fit-in/290x478/smart/media/movies/covers/2018/10/f7559f7ab3.jpg" group-title="FILMES LHMTv",Braddock O Super Comando
-http://lhmtv.gq/bonus/Braddock/Braddock%20%e2%80%93%20O%20Super%20Comando%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/vOFLy2Llp2j18g-6eXk1E1gS_3I=/fit-in/290x478/smart/media/movies/covers/2018/10/dvd-braddock-2-o-inicio-da-misso-chuck-norris-dublado-D_NQ_NP_1372_e4kALoy.jpg" group-title="FILMES LHMTv",Braddock 2 O Inicio da Missao
-http://lhmtv.gq/bonus/Braddock/Braddock%202%20-%20O%20Inicio%20da%20Miss%c3%a3o%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-o5Pa3lC8blY/TgaAbU5pRzI/AAAAAAAAAa4/ILIB_L4Ydxc/s1600/Braddock+3+-+Poster2.jpg" group-title="FILMES LHMTv",Braddock 3 O Resgate
-http://lhmtv.gq/bonus/Braddock/Braddock%203%20-%20O%20Resgate%20%e2%80%93%20Edi%c3%a7%c3%a3o%20Especial.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vghrl7Iz_Go/WICS8v0CGlI/AAAAAAAAEOA/ArR5lh4RaCkQUgJMLzXMKawFcXO-xu3jQCLcB/s1600/Carga%2BExplosiva.png" group-title="FILMES LHMTv",Carga Explosiva 1
-http://lhmtv.gq/bonus/Carga/Carga1.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/hBcOtGvwwnpbPjoZmb7ZpQK0Lms=/fit-in/210x312/smart/media/movies/covers/2014/06/carga-explosiva-2_t303.jpg" group-title="FILMES LHMTv",Carga Explosiva 2
-http://lhmtv.gq/bonus/Carga/Carga2.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/b0/e6/06b0e65a0a91c48f646b76e2ed1fd575.jpg" group-title="FILMES LHMTv",Carga Explosiva 3
-http://lhmtv.gq/bonus/Carga/Carga3.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://lacraiatorrent.com/capa/os-deuses-devem-estar-loucos-download-torrent-1980-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES LHMTv",Os Deuses Devem Estar Loucos
-http://lhmtv.gq/bonus/deuseloucos/Os%20Deuses%20Devem%20Estar%20Loucos%203.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/95/62/20122008.jpg" group-title="FILMES LHMTv",De Volta Para o Futuro
-http://lhmtv.gq/bonus/devoltaparaofuturo/De.Volta.Para.o.Futuro.1.DVDRip.XviD.%5bDublagem.BKS%5d.Portugues.avi?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-cMfsXU72n5o/Ub0Cb4IbsCI/AAAAAAAAAsU/NmeBNd3Krc4/s1600/NE66kPkzd3hi8d_1_1.jpg" group-title="FILMES LHMTv",Exterminador 1
-http://lhmtv.gq/bonus/exterminador/exterminador1.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/91/08/20224693.jpg" group-title="FILMES LHMTv",Exterminador 2
-http://lhmtv.gq/bonus/exterminador/exterminador2.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.coverwhiz.com/content/Terminator-Genisys.jpg" group-title="FILMES LHMTv",Exterminador 3
-http://lhmtv.gq/bonus/exterminador/exterminador3.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2019/04/terminator-dark-fate-poster-765x1194.jpg" group-title="FILMES LHMTv",Exterminador 4
-http://lhmtv.gq/bonus/exterminador/exterminador4.mkv?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Lethal_Weapon_Capa.jpg/230px-Lethal_Weapon_Capa.jpg" group-title="FILMES LHMTv",Maquina Mortifera
-http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera1.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/11/Lethal_Weapon_Capa_3.jpg/240px-Lethal_Weapon_Capa_3.jpg" group-title="FILMES LHMTv",Maquina Mortifera 3
-http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera3.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2013/06/maquina-mortifera-4.jpg" group-title="FILMES LHMTv",Maquina Mortifera 4
-http://lhmtv.gq/maquina/M%c3%a1quinaMort%c3%adfera4.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-T9YYKmz4SOk/VWiWnGoHjTI/AAAAAAAAQEI/5tldeRbBEtA/s1600/JURA%2BCAPA.jpg" group-title="FILMES LHMTv",Jurassic World
-http://lhmtv.gq/bonus/movies/Cole%c3%a7%c3%a3o%20Jurassic%20Park/Jurassic%20World:%20Reino%20Amea%c3%a7ado.mp4?LHMTv
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6a/09/22/6a09222b46fffdf5533bde6308aef103.jpg" group-title="FILMES LHMTv",007 Cassino Royale
@@ -755,10 +559,6 @@ http://aranami.lhmtv.gq/filmes/A-Chefa.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/A-Forma-da-Agua.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A Hora do Pesadelo 1
-http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo1.mp4?LHMTv
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo 1
 http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo.mp4?LHMTv
 
@@ -778,17 +578,8 @@ http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-4.mp4?LHMTv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-5
 http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-5.mp4?LHMTv
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-6
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-6.mp4?LHMTv
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-7
 http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-7.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A Hora do Pesadelo 7
-http://lhmtv.gq/bonus/ahorapesadelo/horapesadelo7.mp4?LHMTv
 
 
 #EXTINF:-1 tvg-logo="http://thepiratefilmestorrent.com/wp-content/uploads/2016/07/Filme-A-Hora-do-Rush-Rush-Hour-DVD-Capa-255x358.jpg" group-title="FILMES LHMTv",A-Hora-do-Rush
@@ -1281,6 +1072,5 @@ http://aranami.lhmtv.gq/filmes/A-Young-Man-With-High-Potential-Legendado.mp4?LHM
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg" group-title="FILMES LHMTv",A.X.L - O-Cao-Robo
 http://aranami.lhmtv.gq/filmes/A.X.L-O-Cao-Robo.mp4?LHMTv
-
 
 
