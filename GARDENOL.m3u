@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",GARDENOL 2020 FREE
-http://192.99.150.31:8775/;
+#EXTINF:-1 tvg-logo="https://www.imagensbrasil.org/images/2020/05/02/Logo-Fone-Blog-300.png" group-title="Gardenol Nacional",GARDENOL 2020 FREE
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
 ##################################################
@@ -9,27 +9,45 @@ http://192.99.150.31:8775/;
 ##                                              ##
 ##            ( LISTA 2020 FREE )               ##
 ##    CRIAÇÃO E ADAPTAÇÃO: GARDENOL IPTV        ##
-##           LHMTv E COLABORADORES              ##
+##                                              ##
 ##################################################
 
 
 ## Gardenol Nacional ## 
 
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT
+#EXTINF:-1 tvg-logo="https://www.imagensbrasil.org/images/2020/05/03/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-4.png" group-title="Gardenol Nacional",SBT HD 2 TV Cidade Verde Teresina PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-14-icon.png" group-title="Gardenol Nacional",Master TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://zas.media/wp-content/uploads/cliente-tvsol.png" group-title="Gardenol Nacional",Tv Sol HD
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha-TV-Logo.png" group-title="Gardenol Nacional",ALPHA CHANNEL HD
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="Gardenol Nacional",RDC TV HD Porto Alegre RS
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV_400x400.png" group-title="Gardenol Nacional",TV Transamerica HD
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895809b0930ad99fff5e29fcf6644f31.png" group-title="Gardenol Nacional",Tv Itapetininga HD
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1i0fc51bv4e6i.cloudfront.net/noticias/wp-content/uploads/2016/02/19141635/e-parana-300x274.png" group-title="Gardenol Nacional",TVE Paraná HD
 http://200.189.113.201:80/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Gardenol Nacional",CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="Gardenol Nacional",TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #EXTINF:-1 tvg-logo="http://vestibular.faap.br/images/global-management.png" group-title="Gardenol Nacional",TV Faap HD 1
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
@@ -43,8 +61,18 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Gardenol Nacional",NOVA ERA TV HD Lages SC
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
+#EXTINF:-1 tvg-logo="https://legobr.files.wordpress.com/2010/12/logo-blog.png?w=468" group-title="Gardenol Nacional",ALL TV São Paulo SP
+https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="Gardenol Nacional",TV PONTA NEGRA
+http://streamingbr.com:1935/st87-live/st87-live/chunklist_w1045933171.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Gardenol Nacional",TCM 10 HD Mossoró RN
 http://live.tcm10.com.br/tcm10.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/ea/4f/48ea4ff85326624b84b1e17d241bccf5.png" group-title="Gardenol Nacional",REDE TV SP SD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xXUoAB.png?1" group-title="Gardenol Nacional",TOP TV SD BR
 http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
@@ -60,6 +88,9 @@ https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" group-title="Gardenol Nacional",SUMMERTV
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
+
+#EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="Gardenol Nacional",Tv Vitoria
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="Gardenol Nacional",TV CIDADE NET FARROUPILHA
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
@@ -100,6 +131,9 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Cristã",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/600x600/61479995_IZXSxdLjXnk4fEmS1aY6Pj1hBzL2xBCyVKQ_hxcQ2_Q.jpg" group-title="Gardenol Cristã",TV EVANGELIZAR PR
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Gardenol Cristã",FonteTV Goiânia-GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
@@ -134,6 +168,9 @@ http://rtmp.one.by:2300
 ## ARTHUR KIDS ##
 
 
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TUTU Desenhos Gospel
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
@@ -150,6 +187,9 @@ http://192.99.150.31:8371/stream
 ## Gardenol Esportes ##
 
 
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/sport-icons/world-cup-icons-by-libardo-gomez-pulido/png/256x256/Games.png" group-title="Gardenol Esportes",LIVRE TV BR
+http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/travel-car-png-icon-23.png" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
@@ -158,6 +198,9 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 ## Gardenol World ##
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_de_RPC_2016.png/220px-Logo_de_RPC_2016.png" group-title="Gardenol World",RPC Red Paraguaya de Comunicacion
+http://174.138.118.252/live/canal13stream_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="Gardenol World",CANAL 26 HD ARG.1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -213,7 +256,10 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set40/dbb6cbf2.png" group-title="Gardenol World",JAPANET TAKADA HD Japão Sasebo Nagasaki
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/CNN-logo-4.png" group-title="Gardenol World",CNN HD Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Gardenol World",CGTN DOCUMENTARY China
+https://live.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Gardenol World",CNN HD Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/television-png-tv-3.png" group-title="Gardenol World",TVKU Indonesia
@@ -225,10 +271,22 @@ http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="Gardenol World",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-PzDjOzCzg5Y/VF6B21_cBnI/AAAAAAAAB6o/WpkfplOH1b4/s1600/arresti-giugno-2014.png" group-title="Gardenol World",RAI Movie HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="Gardenol World",RAI Premium HD Italia
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="Gardenol World",RAI 4 HD Italia
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="Gardenol World",RAI 5 HD Italia
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://www.bevrijdingsfestivaldenhaag.nl/wp-content/uploads/2016/04/omroepwest-logo400x400.jpg" group-title="Gardenol World",Omroep West Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.imagensbrasil.org/images/2017/05/14/miami_tv_us.md.png" group-title="Gardenol World",MIAMI TV HD +18 USA
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Gardenol World",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="Gardenol World",BLOOMBERG TV HD NY USA
@@ -236,6 +294,9 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 
 #EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2015/05/CBS-News-logo.jpg" group-title="Gardenol World",CBS NEWS HD USA
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="Gardenol World",WGN CHICAGO HD USA
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/usa-flag-icon-png-2.png" group-title="Gardenol World",Davos HD USA
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
@@ -261,8 +322,14 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados Árabes Unidos
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Israel-icon.png" group-title="Gardenol World",Knesset Channel HD Israel
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-button-square-250.png" group-title="Gardenol World",LJBC TV Libya
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Pakistan-icon.png" group-title="Gardenol World",VENUS TV Pakistan
+http://45.77.90.56:8080/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000197167962-ymoex2-t500x500.jpg" group-title="Gardenol World",Al Hurria Iraq
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
@@ -276,12 +343,17 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Gardenol World",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_TV-Oberfranken.svg/1280px-Logo_TV-Oberfranken.svg.png" group-title="Gardenol World",TV Oberfranken HD Alemanha
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="Gardenol World",TELE BARN HD Alemanha
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-mir-tv.png" group-title="Gardenol World",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rtr-rossiya.png" group-title="Gardenol World",Planeta PTP HD Russia
+https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Gardenol World",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
@@ -292,6 +364,13 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 
 
 ## Gardenol Radios ## 
+
+
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio MPB 
+http://192.99.150.31:8775/;
+
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",FM O Dia
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",TUTU Radio Gospel
@@ -356,721 +435,4 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Gardenol Radios",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
-
-
-
-
-
-## FILMES LHMTv ## 
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6a/09/22/6a09222b46fffdf5533bde6308aef103.jpg" group-title="FILMES LHMTv",007 Cassino Royale
-http://aranami.lhmtv.gq/filmes/007-Cassino-Royale.mp4?LHMTv
-
-#EXTINF:-1 tvg-logo="https://netcinehd.com/wp-content/uploads/2019/04/007-Contra-Spectre.png" group-title="FILMES LHMTv",007 Contra Spectre
-http://aranami.lhmtv.gq/filmes/007-Contra-Spectre.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2015/11/007-Opera%C3%A7%C3%A3o-Skyfall.png" group-title="FILMES LHMTv",007 Operacao Skyfall
-http://aranami.lhmtv.gq/filmes/007-Operacao-Skyfall.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/511Es1vxmyL._SY445_.jpg" group-title="FILMES LHMTv",007 Quantum of Solace
-http://aranami.lhmtv.gq/filmes/007-Quantum-of-Solace.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-KMaKEzIGoms/UfXVrmGkk7I/AAAAAAAAAWg/18O25dJHqZo/s1600/10-Anos-de-Pura-Amizade-Melhores-Torrent-Brasil.png" group-title="FILMES LHMTv",10 Anos De Pura Amizade
-http://aranami.lhmtv.gq/filmes/10-Anos-de-Pura-Amizade.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/10-coisas-que-eu-odeio-em-voce_cartaz_220x283.jpg" group-title="FILMES LHMTv",10 Coisas que Eu Odeio em Voce
-http://aranami.lhmtv.gq/filmes/10-Coisas-que-Eu-Odeio-em-Voce.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/S_syOR6Lljm8LETNp3YTcIVEwMM=/fit-in/210x312/smart/media/movies/covers/2016/06/13-horas-os-soldados-secretos-_t115532.jpg" group-title="FILMES LHMTv",13 Horas Os Soldados Secretos de Benghazi
-http://aranami.lhmtv.gq/filmes/13-Horas-Os-Soldados-Secretos-de-Benghazi.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs8FRVFT70CG5EO5u_WHTqWNeDk=/fit-in/290x478/smart/media/movies/covers/2019/05/MV5BODZmMzQ5OTctNDcyMi00NDMzLWExY2QtN2M1NDVlMjYwZWU0XkEyXkFqcGdeQX_vgvcQfp.jpg" group-title="FILMES LHMTv",15-Minutos-de-Guerra
-http://aranami.lhmtv.gq/filmes/15-Minutos-de-Guerra.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.fenixbrazil.org/all_IMG/provis/15h17trmpars.provis.cap.jpg" group-title="FILMES LHMTv",15h17 Trem para Paris
-http://aranami.lhmtv.gq/filmes/15h17-Trem-para-Paris.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/17_Again_P%C3%B4ster.jpg" group-title="FILMES LHMTv",17 Outra Vez
-http://aranami.lhmtv.gq/filmes/17-Outra-Vez.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/04/02/18/47/3717581.jpg" group-title="FILMES LHMTv",1964 O Brasil Entre Armas e Livros
-http://aranami.lhmtv.gq/filmes/1964---O-Brasil-Entre-Armas-e-Livros.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/20_ans_d%27%C3%A9cart.jpg/220px-20_ans_d%27%C3%A9cart.jpg" group-title="FILMES LHMTv",20 Anos Mais Jovem
-http://aranami.lhmtv.gq/filmes/20-Anos-Mais-Jovem.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/chpqHdRsoAc/movieposter.jpg" group-title="FILMES LHMTv",3 Dias para Matar
-http://aranami.lhmtv.gq/filmes/3-Dias-para-Matar.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJkZjExNzEtMGE1ZS00ZmIwLThiZTMtM2Y1Y2RkOGI4MmU2XkEyXkFqcGdeQXVyMjMwMDI5Ng@@._V1_SY1000_CR0,0,772,1000_AL_.jpg" group-title="FILMES LHMTv",55 Passos (Fato Real)
-http://aranami.lhmtv.gq/filmes/55-Passos.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://filmesonline10.net/wp-content/uploads/2018/02/60-Minutos-para-Morrer-Dublado.jpg" group-title="FILMES LHMTv",60 Minutos para Morrer
-http://aranami.lhmtv.gq/filmes/60-Minutos-para-Morrer.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/ad/83/e3ad8355429c05485a0f8fe93c47a67e.jpg" group-title="FILMES LHMTv",60-Segundos
-http://aranami.lhmtv.gq/filmes/60-Segundos.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://baixarofilme.com/imagens/capa/7-dias-em-entebbe-2018.jpg" group-title="FILMES LHMTv",7 Dias em Entebbe
-http://aranami.lhmtv.gq/filmes/7-Dias-em-Entebbe.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/3nXAKKgq2nGcYAynq6vgf6rLaCg=/fit-in/210x312/smart/media/movies/covers/2011/02/a00183273571c46c8c787b87650c1ad3.jpg" group-title="FILMES LHMTv",72-Horas
-http://aranami.lhmtv.gq/filmes/72-Horas.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/tmeF8-XiLYzReRYGomnQ7b4_niU=/fit-in/290x478/smart/media/movies/covers/2018/05/3714024.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FILMES LHMTv",8 Mulheres e 1 Segredo
-http://aranami.lhmtv.gq/filmes/8-Mulheres-e-1-Segredo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.baconfrito.com/wp-content/uploads/2014/08/the-hundred-foot-journey.jpg" group-title="FILMES LHMTv",A 100 Passos De Um Sonho
-http://aranami.lhmtv.gq/filmes/A-100-Passos-De-Um-Sonho.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cer3hlQTk80/WrTlR1dkU9I/AAAAAAAACpo/4PNkCUXyaDEO_zpo0Cl7TE8whNg0LfZUACLcBGAs/s1600/017678.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg" group-title="FILMES LHMTv",A 13TH Emenda
-http://aranami.lhmtv.gq/filmes/A-13o-Emenda.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c5/65/44/c56544b0b88cc84cace4ffeaba88e19e.jpg" group-title="FILMES LHMTv",A Arqueira (Fato Real)
-http://aranami.lhmtv.gq/filmes/A-Arqueira.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://torrentdublado.com/capas/a-arte-da-autodefesa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES LHMTv",A Arte da Auto Defesa
-http://aranami.lhmtv.gq/filmes/A-Arte-da-Autodefesa.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/sI0bIBR2iAS0c4N59nUnY4reT1o.jpg" group-title="FILMES LHMTv",A Autopsia
-http://aranami.lhmtv.gq/filmes/A-Autopsia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Babysitterposter.jpg/220px-Babysitterposter.jpg" group-title="FILMES LHMTv",A Baba
-http://aranami.lhmtv.gq/filmes/A-Baba.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/c/c6/Balerina_poszter.png" group-title="FILMES LHMTv",A Bailarina
-http://aranami.lhmtv.gq/filmes/A-Bailarina.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.sinemaizle.co/uploads/film/2019/01/the-ballad-of-buster-scruggs-2018-turkce-dublaj-izle-293.jpg" group-title="FILMES LHMTv",A Balada de Buster Scruggs
-http://aranami.lhmtv.gq/filmes/A-Balada-de-Buster-Scruggs.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/210/193/21019390_20130712234119539.jpg" group-title="FILMES LHMTv",A Balada do Pistoleiro
-http://aranami.lhmtv.gq/filmes/A-Balada-do-Pistoleiro.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/JEcxdWJQ_NsdMArLzewsKs3SWdk=/fit-in/290x478/smart/media/movies/covers/2018/05/Dd2dZKxWAAELVmb.jpg" group-title="FILMES LHMTv",A Barraca do Beijo
-http://aranami.lhmtv.gq/filmes/A-Barraca-do-Beijo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/8fsi5gdtk6GDzE_rd5s31oX7hhM=/fit-in/290x478/smart/media/movies/covers/2010/08/0a05d0d8fb6b1290a122f452752e617d.jpg" group-title="FILMES LHMTv",A Bela Adormecida
-http://aranami.lhmtv.gq/filmes/A-Bela-Adormecida.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video117/v4/50/d8/83/50d8834b-8a13-09af-5c06-3117df25dbac/pr_source.lsr/268x0w.png" group-title="FILMES LHMTv",A Bela e a Fera
-http://aranami.lhmtv.gq/filmes/A-Bela-e-a-Fera.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://torrentpirata.com/capas/a-boneca-que-virou-gente-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES LHMTv",A Boneca Que Virou Gente 2
-http://aranami.lhmtv.gq/filmes/A-Boneca-Que-Virou-Gente-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video127/v4/a4/ef/f2/a4eff211-a7c8-a183-9ab9-fa4ce03c3387/source/1200x630bb.jpg" group-title="FILMES LHMTv",A Cabana
-http://aranami.lhmtv.gq/filmes/A-Cabana.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/70/38/20299699.jpg" group-title="FILMES LHMTv",A Caca
-http://aranami.lhmtv.gq/filmes/A-Caca.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1YSbLk4Qxko/WtDs3VwYskI/AAAAAAAAQ44/cCZaIP3IKbIYXKd_lirZc31VbTrf8wqIQCLcBGAs/s1600/Come%2BSunday%2B2018.jpg" group-title="FILMES LHMTv",A Caminho da Fe
-http://aranami.lhmtv.gq/filmes/A-Caminho-da-Fe.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-V-m2hxB6KXA/XHGYvYbgj3I/AAAAAAAAq5o/Lm0KeO8w03ozlJ3rVjQamh7Lvq_5qZoHwCLcBGAs/s1600/acc_cartaz.online_IG.jpg" group-title="FILMES LHMTv",A-Caminho-de-Casa
-http://aranami.lhmtv.gq/filmes/A-Caminho-de-Casa.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://canalhollywood.pt/wp-content/uploads/2018/06/sara-sampaio-carga-capa-min.jpg" group-title="FILMES LHMTv",A Carga
-http://aranami.lhmtv.gq/filmes/A-Carga.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.megafilmeshds.com/wp-content/uploads/2019/04/a-casa-caiu-um-cassino-na-vizinhanca-9990-poster-727x1024.jpg" group-title="FILMES LHMTv",A Casa Caiu Um Cassino na Vizinhanca
-http://aranami.lhmtv.gq/filmes/A-Casa-Caiu-Um-Cassino-na-Vizinhanca.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vB17URP5r2o/WrmLz0YGFuI/AAAAAAACRHg/BjyTZWeDX78SofUnYnw50AJAVhmJGLLdQCLcBGAs/s1600/1.jpg" group-title="FILMES LHMTv",A-Casa-Torta
-http://aranami.lhmtv.gq/filmes/A-Casa-Torta.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/64/78/20210636.jpg" group-title="FILMES LHMTv",A-Casa-de-Cera
-http://aranami.lhmtv.gq/filmes/A-Casa-de-Cera.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/210/544/21054459_2013103117563338.jpg" group-title="FILMES LHMTv",A-Casa-de-Vidro
-http://aranami.lhmtv.gq/filmes/A-Casa-de-Vidro.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/00/68/19871032.jpg" group-title="FILMES LHMTv",A-Casa-do-Lago
-http://aranami.lhmtv.gq/filmes/A-Casa-do-Lago.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2ZjMwZDMtYWU4NS00NWFjLTg1MzQtNWFjZDlmOTQ4YThkXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES LHMTv",A-Casa-do-Medo Incidente-em-Ghostland
-http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo---Incidente-em-Ghostland.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://fotos.ewmix.com/15307/cx164804.jpg" group-title="FILMES LHMTv",A-Casa-do-Medo
-http://aranami.lhmtv.gq/filmes/A-Casa-do-Medo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-wOz6tJVEkUo/T4Hk4QP1JMI/AAAAAAAAANg/KGi0bPK55Ao/s1600/capa+a+casa+dos+sonhos.jpg" group-title="FILMES LHMTv",A-Casa-dos-Sonhos
-http://aranami.lhmtv.gq/filmes/A-Casa-dos-Sonhos.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qOUHiXhsOoDKi1pknA0CL8conNF.jpg" group-title="FILMES LHMTv",A-Caverna-Perigo-Subterraneo
-http://aranami.lhmtv.gq/filmes/A-Caverna-Perigo-Subterraneo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51v1LIjm83L.jpg" group-title="FILMES LHMTv",A-Centopeia-Humana
-http://aranami.lhmtv.gq/filmes/A-Centopeia-Humana.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-boss-2016/large_pYTvP32uYiOSJB89WgZ8idnUGk3.jpg" group-title="FILMES LHMTv",A-Chefa
-http://aranami.lhmtv.gq/filmes/A-Chefa.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/IMG_20171019_222225.jpg" group-title="FILMES LHMTv",A-Forma-da-Agua
-http://aranami.lhmtv.gq/filmes/A-Forma-da-Agua.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo 1
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-2
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-3
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-3.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-4
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-4.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-5
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-5.mp4?LHMTv
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/09/e0/2d09e0020bf40f0907d2050b1795754e--freddys-nightmares-freddy-krueger.jpg" group-title="FILMES LHMTv",A-Hora-do-Pesadelo-7
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Pesadelo-7.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://thepiratefilmestorrent.com/wp-content/uploads/2016/07/Filme-A-Hora-do-Rush-Rush-Hour-DVD-Capa-255x358.jpg" group-title="FILMES LHMTv",A-Hora-do-Rush
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_Jg17tOpD4Ds/TKEWr64eHsI/AAAAAAAAH04/iCovyaFxsvc/w1200-h630-p-k-no-nu/hora-do-rush-2.jpg" group-title="FILMES LHMTv",A-Hora-do-Rush-2
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/d6/31/87d631498f6950a84a9f86e43ff092cf.jpg" group-title="FILMES LHMTv",A-Hora-do-Rush-3
-http://aranami.lhmtv.gq/filmes/A-Hora-do-Rush-3.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.intrinseca.com.br/blog/wp-content/uploads/2013/02/capa_A_hospedeira_300dpi_red.jpg" group-title="FILMES LHMTv",A-Hospedeira
-http://aranami.lhmtv.gq/filmes/A-Hospedeira.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.movieartarena.com/imgs/bourneidentitydvd.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-1
-http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-1.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.movieartarena.com/imgs/bourneultimatum.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-2
-http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/Xy1idlk0yLIWG-JtnZHbrMgc2WM=/fit-in/210x312/smart/media/movies/covers/2011/11/0450dae1f136d61c39409002ac71c1e1_1.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-3
-http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-3.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LHMTv",A-Identidade-Bourne-4
-http://aranami.lhmtv.gq/filmes/A-Identidade-Bourne-4.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.filmesonlinex.ch/wp-content/uploads/2019/05/A-Ilha-da-Morte-capa.jpg" group-title="FILMES LHMTv",A-Ilha-da-Morte
-http://aranami.lhmtv.gq/filmes/A-Ilha-da-Morte.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/1635/movieposter/the-island-5219b8978d83c.jpg" group-title="FILMES LHMTv",A-Ilha
-http://aranami.lhmtv.gq/filmes/A-Ilha.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjEQQ7p.jpg" group-title="FILMES LHMTv",A-Incrivel-Historia-de-Adaline
-http://aranami.lhmtv.gq/filmes/A-Incrivel-Historia-de-Adaline.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-SVn5aXPIGeA/UWchirWxZ3I/AAAAAAAAA4Y/zw65JfQMhuY/s1600/Inside_poster_2.jpg" group-title="FILMES LHMTv",A-Invasora
-http://aranami.lhmtv.gq/filmes/A-Invasora.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://occ-0-299-300.1.nflxso.net/art/8f143/49e2f4444b99e4f5efc10808a63606d13ab8f143.jpg" group-title="FILMES LHMTv",A-Inveja-Mata
-http://aranami.lhmtv.gq/filmes/A-Inveja-Mata.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://filmchecker.files.wordpress.com/2013/08/sadako-3d.jpg" group-title="FILMES LHMTv",A Invocacao Sadako 3D
-http://aranami.lhmtv.gq/filmes/A-Invocacao.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Sadako_3D_2.jpg/220px-Sadako_3D_2.jpg" group-title="FILMES LHMTv",A Invocacao 2 Sadako 3D 2
-http://aranami.lhmtv.gq/filmes/A-Invocacao-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/TFhj-BHCvbyTy8CO2ZpSYxcOptY=/fit-in/290x478/smart/media/movies/covers/2018/10/1080x1620_1537538327.jpg" group-title="FILMES LHMTv",A-Justiceira
-http://aranami.lhmtv.gq/filmes/A-Justiceira.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3HS5muhsi3U/UTcYGZTJzfI/AAAAAAAAC08/Ij6jd_RLgwg/s1600/A+lagoa+azul.jpg" group-title="FILMES LHMTv",A-Lagoa-Azul
-http://aranami.lhmtv.gq/filmes/A-Lagoa-Azul.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/RyE5DD9nXuW3ieWRGA8dSdV9A7o=/fit-in/210x312/smart/media/movies/covers/2016/02/a-lagoa-azul-o-despertar_t53672_s57jk0B.jpg" group-title="FILMES LHMTv",A-Lagoa-Azul-2
-http://aranami.lhmtv.gq/filmes/A-Lagoa-Azul-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://tr.web.img4.acsta.net/pictures/19/10/07/14/05/0808692.jpg" group-title="FILMES LHMTv",A-Lavanderia
-http://aranami.lhmtv.gq/filmes/A-Lavanderia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--PLA6EElBsU/UYzFQ9zHzOI/AAAAAAAAAYE/QkJqsa9R30g/s1600/A+Lenda+do+Tesouro+Perdido+2+-+Livro+dos+Segredos+-+1.jpg" group-title="FILMES LHMTv",A-Lenda-Do-Tesouro-Perdido Livro-Dos-Segredos
-http://aranami.lhmtv.gq/filmes/A-Lenda-Do-Tesouro-Perdido---Livro-Dos-Segredos.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/zoYPlSBUOKZbm912JV0v1NhAaWY.jpg" group-title="FILMES LHMTv",A-Lenda-Do-Tesouro-Perdido
-http://aranami.lhmtv.gq/filmes/A-Lenda-Do-Tesouro-Perdido.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Legend_of_the_Guardians.jpg/220px-Legend_of_the_Guardians.jpg" group-title="FILMES LHMTv",A-Lenda-Dos-Guardioes
-http://aranami.lhmtv.gq/filmes/A-Lenda-Dos-Guardioes.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Beowulf_%282007%29.jpg/240px-Beowulf_%282007%29.jpg" group-title="FILMES LHMTv",A-Lenda-de-Beowulf
-http://aranami.lhmtv.gq/filmes/A-Lenda-de-Beowulf.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2019/02/the_golem-987599412-mmed.jpg" group-title="FILMES LHMTv",A-Lenda-de-Golem
-http://aranami.lhmtv.gq/filmes/A-Lenda-de-Golem.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2016/06/A-Lenda-de-Tarzan-poster.jpg" group-title="FILMES LHMTv",A-Lenda-de-Tarzan
-http://aranami.lhmtv.gq/filmes/A-Lenda-de-Tarzan.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.oreidofaroeste.com.br/imagens/capa_4726.jpg" group-title="FILMES LHMTv",A-Lenda-do-Cavalo-Prateado
-http://aranami.lhmtv.gq/filmes/A-Lenda-do-Cavalo-Prateado.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://www.lifewithheidi.com/wp-content/uploads/2016/04/Quackarz.jpg" group-title="FILMES LHMTv",A-Lenda-do-Pato-Sol
-http://aranami.lhmtv.gq/filmes/A-Lenda-do-Pato-Sol.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/91/14/96/20131833.jpg" group-title="FILMES LHMTv",A-Lenda
-http://aranami.lhmtv.gq/filmes/A-Lenda.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://i2.wp.com/thebooksmugglers.com/wp-content/uploads/2010/03/League-of-Extraordinary-Gentlemen-movie.jpg" group-title="FILMES LHMTv",A-Liga-Extraordinaria
-http://aranami.lhmtv.gq/filmes/A-Liga-Extraordinaria.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://pgl.gal/wp-content/uploads/2016/01/A-LISTA-DE-SCHINDLER-Capa-DVD.jpg" group-title="FILMES LHMTv",A-Lista-de-Schindler
-http://aranami.lhmtv.gq/filmes/A-Lista-de-Schindler.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S38cIK4wXkQ/Vt9kML60CKI/AAAAAAAAsNQ/IBBCEIv0yEI/s1600/A%2BLUNETA%2BDO%2BTEMPO_POSTER.jpg" group-title="FILMES LHMTv",A-Luneta-do-Tempo
-http://aranami.lhmtv.gq/filmes/A-Luneta-do-Tempo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vFRgUkTq5TH0g0gRMd2eBrBO3rq.jpg" group-title="FILMES LHMTv",A-Luz-Divina
-http://aranami.lhmtv.gq/filmes/A-Luz-Divina.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/10/18/23/38/086160.jpg" group-title="FILMES LHMTv",A-Luz-Entre-Oceanos
-http://aranami.lhmtv.gq/filmes/A-Luz-Entre-Oceanos.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sFvOTUlZrIxCLdmz1fC16wK0lme.jpg" group-title="FILMES LHMTv",A-Madea-Family-Funeral-Legendado
-http://aranami.lhmtv.gq/filmes/A-Madea-Family-Funeral-Legendado.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/01/18/18/02/192713.jpg" group-title="FILMES LHMTv",A-Magia-de-um-Sonho
-http://aranami.lhmtv.gq/filmes/A-Magia-de-um-Sonho.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Curse_of_Chucky.jpg" group-title="FILMES LHMTv",A-Maldicao-De-Chucky
-http://aranami.lhmtv.gq/filmes/A-Maldicao-De-Chucky.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.livrefilmeshd.net/wp-content/uploads/2017/08/A-Maldi%C3%A7%C3%A3o-Da-Bela-Adormecida-e1502093218145.jpg" group-title="FILMES LHMTv",A-Maldicao-da-Bela-Adormecida
-http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Bela-Adormecida.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/Mipi-HzEeuXDT41XO_TJHuLCuvo=/fit-in/290x478/smart/media/movies/covers/2018/03/winchester-5a66069fd2ef8.jpg" group-title="FILMES LHMTv",A-Maldicao-da-Casa-Winchester
-http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Casa-Winchester.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/17/19/49/2435371.jpg" group-title="FILMES LHMTv",A-Maldicao-da-Freira
-http://aranami.lhmtv.gq/filmes/A-Maldicao-da-Freira.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://adorocinematorrent.com/capas/a-maldicao-de-sharon-tate-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES LHMTv",A-Maldicao-de-Sharon-Tate
-http://aranami.lhmtv.gq/filmes/A-Maldicao-de-Sharon-Tate.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2017/09/REMEMORY-poster1.jpg" group-title="FILMES LHMTv",A-Maquina-de-Lembrancas
-http://aranami.lhmtv.gq/filmes/A-Maquina-de-Lembrancas.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.com/image/cache/catalog/poster/91ZJYaYVv8L._RI_-337x500.jpg" group-title="FILMES LHMTv",A-Maratona-de-Brittany
-http://aranami.lhmtv.gq/filmes/A-Maratona-de-Brittany.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVkN2QxZjItMDFmNi00NTE3LTkwZDktOTM4MTE3NzM2ODk1XkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES LHMTv",A-Marca-Negra
-http://aranami.lhmtv.gq/filmes/A-Marca-Negra.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg4ZjQ4OGUtZjkxMi00Y2I2LWEzNTAtODI2ZjkxMGVjNTQwXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES LHMTv",A-Mascara-do-Zorro
-http://aranami.lhmtv.gq/filmes/A-Mascara-do-Zorro.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDAxNTg1OF5BMl5BanBnXkFtZTgwMzMzMDM1MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Melhor-Escolha
-http://aranami.lhmtv.gq/filmes/A-Melhor-Escolha.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkYTdkYzAtN2MzZS00ZjlmLTkxZWQtODg3YmYxMTdjNjVkXkEyXkFqcGdeQXVyNzczNzUxNTI@._V1_SX692_CR0,0,692,999_AL_.jpg" group-title="FILMES LHMTv",A-Menina-e-o-Leao
-http://aranami.lhmtv.gq/filmes/A-Menina-e-o-Leao.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="FILMES LHMTv",A-Mentira
-http://aranami.lhmtv.gq/filmes/A-Mentira.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc1ZjQwNmUtN2Y2OS00NTYwLTg1YzYtYjRlYmY3ZjcwMmIyXkEyXkFqcGdeQXVyMjg1NDc1NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Metas-de-Jessica-Darling
-http://aranami.lhmtv.gq/filmes/A-Metas-de-Jessica-Darling.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxNzk4ODM3Nl5BMl5BanBnXkFtZTgwODA4OTI5MzE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Moda-Antiga
-http://aranami.lhmtv.gq/filmes/A-Moda-Antiga.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LZvw-Yfv9y4/Vfa7PFl8raI/AAAAAAAAcbQ/Uba0S2eEY2Q/s1600/158644.jpg" group-title="FILMES LHMTv",A-Morte-Lhe-Cai-Bem
-http://aranami.lhmtv.gq/filmes/A-Morte-Lhe-Cai-Bem.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bXK2SgddcKY/WUrQBBxLgrI/AAAAAAAAW9o/G1O21LRgDUE3Z5pLRXfhdxKwNbsGq_SUACLcBGAs/s1600/a-morte-te-da-parabens-poster.jpg" group-title="FILMES LHMTv",A-Morte-te-da-Parabens
-http://aranami.lhmtv.gq/filmes/A-Morte-te-da-Parabens.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/12/13/17/57/4780190.jpg" group-title="FILMES LHMTv",A-Morte-Te-Da-Parabens-2
-http://aranami.lhmtv.gq/filmes/A-Morte-Te-Da-Parabens-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxMDc1NjcyNl5BMl5BanBnXkFtZTgwNDU0NDYxMzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Morte-de-Stalin
-http://aranami.lhmtv.gq/filmes/A-Morte-de-Stalin.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/b1/b4/5b/b1b45be5-f085-2512-a271-3f99ad29f460/pr_source.lsr/268x0w.png" group-title="FILMES LHMTv",A-Morte-do-Superman
-http://aranami.lhmtv.gq/filmes/A-Morte-do-Superman.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LHMTv",A-Mosca
-http://aranami.lhmtv.gq/filmes/A-Mosca.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Mula
-http://aranami.lhmtv.gq/filmes/A-Mula.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" group-title="FILMES LHMTv",A-Mulher-De-Preto
-http://aranami.lhmtv.gq/filmes/A-Mulher-De-Preto.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVjNGZiMmItNDhmZC00MGYwLThkMzItOWE1ZTVjNDU1YTE2XkEyXkFqcGdeQXVyNjI4MzUwNjE@._V1_SY1000_CR0,0,684,1000_AL_.jpg" group-title="FILMES LHMTv",A-Mulher-do-Meu-Marido
-http://aranami.lhmtv.gq/filmes/A-Mulher-do-Meu-Marido.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX672_AL_.jpg" group-title="FILMES LHMTv",A-Mumia-1999
-http://aranami.lhmtv.gq/filmes/A-Mumia-1999.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2NzU1NTk2MV5BMl5BanBnXkFtZTgwMjIwMzcxMTE@._V1_.jpg" group-title="FILMES LHMTv",O Regresso da Múmia 2001
-http://aranami.lhmtv.gq/filmes/A-Mumia-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="FILMES LHMTv",A Múmia(2017)
-http://aranami.lhmtv.gq/filmes/A-Mumia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUzNGYxZDAtZjVjZC00YzI2LTk3MTItNmE3NGQwOWQwZjJiXkEyXkFqcGdeQXVyMjcyMzI2OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Musica-da-Minha-Vida
-http://aranami.lhmtv.gq/filmes/A-Musica-da-Minha-Vida..mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://pdemp.com/capas/a-namorada-do-meu-irmao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES LHMTv",A-Namorada-do-Meu-Irmao
-http://aranami.lhmtv.gq/filmes/A-Namorada-do-Meu-Irmao.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2MDA2ZTctMzcxMS00NWM2LWFkYTEtMGI4Njg3ZjAwOGZmXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Noite-Devorou-o-Mundo
-http://aranami.lhmtv.gq/filmes/A-Noite-Devorou-o-Mundo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdjZGI3YjItMjM0OS00MGM3LWJhMGUtZGIxM2ZjODBmMTZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LHMTv",A-Odisseia-De-Jacques
-http://aranami.lhmtv.gq/filmes/A-Odisseia-De-Jacques.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5Mjg0MjgxMl5BMl5BanBnXkFtZTgwNjUzNDg0NzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Onda
-http://aranami.lhmtv.gq/filmes/A-Onda.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjMjY0ODEtZGVkMy00MjUyLTlkMjAtNDBmNzVjOTk0NzQyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,672,1000_AL_.jpg" group-title="FILMES LHMTv",A-Orfa
-http://aranami.lhmtv.gq/filmes/A-Orfa.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_SY1000_CR0,0,643,1000_AL_.jpg" group-title="FILMES LHMTv",A-Origem-dos-Guardioes
-http://aranami.lhmtv.gq/filmes/A-Origem-dos-Guardioes.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Origem
-http://aranami.lhmtv.gq/filmes/A-Origem.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILMES LHMTv",A-Outra-Face
-http://aranami.lhmtv.gq/filmes/A-Outra-Face.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/namdEEjsOYc3L3YkGpVo4UfNpIA.jpg" group-title="FILMES LHMTv",A-Outra-Filha
-http://aranami.lhmtv.gq/filmes/A-Outra-Filha.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/O6ATaWbq5F_oBoGQMPrXkQ3t4Sw=/fit-in/210x312/smart/media/movies/covers/2011/08/d7c896c3f67aad4d2bf35ea7bc6dfe64.jpg" group-title="FILMES LHMTv",A-Outra-Historia-Americana
-http://aranami.lhmtv.gq/filmes/A-Outra-Historia-Americana.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RhZDVjNTQtMDM3OS00NjI2LWFkYmUtYzRjNGVmMjUwNzZkXkEyXkFqcGdeQXVyMDc1MjE0MA@@._V1_SY1000_CR0,0,689,1000_AL_.jpg" group-title="FILMES LHMTv",A-Outra-Mae
-http://aranami.lhmtv.gq/filmes/A-Outra-Mae.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uwjrvFCP8-I/UWREGrAf1XI/AAAAAAAABgY/g8FOOrAxLnU/s1600/anotherearth-poster.jpg" group-title="FILMES LHMTv",A-Outra-Terra
-http://aranami.lhmtv.gq/filmes/A-Outra-Terra.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1N2IyYWMtZTY4OS00OGM1LTkxNmUtOTQzYmM5MmI2YmVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="FILMES LHMTv",A-Paixao-de-Cristo
-http://aranami.lhmtv.gq/filmes/A-Paixao-de-Cristo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2MjQ3OTk2MV5BMl5BanBnXkFtZTgwNjQ0NzA2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Pe-Ele-Nao-Vai-Longe
-http://aranami.lhmtv.gq/filmes/A-Pe-Ele-Nao-Vai-Longe.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFmNjY5NDYtZjlhNi00YjQ5LTgzNzctNWRiNWUzNmIyNjc4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,696,1000_AL_.jpg" group-title="FILMES LHMTv",A-Pele-Que-Habito
-http://aranami.lhmtv.gq/filmes/A-Pele-Que-Habito.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzOTM0OTIyMV5BMl5BanBnXkFtZTgwNzk0NDMzMjE@._V1_SY1000_CR0,0,693,1000_AL_.jpg" group-title="FILMES LHMTv",A-Pequena-Morte
-http://aranami.lhmtv.gq/filmes/A-Pequena-Morte.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JlZTBhYTEtZDE3OC00NTA3LTk5NTQtNjg5M2RjODllM2M0XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Pequena-Sereia
-http://aranami.lhmtv.gq/filmes/A-Pequena-Sereia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY0NTZiZDAtNDgxYS00ZDQxLWI0NTctY2NlNmYyOWRiNWZhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILMES LHMTv",A-Pequena-Suica
-http://aranami.lhmtv.gq/filmes/A-Pequena-Suica.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LHMTv",A-Primeira-Noite-de-Crime
-http://aranami.lhmtv.gq/filmes/A-Primeira-Noite-de-Crime.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMjYxMjEzOF5BMl5BanBnXkFtZTgwMjAwNDE3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Princesa-e-a-Plebeia
-http://aranami.lhmtv.gq/filmes/A-Princesa-e-a-Plebeia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVkZjI5MzktMmNhMi00ZTMxLTg3ZDctYTVjNTExMzkzNWQ5XkEyXkFqcGdeQXVyMjQ3MzE2MA@@._V1_.jpg" group-title="FILMES LHMTv",A-Princesa-e-o-Dragao
-http://aranami.lhmtv.gq/filmes/A-Princesa-e-o-Dragao.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@._V1_.jpg" group-title="FILMES LHMTv",A-Princesa-e-o-Sapo
-http://aranami.lhmtv.gq/filmes/A-Princesa-e-o-Sapo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQzMGE5ODYtZDdiNC00MzZjLTg2NjAtZTk0ODlkYmY4MTQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILMES LHMTv",A-Princesinha
-http://aranami.lhmtv.gq/filmes/A-Princesinha.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" group-title="FILMES LHMTv",A-Procura-Da-Felicidade
-http://aranami.lhmtv.gq/filmes/A-Procura-Da-Felicidade.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIxNjIwNjktZTQzNS00ODI1LTkyZGItNDhkYjJlM2FhODcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,690,1000_AL_.jpg" group-title="FILMES LHMTv",A-Professora-Do-Jardim-De-Infancia
-http://aranami.lhmtv.gq/filmes/A-Professora-Do-Jardim-De-Infancia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5YTNiYzktNmEwZC00ZjE5LWIyNzEtOTUwNDE0NmVkYzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="FILMES LHMTv",A-Proposta
-http://aranami.lhmtv.gq/filmes/A-Proposta.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZhYzFjY2ItNDVmZi00Y2Q1LWFmMDgtMzAwYTU3NTI3ZGU4XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_CR0,0,673,1000_AL_.jpg" group-title="FILMES LHMTv",A-Prova-de-Fogo
-http://aranami.lhmtv.gq/filmes/A-Prova-de-Fogo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkN2I4MDItMGM5Yy00OTJmLThmMDMtZGQzY2U1MTU4NDAwXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="FILMES LHMTv",A-Queda-de-Berlim
-http://aranami.lhmtv.gq/filmes/A-Queda-de-Berlim.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThkZjRmNWYtMWQ5Mi00Y2E4LWEyZjgtYWYxMDhiNTJmNTQzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Queima-Roupa
-http://aranami.lhmtv.gq/filmes/A-Queima-Roupa.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwOWVmZTAtMjM3MC00MjBlLWI3YmItYzBlYzc4Nzk3Y2E5XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg" group-title="FILMES LHMTv",A-Quimica-do-Amor
-http://aranami.lhmtv.gq/filmes/A-Quimica-do-Amor.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILMES LHMTv",A-Rede-Social
-http://aranami.lhmtv.gq/filmes/A-Rede-Social.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk5ZmQxMWYtM2QyNi00MTY3LTlmNjItYjUwODY3Y2YwOTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,673,1000_AL_.jpg" group-title="FILMES LHMTv",A-Senha-Swordfish
-http://aranami.lhmtv.gq/filmes/A-Senha-Swordfish.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0MjM3NTQyOF5BMl5BanBnXkFtZTgwMzcwNjUxNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Senhora-da-Van
-http://aranami.lhmtv.gq/filmes/A-Senhora-da-Van.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2OTc5YzQtMjAwMS00YWY4LTk1ZWItOTgyMmRkMGU4ZmY1XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg" group-title="FILMES LHMTv",A-Serie-Divergente-Convergente
-http://aranami.lhmtv.gq/filmes/A-Serie-Divergente-Convergente.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTYxMTg3OF5BMl5BanBnXkFtZTgwMDgyMzA2NDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Serie-Divergente-Insurgente
-http://aranami.lhmtv.gq/filmes/A-Serie-Divergente-Insurgente.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ4NDRiMWItNGI5Yi00N2U1LTlkMGQtM2VjMzdkZTU0YzYyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg" group-title="FILMES LHMTv",A-Sombra-E-A-Escuridao
-http://aranami.lhmtv.gq/filmes/A-Sombra-E-A-Escuridao.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTE2Njk0N15BMl5BanBnXkFtZTgwNTUxOTc5MTE@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="FILMES LHMTv",A-Sombra-de-Summer
-http://aranami.lhmtv.gq/filmes/A-Sombra-de-Summer.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://www.mega-filmes.xyz/wp-content/uploads/2018/12/A-Sua-Parte-Fr%C3%A1gil-Dublado.jpg" group-title="FILMES LHMTv",A-Sua-Parte-Fragil
-http://aranami.lhmtv.gq/filmes/A-Sua-Parte-Fragil.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Teoria-De-Tudo
-http://aranami.lhmtv.gq/filmes/A-Teoria-De-Tudo.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Torre-Negra
-http://aranami.lhmtv.gq/filmes/A-Torre-Negra.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/01/18/19/00/209614.jpg" group-title="FILMES LHMTv",A-Travessia
-http://aranami.lhmtv.gq/filmes/A-Travessia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg0NzIxNTc1MV5BMl5BanBnXkFtZTgwMzk2MTQxNzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Ultima-Gargalhada
-http://aranami.lhmtv.gq/filmes/A-Ultima-Gargalhada.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAyZDBiYjktMTdlZi00MGQ5LWE5NmItYjI3YWMwN2I0NjYxXkEyXkFqcGdeQXVyNjUzODM0ODI@._V1_.jpg" group-title="FILMES LHMTv",A-Ultima-Jornada
-http://aranami.lhmtv.gq/filmes/A-Ultima-Jornada.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MTcyMjMyNF5BMl5BanBnXkFtZTgwODg2ODU1MDE@._V1_.jpg" group-title="FILMES LHMTv",A-Ultima-Musica
-http://aranami.lhmtv.gq/filmes/A-Ultima-Musica.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/05/13/17/13/5184349.jpg" group-title="FILMES LHMTv",A-Ultima-Resistencia
-http://aranami.lhmtv.gq/filmes/A-Ultima-Resistencia.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2MTM2OTUwNl5BMl5BanBnXkFtZTcwNTgwNTE0Mg@@._V1_.jpg" group-title="FILMES LHMTv",A-Verdade-Nua-e-Crua
-http://aranami.lhmtv.gq/filmes/A-Verdade-Nua-e-Crua.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Viagem
-http://aranami.lhmtv.gq/filmes/A-Viagem.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg4OTFjNGUtNGIwYi00NTM0LWIzODEtOTI5ODljOTA5OTE5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,690,1000_AL_.jpg" group-title="FILMES LHMTv",A-Vida-Em-Mim
-http://aranami.lhmtv.gq/filmes/A-Vida-Em-Mim.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M1MDc2YzEtZDVmYS00NTE0LWEwOGMtZDQyNmNlZmRlYTAwXkEyXkFqcGdeQXVyODI3MTM2NDY@._V1_SX687_CR0,0,687,999_AL_.jpg" group-title="FILMES LHMTv",A-Vida-Moderna-De-Rocko-Volta-Ao-Lar
-http://aranami.lhmtv.gq/filmes/A-Vida-Moderna-De-Rocko-Volta-Ao-Lar.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-3pqfScjtiE0/UyhcDVEYedI/AAAAAAAAHrU/XQbJ_O43xfo/s433/l_359950_7af25499.jpg" group-title="FILMES LHMTv",A-Vida-Secreta-de-Walter-Mitty
-http://aranami.lhmtv.gq/filmes/A-Vida-Secreta-de-Walter-Mitty.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMzMTUyNzU3Nl5BMl5BanBnXkFtZTgwNjM5MjAwMjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILMES LHMTv",A-Vida-Secreta-de-Zoe
-http://aranami.lhmtv.gq/filmes/A-Vida-Secreta-de-Zoe.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX670_AL_.jpg" group-title="FILMES LHMTv",A-Vida-e-Bela
-http://aranami.lhmtv.gq/filmes/A-Vida-e-Bela.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmY2I2ZDktZjhhMC00YmFmLWIyNDUtODk0NjY3Y2Q5MmRiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Vida-em-Si
-http://aranami.lhmtv.gq/filmes/A-Vida-em-Si.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="FILMES LHMTv",A-Vigilante-do-Amanha
-http://aranami.lhmtv.gq/filmes/A-Vigilante-do-Amanha.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://movieswithaplottwist.com/wp-content/uploads/2016/07/the-village-poster.jpg" group-title="FILMES LHMTv",A-Vila
-http://aranami.lhmtv.gq/filmes/A-Vila.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZjNThlYmEtOTY1NC00NzI1LTg2ZTktZWEyNGMwYWU1MThlXkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg" group-title="FILMES LHMTv",A-Volta-do-Espirito-de-Natal
-http://aranami.lhmtv.gq/filmes/A-Volta-do-Espirito-de-Natal.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxMTEzODYxMV5BMl5BanBnXkFtZTcwNzQ4ODU0MQ@@._V1_.jpg" group-title="FILMES LHMTv",A-Volta-do-Todo-Poderoso
-http://aranami.lhmtv.gq/filmes/A-Volta-do-Todo-Poderoso.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY0ZjJlNmMtMGU3NC00Yjk3LTk0N2ItMDNlMDVhZjA4OTFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILMES LHMTv",A-Volta-dos-Mortos-Vivos-1
-http://aranami.lhmtv.gq/filmes/A-Volta-dos-Mortos-Vivos-1.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNlMDgzMWYtNDkzOC00ODExLWEzNzYtZTA0NDI0YmIzOWM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,671,1000_AL_.jpg" group-title="FILMES LHMTv",A-Volta-dos-Mortos-Vivos-2
-http://aranami.lhmtv.gq/filmes/A-Volta-dos-Mortos-Vivos-2.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2NlNmVmNzctYzdiMC00YzEwLWE4MWYtMGI0MmE1YzJjMjhhXkEyXkFqcGdeQXVyMDM2NTk3Nw@@._V1_.jpg" group-title="FILMES LHMTv",A-Young-Man-With-High-Potential-Legendado
-http://aranami.lhmtv.gq/filmes/A-Young-Man-With-High-Potential-Legendado.mp4?LHMTv
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg" group-title="FILMES LHMTv",A.X.L - O-Cao-Robo
-http://aranami.lhmtv.gq/filmes/A.X.L-O-Cao-Robo.mp4?LHMTv
-
 
