@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol Nacional",GARDENOL 2020 FREE
-http://192.99.150.31:9007/;
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
 ##################################################
@@ -17,7 +17,7 @@ http://192.99.150.31:9007/;
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol Nacional",GARDENOL LIGHT
-http://192.99.150.31:8715/;
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 
