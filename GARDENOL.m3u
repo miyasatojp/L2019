@@ -20,7 +20,11 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Gardenol Nacional",RBATV (BAND) HD Belém do Pará
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Gardenol Nacional",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://gazetaweb.globo.com/fotosPortal/portal_gazetaweb_com/noticias/foto_pequena/201609201408_381372ce4e.jpg" group-title="Gardenol Nacional",TV MAR 1
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
@@ -37,9 +41,6 @@ https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/1028/1028515.png" group-title="Gardenol Nacional",ENTRETENIMENTO TV 3
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51is7kg5qTL.png" group-title="Gardenol Nacional",CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png" group-title="Gardenol Nacional",TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 
@@ -52,9 +53,6 @@ https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a4394659-8f72-497c-8f9a-f284134fa7ac/d76mik0-57359689-0a1b-40af-907d-518c310afaac.png" group-title="Gardenol Nacional",REDE METRÓPOLE
 http://177.130.81.30/hls/metropole.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png" group-title="Gardenol Nacional",TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101503363743662080/m-Cg4X8Y.png" group-title="Gardenol Nacional",TBC TV
 https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
 
@@ -66,9 +64,6 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zas.media/wp-content/uploads/cliente-liberdade-gospel.png" group-title="Gardenol Nacional",TV LIBERDADE 2
 https://01.paineldevideo.com/rtguarany/rtguarany/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Gardenol Nacional",RBATV (BAND) HD Belém do Pará
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jK3DRfkmvp4/Vk8RBRMKKnI/AAAAAAAAGgU/irqBygxy8bU/s1600-r/logo_diario.png" group-title="Gardenol Nacional",DIARIO DO SERTÃO 1
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
