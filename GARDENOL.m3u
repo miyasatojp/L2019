@@ -59,23 +59,11 @@ https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61cKvkLNBLL.png" group-title="Gardenol Nacional",BRZ BRASIL TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://zas.media/wp-content/uploads/cliente-liberdade-gospel.png" group-title="Gardenol Nacional",TV LIBERDADE 1
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://zas.media/wp-content/uploads/cliente-liberdade-gospel.png" group-title="Gardenol Nacional",TV LIBERDADE 2
-https://01.paineldevideo.com/rtguarany/rtguarany/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jK3DRfkmvp4/Vk8RBRMKKnI/AAAAAAAAGgU/irqBygxy8bU/s1600-r/logo_diario.png" group-title="Gardenol Nacional",DIARIO DO SERTÃO 1
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jK3DRfkmvp4/Vk8RBRMKKnI/AAAAAAAAGgU/irqBygxy8bU/s1600-r/logo_diario.png" group-title="Gardenol Nacional",DIARIO DO SERTÃO 2
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV_400x400.png" group-title="Gardenol Nacional",TV Transamerica HD 1
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV_400x400.png" group-title="Gardenol Nacional",TV Transamerica HD 2
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Gardenol Nacional",TVE TV BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -101,7 +89,7 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Gardenol Nacional",NOVA ERA TV HD Lages SC
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NbcWKyFTW5E7CwmcuneV6fX_EItHExvxizAV97ZVLPMKdbKJO20Ef7iSxlpGq2LAJeU" group-title="Gardenol Nacional",NE TV BR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NbcWKyFTW5E7CwmcuneV6fX_EItHExvxizAV97ZVLPMKdbKJO20Ef7iSxlpGq2LAJeU" group-title="Gardenol Nacional",NOVA ERA TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" group-title="Gardenol Nacional",TV MAR Macei� AL SD 1
@@ -148,12 +136,6 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Crist�",Cristo Vive IGreja Crist�
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
-#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/600x600/61479995_IZXSxdLjXnk4fEmS1aY6Pj1hBzL2xBCyVKQ_hxcQ2_Q.jpg" group-title="Gardenol Crist�",TV EVANGELIZAR PR
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Gardenol Crist�",FonteTV Goi�nia-GO
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore23/avatars/b7/5a/cb/santuariodefatima_partnerlogo_1586605740.jpg" group-title="Gardenol Crist�",SANTUÁRIO DE FÁTIMA
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
@@ -194,11 +176,8 @@ http://rtmp.one.by:2300
 ## ARTHUR KIDS ##
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8f/d4/6d/8fd46df80be3c94a262e6ccef1776ba1.png" group-title="ARTHUR KIDS",TV KIDS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8f/d4/6d/8fd46df80be3c94a262e6ccef1776ba1.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON Brasil
 http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.softicons.com/download/tv-movie-icons/rio-2-icons-by-design-bolts/png/512x512/Rio-2-Blu-Icon.png" group-title="ARTHUR KIDS",TV TUTU e ANDERSON
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Gardenol World",3ABNKIDS.TV  ALEMANHA
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
