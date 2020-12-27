@@ -1,14 +1,14 @@
-﻿#EXTM3U
+?#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol Nacional",GARDENOL 2020 FREE
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
 ##################################################
-##                  CR�DITOS                    ##
+##                  CR DITOS                    ##
 ##         LISTA IPTV : GARDENOL IPTV           ##
 ##                                              ##
-##            ( LISTA 2020 FREE )               ##
-##    CRIA��O E ADAPTA��O: GARDENOL IPTV        ##
+##            ( LISTA 2021 FREE )               ##
+##    CRIA  O E ADAPTA  O: GARDENOL IPTV        ##
 ##                                              ##
 ##################################################
 
@@ -26,19 +26,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Gardenol Nacional",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://gazetaweb.globo.com/fotosPortal/portal_gazetaweb_com/noticias/foto_pequena/201609201408_381372ce4e.jpg" group-title="Gardenol Nacional",TV MAR 1
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
-
-#EXTINF:-1 tvg-logo="https://gazetaweb.globo.com/fotosPortal/portal_gazetaweb_com/noticias/foto_pequena/201609201408_381372ce4e.jpg" group-title="Gardenol Nacional",TV MAR 2
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5e/3b/25/5e3b25bf2438c87db3b17a8cf688f2f8.png" group-title="Gardenol Nacional",ENTRETENIMENTO TV 1
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TV-icon-brasil.svg/1280px-TV-icon-brasil.svg.png" group-title="Gardenol Nacional",ENTRETENIMENTO TV 2
-https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/1028/1028515.png" group-title="Gardenol Nacional",ENTRETENIMENTO TV 3
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/1028/1028515.png" group-title="Gardenol Nacional",ENTRETENIMENTO TV 2
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png" group-title="Gardenol Nacional",TV ARACATI
@@ -47,23 +38,11 @@ https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnN0bXZpZGVvLndlYnR2LnR2cG9udGFkYXNlcnJhX3NjcmVlbl8wXzE1NDAxNjcxNThfMDE2/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Gardenol Nacional",TV PONTA DA SERRA
 https://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/playlist-480.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Gardenol Nacional",TV CARIOCA.NET
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a4394659-8f72-497c-8f9a-f284134fa7ac/d76mik0-57359689-0a1b-40af-907d-518c310afaac.png" group-title="Gardenol Nacional",REDE METRÓPOLE
 http://177.130.81.30/hls/metropole.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101503363743662080/m-Cg4X8Y.png" group-title="Gardenol Nacional",TBC TV
-https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61cKvkLNBLL.png" group-title="Gardenol Nacional",BRZ BRASIL TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jK3DRfkmvp4/Vk8RBRMKKnI/AAAAAAAAGgU/irqBygxy8bU/s1600-r/logo_diario.png" group-title="Gardenol Nacional",DIARIO DO SERTÃO 1
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w472027995.m3u8?ValterHD
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jK3DRfkmvp4/Vk8RBRMKKnI/AAAAAAAAGgU/irqBygxy8bU/s1600-r/logo_diario.png" group-title="Gardenol Nacional",DIARIO DO SERTÃO 2
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Gardenol Nacional",TVE TV BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -71,17 +50,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://farolnews.com.br/wp-content/uploads/2019/04/tvebahia.jpeg" group-title="Gardenol Nacional",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1i0fc51bv4e6i.cloudfront.net/noticias/wp-content/uploads/2016/02/19141635/e-parana-300x274.png" group-title="Gardenol Nacional",TVE Paran� HD
+#EXTINF:-1 tvg-logo="https://d1i0fc51bv4e6i.cloudfront.net/noticias/wp-content/uploads/2016/02/19141635/e-parana-300x274.png" group-title="Gardenol Nacional",TVE Paran  HD
 http://200.189.113.201:80/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Gardenol Nacional",FUTURA
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Gardenol Nacional",FUTURA
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://vestibular.faap.br/images/global-management.png" group-title="Gardenol Nacional",TV Faap HD
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Super3_33.png" group-title="Gardenol Nacional",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
@@ -92,20 +62,11 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NbcWKyFTW5E7CwmcuneV6fX_EItHExvxizAV97ZVLPMKdbKJO20Ef7iSxlpGq2LAJeU" group-title="Gardenol Nacional",NOVA ERA TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" group-title="Gardenol Nacional",TV MAR Macei� AL SD 1
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
-
-#EXTINF:-1 tvg-logo="http://tvmar.tv.br/img/logo.png" group-title="Gardenol Nacional",TV MAR Macei� AL SD 2
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
-
-#EXTINF:-1 tvg-logo="http://pngriver.com/wp-content/uploads/2018/04/Download-Environment-Download-PNG.png" group-title="Gardenol Nacional",TV AMBIENTAL Ilha de Santa Maria Vit�ria ES
+#EXTINF:-1 tvg-logo="http://pngriver.com/wp-content/uploads/2018/04/Download-Environment-Download-PNG.png" group-title="Gardenol Nacional",TV AMBIENTAL Ilha de Santa Maria Vit ria ES
 https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" group-title="Gardenol Nacional",SUMMERTV
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/R%C3%A1dio_Farroupilha.jpg/200px-R%C3%A1dio_Farroupilha.jpg" group-title="Gardenol Nacional",TV CIDADE NET FARROUPILHA
-http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBuplGQd8Io/hqdefault_live.jpg" group-title="Gardenol Nacional",WebTV
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
@@ -119,27 +80,27 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&r
 
 
 
-## Gardenol Crist� ##
+## Gardenol Crist  ##
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Gardenol Crist�",Tv Novo Tempo
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Gardenol Crist ",Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Gardenol Crist�",Hope Channel HD USA
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Gardenol Crist ",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Gardenol Crist�",IURD TV UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Gardenol Crist ",IURD TV UNIVERSAL
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Crist�",TV TERCEIRO ANJO HD Igreja Adventista
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Crist ",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Crist�",Cristo Vive IGreja Crist�
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Crist ",Cristo Vive IGreja Crist 
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore23/avatars/b7/5a/cb/santuariodefatima_partnerlogo_1586605740.jpg" group-title="Gardenol Crist�",SANTUÁRIO DE FÁTIMA
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore23/avatars/b7/5a/cb/santuariodefatima_partnerlogo_1586605740.jpg" group-title="Gardenol Crist ",SANTUÁRIO DE FÁTIMA
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="Gardenol Crist�",TV CANÇÃO NOVA
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="Gardenol Crist ",TV CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
@@ -190,9 +151,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Gardenol Esportes",ALL SPORTS  BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/travel-car-png-icon-23.png" group-title="Gardenol Esportes",AUTO MOTO TV Bulgaria
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
@@ -253,20 +211,17 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.pngio.com/png-mexico-flag-icon-free-download-mexico-flag-png-250_250.png" group-title="Gardenol World",TV 11 HD Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="Gardenol World",ALSACE 20 HD Fran�a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="Gardenol World",ALSACE 20 HD Fran a
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-aci-tv-5427.jpg" group-title="Gardenol World",ACI TV Fran�a
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-aci-tv-5427.jpg" group-title="Gardenol World",ACI TV Fran a
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Gardenol World",France 24 - Fran�a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Gardenol World",France 24 - Fran a
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set40/dbb6cbf2.png" group-title="Gardenol World",JAPANET TAKADA HD Jap�o Sasebo Nagasaki
+#EXTINF:-1 tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set40/dbb6cbf2.png" group-title="Gardenol World",JAPANET TAKADA HD Jap o Sasebo Nagasaki
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png" group-title="Gardenol World",NHK WORLD JP
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-12-10/tvchannel_2019-12-10-13-48-07_1.jpg" group-title="Gardenol World",N24 JAPAN
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
@@ -304,9 +259,6 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_400x400.jpg" group-title="Gardenol World",ZEEMUNDO  USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://365psd.com/images/previews/643/vintage-tv-icon-psd-image-2344vintage-tv-icon-512x512.png" group-title="Gardenol World",TV USA
-https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="Gardenol World",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
@@ -328,9 +280,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" group-title="Gardenol World",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="http://overtheair.saveandreplay.com/Images/TVW_Logo.png" group-title="Gardenol World",TVW Cable Channel HD Washington USA
-https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2012/04/18/14/45/television-37241_960_720.png" group-title="Gardenol World",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
@@ -340,13 +289,13 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al_jazeera-logo.png" group-title="Gardenol World",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/Al_Hurra_logo.png" group-title="Gardenol World",Al Hurra HD Emirados �rabes Unidos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/Al_Hurra_logo.png" group-title="Gardenol World",Al Hurra HD Emirados  rabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados �rabes Unidos 1
+#EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados  rabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados �rabes Unidos 2
+#EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Gardenol World",DUBAI ONE HD Emirados  rabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000197167962-ymoex2-t500x500.jpg" group-title="Gardenol World",Al Hurria Iraq
@@ -361,14 +310,11 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Gardenol World",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_TV-Oberfranken.svg/1280px-Logo_TV-Oberfranken.svg.png" group-title="Gardenol World",TV Oberfranken HD Alemanha
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-mir-tv.png" group-title="Gardenol World",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Gardenol World",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1280px-TVP_Info_logo.svg.png" group-title="Gardenol World",TVP INFO Pol�nia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1280px-TVP_Info_logo.svg.png" group-title="Gardenol World",TVP INFO Pol nia
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
