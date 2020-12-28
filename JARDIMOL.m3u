@@ -67,18 +67,6 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&r
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV TRANSAMERICA
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8?KeltecMPIPTV
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",FM O DIA
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",SOBRENATURAL TV - GOSPEL
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV CANÇÃO NOVA
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",FONTE TV - GOSPEL
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV INFORBAHIA - WEBTV
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 
@@ -87,9 +75,6 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",NOVA TV VALE
 http://stmv2.euroti.com.br:1935/tvvale/tvvale/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV EVANGELIZAR CURITIBA PR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",REDE RC DE COMUNICAÇÃO
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
@@ -118,9 +103,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV KID MAIS
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV MUNDIAL - GOSPEL
-http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV SOL
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
@@ -134,27 +116,44 @@ http://tv.unisc.br:80/hls/test.m3u8
 http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
 
 
-## Gardenol Crist  ##
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Gardenol Crist ",Tv Novo Tempo
+##Gardenol Gospel##
+
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",TV MUNDIAL - GOSPEL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",TV EVANGELIZAR CURITIBA PR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",SOBRENATURAL TV - GOSPEL
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",TV CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",FONTE TV - GOSPEL
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Gardenol Gospel",Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Gardenol Crist ",Hope Channel HD USA
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Gardenol Gospel",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Gardenol Crist ",IURD TV UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Gardenol Gospel",IURD TV UNIVERSAL
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Crist ",TV TERCEIRO ANJO HD Igreja Adventista
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Gardenol Gospel",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Crist ",Cristo Vive IGreja Gospel
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Gardenol Gospel",Cristo Vive IGreja Gospel
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
 
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore23/avatars/b7/5a/cb/santuariodefatima_partnerlogo_1586605740.jpg" group-title="Gardenol Crist ",SANTUÁRIO DE FÁTIMA
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore23/avatars/b7/5a/cb/santuariodefatima_partnerlogo_1586605740.jpg" group-title="Gardenol Gospel",SANTUÁRIO DE FÁTIMA
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="Gardenol Crist ",TV CANÇÃO NOVA
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="Gardenol Gospel",TV CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
@@ -162,6 +161,8 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 ## Gardenol Clipes ##
 
 
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Clipes",FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
 
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-08/1470135864_www.satsis.info__1hd-music-television.png" group-title="Gardenol Clipes",HD MUSIC TELEVISION
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
