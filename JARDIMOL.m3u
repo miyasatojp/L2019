@@ -119,6 +119,8 @@ http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
 
 ##Gardenol Gospel##
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/wilnichols/alumin-folders/512/Music-Black-Folder-icon.png" group-title="Gardenol Gospel",TUTU Clipes Gospel
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",TV MUNDIAL - GOSPEL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
@@ -128,9 +130,6 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",SOBRENATURAL TV - GOSPEL
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",TV CANÇÃO NOVA
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Gospel",FONTE TV - GOSPEL
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
@@ -166,9 +165,6 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-08/1470135864_www.satsis.info__1hd-music-television.png" group-title="Gardenol Clipes",HD MUSIC TELEVISION
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/wilnichols/alumin-folders/512/Music-Black-Folder-icon.png" group-title="Gardenol Clipes",TUTU Clipes Gospel
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/retro_music_background_man_casette_notes_icons_decor_6836089.jpg" group-title="Gardenol Clipes",Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
