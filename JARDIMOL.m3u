@@ -109,9 +109,6 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",TV WEB MARI
 http://stmv1.euroti.com.br:1935/mixmariweb/mixmariweb/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",UNISC TV
-http://tv.unisc.br:80/hls/test.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/c/9/dc902f02440e44fd1232cde8615e3a22_icon.png" group-title="Gardenol Nacional",WEB TV MINAS
 http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
 
@@ -286,9 +283,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="Gardenol World",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1310615629/USTVNOW_Iphone5.jpg" group-title="Gardenol World",USTV USA
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Gardenol World",ABC NEWS USA
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
