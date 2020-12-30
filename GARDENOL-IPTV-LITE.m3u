@@ -35,20 +35,12 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV JORNAL RECIFE SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV Pampa RedeTV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Record News TV Guara MA
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Rede Brasil SP
@@ -121,10 +113,6 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV ZOOM Nova Friburgo RJ 2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV INFORBAHIA WEBTV
-http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",ITU TV
@@ -523,5 +511,4 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
-
 
