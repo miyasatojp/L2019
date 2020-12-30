@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",GARDENOL 2021
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL 2021
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",GARDENOL LITE
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 ##################################################
@@ -16,17 +16,17 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 ## GARDENOL NACIONAL ##
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrMPh6f/iptv-logo-640x480.jpg" group-title="Gardenol IPTV",CBN SP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrMPh6f/iptv-logo-640x480.jpg" group-title="Gardenol IPTV",CBN RJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrMPh6f/iptv-logo-640x480.jpg" group-title="Gardenol IPTV",RBATV BAND HD Belem do Para
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",RBATV BAND HD Belem do Para
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrMPh6f/iptv-logo-640x480.jpg" group-title="Gardenol IPTV",TV JORNAL RECIFE SBT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV JORNAL RECIFE SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000
