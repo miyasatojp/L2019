@@ -5,12 +5,9 @@ http://000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",FELIZ ANO NOVO!
 http://001.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",USE MASCARA!
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",USE A MASCARA!
 http://002.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",USE MASCARA!
-http://003.m3u8
 
 ##################################################
 ##                  CREDITOS                    ##
@@ -23,12 +20,21 @@ http://003.m3u8
 
 ## GARDENOL NACIONAL ##
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV PANTANAL MS WebTV
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV SERIES
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",KRONOS MOVIE WebTV
+https://livefocamundo.com:8081/8588/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",RBATV BAND HD Belem do Para
@@ -131,16 +137,8 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV CAMARA 2
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV CAMARA CAXIAS DO SUL
 http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV CANAL 2
-http://stream2.camara.gov.br:80/tv2/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TVCOM MACEIO
@@ -170,25 +168,12 @@ http://stmv1.euroti.com.br:1935/mixmariweb/mixmariweb/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",WEB TV MINAS
 http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV SERIES
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Kronos Movie Web TV
-https://livefocamundo.com:8081/8588/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV PANTANAL MS WebTV
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV Aracati
