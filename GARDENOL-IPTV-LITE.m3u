@@ -1,4 +1,8 @@
 #EXTM3U
+
+#PLAYLISTV: pltv-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" pltv-name="GARDENOL" pltv-cover="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" pltv-author="GARDENOL"
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LITE 2021
 http://000.m3u8
 
@@ -496,4 +500,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
+
+
+
+## GARDENOL FILMES ##
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" tvg-id="0" group-title="FILME TESTE",FILME TESTE1
+https://docs.google.com/file/d/1NSK90DW07-pfXt6xPBbUTYWswtEGrrOD/preview
 
