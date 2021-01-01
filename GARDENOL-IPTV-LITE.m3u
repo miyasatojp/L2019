@@ -37,6 +37,14 @@ https://livefocamundo.com:8081/8588/index.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",SBT TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",SBT TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",RBATV BAND HD Belem do Para
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
@@ -196,6 +204,21 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV CALDEIRÃO
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TVN BRASIL Brasília
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
+
 
 
 
@@ -211,7 +234,7 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV EVANGELIZAR CURITIBA PR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV EVANGELIZAR Gospel CURITIBA PR
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
@@ -223,20 +246,32 @@ http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TV NOVO TEMPO Gospel
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",HOPE CHANNEL HD USA
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",IURD TV UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",IURD TV UNIVERSAL Gospel
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CRISTO VIVE Gospel
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",GOSPEL MOVIE TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",COMUNION TV Gospel
+http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w708899439_b849000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",HOPE CHANNEL HD Gospel USA
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CTN Gospel USA
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",SANTUÁRIO DE FÁTIMA
@@ -247,8 +282,8 @@ https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",GOSPEL MOVIE TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 
 
 
@@ -350,6 +385,10 @@ https://rtvelivestream.akamaized.net/24h_dvr_2750.m3u8
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN ESPANHOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",7 HD Espanha
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
@@ -430,16 +469,24 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",BLOOMBERG TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",BLOOMBERG 1 TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",BLOOMBERG 2 TV HD NY USA
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",ABC NEWS USA
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",DAVOS HD USA
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN Family
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",CBN Espanhol
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Red Bull 1 HD USA
@@ -454,6 +501,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TELE BARN Suica
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
@@ -462,15 +513,15 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Al Hurra HD Emirados Árabes Unidos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",Al Hurra HD Emirados Arabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Árabes Unidos 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Árabes Unidos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
