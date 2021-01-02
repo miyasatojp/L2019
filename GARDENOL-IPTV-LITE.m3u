@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LITE 2021 - Radio Sertanejo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="RADIO",GARDENOL LITE 2021 - Radio Sertanejo
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="Gardenol IPTV",FELIZ ANO NOVO! - Radio 80s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="RADIO",FELIZ ANO NOVO! - Radio 80s
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="Gardenol IPTV",USE A MASCARA ! - Radio Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="RADIO",USE A MASCARA ! - Radio Gospel
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 
 
@@ -23,216 +23,196 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ## GARDENOL NACIONAL ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",CBN SP Estudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV SERIES Classicas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SERIES Classicas
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",KRONOS Filmes 24/7 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",KRONOS Filmes 24/7 WebTV
 https://livefocamundo.com:8081/8588/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",SBT TV JORNAL CARUARU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",SBT TV CIDADE VERDE PI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV CIDADE VERDE PI
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",SBT TV JORNAL RECIFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",SBT GO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",BAND HD RBATV Belem do Para
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",BAND HD RBATV Belem do Para
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",RecordTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",Record NEWS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Record NEWS HD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",CNN BRASIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV GAZETA SP HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV GAZETA SP HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",Rede Brasil SP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Rede Brasil SP
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Pampa RedeTV RS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Pampa RedeTV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV PANTANAL MS WebTV
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Cultura TV Futuro RJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Cultura TV Futuro RJ
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Uniao DF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Uniao DF
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV8 Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",WebTV 1
-https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",WebTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",WebTV
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",REDE METROPOLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE METROPOLE
 http://177.130.81.30/hls/metropole.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",BRZ BRASIL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",BRZ BRASIL TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TVE TV BRASIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE TV BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TVE BAHIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TVE PARANA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE PARANA HD
 http://200.189.113.201:80/hls/tve.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV GUARULHOS CANAL 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV GUARULHOS CANAL 3 HD
 http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",NOVA ERA TV HD Lages SC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",SUMMERTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SUMMERTV
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV ZOOM Nova Friburgo RJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV ZOOM Nova Friburgo RJ
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV ZOOM Nova Friburgo RJ 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV ZOOM Nova Friburgo RJ 2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",ITU TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",ITU TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",REDE RC DE COMUNICACAO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE RC DE COMUNICACAO
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV CAMARA DF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CAMARA DF
 http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV CAMARA CAXIAS DO SUL RS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CAMARA CAXIAS DO SUL RS
 http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TVCOM MACEIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVCOM MACEIO
 http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV DAS ARTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DAS ARTES
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV DIARIO DO SERTAO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DIARIO DO SERTAO
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV KID MAIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV KID MAIS
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV SOL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SOL
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",WEB TV MINAS
-http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",CBTV Now
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Metropole
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Aracati
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Aberta SP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV Candides MG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Candides MG
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",Mundo TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV COM BRASIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",CANAL 25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV CALDEIRÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CALDEIRAO
 http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TVN BRASIL Brasília
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVN BRASIL Brasilia
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",TV INTERLAGOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV INTERLAGOS
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",UFG TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Gardenol IPTV",REDE FAMILIA
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 
 
 
@@ -243,67 +223,66 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?PED
 ## GARDENOL GOSPEL ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TUTU Clipes Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TUTU Clipes Gospel
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV MUNDIAL Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TV MUNDIAL Gospel
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV EVANGELIZAR Gospel CURITIBA PR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",SOBRENATURAL TV Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",SOBRENATURAL TV Gospel
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",FONTE TV Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",FONTE TV Gospel
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV NOVO TEMPO Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TV NOVO TEMPO Gospel
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",IURD TV UNIVERSAL Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",IURD TV UNIVERSAL Gospel
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",CRISTO VIVE Gospel
-https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",GOSPEL Filmes TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",GOSPEL Filmes TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",COMUNION TV Gospel Espanhol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",COMUNION TV Gospel Espanhol
 http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w708899439_b849000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",HOPE CHANNEL HD Gospel USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",HOPE CHANNEL HD Gospel USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",CTN Gospel USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",CTN Gospel USA
 http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",SANTUÁRIO DE FÁTIMA
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",SANTUÁRIO DE FÁTIMA
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV CANÇÃO NOVA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV EVANGELIZAR CURITIBA PR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",CATHOLIC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",CATHOLIC TV
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 
 
@@ -315,31 +294,31 @@ http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 ## GARDENOL CLIPES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",CAPITAL TV CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",CAPITAL TV CLIPES
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",RETRO TV 1 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",RETRO TV 2 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 2 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",FM O DIA Musicas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",FM O DIA Musicas
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",HD MUSIC TELEVISION CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",HD MUSIC TELEVISION CLIPES
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",m2o TV CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",m2o TV CLIPES
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="Gardenol IPTV",MUSIC TOP CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",MUSIC TOP CLIPES
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 
@@ -349,11 +328,11 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 ## GARDENOL KIDS ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="Gardenol IPTV",TV TUTU e ANDERSON Br Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TV TUTU e ANDERSON Br Kids
 http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="Gardenol IPTV",3ABNKIDS.TV kids ALEMANHA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",3ABNKIDS.TV kids ALEMANHA
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
@@ -364,217 +343,197 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 ## GARDENOL ESPORTES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="Gardenol IPTV",ALL SPORTS BR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="Gardenol IPTV",ALL SPORTS BR2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="Gardenol IPTV",REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="Gardenol IPTV",ESPN EXTRA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ESPN EXTRA 4K
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="Gardenol IPTV",ESPN BRASIL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ESPN BRASIL 4K
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
 
 
 
-## GARDENOL INTERNACIONAL ##
+## GARDENOL WORLD ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CANAL 26 HD ARG.1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CANAL 26 HD ARG.2
 http://200.115.193.177/live/26hd-720/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELEMAX Canal 6 ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TELEMAX Canal 6 ARG
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",El Pinguino Tv Chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",El Pinguino Tv Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TEN Canal 10 Honduras
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TEN Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TVE 24h HD Espanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TVE 24h HD Espanha
 https://rtvelivestream.akamaized.net/24h_dvr_2750.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",RT en Espanhol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RT en Espanhol
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",7 HD Espanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",7 HD Espanha
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Milenio TV HD Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Milenio TV HD Mexico
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.1 Guanajuato Mexico
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.2 Guanajuato Mexico
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.3 Guanajuato Mexico
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Canal 10 HD Cancun Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10 HD Cancun Mexico
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV 11 HD Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TV 11 HD Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ALSACE 20 France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ALSACE 20 France
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ACI TV France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ACI TV France
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",France 24 France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",France 24 France
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",JAPANET TAKADA HD JP Sasebo Nagasaki
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",JAPANET TAKADA HD JP Sasebo Nagasaki
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",N24 JAPAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",N24 JAPAN
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CNN HD Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CNN HD Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TVKU Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TVKU Indonesia
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ARIRANG KOREA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",KONTRA CHANNEL Grecia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",KONTRA CHANNEL Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANALE 7 HD Italia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CANALE 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",OMROEP WEST Holanda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",OMROEP WEST Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",MIAMI TV HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",MIAMI TV HD USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ZEEMUNDO USA
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BLOOMBERG 1 TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",BLOOMBERG 1 TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BLOOMBERG 2 TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",BLOOMBERG 2 TV HD NY USA
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ABC NEWS USA
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CBN Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBN Family
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CBN Espanhol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBN Espanhol
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Red Bull 1 HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Red Bull 1 HD USA
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Red Bull 2 HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CLASSIC ARTS SHOWCASE USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELE BARN Suica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TELE BARN Suica
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TSTV CH29 UT Austin TV Texas USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",AL JAZEERA News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",AL JAZEERA News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Al Hurra HD Emirados Arabes Unidos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Al Hurra HD Emirados Arabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",DUBAI ONE HD Emirados Arabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",DUBAI ONE HD Emirados Arabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Al Hurria Iraq
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Al Hurria Iraq
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BADEN TV 1 HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",BADEN TV 1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BADEN TV 2 HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",BADEN TV 2 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Elbekanal HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Mir 24 HD Russia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV5 Ukraine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
