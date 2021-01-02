@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LITE 2021
-http://6d9a.webradio.upx.net.br:9896/stream
+http://noasrv.caster.fm:10136/stream
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="Gardenol IPTV",FELIZ ANO NOVO!
-http://6d9a.webradio.upx.net.br:9046/stream
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="Gardenol IPTV",USE A MASCARA !
