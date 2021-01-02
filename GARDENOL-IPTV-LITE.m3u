@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LITE 2021
-http://noasrv.caster.fm:10136/stream
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="Gardenol IPTV",FELIZ ANO NOVO!
@@ -8,7 +8,7 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="Gardenol IPTV",USE A MASCARA !
-http://noasrv.caster.fm:10124/stream
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
 ##################################################
