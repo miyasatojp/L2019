@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="Gardenol IPTV",GARDENOL LITE 2021
-http://000.m3u8
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="Gardenol IPTV",FELIZ ANO NOVO!
-http://001.m3u8
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=491854855
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="Gardenol IPTV",USE A MASCARA !
-http://002.m3u8
+http://noasrv.caster.fm:10124/stream
 
 
 ##################################################
@@ -277,6 +278,10 @@ https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="Gardenol IPTV",COMUNION TV Gospel Espanhol
 http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w708899439_b849000_sleng.m3u8
 
@@ -522,6 +527,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TWIT USA
+http://iphone-streaming.ustream.tv:80/uhls/1524/streams/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELE BARN Suica
