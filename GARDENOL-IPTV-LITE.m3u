@@ -384,191 +384,191 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDR
 ## GARDENOL INTERNACIONAL ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANAL 26 HD ARG.2
 http://200.115.193.177/live/26hd-720/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TELEMAX Canal 6 ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELEMAX Canal 6 ARG
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",El Pinguino Tv Chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",El Pinguino Tv Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TEN Canal 10 Honduras
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TEN Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TVE 24h HD Espanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TVE 24h HD Espanha
 https://rtvelivestream.akamaized.net/24h_dvr_2750.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",RT en Espanhol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",RT en Espanhol
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",7 HD Espanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",7 HD Espanha
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Milenio TV HD Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Milenio TV HD Mexico
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TV Cuatro 4.1 Guanajuato Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.1 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TV Cuatro 4.2 Guanajuato Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.2 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TV Cuatro 4.3 Guanajuato Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV Cuatro 4.3 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Canal 10 HD Cancun Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Canal 10 HD Cancun Mexico
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TV 11 HD Mexico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV 11 HD Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",ALSACE 20 France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ALSACE 20 France
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",ACI TV France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ACI TV France
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",France 24 France
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",France 24 France
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",JAPANET TAKADA HD JP Sasebo Nagasaki
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",JAPANET TAKADA HD JP Sasebo Nagasaki
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",N24 JAPAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",N24 JAPAN
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CNN HD Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CNN HD Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TVKU Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TVKU Indonesia
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",ARIRANG KOREA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",KONTRA CHANNEL Grecia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",KONTRA CHANNEL Grecia
 http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CANALE 7 HD Italia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CANALE 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",OMROEP WEST Holanda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",OMROEP WEST Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",MIAMI TV HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",MIAMI TV HD USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",ZEEMUNDO USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ZEEMUNDO USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",BLOOMBERG 1 TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BLOOMBERG 1 TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",BLOOMBERG 2 TV HD NY USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BLOOMBERG 2 TV HD NY USA
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",ABC NEWS USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",ABC NEWS USA
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CBN Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CBN Family
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CBN Espanhol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CBN Espanhol
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Red Bull 1 HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Red Bull 1 HD USA
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Red Bull 2 HD USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",CLASSIC ARTS SHOWCASE USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TELE BARN Suica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELE BARN Suica
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TSTV CH29 UT Austin TV Texas USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",AL JAZEERA News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",AL JAZEERA News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Al Hurra HD Emirados Arabes Unidos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Al Hurra HD Emirados Arabes Unidos
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",DUBAI ONE HD Emirados Arabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Al Hurria Iraq
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Al Hurria Iraq
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",BADEN TV 1 HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BADEN TV 1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",BADEN TV 2 HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",BADEN TV 2 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Elbekanal HD Alemanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Elbekanal HD Alemanha
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",Mir 24 HD Russia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHvc1bH/usuarios.png" group-title="Gardenol IPTV",TV5 Ukraine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
