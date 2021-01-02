@@ -530,10 +530,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TWIT USA
-http://iphone-streaming.ustream.tv:80/uhls/1524/streams/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="Gardenol IPTV",TELE BARN Suica
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
 
