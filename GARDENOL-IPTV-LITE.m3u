@@ -432,10 +432,6 @@ http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?IMDSFULL
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?IMDSFULL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",PTV CORDOBA Espanha
-http://149.91.98.146:1935/cordoba/stream/chunklist.m3u8?IMDSFULL
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RIBERA TV Espanha
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 
