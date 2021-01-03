@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="RADIO",GARDENOL LITE 2021 - Radio Sertanejo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="GARDENOL",GARDENOL LITE 2021 - Sertanejo
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="RADIO",FELIZ ANO NOVO! - Radio 80s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",FELIZ ANO NOVO! - Radio 80s
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="RADIO",USE A MASCARA ! - Radio Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="GARDENOL",USE A MASCARA ! - Gospel
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 
 
