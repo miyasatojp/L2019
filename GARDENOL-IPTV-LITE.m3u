@@ -25,11 +25,11 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ## GARDENOL FILMES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
 https://livefocamundo.com:8081/8588/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="FILMES",TV SERIES Classicas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",TV SERIES Classicas
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 
