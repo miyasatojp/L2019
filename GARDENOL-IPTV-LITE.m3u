@@ -20,19 +20,25 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ##                                              ##
 ##################################################
 
+
+
+## GARDENOL FILMES ##
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
+https://livefocamundo.com:8081/8588/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="FILMES",TV SERIES Classicas
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+
+
 ## GARDENOL NACIONAL ##
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CBN SP Estudio
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SERIES Classicas
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",KRONOS Filmes 24/7 WebTV
-https://livefocamundo.com:8081/8588/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
