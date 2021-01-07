@@ -25,10 +25,6 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ## GARDENOL FILMES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",TV GARDENOL
-http://168.194.162.221:5000/livestream/stream.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
 https://livefocamundo.com:8081/8588/index.m3u8
 
