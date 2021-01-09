@@ -3,7 +3,7 @@
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",FELIZ ANO NOVO! - Radio 80s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",SEJA FELIZ ! Radio 80s
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 
 
@@ -25,11 +25,16 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ## GARDENOL FILMES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",KRONOS Filmes 24/7 WebTV
 https://livefocamundo.com:8081/8588/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",TV SERIES Classicas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",GOSPEL Filmes TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",TV SERIES Classicas
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 
@@ -259,10 +264,6 @@ http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",GOSPEL Filmes TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",COMUNION TV Gospel Espanhol
 http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w708899439_b849000_sleng.m3u8
 
@@ -346,11 +347,11 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 ## GARDENOL KIDS ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TV TUTU e ANDERSON Br Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TV TUTU Kids BR
 http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TVG Infantil Galicia Espanha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5CwwZ/Kids.png" group-title="KIDS",TVG Kids Galicia Espanha
 http://infantil-crtvg.flumotion.com/playlist.m3u8?IMDSFULL
 
 
