@@ -1,18 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="GARDENOL",GARDENOL LITE 2021 - Sertanejo
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="GARDENOL",GARDENOL LITE 2021
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",SOU FELIZ SEJA FELIZ ! 80s
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",SOU FELIZ SEJA FELIZ
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YbL7Qg9/Louco1.png" group-title="GARDENOL",VIVA O GARDENOL ! Atlantida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YbL7Qg9/Louco1.png" group-title="GARDENOL",VIVA O GARDENOL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="GARDENOL",USE A MASCARA ! - Gospel
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="GARDENOL",USE A MASCARA
+
 
 
 ##################################################
@@ -106,7 +103,7 @@ https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",LiteWebTV
 http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 
 
