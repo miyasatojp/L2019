@@ -25,11 +25,11 @@ https://0.0.0.1
 https://livefocamundo.com:8081/8588/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="FILMES",SERIES GARDENOL Classic 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",TV SERIES 24/7
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",GOSPEL Filmes 24/7 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",GOSPEL Filmes 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
@@ -307,31 +307,31 @@ http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 ## GARDENOL CLIPES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",CAPITAL TV CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",CAPITAL TV CLIPES
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 1 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 2 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",RETRO TV 2 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",FM O DIA Musicas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",FM O DIA Musicas
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",HD MUSIC TELEVISION CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",HD MUSIC TELEVISION CLIPES
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",m2o TV CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",m2o TV CLIPES
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",MUSIC TOP CLIPES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQn18DL/radio.png" group-title="CLIPES",MUSIC TOP CLIPES
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 
