@@ -154,7 +154,7 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CAMARA CAXIAS DO SUL RS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CAMARA CAXIAS RS
 http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
 
 
@@ -283,7 +283,7 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV EVANGELIZAR CURITIBA PR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",EVANGELIZAR PR Ctba
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
@@ -361,19 +361,19 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 ## GARDENOL ESPORTES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS 1
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS 2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID 1
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID 2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?IMDSFULL
 
 
