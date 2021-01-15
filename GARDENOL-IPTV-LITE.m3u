@@ -42,15 +42,15 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV CIDADE VERDE PI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PIAUÍ
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL RECIFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 
@@ -58,15 +58,15 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RecordTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RECORD HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RecordTV HD Manaus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RECORD Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8?IMDSFULL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Record NEWS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RECORD NEWS HD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
@@ -82,11 +82,11 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUN
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Pampa RedeTV RS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDETV TV Pampa RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Cultura TV Futuro RJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV Cultura Futuro RJ
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
 
@@ -130,15 +130,15 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SUMMERTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SUMMER TV
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV ZOOM Nova Friburgo RJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVZOOM RJ
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV ZOOM Nova Friburgo RJ 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVZOOM RJ 2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 
 
@@ -150,11 +150,11 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CAMARA DF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CAMARA DF
 http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CAMARA CAXIAS DO SUL RS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CAMARA CAXIAS DO SUL RS
 http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
 
 
@@ -279,7 +279,7 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",SANTUÁRIO DE FÁTIMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",SANT.D FÁTIMA
 https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
 
 
@@ -291,7 +291,7 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV CANÇÃO NOVA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
@@ -365,15 +365,15 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR 2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",REAL MADRID HD 2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?IMDSFULL
 
 
