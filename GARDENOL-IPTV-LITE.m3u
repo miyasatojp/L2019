@@ -1,18 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="GARDENOL",GARDENOL LITE 2021
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",GARDENOL LITE 2021
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVxSv4Z/2021.png" group-title="GARDENOL",SOU FELIZ SEJA FELIZ
-https://0.0.0.1
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YbL7Qg9/Louco1.png" group-title="GARDENOL",VIVA O GARDENOL
-https://0.0.0.2
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vGtqTv/Mascara1.png" group-title="GARDENOL",USE A MASCARA
-https://0.0.0.3
-
+https://0.0.0.1
 
 
 ##################################################
@@ -30,16 +21,17 @@ https://0.0.0.3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="FILMES",TV GARDENOL Filmes 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="FILMES",FILMES GARDENOL 24/7
 https://livefocamundo.com:8081/8588/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",GOSPEL Filmes 24/7 WebTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="FILMES",SERIES GARDENOL Classic 24/7
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="FILMES",GOSPEL Filmes 24/7 WebTV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7t4CjTN/3d-movies.png" group-title="FILMES",SERIES Classicos 24/7 WebTV
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 
 
@@ -393,6 +385,15 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",Red Bull 1 HD USA
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",Red Bull 2 HD USA
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
 
 
 
@@ -535,14 +536,6 @@ http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="MUNDO",Red Bull 1 HD USA
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="MUNDO",Red Bull 2 HD USA
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="MUNDO",CLASSIC ARTS SHOWCASE USA
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
@@ -555,7 +548,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe
 https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8?IMDSFULL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="MUNDO",TSTV CH29 UT Austin TV Texas USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="MUNDO",TSTV CH29 UT Austin
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 
