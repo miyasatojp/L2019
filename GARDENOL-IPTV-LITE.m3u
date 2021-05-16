@@ -25,8 +25,13 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ## GARDENOL FILMES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8dBfyjh/Filmes.png" group-title="FILMES",AS PANTERAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gx2kmxh/Charlies-Angels1.png" group-title="FILMES",AS PANTERAS
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FIMES GOSPEL 24/7
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
 
 
 
