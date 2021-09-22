@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzQngDB/Logo-Fone-Base.png" group-title="GARDENOL",GARDENOL WEB RADIO
+http://stream.zeno.fm/419bxfcv868uv.m3u
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PT82wff/Perfil1.png" group-title="GARDENOL",GARDENOL LITE 2021 - Sertanejo
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
