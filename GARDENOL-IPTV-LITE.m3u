@@ -320,6 +320,14 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/b0cR03jYbO2hTrKnLVKQNRP8r6y.jpg" group-title="FILMES",Um Loop Eterno
+https://www677.ff-02.com/token=6HO0WBeSFSj5p1lUu1CDcQ/1654033236/2001:1284::/188/8/fc/c51445cda45f5e2874587bd65e85bfc8-1080p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/V7gOYoUfwyGO-gZI16C4P4FjGVs=/290x478/smart/media/movies/covers/2022/04/download_1_mGJsvRz.jpg" group-title="FILMES",Rumspringa Um Amish em Berlim
+https://www709.ff-02.com/token=Xym8nmJpweZaAIJwLag0YQ/1654033652/2001:1284::/150/8/88/c558f623f85113093bede65643730888-1080p.mp4
+
+
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_15744_fi6qmcsx0aox6bh.jpg" group-title="FILMES",A Vida é Agora
 https://www2195.ff-05.com/token=OK0XdZ5o3BZZRz_0w9v46w/1653984894/2001:1284::/191/9/08/eba1730a3ec869cbd253dd8c3dacc089-1080p.mp4
 
