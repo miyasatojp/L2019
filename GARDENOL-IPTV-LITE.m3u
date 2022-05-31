@@ -8,23 +8,10 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 ##                  CREDITOS                    ##
 ##         LISTA IPTV : GARDENOL IPTV           ##
 ##                                              ##
-##         ( LISTA LEVE 2021 GRATIS )           ##
+##         ( LISTA LEVE 2022 GRATIS )           ##
 ##    CRIACAO E ADAPTACAO: GARDENOL IPTV        ##
 ##                                              ##
 ##################################################
-
-
-
-## GARDENOL FILMES ##
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gx2kmxh/Charlies-Angels1.png" group-title="FILMES",AS PANTERAS
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FILMES GOSPEL 24/7
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
 
 
 
@@ -41,22 +28,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",BAND HD RBATV Belem do Para
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RecordTV HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RecordTV HD Manaus
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Record NEWS HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Rede Brasil SP
@@ -95,16 +66,8 @@ http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",ITU TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE RC DE COMUNICACAO
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CAMARA DF
-http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVCOM MACEIO
@@ -179,10 +142,6 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",SOBRENATURAL TV Gospel
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",FONTE TV Gospel
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
@@ -212,20 +171,10 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",CATHOLIC TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
-
-
-
-
-
 
 
 ## GARDENOL CLIPES ##
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",CAPITAL TV CLIPES
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 1 CLIPES Republica Tcheca
@@ -234,14 +183,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO TV 2 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",HD MUSIC TELEVISION CLIPES
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",m2o TV CLIPES
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",MUSIC TOP CLIPES
@@ -268,21 +209,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
 
-
-
-
-## GARDENOL ESPORTES ##
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7tFt3s/Esporte.png" group-title="ESPORTES",ALL SPORTS BR2
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-
-
 ## GARDENOL WORLD ##
 
 
@@ -306,16 +232,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",7 HD Espanha
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal Malaga HD Espanha
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CondaVision HD Espanha
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?IMDSFULL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RIBERA TV Espanha
@@ -328,10 +246,6 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?IMDSFULL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TVG Evento Galicia Espanha
 http://events1-crtvg.flumotion.com/playlist.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TV 11 HD Mexico
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ALSACE 20 France
@@ -354,20 +268,8 @@ http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",OMROEP WEST Holanda
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBN Family
-http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBN Espanhol
-http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Red Bull 1 HD USA
@@ -376,10 +278,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",LFM TV Suica
-https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8?IMDSFULL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TSTV CH29 UT Austin TV Texas USA
@@ -406,13 +304,18 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Elbekanal HD Alemanha
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TV5 Ukraine
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
+
+
+
+## GARDENOL FILMES ##
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FILMES GOSPEL 24/7
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
