@@ -319,3 +319,9 @@ http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FILMES GOSPEL 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2021/08/a-vida-e-agora-poster.jpg" group-title="FILMES",A Vida é agora
+https://www2195.ff-05.com/token=OK0XdZ5o3BZZRz_0w9v46w/1653984894/2001:1284::/191/9/08/eba1730a3ec869cbd253dd8c3dacc089-1080p.mp4
+
+
+
