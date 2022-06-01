@@ -22,12 +22,80 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Amazon Sat
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?KeltecMPIPTV
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT
+http://bitly.com:80/Sbt-hd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",E-PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CULTURA PR
+http://200.189.113.201:80/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",NOVO TEMPO RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",NOVO TEMPO SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RETRÔ MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Rede Brasil SP
@@ -126,6 +194,150 @@ http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV MASTER
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",MULTIRIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV NOVA ERA
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",NOVA TV FRIBURGO
+http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",PUCTV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE RVC
+http://flash1.crossdigital.com.br:1935/ponto82/redervc/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SOBRENATURAL
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV ASSEMBLEIA CEARÁ
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CALDEIRÃO
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV CINEC
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVCOM MACEIÓ
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV É-PARANÁ
+http://200.189.113.201:80/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV KID MAIS
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV LITORAL PANORAMA
+http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SOL
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV VERDE VALE
+http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",WEB TV SANTANA
+http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
+
+
 
 
 ## GARDENOL FILMES ##
@@ -163,6 +375,23 @@ http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w708899439_b849000_sle
 http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE BRASIL DE COMUNICAÇÃO
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE EVANGELHO
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+
+
 
 ## GARDENOL CATHOLIC ##
 
@@ -174,6 +403,14 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV FÁTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 
 
 
@@ -192,6 +429,14 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",MUSIC TOP CLIPES
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THsTq6d/Musica.png" group-title="CLIPES",ONE MUSIC
+http://rtmp.one.by:1200
 
 
 
@@ -284,6 +529,14 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RFI
+http://live02.rfi.fr/rfibrasil-64k.mp3
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CNN Turk
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
@@ -294,6 +547,10 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 8 ITALIA
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",VERDES MARES
+http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10
@@ -897,6 +1154,63 @@ http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",RÁDIO PRINCESA FM
+http://noasrv.caster.fm:10124/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",FESTA
+http://6d9a.webradio.upx.net.br:9070/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",POP HITS
+http://6d9a.webradio.upx.net.br:9046/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",METAL
+http://6d9a.webradio.upx.net.br:9898/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",ESTÚDIO 96.5 FM RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 
@@ -1013,7 +1327,6 @@ http://mp3.planetradio.de/planetradio/hqlivestream.mp3
 http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",Radio Brocken
 http://stream.radiobrocken.de/live/mp3-256
 
@@ -1060,9 +1373,6 @@ http://stream.rockantenne.de/heavy-metal
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",ROCKLAND.FM
 http://stream.rockland-digital.de
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",RPR1
