@@ -22,28 +22,24 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",Amazon Sat
-http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?KeltecMPIPTV
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT
-http://bitly.com:80/Sbt-hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",SBT PE INTERIOR
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",E-PARANÁ
@@ -56,6 +52,14 @@ http://200.189.113.201:80/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV É-PARANÁ
+http://200.189.113.201:80/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CATVE HD
@@ -80,14 +84,6 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV TERCEIRO ANJO
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",RETRÔ MUSIC HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV FAAP
@@ -190,10 +186,6 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV UFG
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
@@ -218,16 +210,8 @@ http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",MULTIRIO
-http://187.111.97.45:1935/webtv/webtv/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV NOVA ERA
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",NOVA TV FRIBURGO
-http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",PUCTV
@@ -282,14 +266,6 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV É-PARANÁ
-http://200.189.113.201:80/hls/tve.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
@@ -298,40 +274,16 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL CARUARU
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV JORNAL RECIFE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV KID MAIS
-http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV LITORAL PANORAMA
 http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV MUNDIAL
-http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TVN BRASIL
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV SOL
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV UFG
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV VERDE VALE
-http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",WEB TV SANTANA
@@ -379,16 +331,12 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/chunklist_w174757499.m3u8
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE EVANGELIZAR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE EVANGELHO
-http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",REDE MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
 
 
@@ -411,6 +359,10 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XF18Qmv/Igreja.png" group-title="CATHOLIC",REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 
 
 
@@ -494,9 +446,6 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
@@ -521,14 +470,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",France24
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
@@ -537,20 +478,12 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://live02.rfi.fr/rfibrasil-64k.mp3
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CNN Turk
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 8 ITALIA
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",VERDES MARES
-http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10
@@ -603,10 +536,6 @@ http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TVG America Galicia Espanha
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",TVG Evento Galicia Espanha
-http://events1-crtvg.flumotion.com/playlist.m3u8?IMDSFULL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ALSACE 20 France
@@ -673,36 +602,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1455650330.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RT USA [HD]
-http://rt-lh.akamaihd.net/i/ch_04@325608/index_720p_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",RT UK [HD]
-http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CBS [HD]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",i24news
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Sky TG 24 (ITA)
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",tagesschau24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",euronews deutsch
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Euronews deutsch
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Bild
-https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",ANIXE HD
@@ -744,20 +649,12 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Bergisches Land HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Düsseldorf HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Düsseldorf HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Duisburg HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Köln HD
@@ -766,10 +663,6 @@ https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Münsterland HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Ostwestfalen HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Südwestfalen HD
@@ -929,18 +822,6 @@ https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Event 2
-http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Event 3
-http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",WDR Event 4
-http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",SWR Event 3
 https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
 
@@ -984,17 +865,6 @@ https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
 https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",rbb Event 1
-https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",rbb Event 2
-https://rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Krone.TV
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 
@@ -1010,7 +880,7 @@ https://orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",dorf tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 
 
@@ -1043,12 +913,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
@@ -1058,15 +922,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Sky News Extra
@@ -1077,17 +934,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",France 24
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 
@@ -1095,12 +941,6 @@ https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",NHK WORLD TV
@@ -1481,10 +1321,6 @@ http://zet.cdn.eurozet.pl/ZETDAN.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",Radio ZET Hits
 http://zet.cdn.eurozet.pl/ZETHIT.mp3
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",Radio ZET Love
-https://zt.cdn.eurozet.pl/ZETLOV.mp3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd44kKr/radio.png" group-title="RADIOS",Radio ZET Party
