@@ -231,12 +231,27 @@ http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
 ## GARDENOL FILMES ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FILMES GOSPEL 24/7
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p11265566_v_v12_aa.jpg" group-title="FILMES",A Filha do Rei
+https://www.googleapis.com/drive/v3/files/1kx-gWK60aBq8CH79J960oTRYEoZAXLKe?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/12/09/52/4464656.jpg" group-title="FILMES",O Céu esta em todo Lugar
+https://www.googleapis.com/drive/v3/files/1c54txEX5lBA9xDWLrvhu0wwKS3WlVEWT?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
+
+
+
 
 
 
 ## GARDENOL GOSPEL ##
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="FILMES",FILMES GOSPEL 24/7
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kSKdzk1/biblia-icon.png" group-title="GOSPEL",TUTU Clipes Gospel
