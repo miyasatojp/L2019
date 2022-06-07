@@ -208,10 +208,6 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",REDE RVC
-http://flash1.crossdigital.com.br:1935/ponto82/redervc/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="NACIONAL",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 
@@ -388,7 +384,7 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10 Chetumal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10 México
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
@@ -424,7 +420,7 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3V7X2j/TV1.png" group-title="WORLD",Canal 10 ITALIA
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 
 
