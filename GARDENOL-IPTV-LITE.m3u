@@ -111,12 +111,15 @@ http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Nacional",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1,TV Aberta SP
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="Nacional",TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1,TV CALDEIRAO
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/70/5f/85/705f85a9-add4-d65b-59f6-5e06b08062fe/source/512x512bb.jpg" group-title="Nacional",TV CALDEIRAO
 http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
-#EXTINF:-1,TVN BRASIL Brasilia
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TVN-logo-08A7027D6A-seeklogo.com.png" group-title="Nacional",TVN BRASIL Brasilia
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
 #EXTINF:-1,CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 #EXTINF:-1,FONTE TV
