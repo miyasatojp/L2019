@@ -52,10 +52,13 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional",TV Pampa RedeTV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1,BRZ BRASIL TV
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61cKvkLNBLL.png" group-title="Nacional",BRZ BRASIL TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1,CBTV Now
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/00/c8/db/00c8db97-364a-a307-e306-7fc01f99f264/source/512x512bb.jpg" group-title="Nacional",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
 #EXTINF:-1,NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1,TV KID MAIS
