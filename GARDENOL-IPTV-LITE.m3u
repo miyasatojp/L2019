@@ -141,11 +141,12 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72003.png" group-title="Nacional",TV DESTAK
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="Nacional",TV DIGITAL BIRIGUI
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="Nacional",TV DIGITAL BIRIGUI SP
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
-#EXTINF:-1,TV LITORAL PANORAMA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71hc1RRrz6L.png" group-title="Nacional",TV LITORAL PANORAMA
 http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
+
 #EXTINF:-1,TV UFG
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 #EXTINF:-1,TUTU Clipes Gospel
