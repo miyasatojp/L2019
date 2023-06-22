@@ -17,6 +17,9 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 #EXTINF:-1,TV GOSPEL 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
+#EXTINF:-1,E-PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
