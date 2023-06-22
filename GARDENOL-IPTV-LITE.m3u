@@ -10,12 +10,11 @@
 ##################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="GARDENOL 2023",GARDENOL WEB RÁDIO 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="Nacional",GOSPEL MOVIES 24/7
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Nacional",Band TV - Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
@@ -90,6 +89,8 @@ http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional",TV LITORAL PANORAMA
 http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO 1
@@ -148,34 +149,56 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
 
 
-#EXTINF:-1,TV UFG
-http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
-#EXTINF:-1,TUTU Clipes Gospel
+
+
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",GOSPEL MOVIES 24/7
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TUTU Clipes Gospel
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
-#EXTINF:-1,TV MUNDIAL Gospel
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV MUNDIAL Gospel
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
-#EXTINF:-1,FONTE TV Gospel
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",FONTE TV Gospel
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1,TV NOVO TEMPO Gospel
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV NOVO TEMPO Gospel
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,NOVO TEMPO RS
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",NOVO TEMPO RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1,NOVO TEMPO SP
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",NOVO TEMPO SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:-1,REDE BRASIL DE COMUNICAÇÃO
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",REDE BRASIL DE COMUNICAÇÃO
 http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-#EXTINF:-1,REDE MÃO AMIGA
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",REDE MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1,TV MUNDIAL
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
-#EXTINF:-1,TV EVANGELIZAR CURITIBA PR
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV EVANGELIZAR CURITIBA PR
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1,TV PAI ETERNO
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1,TV FÁTIMA PARATIBE
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV FÁTIMA PARATIBE
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
-#EXTINF:-1,TV TERCEIRO ANJO
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+
+
+
+
+
 #EXTINF:-1,RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1,RETRO TV 2 CLIPES Republica Tcheca
