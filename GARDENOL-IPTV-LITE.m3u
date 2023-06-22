@@ -61,14 +61,8 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL", IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
