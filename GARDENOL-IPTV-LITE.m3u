@@ -183,6 +183,9 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL",CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL", CANAL 25 JUNDIAI
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
@@ -468,9 +471,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/play
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV MASTER PB
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", CANAL 25 JUNDIAI
-http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
@@ -487,14 +487,11 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Start - WebTV
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Start - Game
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Anime TV - WebTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",ANIME ZONE TV
-https://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Loading - Web TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
