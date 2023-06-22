@@ -18,11 +18,11 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="SBT 2023",SBT TV JORNAL CARUARU
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-#EXTINF:-1,SBT PE INTERIOR
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT PE INTERIOR
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,SBT TV JORNAL RECIFE
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 #EXTINF:-1,E-PARANÁ
 http://200.189.113.201/hls/tve.m3u8
