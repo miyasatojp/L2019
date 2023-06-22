@@ -240,9 +240,6 @@ https://stream.ichibantv.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
