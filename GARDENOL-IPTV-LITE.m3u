@@ -126,12 +126,15 @@ http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="Nacional",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-#EXTINF:-1,FURG TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_FURG_institucional.png" group-title="Nacional",FURG TV
 http://stream.furg.br:80/hls/furgtv.m3u8
-#EXTINF:-1,INFOR BAHIA WEB TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72003.png" group-title="Nacional",INFOR BAHIA WEB TV
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
-#EXTINF:-1,TV MASTER
+
+#EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="Nacional",TV MASTER
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
 #EXTINF:-1,TV NOVA ERA
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1,TV CINEC
