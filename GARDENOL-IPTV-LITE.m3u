@@ -17,14 +17,59 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="Nacional",GOSPEL MOVIES 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Nacional",Band TV - Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT PE INTERIOR
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT - TV Difusora (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="Nacional", RecordTV RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="Nacional", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Nacional",Jovem Pan News (Parabólica)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional",TV Pampa RedeTV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional",E-PARANÁ
@@ -47,11 +92,9 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO 1
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO 2
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2021/08/logo-rede-tv-1.jpg" group-title="Nacional",TV Pampa RedeTV RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61cKvkLNBLL.png" group-title="Nacional",BRZ BRASIL TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
@@ -322,34 +365,12 @@ http://live02.rfi.fr/rfibrasil-64k.mp3
 
 
 
-#EXTINF:-1, SBT - TV Cidade Verde - (PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1,SBT - TV Difusora (MA)
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-#EXTINF:-1,SBT Rede Massa (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1, SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1, SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1, SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1, RecordTV RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:-1, RecordTV NDTV SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1,Jovem Pan News (Parabólica)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
-#EXTINF:-1,Band TV - Vale do Uruará
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:-1, RedeTV! TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1, TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1, RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1, RedeTV! TV Pantanal (MT)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1,Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1, Geekdot
