@@ -142,8 +142,6 @@ http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional",TV Cultura - TV Guará (MA)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional", TV Cultura - TV Futuro (RJ)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="Nacional", TV Brasil  - Joinville
@@ -617,7 +615,7 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 
 
-INTERNACIONAL
+
 
 
 
