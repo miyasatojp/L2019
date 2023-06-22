@@ -45,9 +45,9 @@ http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO
+#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO 1
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO
+#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="Nacional",TV DIÁRIO DO SERTÃO 2
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 #EXTINF:-1,TV Pampa RedeTV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
