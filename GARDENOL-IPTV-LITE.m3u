@@ -59,12 +59,15 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/00/c8/db/00c8db97-364a-a307-e306-7fc01f99f264/source/512x512bb.jpg" group-title="Nacional",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-#EXTINF:-1,NOVA ERA TV HD Lages SC
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="Nacional",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1,TV KID MAIS
+
+#EXTINF:-1 tvg-logo="https://tvbox.net.br/wp-content/uploads/2023/02/icon.jpg" group-title="Nacional",TV KID MAIS
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
-#EXTINF:-1,TV Metropole
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Nacional",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
 #EXTINF:-1,TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1,TV CALDEIRAO
