@@ -135,14 +135,15 @@ http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="Nacional",TV MASTER
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
-#EXTINF:-1,TV NOVA ERA
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1,TV CINEC
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72003.png" group-title="Nacional",TV CINEC
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1,TV DESTAK
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72003.png" group-title="Nacional",TV DESTAK
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1,TV DIGITAL BIRIGUI
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="Nacional",TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
 #EXTINF:-1,TV LITORAL PANORAMA
 http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
 #EXTINF:-1,TV UFG
