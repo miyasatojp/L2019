@@ -208,66 +208,97 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",TV DIGITAL BIRIGUI SP
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
-
-
-
-
-#EXTINF:-1, Start - WebTV
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
-#EXTINF:-1, XTreme
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", XTreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1, Anime TV - WebTV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1,Loading - Web TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1, Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-#EXTINF:-1, Jetsons - Webtv
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1, Rede Clone - WebTV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:-1, Fora do Tédio
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Fora do Tédio
 http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1, TV Gazeta SP - Araçatuba
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1, TV Cidade (RJ)
-https://stream.ichibantv.com:3827/hybrid/play.m3u8
-#EXTINF:-1, Brasil Oeste (MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1,TV Várzea Grande (MT)
-https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
-#EXTINF:-1, Play TV
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
-#EXTINF:-1, Pet Lovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1, Kuriakos Kids
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Start - WebTV
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Loading - Web TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Rede Clone - WebTV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1, Retrô Cartoon
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1,AWTV
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV Gazeta SP - Araçatuba
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV Cidade (RJ)
+https://stream.ichibantv.com:3827/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV Várzea Grande (MT)
+https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NACIONAL", Play TV
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-#EXTINF:-1,Vintage TV
-https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
-#EXTINF:-1, Rede Minas
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1, TV União (CE)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV União (CE)
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
-#EXTINF:-1, DarkFlix HD
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1, KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1, 1Mus
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1,MAIS UM
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",MAIS UM
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:-1, Retrô TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1, Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,FDR - Futura (CE)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-#EXTINF:-1, Rede Brasil - TV Marajoara (PA)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Rede Brasil - TV Marajoara (PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",
+
+
+
+
 #EXTINF:-1,KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1,Central TV
@@ -653,7 +684,14 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 
 
-
+#EXTINF:-1,Vintage TV
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+#EXTINF:-1, KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1, 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1,RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
