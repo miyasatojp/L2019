@@ -13,9 +13,12 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="GARDENOL 2023",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
 
+
 #EXTINF:-1,TV GOSPEL 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1,SBT TV JORNAL CARUARU
+
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="SBT 2023",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 #EXTINF:-1,SBT PE INTERIOR
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
