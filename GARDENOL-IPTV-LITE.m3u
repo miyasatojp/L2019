@@ -270,8 +270,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1, Rede Brasil - TV Marajoara (PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-
-
 #EXTINF:-1,KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1,Central TV
@@ -346,36 +344,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1, TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1, SIC (apenas em Portugal)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1, France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1, Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, NHK Japan
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1, Deutsche Welle
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1, Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
-#EXTINF:-1, RT Documentary Channel
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1, RTVE
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1, RT en español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1, CCTV
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
-#EXTINF:-1, CCTV Notícias
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
-#EXTINF:-1, CCTV Filmes
-https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
-#EXTINF:-1, Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1, The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1, TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1, TV COM BRASIL
@@ -650,6 +618,44 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 
 INTERNACIONAL
+
+
+
+#EXTINF:-1, SIC (apenas em Portugal)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1, France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1, Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, NHK Japan
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1, Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1, RT Documentary Channel
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1,CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, RTVE
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1, RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1, CCTV
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+#EXTINF:-1, CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1, CCTV Filmes
+https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
+#EXTINF:-1, Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1, The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1,RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
