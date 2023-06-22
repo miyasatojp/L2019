@@ -214,43 +214,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Fora do Tédio
 http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Start - WebTV
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Anime TV - WebTV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Loading - Web TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Jetsons - Webtv
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Rede Clone - WebTV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV Gazeta SP - Araçatuba
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
@@ -287,8 +250,50 @@ https://stream.ichibantv.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Rede Brasil - TV Marajoara (PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Central TV
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Mais Família
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Rede TV Sul - WebTV
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -297,26 +302,6 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",
 
 
-
-
-#EXTINF:-1,KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1,Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
-#EXTINF:-1, Mais Família
-https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
-#EXTINF:-1, Locomotion - WebTV
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1, FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1,TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1, Rede UTV
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1, Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF:-1, Rede TV Sul - WebTV
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1, TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1, RDC
@@ -632,7 +617,32 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Start - WebTV
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Loading - Web TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Rede Clone - WebTV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME", Locomotion - WebTV
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
