@@ -27,8 +27,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="Nacional",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1,E-PARANÁ
-http://200.189.113.201/hls/tve.m3u8
+
 #EXTINF:-1,TV CULTURA PR
 http://200.189.113.201:80/hls/tve.m3u8
 #EXTINF:-1,TVE RS
