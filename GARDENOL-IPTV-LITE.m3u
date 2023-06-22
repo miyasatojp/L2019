@@ -120,10 +120,12 @@ http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TVN-logo-08A7027D6A-seeklogo.com.png" group-title="Nacional",TVN BRASIL Brasilia
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
-#EXTINF:-1,CANAL 25
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="Nacional",CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1,FONTE TV
+
+#EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="Nacional",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
 #EXTINF:-1,FURG TV
 http://stream.furg.br:80/hls/furgtv.m3u8
 #EXTINF:-1,INFOR BAHIA WEB TV
