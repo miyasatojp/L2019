@@ -43,18 +43,6 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV EVANGELIZAR CURITIBA PR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV EVANGELIZAR
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV FÁTIMA PARATIBE
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 
@@ -63,6 +51,18 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/12/Nossa-Senhora-Aparecida.png" group-title="GOSPEL",TV EVANGELIZAR CURITIBA PR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/12/Nossa-Senhora-Aparecida.png" group-title="GOSPEL",TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/12/Nossa-Senhora-Aparecida.png" group-title="GOSPEL",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/12/Nossa-Senhora-Aparecida.png" group-title="GOSPEL",TV FÁTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
