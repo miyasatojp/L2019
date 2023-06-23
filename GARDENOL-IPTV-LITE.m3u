@@ -86,11 +86,14 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV Sjid HD (BA)
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Channel 1 HD
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV Séries - WebTV
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV SERIES Classic TV
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
@@ -103,6 +106,7 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV KID MAIS
 http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+
 
 
 
@@ -356,9 +360,6 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV CORDEIRO
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Channel 1
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 
@@ -386,10 +387,7 @@ https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV EMPIRE NO AR
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", REDE SPTV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", REDE SPTV HD
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", MASTER SHOW TV
@@ -434,7 +432,7 @@ https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV GUARAPARI
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV GUARAPARI HD
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",STUDIO TV
