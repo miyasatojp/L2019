@@ -718,46 +718,42 @@ http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 
-#EXTINF:-1,L-TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1,NRWision HD
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
-#EXTINF:-1,OK Stendal
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",OK Stendal
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1,Tide TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1,Potsdam TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Potsdam TV
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF:-1,rheinmaintv
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1,TV Mittelrhein
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TV Mittelrhein
 https://live2.telvi.de/hls/tvm_hd720.m3u8
-#EXTINF:-1,tv.berlin
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",tv.berlin
 https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
-#EXTINF:-1,SWR Event 3
-https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
-#EXTINF:-1,MDR+ 1
-https://mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
-#EXTINF:-1,MDR+ 2
-https://mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
-#EXTINF:-1,MDR+ 3
-https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
-#EXTINF:-1,MDR+ 5
-https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
-#EXTINF:-1,Krone.TV
+
+##EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Krone.TV
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:-1,Dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1,oe24 TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",oe24 TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTINF:-1,RTV (AT)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RTV (AT)
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1,W24 TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1,Kronehit TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,TeleZüri HD
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
+
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,NASA TV
