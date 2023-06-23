@@ -69,13 +69,13 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Cine Romance 24/7
-https://server101.online/filme-comedia-romance/tracks-v1a1/mono.m3u8
+https://server101.online/filme-comedia-romance/tracks-v1a1/mono.m3u8?remote=177.220.186.111&token=f5029fb57c1259ecac2b5276fde2dfef50f65a43-a41755db3fbb186ff15ec5c24d349686-1687561614-1687558014
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Filmes Suspense 24/7
-https://server101.online/filme-suspense/tracks-v1a1/mono.m3u8
+https://server101.online/filme-suspense/tracks-v1a1/mono.m3u8?remote=177.220.186.111&token=01c1f7ee14a5f6a8b57437407982c8f03a449151-f3d856e4fa9d79bc07c82512aec46133-1687561679-1687558079
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Filmes Ação 24/7
-https://server101.online/filme-acao/tracks-v1a1/mono.m3u8
+https://server101.online/filme-acao/tracks-v1a1/mono.m3u8?remote=177.220.186.111&token=212a70a8209e484f2d226e42eb558a7deffc10af-cd97a6ab81e7a3f00406edfaae6273f7-1687561759-1687558159
 
 
 
