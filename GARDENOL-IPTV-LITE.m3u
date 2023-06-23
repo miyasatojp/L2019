@@ -13,8 +13,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",VTV Venezolana de Televisión
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkatBtIPuhYa-xco_QT26PWLjWv4nW--wvfs6HS0fxPs)/dm/3/x828i6j/s/live-3.m3u8
 
 
 
@@ -505,14 +503,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",VTV Venezolana de Televisión
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkatBtIPuhYa-xco_QT26PWLjWv4nW--wvfs6HS0fxPs)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -756,14 +748,6 @@ https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-
-
-
-
-
-
-
 
 
 
