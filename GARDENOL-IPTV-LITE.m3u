@@ -63,7 +63,8 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MUNDO",Sony Canal Novelas 24/7
+https://spt-novelas-1-us.vizio.wurl.tv/1200.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Cine Romance 24/7
@@ -516,8 +517,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MUNDO",Sony Canal Novelas 24/7
-https://spt-novelas-1-us.vizio.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",VTV Venezolana de Televisión
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkatBtIPuhYa-xco_QT26PWLjWv4nW--wvfs6HS0fxPs)/dm/3/x828i6j/s/live-3.m3u8
