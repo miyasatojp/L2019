@@ -533,8 +533,16 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="MUNDO", NHK Japan
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="MUNDO", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",Deutsche Welle
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Deutsche Welle+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",Deutsche Welle (EN)
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO", RT Documentary Channel
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -689,58 +697,27 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",BADEN TV 2 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
 
-#EXTINF:-1,Mir 24 HD Russia
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Tagesschau24
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tagesschau24 Alemanha
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1,ANIXE HD
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1,K-TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1,VISIT-X.tv
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,SonnenklarTV HD
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1,WDR HD
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1,WDR Aachen HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1,WDR Bonn HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1,WDR Düsseldorf HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1,WDR Düsseldorf HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1,WDR Köln HD
-https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1,WDR Münsterland HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1,WDR Südwestfalen HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1,WDR Ruhr HD
-https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1,hr-fernsehen
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
-#EXTINF:-1,SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1,Deutsche Welle
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1,Deutsche Welle+
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1,Deutsche Welle (EN)
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
-#EXTINF:-1,Südthüringer Regionalfernsehen
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1,Rennsteig.tv
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",Rennsteig.tv
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1,h1
-https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1,ALEX Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1,Baden TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1,KabelJournal
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+
 #EXTINF:-1,L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1,NRWision HD
