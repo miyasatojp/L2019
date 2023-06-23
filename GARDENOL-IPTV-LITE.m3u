@@ -65,6 +65,22 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Cine Romance 24/7
+https://server101.online/filme-comedia-romance/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Filmes Suspense 24/7
+https://server101.online/filme-suspense/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Filmes Ação 24/7
+https://server101.online/filme-acao/tracks-v1a1/mono.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GOSPEL MOVIES 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
