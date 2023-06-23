@@ -635,48 +635,60 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
-#EXTINF:-1,Extrema TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,Canal Wow TV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,BHTV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Canal 7 ITALIA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal 7 ITALIA
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,Canal 8 ITALIA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal 8 ITALIA
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
-#EXTINF:-1,SuperTV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,telePAVIA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Canal Malaga HD Espanha
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal Malaga HD Espanha
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
-#EXTINF:-1,RIBERA TV Espanha
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RIBERA TV Espanha
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
-#EXTINF:-1,TVG America Galicia Espanha
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TVG America Galicia Espanha
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?IMDSFULL
-#EXTINF:-1,TVKU Indonesia
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TVKU Indonesia
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1,ARIRANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,BLOOMBERG TV HD NY USA
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-#EXTINF:-1,Red Bull 1 HD USA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Red Bull 1 HD USA
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,Red Bull 2 HD USA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,TSTV CH29 UT Austin TV Texas USA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,DUBAI ONE HD Emirados Arabes Unidos 1
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,DUBAI ONE HD Emirados Arabes Unidos 2
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,Al Hurria Iraq
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Al Hurria Iraq
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
-#EXTINF:-1,BADEN TV 1 HD Alemanha
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",BADEN TV 1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1,BADEN TV 2 HD Alemanha
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",BADEN TV 2 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
+
 #EXTINF:-1,Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Tagesschau24
