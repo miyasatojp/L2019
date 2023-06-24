@@ -63,10 +63,6 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MUNDO",SONY Canal Novelas 24/7
-https://spt-novelas-1-us.vizio.wurl.tv/1200.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GOSPEL MOVIES 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
