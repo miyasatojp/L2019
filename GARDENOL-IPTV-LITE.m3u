@@ -184,7 +184,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewarded
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="NACIONAL", RedeTV! HD
 https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist_w224071599.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="NACIONAL", RedeTV! TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="NACIONAL", TV Pampa - RedeTV! RS
@@ -229,6 +228,10 @@ https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV GRAO PARA GAZETA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",Tv Carioca HD
+https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w877234317.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV Gazeta SP Araçatuba
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
