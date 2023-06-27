@@ -10,7 +10,7 @@
 ##################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" imagem="https://i.ibb.co/n7YnNmr/capa2-900x540.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" tvg-imagem="https://i.ibb.co/n7YnNmr/capa2-900x540.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
