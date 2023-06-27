@@ -10,9 +10,14 @@
 ##################################################
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações daLista",downloadsdefimes.blogspot.comhttps://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" pltv-subgroup="https://i.ibb.co/n7YnNmr/capa2-900x540.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
+
+#EXTINF:-1 tvg-id="https://i.ibb.co/n7YnNmr/capa2-900x540.jpg" tvg-name="AMC" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="FILMES/SÉRIES",AMC
+http://painel.iptvmove.com:25461/live/danga07/1963/2326.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
