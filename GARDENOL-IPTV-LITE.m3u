@@ -10,8 +10,7 @@
 ##################################################
 
 
-#PLAYLISTV: pltv-logo="http://i.imgur.com/qGYobcS.jpg" pltv-name="Pedro JuniorTutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i.imgur.com/1yuAZPo.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações daLista",downloadsdefimes.blogspot.comhttps://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" pltv-subgroup="https://i.ibb.co/n7YnNmr/capa2-900x540.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
 http://node-19.zeno.fm:80/419bxfcv868uv
