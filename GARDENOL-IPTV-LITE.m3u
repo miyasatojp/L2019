@@ -15,6 +15,17 @@ http://node-19.zeno.fm:80/419bxfcv868uv
 
 
 
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TUTU Clipes Gospel
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
@@ -322,15 +333,6 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",TV Mar Alagoas
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",AgroBrasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",TV Santa Cecília (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
