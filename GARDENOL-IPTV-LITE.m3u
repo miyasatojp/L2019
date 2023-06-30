@@ -153,9 +153,6 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
 https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Runtime Ação Ao Vivo
-https://stream.ads.ottera.tv/cl/230624cib4i1b4di6gvt3rrt0g/640x360_1126400_3_f.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GOSPEL MOVIES 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
@@ -207,11 +204,6 @@ http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="NACIONAL",Band TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="NACIONAL",Band (MS)
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-WfeI2jcxmLlJGAGm9IIPfbld8_eqoJnEyl2psw0aTkZ)/cloud/3/x82cxbb/s/live-1.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="NACIONAL",SBT PE INTERIOR
@@ -228,10 +220,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="NACIONAL", RecordTV RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="NACIONAL", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
@@ -269,8 +257,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="NACIONAL",TV Cultura  TV Guará (MA)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="NACIONAL",Catve Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="NACIONAL", TV Brasil Joinville
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="NACIONAL",Paraná Turismo
@@ -306,12 +292,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",CONECTA MAIS WEB TV
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="NACIONAL",TV DIÁRIO DO SERTÃO 1
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/1d70ef73ad46b95858bade3b94887a08/default.jpg" group-title="NACIONAL",TV DIÁRIO DO SERTÃO 2
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
@@ -339,17 +319,8 @@ http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="NACIONAL",TV MASTER
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",TV DIGITAL BIRIGUI SP
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2699/2699360.png" group-title="NACIONAL",TV DIGITAL BIRIGUI
-https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", XTreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", Fora do Tédio
-http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV Cidade (RJ)
 https://stream.ichibantv.com:3827/hybrid/play.m3u8
@@ -371,9 +342,6 @@ https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",FDR Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
@@ -465,12 +433,6 @@ https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Q TAL CHANNEL
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV RIO GRANDE
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 
@@ -552,7 +514,7 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", TV CN AGITOS
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",TV CN AGITOS
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",CANAL 10 FOZ
@@ -573,9 +535,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Loading Web TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Jetsons Webtv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -601,21 +560,11 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Venezolana de Television
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLusCnoRKrU5tL-5GrMS57qS4Oauj7ZnjIXNKA5GGOzWX)/dm/3/x828i6j/s/live-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Promar TV en vivo
 https://vcp.myplaytv.com/promar/promar/chunklist_w1121789661.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",TVO en vivo
-https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Anzoategui TV en vivo
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w135759043.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Vepaco Tv en vivo
-https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/650/559/png-transparent-flag-of-cuba-national-flag-flag-miscellaneous-flag-country-thumbnail.png" group-title="MUNDO",TV Martí (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
@@ -800,9 +749,6 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",Rennsteig.tv
-http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 
@@ -898,8 +844,6 @@ http://streaming.radio.co:80/s774887f7b/listen
 http://stream.landeswelle.de/lwt/mp3-192
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",Metal Only
 http://metal-only.streampanel.cloud/stream
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",multicult.fm
-http://stream.multicult.fm:8000/hifi
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",nice
 https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",oldenburg eins
