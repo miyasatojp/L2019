@@ -11,9 +11,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/800x800/935/935633/produto/73809273/55b49d7f58.jpg" group-title="BTV",CONHEÇA A NOVA BTV B11
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/CONHECAANOVABTVB11.mp4
-
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
+https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
 
 
@@ -36,7 +35,7 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/VelozeseFuriosos102023.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/05/25/20/21/5986697.jpg" group-title="FILMES",Um Ano Inesquecível Primavera 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/UmAnoInesquecivelPrimavera2023.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/03/08/19/38/3073741.jpg" group-title="FILMES",Deixados para Trás - O Ínicio do Fim 2023
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/03/08/19/38/3073741.jpg" group-title="FILMES GOSPEL",Deixados para Trás - O Ínicio do Fim 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/DeixadosparaTrasOIniciodoFim2023.mp4
 
 #EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2022/11/image002__5x00q89b-760x1126.jpg" group-title="FILMES",Avatar Caminho da Água 2023
@@ -102,9 +101,6 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
-https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GOSPEL MOVIES 24/7
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
