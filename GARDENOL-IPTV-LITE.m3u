@@ -17,6 +17,9 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/0-Q8OZWL4aSW-m8Qqxc3e5d-NSU=/322x478/smart/filters:format(webp)/media/movies/covers/2023/05/A_Good_Person-109231163-large.jpg" group-title="FILMES",Uma Boa Pessoa 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/UmaBoaPessoa2023.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/04/24/21/50/1055506.jpg" group-title="FILMES",Os Cavaleiros do Zodíaco 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/OsCavaleirosdoZodiaco2023.mp4
 
