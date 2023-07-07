@@ -11,8 +11,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
-https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="CINE TV",GOSPEL MOVIES 24/7
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
@@ -108,8 +108,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GOSPEL MOVIES 24/7
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
+https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
@@ -218,6 +219,14 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="NACIONAL",Band TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="NACIONAL", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="NACIONAL",Jovem Pan News (Parabólica)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="NACIONAL",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="NACIONAL",SBT PE INTERIOR
@@ -232,13 +241,6 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png" group-title="NACIONAL", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="NACIONAL", RecordTV NDTV SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="NACIONAL",Jovem Pan News (Parabólica)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
 
 
 
