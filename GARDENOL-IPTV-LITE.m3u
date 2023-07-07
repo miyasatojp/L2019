@@ -16,6 +16,28 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/05/campeoes-poster.jpg" group-title="FILMES",Campeões 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Campeoes2023.mp4
+
+#EXTINF:-1 tvg-logo="https://www.gamereactor.pt/media/26/johnwick_3962663.png" group-title="FILMES",John Wick 4 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/JohnWick42023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/05/10/18/46/3247366.png" group-title="FILMES",Minha Culpa 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/MinhaCulpa2023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/02/14/18/56/2616111.png" group-title="FILMES",O Amor Mandou Mensagem 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/OAmorMandouMensagem2023.mp4
+
+#EXTINF:-1 tvg-logo="https://images.sympla.com.br/649b99e4456fa.jpg" group-title="FILMES",O Pacto 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/OPacto2023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/04/26/22/17/0981041.jpg" group-title="FILMES",Renfield 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Renfield2023.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i0Ulb13yY2WCcZ047iThR0dtMd5.jpg" group-title="FILMES",Resgate em Medelin 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/ResgateemMedelin2023.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/02/16/17/48/3595053.jpg" group-title="FILMES",Desejo Proibido 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/DesejoProibido2023.mp4
 
