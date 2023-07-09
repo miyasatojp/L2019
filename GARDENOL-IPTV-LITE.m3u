@@ -9,13 +9,10 @@
 ##                                              ##
 ##################################################
 
-
+## FILMES 2023 ##
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="CINE TV",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/05/campeoes-poster.jpg" group-title="FILMES",Campeões 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Campeoes2023.mp4
@@ -65,24 +62,20 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/VelozeseFuriosos102023.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/05/25/20/21/5986697.jpg" group-title="FILMES",Um Ano Inesquecível Primavera 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/UmAnoInesquecivelPrimavera2023.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/03/08/19/38/3073741.jpg" group-title="FILMES GOSPEL",Deixados para Trás - O Ínicio do Fim 2023
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/DeixadosparaTrasOIniciodoFim2023.mp4
-
 #EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2022/11/image002__5x00q89b-760x1126.jpg" group-title="FILMES",Avatar Caminho da Água 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/AvatarOCaminhodaAgua2023.mp4
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/bMyuZB8DCEzwvkytBLA9xEVBFys=/322x478/smart/filters:format(webp)/media/movies/covers/2023/02/cats_Y3cpi4h.jpg" group-title="FILMES",Super Mario Bros O Filme 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/SuperMarioBrosOFilme2023.mp4
 
-#EXTINF:-1 tvg-logo="https://assets.cinebelasartes.com.br/wp-content/uploads/2022/04/segredos-de-dumbledore-min.jpg" group-title="FILMES",Animais Fantásticos Os Segredos de Dumbledore 2022
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/AnimaisFantasticosOsSegredosdeDumbledore2022.mp4
-
-#EXTINF:-1 tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2022/02/Poster-de-Sonic-2-760x950.jpg" group-title="FILMES",Sonic 2 O Filme 2022
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sonic2OFilme2022.mp4
 
 
 
+## FILMES GOSPEL ##
 
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/03/08/19/38/3073741.jpg" group-title="FILMES GOSPEL",Deixados para Trás - O Ínicio do Fim 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/DeixadosparaTrasOIniciodoFim2023.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/08/14/16/30/2029683.png" group-title="FILMES GOSPEL",Paulo de Tarso 2019
 https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/PaulodeTarso2019.mp4
@@ -120,9 +113,6 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/Noe2014.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/j_uVeOQjzx0aZH2QHFDbzbFaDZw=/210x312/smart/filters:format(webp)/media/movies/covers/2017/03/A.Hist%C3%B3ria.De.Ester.2013.720p.jpg" group-title="FILMES GOSPEL",A História de Ester 2013
 https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/AHistoriadeEster2013.mp4
 
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/15/18/20028633.jpg" group-title="FILMES",Uma Mente Brilhante 2001
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/UmaMenteBrilhante2001.mp4
-
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/97/04/14/20504470.jpg" group-title="FILMES GOSPEL",O Príncipe do Egito 1998
 https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.mp4
 
@@ -130,7 +120,7 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 
 
 
-
+## CINE TV ##
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
@@ -171,23 +161,7 @@ http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 24/7
-http://node-19.zeno.fm:80/419bxfcv868uv
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",AgroBrasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
+## GOSPEL ##
 
 
 
@@ -238,6 +212,7 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
+## NACIONAL ##
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="NACIONAL",Band TV Vale do Uruará
@@ -248,6 +223,42 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="NACIONAL",Jovem Pan News (Parabólica)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV Gazeta SP Araçatuba
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TVC GAZETA
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV GRAO PARA GAZETA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", REDE WEB TV Brasil 2
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="NACIONAL",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL",CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL", CANAL 25 JUNDIAI
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="NACIONAL",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
 
 
@@ -302,23 +313,8 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="NACIONAL",Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", REDE WEB TV Brasil 2
-https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TVC GAZETA
-https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV GRAO PARA GAZETA
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png" group-title="NACIONAL",TV Gazeta SP Araçatuba
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",Tv Carioca HD
-https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w877234317.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",WEB TV AGUA BOA MT
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
@@ -332,32 +328,17 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL",CONECTA MAIS WEB TV
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="NACIONAL",TV Metropole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Rede TV Sul HD
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL",CANAL 25
-http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL", CANAL 25 JUNDIAI
-http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72003.png" group-title="NACIONAL",INFOR BAHIA WEB TV
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="NACIONAL",TV MASTER
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/390/390112.png" group-title="NACIONAL", XTreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
@@ -564,7 +545,7 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 
 
-
+## ANIME ##
 
 
 #EXTINF:-1 tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png" group-title="ANIME",Start Game
@@ -597,7 +578,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
 
-
+## MUNDO ##
 
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Promar TV en vivo
@@ -609,9 +590,6 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w135759043.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/650/559/png-transparent-flag-of-cuba-national-flag-flag-miscellaneous-flag-country-thumbnail.png" group-title="MUNDO",TV Martí (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
@@ -620,6 +598,12 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="MUNDO",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",Deutsche Welle (ES)
+https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RT Documentary Channel
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -831,12 +815,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",Deutsche Welle (ES)
-https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 
@@ -854,8 +832,10 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
 
+## RADIO ##
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO
+http://node-19.zeno.fm:80/419bxfcv868uv
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",RÁDIO ELDORADO FM
