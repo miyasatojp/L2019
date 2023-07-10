@@ -634,14 +634,41 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",TELEMAX Canal 6 ARG (Español)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",AR LU82 Canal 10 43.1TV Mar del Plata TV BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Radio TV Neuquen (Argentina)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino Tv Chile (Español)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino Tv Chile 2(Español)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",Holvoet TV Chile(Español)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Canal 10 México (Español)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MULTIMEDIOS (Mexico)(Español)
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",NRT Canal 4 (Mexico)
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",RTQ Queretaro (Mexico)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MULTIMEDIOS MONTERREY HD(Mexico)(Español)
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV HD Costa Rica(Español)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -652,48 +679,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/122/original/peru-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",BHTV Canal 703 Peru(Español)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",MULTIMEDIOS (Español)
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",MULTIMEDIOS MONTERREY HD(Español)
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Holvoet TV Chile(Español)
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Canal 9 (Argentina)
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Music Top (ARG)
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="LATINO",TEN Canal 10 (Honduras)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",AR LU82 Canal 10 43.1TV Mar del Plata TV BA Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Radio TV Neuquen (Argentina)
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO",
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Hechos (Ecuador)
+http://37.187.7.106/hechostv/live.m3u8
 
 
 
@@ -702,7 +692,14 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TV2 Bomholm (Dinamarca)
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Beach TV Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
