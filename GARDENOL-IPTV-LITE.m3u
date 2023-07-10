@@ -14,6 +14,13 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="CINE TV",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/05/campeoes-poster.jpg" group-title="FILMES",A Última Fonte 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/AUltimaFonte2023.mp4
+
+#EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/05/campeoes-poster.jpg" group-title="FILMES",Um Motivo para Lutar 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/UmMotivoparaLutar2023.mp4
+
 #EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/05/campeoes-poster.jpg" group-title="FILMES",Campeões 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Campeoes2023.mp4
 
@@ -693,22 +700,20 @@ http://37.187.7.106/hechostv/live.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD (USA)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TV2 Bomholm (Dinamarca)
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Beach TV Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tivikom Ulan-Udje
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tivikom Ulan-Udje (Russia)
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="MUNDO",NHK Japan
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
