@@ -670,6 +670,9 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",RTQ Queretaro (Mexico)
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Ovacion (Mexico)
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV HD Costa Rica(Español)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
