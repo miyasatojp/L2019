@@ -598,7 +598,7 @@ https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" group-title="MUNDO",CGTN China(Español)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",RTVE ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",RTVE HD ES(Español)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",Galicia HD infantil ES(Español)
@@ -619,7 +619,7 @@ http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO",Colosal TV HD (Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",POWER TV (Español)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",POWER TV HD(Español)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="MUNDO",TIERRA MIA TV ARG(Español)
