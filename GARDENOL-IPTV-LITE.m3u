@@ -245,28 +245,28 @@ https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="NACIONAL",TV Metropole
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="NACIONAL",TV Metropole HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL",CANAL 25
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL",CANAL 25 HD
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL", CANAL 25 JUNDIAI
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png" group-title="NACIONAL", CANAL 25 HD JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="NACIONAL",MASTER TV
+#EXTINF:-1 tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg" group-title="NACIONAL",MASTER TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FONTE TV
+#EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FONTE TV HD
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FonteTV (GO)
+#EXTINF:-1 tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg" group-title="NACIONAL",FonteTV HD (GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Brasil Oeste (MT)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Brasil Oeste TBO (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Logotipo_da_TV_V%C3%A1rzea_Grande.png" group-title="NACIONAL",TV Várzea Grande (MT)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Logotipo_da_TV_V%C3%A1rzea_Grande.png" group-title="NACIONAL",TV Várzea Grande TVG (MT)
 https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
 
 
@@ -325,20 +325,76 @@ http://200.189.113.201/hls/tve.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Rede TV Sul HD
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV LIBERDADE HD
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Pet Lovers TV HD
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV União (CE) HD
-https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",MAIS UM HD
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Mais Família HD
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",RDC HD
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Santa Cecília HD (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Santa Cecília HD
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Caravelas HD (MG)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV O POVO FUTURA HD
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",FDR Futura HD (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TVT RIO HD
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV MAX HD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV SUL BAHIA HD
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV EMPIRE NO AR HD
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV A FOLHA HD
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV OSORIO NEWS HD
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV INFORBAHIA HD
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",CAMOCIM WEB TV HD
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV MASTER PB HD
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV PRECABURA HD
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Rede TV Sul HD
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV União (CE) HD
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Metrópole HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -348,9 +404,6 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",REDE UTV HD BR
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",RDC HD
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Mon HD
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
@@ -364,56 +417,17 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Japi HD
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Santa Cecília HD (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Santa Cecília HD
-https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Caravelas COM BRASIL HD
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV O POVO FUTURA HD
-https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TVT RIO HD
-https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV MAX HD
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV SUL BAHIA HD
-https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV LIBERDADE HD
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV A7 HD CALDAS NOVAS
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV A7 HD (Caldas Novas GO)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",DEMAIS TV HD
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",LAVRAS CE TV WEB HD
-https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV EMPIRE NO AR HD
-https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",REDE SPTV HD
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV A FOLHA HD
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TELA VIVA TV HD
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV OSORIO NEWS HD
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV INFORBAHIA HD
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV ITAPETININGA HD
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
@@ -424,17 +438,11 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV GUARAPARI HD
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",CAMOCIM WEB TV HD
-https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV MASTER PB HD
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV PRECABURA HD
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV CN AGITOS HD
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",LAVRAS CE TV WEB HD
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
 
 
@@ -459,9 +467,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Cidade (RJ)
 https://stream.ichibantv.com:3827/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",FDR Futura (CE)
-http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Canal 29 WebTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
