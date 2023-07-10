@@ -679,10 +679,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/122/original/peru-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",BHTV Canal 703 Peru(Español)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",TEN Canal 10 (Honduras)
+#EXTINF:-1 tvg-logo="https://assets.wprock.fr/emoji/joypixels/512/1f1ed-1f1f3.png" group-title="LATINO",TEN Canal 10 (Honduras)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Hechos (Ecuador)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/450/original/ecuador-flag-circle-shape-flag-icon-png.png" group-title="LATINO",Hechos (Ecuador)
 http://37.187.7.106/hechostv/live.m3u8
 
 
