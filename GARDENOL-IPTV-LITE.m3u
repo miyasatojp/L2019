@@ -580,85 +580,135 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 ## MUNDO ##
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",SIC HD (Portugal)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="LATINO",SIC HD (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Promar TV Venezuela
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Promar TV Venezuela
 https://vcp.myplaytv.com/promar/promar/chunklist_w1121789661.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="MUNDO",Anzoategui TV Venezuela
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Anzoategui TV Venezuela
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w135759043.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="MUNDO",TV Martí HD(Cuba)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",TV Martí HD(Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",Deutsche Welle HD (Español)
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Deutsche Welle HD (Español)
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" group-title="MUNDO",CGTN China(Español)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" group-title="LATINO",CGTN China(Español)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",RTVE HD ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RTVE HD ES(Español)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",Galicia HD infantil ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Galicia HD infantil ES(Español)
 http://infantil-crtvg.flumotion.com/playlist.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",Galicia 7 HD ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Galicia 7 HD ES(Español)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",RIBERA TV ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RIBERA TV ES(Español)
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",RT ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RT ES(Español)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="MUNDO",Canal Malaga HD ES(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Canal Malaga HD ES(Español)
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO",Colosal TV HD (Español)
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="LATINO",Colosal TV HD (Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",POWER TV HD(Español)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="LATINO",POWER TV HD(Español)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="MUNDO",TIERRA MIA TV ARG(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",TIERRA MIA TV ARG(Español)
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="MUNDO",CANAL 26 HD ARG.1 (Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",CANAL 26 HD ARG.1 (Español)
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="MUNDO",CANAL 26 HD ARG.2 (Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",CANAL 26 HD ARG.2 (Español)
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="MUNDO",TELEMAX Canal 6 ARG (Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",TELEMAX Canal 6 ARG (Español)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="MUNDO",El Pinguino Tv Chile (Español)
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino Tv Chile (Español)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="MUNDO",El Pinguino Tv Chile 2(Español)
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino Tv Chile 2(Español)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="MUNDO",Canal 10 México (Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Canal 10 México (Español)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="MUNDO",Extrema TV HD Costa Rica(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV HD Costa Rica(Español)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/150/non_2x/el-salvador-3d-rounded-flag-with-transparent-background-free-png.png" group-title="MUNDO",Canal Wow TV El Salvador(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/150/non_2x/el-salvador-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",Canal Wow TV El Salvador(Español)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/122/original/peru-3d-rounded-flag-with-transparent-background-free-png.png" group-title="MUNDO",BHTV Canal 703 Peru(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/122/original/peru-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",BHTV Canal 703 Peru(Español)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="LATINO",MULTIMEDIOS (Español)
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",MULTIMEDIOS MONTERREY HD(Español)
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Holvoet TV Chile(Español)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",AR LU82 Canal 10 43.1TV Mar del Plata TV BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Radio TV Neuquen (Argentina)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",
 
 
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Tivikom Ulan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="MUNDO",NHK Japan
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
