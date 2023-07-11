@@ -707,8 +707,17 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Ovacion (Mexico)
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV HD Costa Rica(Español)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV HD (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Telered (Costa Rica)
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Telesur (Costa Rica)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",TV Repretel 6 (Costa Rica)
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/150/non_2x/el-salvador-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",Canal Wow TV El Salvador(Español)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
