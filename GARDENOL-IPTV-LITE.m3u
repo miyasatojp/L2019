@@ -626,6 +626,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",TV Martí HD(Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",Cubavisión Internacional(Cuba)
+https://r5---sn-bg07dnr7.c.2mdn.net/videoplayback/id/97edbc981994483a/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1720636064/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/37F215E28A15B10F82BCC3FE3239D4B502AC5DA3.01181BCBF4A61805C717B82D6DE74B67E836CEAA/key/cms1/cms_redirect/yes/mh/n4/mip/2001:1284:f502:88ba:1830:76c6:b99e:2f4c/mm/42/mn/sn-bg07dnr7/ms/onc/mt/1689099665/mv/m/mvi/5/pl/47/file/file.mp4
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="LATINO",Deutsche Welle HD (Español)
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
@@ -730,6 +736,13 @@ https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",UCL Televisión(Uruguai)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+
+
+
+
+
+
 
 
 
