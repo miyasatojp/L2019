@@ -626,10 +626,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",TV Martí HD(Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",Cubavisión Internacional(Cuba)
-https://www.cxtv.com.br/tv-ao-vivo/cubavision-internacional
-
-
 #EXTINF:-1 tvg-logo="" group-title="LATINO",Deutsche Welle HD (Español)
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
