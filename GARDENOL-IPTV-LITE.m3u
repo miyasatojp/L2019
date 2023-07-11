@@ -626,7 +626,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",Martí HD (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",Deutsche Welle HD
+#EXTINF:-1 tvg-logo="" group-title="LATINO",DW HD (Español)
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" group-title="LATINO",CGTN China(Español)
@@ -695,7 +695,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MULTIMEDIOS (Mexico)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MULTIMEDIOS MONTERREY (Mexico)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MONTERREY (Mexico)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",NRT Canal 4 (Mexico)
