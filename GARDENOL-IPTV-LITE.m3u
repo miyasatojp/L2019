@@ -713,6 +713,12 @@ http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",Canal Mas (Uruguai)
 https://tvdatta.com:3451/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",La Red Tv(Uruguai)
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",UCL Televisión(Uruguai)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
 
 
 
