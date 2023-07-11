@@ -15,6 +15,20 @@
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/nGigPbpq_J7G3e6Ts-39pSFPMnE=/210x312/smart/filters:format(webp)/media/movies/covers/2023/04/g0UOstAfVWAK5FazCMfdWdkM38i.jpg" group-title="FILMES",Caçador de Tormentas 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/CacadordeTormentas2023.mp4
+
+#EXTINF:-1 tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/12/creed_3_novo_cartaz__3lvky6b35.jpg" group-title="FILMES",Creed III 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/CreedIII2023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/02/28/19/28/0615396.jpg" group-title="FILMES",Peter Pan Wendy 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/PeterPaneWendy2023.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/1UFtLhaZsZ4fsCVIdFbzgpovecE=/322x478/smart/filters:format(webp)/media/movies/covers/2023/04/3zNqI0f.jpg" group-title="FILMES",Sem Rastro 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/SemRastro2023.mp4
+
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/Kn2qWS/poster/a-ultima-fonte_dN4I7Qs.jpeg" group-title="FILMES",A Última Fonte 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/AUltimaFonte2023.mp4
 
