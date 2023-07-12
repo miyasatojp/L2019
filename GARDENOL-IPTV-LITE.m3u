@@ -18,9 +18,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/nGigPbpq_J7G3e6Ts-39pSFPMnE=/210x312/smart/filters:format(webp)/media/movies/covers/2023/04/g0UOstAfVWAK5FazCMfdWdkM38i.jpg" group-title="FILMES",Caçador de Tormentas 2023
-https://gardenol.miyasatojp.workers.dev/0:/FILMES/CacadordeTormentas2023.mp4
-
 #EXTINF:-1 tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/12/creed_3_novo_cartaz__3lvky6b35.jpg" group-title="FILMES",Creed III 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/CreedIII2023.mp4
 
