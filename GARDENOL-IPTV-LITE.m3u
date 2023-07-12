@@ -617,6 +617,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",SIC HD (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",UCL Televisión(Paraguai)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Promar (Venezuela)
 https://vcp.myplaytv.com/promar/promar/chunklist_w1121789661.m3u8
 
@@ -755,8 +758,6 @@ https://tvdatta.com:3451/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",La Red Tv(Uruguai)
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png" group-title="LATINO",UCL Televisión(Uruguai)
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 
 
