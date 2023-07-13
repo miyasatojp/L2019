@@ -815,19 +815,14 @@ https://tgn.bozztv.com/ssh101/ssh101/KIOCApP/playlist.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w1506754820.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139968/isolated/preview/8919e5a3e7f639df7a980c3cd08a059e-emblema-da-bandeira-da-colombia.png" group-title="LATINO",Telepacífico (Colômbia)
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139968/isolated/preview/8919e5a3e7f639df7a980c3cd08a059e-emblema-da-bandeira-da-colombia.png" group-title="LATINO",CNC Medellin (Colômbia)
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139968/isolated/preview/8919e5a3e7f639df7a980c3cd08a059e-emblema-da-bandeira-da-colombia.png" group-title="LATINO",Veo Televisión (Colômbia)
 https://movil.ejeserver.com/live/veotv.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD (USA)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
