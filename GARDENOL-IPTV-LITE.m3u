@@ -737,9 +737,6 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",CRTV (Chile)
 https://vdo.panelstreaming.live:3058/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",Travel (Chile)
-https://vdo.panelstreaming.live:3740/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Canal 10 (Mexico)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
