@@ -716,9 +716,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Canal 9 (ARG)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",AR LU82 (ARG)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Radio TV Neuquen (ARG)
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 
