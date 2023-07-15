@@ -16,7 +16,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://covercity1.ir/wp-content/uploads/2023/05/The-Black-Demon-2023-DVD-v1-min.jpg" group-title="FILMES",The Black Demon 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/TheBlackDemon2023.mp4
 
 #EXTINF:-1 tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/12/creed_3_novo_cartaz__3lvky6b35.jpg" group-title="FILMES",Creed III 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/CreedIII2023.mp4
