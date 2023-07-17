@@ -650,11 +650,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
 
-## MUNDO ##
+## LATINO ##
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",SIC HD (Portugal)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",UCL Televisión(Paraguai)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -818,11 +816,12 @@ https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks
 
 
 
+## MUNDO ##
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",SIC HD (Portugal)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD (USA)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
@@ -839,8 +838,8 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Mir 24 HD (Russia)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CNA (Cingapura)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="MUNDO",NHK Japan
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -938,9 +937,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CNA (Cingapura)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Taivas TV7
 https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 
@@ -965,52 +961,52 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="CLIPS",1Mus HD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",1Mus HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="CLIPS",88 STEREO
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TV 538
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ON FM TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RU TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",POWER TV HD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",POWER TV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",PORTAL FOXMIX
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CATEDRAL DO ROCK TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",CATEDRAL DO ROCK TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RETRO TV 1 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO TV 1 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",RETRO TV 2 CLIPES Republica Tcheca
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO TV 2 CLIPES Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",MUSIC TOP CLIPES
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",MUSIC TOP CLIPES
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ONE MUSIC
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",ONE MUSIC
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Telemar Campeche VIET MTV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Telemar Campeche VIET MTV
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Kronehit TV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",XITE
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Kpop TV Play
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
