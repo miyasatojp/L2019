@@ -952,20 +952,20 @@ https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",1Mus HD
-http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",POWER TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Kpop TV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
@@ -973,31 +973,13 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RU TV
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",POWER TV HD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",PORTAL FOXMIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",CATEDRAL DO ROCK TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO TV 1 CLIPES Republica Tcheca
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO TV 2 CLIPES Republica Tcheca
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",MUSIC TOP CLIPES
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",ONE MUSIC
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Telemar Campeche VIET MTV
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Vietnã MTV Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Kronehit TV
@@ -1006,8 +988,23 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Kpop TV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO 1 Republica Tcheca
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RETRO 2 Republica Tcheca
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 
 
