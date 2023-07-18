@@ -705,6 +705,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Canal Malaga (Espanha)
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Hispan TV (Espanha)
+https://live1.presstv.ir/live/hispan_360p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="LATINO",Colosal HD(Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
@@ -880,8 +883,11 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Al Hurria Iraq
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Al Hurria (Iraq)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/454/original/circle-flag-of-iran-free-png.png" group-title="MUNDO",Press Tv (Irã-Tehran)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",BADEN TV1 HD Alemanha
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
