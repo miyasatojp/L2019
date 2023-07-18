@@ -877,13 +877,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",TSTV CH29 UT Austin TV Texas USA
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 1
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/06/26/11/43/uae-5342435_1280.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 1
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 2
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/06/26/11/43/uae-5342435_1280.png" group-title="MUNDO",DUBAI ONE HD Emirados Arabes Unidos 2
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Al Hurria (Iraq)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/457/original/circle-flag-of-iraq-free-png.png" group-title="MUNDO",Al Hurria (Iraq)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/454/original/circle-flag-of-iran-free-png.png" group-title="MUNDO",Press Tv (Irã-Tehran)
