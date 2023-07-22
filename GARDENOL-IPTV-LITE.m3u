@@ -17,6 +17,12 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/Qt900zyFHfxcA9w0qfjBPVb8B5U=/322x478/smart/filters:format(webp)/media/movies/covers/2023/03/images_4_CMiV9PW.jpeg" group-title="FILMES",One Ranger 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/OneRanger2023.mp4
+
+#EXTINF:-1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/06/sede-assassina-poster.jpg" group-title="FILMES",Sede Assassina 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/SedeAssassina2023.mp4
+
 #EXTINF:-1 tvg-logo="https://covercity1.ir/wp-content/uploads/2023/05/The-Black-Demon-2023-DVD-v1-min.jpg" group-title="FILMES",The Black Demon 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/TheBlackDemon2023.mp4
 
