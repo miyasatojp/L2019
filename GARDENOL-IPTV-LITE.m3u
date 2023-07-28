@@ -14,21 +14,6 @@
 
 
 
-
-#EXTINF:0 description="DUBLADO",Trailer da serie (ou abertura)
-#EXTSIZE: big
-#EXTBG: #363636
-https://youtu.be/o9WdQ6kEL8g
-
-#EXTINF:-1 type="video" description="HD - 720P"  subtitles="https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/EuSoPossoImaginar2018.srt",EuSoPossoImaginar2018
-#EXTSIZE: Medium
-#EXTBG: #774343
-https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/EuSoPossoImaginar2018.mp4
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="CINE TV",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
