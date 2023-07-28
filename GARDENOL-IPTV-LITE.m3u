@@ -15,24 +15,12 @@
 
 
 
-#EXTINF:0 type="playlist" tvg-logo="",GREYS ANATOMY
-#EXTBG:https://2.bp.blogspot.com/-Y2arDyZw4Uc/WRUST1PKCGI/AAAAAAAAHPM/zsp8ayyzv38d3k1HO_rhxk_qpBOA2mcUwCLcB/s1600/1.jpg
-https://drive.google.com/uc?id=0Bx8tjKEoJSjOQ1hfeXlpazJ3WUU&export=download
-
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV
-#EXTBG: #000000
-http://pastebin.com/raw/drTNiS1y
-
-
-
-
-
 #EXTINF:0 description="DUBLADO",Trailer da serie (ou abertura)
 #EXTSIZE: big
 #EXTBG: #363636
 https://youtu.be/o9WdQ6kEL8g
 
-#EXTINF:-1 type="FILME 1" description="HD - 720P"  subtitles="https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/EuSoPossoImaginar2018.srt",EuSoPossoImaginar2018
+#EXTINF:-1 type="video" description="HD - 720P"  subtitles="https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/EuSoPossoImaginar2018.srt",EuSoPossoImaginar2018
 #EXTSIZE: Medium
 #EXTBG: #774343
 https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/EuSoPossoImaginar2018.mp4
