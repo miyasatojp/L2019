@@ -19,6 +19,12 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://mb.web.sapo.io/b892548aae482e7e6edd918738ea6446a1dd25c3.jpg" group-title="FILMES",Meu Pai é um Perigo 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/MeuPaieumPerigo2023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/04/14/22/00/1046089.jpg" group-title="FILMES",Os 3 Mosqueteiros DArtagnan 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os3Mosqt2023.mp4
+
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/Qt900zyFHfxcA9w0qfjBPVb8B5U=/322x478/smart/filters:format(webp)/media/movies/covers/2023/03/images_4_CMiV9PW.jpeg" group-title="FILMES",One Ranger 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/OneRanger2023.mp4
 
