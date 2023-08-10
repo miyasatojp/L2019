@@ -204,6 +204,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 ## CINE TV ##
 
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Grjngo (Faroeste)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
 
@@ -218,6 +221,21 @@ https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1207737091.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CTV Ao Vivo
 https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w881519066.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CINE.AR (Argentina)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1885028087.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TVS Retro (Guatemala)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",ABC Brasil
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1119028580.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Moviesphere Brazil
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563d197c6c6c8c84ce3778d8f962ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58a86852db80148b6f4adafb8c2360625f5c98435ee3b24aabffe85e148e3aa1ac1f4f902d58e683179cc94ebcd2dd469f418573a0179a95a4828618e035a059886f6889ba39581fbbb23bf5eb4fb7c093654be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885fee08d865b3f93dec139f79a31daee34fe2dcd35ad2f358d6a66b535dc6d5a198fa3b32f70191c7b18d232cc9a4531043b83540802ff270a46b6d45754119eee6ad14236c19cd9457929eb3ccdcb18275ac24dfcbfba2f023246c290d9c54ae966c947c9328e886242852494bba8915eab2990f602c1fddc069dd1d4ded80cb9b895a728a410b4ae465ee5e0747c5202329b67ab7c96a2cc10d22b11811b718398949f9f80bf0a4d0ea4f7b96d6d54df26aa0e45b87b852e73d72094280f32a5e57453285bd3143632fb1308eb9fde8790d0ffbe48daf90215f290d57035cc5b29d33f1e8e7261211cd565c105718059909d32992407e0920cd11c4bf4b13a1033226f2a82f573b3ffb60ffc9ea9fac676647c697fa7d7bd9/3/640x360_1020588/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
