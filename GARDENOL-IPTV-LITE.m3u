@@ -204,8 +204,20 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 ## CINE TV ##
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV Ao Vivo
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 2
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1769560099.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1707898381.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1207737091.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CTV Ao Vivo
+https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w881519066.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
@@ -254,6 +266,9 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV MUNDIAL Gospel
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0df78d5e-a7ae-4f79-9fce-18f64917663a.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL",FONTE TV Gospel
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
