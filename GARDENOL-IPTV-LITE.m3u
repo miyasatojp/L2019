@@ -335,9 +335,6 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.camisetasdahora.com/franquia-on-line-plano-prosperidade/midia/tv-record-programa-hoje-em-dia/img/logo_recordtv.png" group-title="NACIONAL", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="NACIONAL",Jovem Pan News (Parabólica)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.fortniteapi.io/images/14f2071-c8f1b19-8f63129-1c11c70/transparent.png" group-title="NACIONAL",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
