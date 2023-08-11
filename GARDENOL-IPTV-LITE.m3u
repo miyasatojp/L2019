@@ -219,9 +219,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1707898381.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1207737091.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CTV Ao Vivo
-https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w881519066.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CINE.AR (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1885028087.m3u8
 
@@ -439,6 +436,9 @@ http://200.189.113.201/hls/tve.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV Guará (São Luis MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1501542397.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
@@ -866,6 +866,12 @@ https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",SIC HD (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png" group-title="MUNDO",RTP 1 (Portugal)
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1277789428.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Gusto TV (Canadá)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",NOTV 41 New Orleans Louisiana HD (USA)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
