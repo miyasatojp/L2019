@@ -219,12 +219,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1707898381.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1207737091.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CINE.AR (Argentina)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1885028087.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",TVS Retro (Guatemala)
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1119028580.m3u8
 
@@ -754,6 +748,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="LATINO",POWER TV HD(Español)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",CINE.AR (ARG)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1885028087.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",TIERRA MIA (ARG)
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
