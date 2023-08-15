@@ -19,6 +19,10 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j17owa0hHlO6eSQMXbFMhGGYZTR.jpg" group-title="FILMES",Ruby Marinho Monstro Adolescente 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/RubyMarinhoMonstroAdolescente2023.mp4
+
 #EXTINF:-1 tvg-logo="https://mb.web.sapo.io/b892548aae482e7e6edd918738ea6446a1dd25c3.jpg" group-title="FILMES",Meu Pai é um Perigo 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/MeuPaieumPerigo2023.mp4
 
