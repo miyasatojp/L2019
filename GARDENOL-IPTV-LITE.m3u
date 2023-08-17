@@ -18,7 +18,8 @@
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.jornaldebarueri.com.br/wp-content/uploads/2023/03/poster_700391-683x1024.jpg" group-title="FILMES",65 Ameaça Pré Histórica 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/65AmeacaPreHistorica2023.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j17owa0hHlO6eSQMXbFMhGGYZTR.jpg" group-title="FILMES",Ruby Marinho Monstro Adolescente 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/RubyMarinhoMonstroAdolescente2023.mp4
