@@ -18,6 +18,9 @@
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/04/25/20/10/1515852.jpg" group-title="FILMES",Guardiões da Galáxia - Vol. 3 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/GuardioesdaGalaxiaVol3.mp4
+
 #EXTINF:-1 tvg-logo="https://www.jornaldebarueri.com.br/wp-content/uploads/2023/03/poster_700391-683x1024.jpg" group-title="FILMES",65 Ameaça Pré Histórica 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/65AmeacaPreHistorica2023.mp4
 
