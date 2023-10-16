@@ -15,8 +15,15 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CINE TV",CHICOS TV WEB
 https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Grjngo (Faroeste)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="CINE TV",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/07/11/23/06/0833684.jpg" group-title="FILMES",A Freira 2 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/AFreira2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5403f323619aff5cc2a8ece4ef927e350ac599f5655d37efadf65bec365edfa4._UR2000,3000_.jpg" group-title="FILMES",Bares Bolos Amizades 2023
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/BaresBoloseAmizades2023.mp4
@@ -125,6 +132,19 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/SuperMarioBrosOFilme2023.mp4
 
 
 ## SERIES 2023 ##
+
+
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/09/05/20/01/4968348.jpg" group-title="SERIES",O Continental S01E01
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/OContinental/OContinentalS01E01.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/09/05/20/01/4968348.jpg" group-title="SERIES",O Continental S01E02
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/OContinental/OContinentalS01E02.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/09/05/20/01/4968348.jpg" group-title="SERIES",O Continental S01E03
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/OContinental/OContinentalS01E03.mp4
+
 
 
 
@@ -359,9 +379,6 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 
 ## CINE TV ##
 
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",Grjngo (Faroeste)
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
