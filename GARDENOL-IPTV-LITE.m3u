@@ -443,12 +443,6 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES%20GOSPEL/OPrincipedoEgito1998.
 ## CINE TV ##
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 1
-https://stmv1.srvif.com/channel1/channel1/chunklist_w788130060.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",CinePIX TV 2
-https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1769560099.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="CINE TV",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1707898381.m3u8
 
