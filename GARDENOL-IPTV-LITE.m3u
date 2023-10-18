@@ -658,6 +658,11 @@ http://200.189.113.201/hls/tve.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w233923209.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png" group-title="NACIONAL",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
