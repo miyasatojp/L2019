@@ -14,11 +14,12 @@
 ## CINE TV ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CINE TV",CHICOS TV WEB
-https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfD49J8/Faroeste1.png" group-title="CINE TV",Grjngo (Faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CINE TV",CHICOS TV WEB
+https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="CINE TV",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
