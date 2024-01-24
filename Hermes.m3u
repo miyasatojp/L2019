@@ -2,3 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfD49J8/Faroeste1.png" group-title="CINE TV",Grjngo
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfD49J8/Faroeste1.png" group-title="FILME",1917
+https://gardenol.miyasatojp.workers.dev/0:/VIDEOS/1917.mp4
+
+
