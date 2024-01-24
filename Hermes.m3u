@@ -1,6 +1,4 @@
-#EXTM3U size="big"
-#EXTINF:-1, Hermes
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfD49J8/Faroeste1.png" group-title="CINE TV",Grjngo (Faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
