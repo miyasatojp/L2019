@@ -127,13 +127,11 @@ http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 
 
 
-## Esporte ##
+## ESPORTES ##
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w233923209.m3u8
-
-
 
 
 
@@ -174,14 +172,19 @@ https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo TV Liberal Belém
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo SP HD 2
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo TV TEM SP HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo ES HD
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="NACIONAL",Globo BA HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
@@ -245,12 +248,6 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
