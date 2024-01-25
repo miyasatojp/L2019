@@ -236,6 +236,29 @@ http://200.189.113.201/hls/tve.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",ARTE 1
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TLC HD
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Food Network HD
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Motorvision FHD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",HISTORY HD
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Animal Planet HD
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Prime box HD
+http://cdn2.connectbr.com.br/Prime/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
@@ -248,6 +271,9 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",Oportunidades TV HD
+http://maistop.net:80/live/free/free/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg" group-title="NACIONAL",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
@@ -278,6 +304,9 @@ https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png" group-title="NACIONAL",TV Câmara
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png" group-title="NACIONAL",Canal Gov
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png" group-title="NACIONAL",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
