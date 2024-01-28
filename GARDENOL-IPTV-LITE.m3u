@@ -509,11 +509,11 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 
 
 
-#EXTINF:-1,SporTV 2 alta definição
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-#EXTINF:-1,SporTV 2 HD
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 HD
 http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
-#EXTINF:-1,SporTV 3 alta definição
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 3 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
 #EXTINF:-1,ESPN HD [Alterar]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
