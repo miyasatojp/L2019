@@ -195,6 +195,10 @@ http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 ## NACIONAL ##
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="NACIONAL",CHICOS TV WEB
+https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="NACIONAL",Band TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
@@ -566,6 +570,9 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 ## VARIEDADES ##
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="VARIEDADES",CHICOS TV WEB
+https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Ge Fast HD
