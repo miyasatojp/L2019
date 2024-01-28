@@ -1,365 +1,546 @@
 #EXTM3U
 
 
-#EXTINF:-1,SporTV 2 alta definição
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-#EXTINF:-1,SporTV 2 HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 HD
 http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
-#EXTINF:-1,SporTV 3 alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 3 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
-#EXTINF:-1,ESPN HD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN HD [Alterar]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
-#EXTINF:-1,ESPN FHD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN FHD
 http://51.83.238.223:16515/
-#EXTINF:-1,ESPN 2 alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 2 alta definição
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
-#EXTINF:-1,ESPN 2 HD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 2 HD [Alterar]
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
-#EXTINF:-1,ESPN 3 alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 3 alta definição
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
-#EXTINF:-1,ESPN 4 alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 alta definição
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
-#EXTINF:-1,ESPN 4 HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 HD
 http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ESPN 4 FHD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 FHD [Alterar]
 http://51.83.238.223:16575/
-#EXTINF:-1,Band Sports alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band Sports alta definição
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-#EXTINF:-1,UFC Fightpass HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",UFC Fightpass HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
-#EXTINF:-1,Premiere 4 HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Premiere 4 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
-#EXTINF:-1,CazéTV HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CazéTV HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
-#EXTINF:-1,JOGO 3
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 3
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
-#EXTINF:-1,JOGO 4
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 4
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
-#EXTINF:-1,JOGO 5
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 5
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
-#EXTINF:-1,Ge Fast HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Ge Fast HD
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-#EXTINF:-1,JP NEWS
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NEWS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
-#EXTINF:-1, JP NOTÍCIAS 576p
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS 576p
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-#EXTINF:-1, JP NOTÍCIAS SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS SD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1, JP NOTÍCIAS HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1,CNN BRASIL SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
-#EXTINF:-1,CNN BRASIL alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN BRASIL alta definição
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-#EXTINF:-1,Globo News HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Globo News HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
-#EXTINF:-1,Band News SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1,Band News HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band News HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-#EXTINF:-1,AVANÇA BRASIL
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1,4 POR 4
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",4 POR 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1,Resumo da Ópera
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Resumo da Ópera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-#EXTINF:-1,Notícias 24h FHD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Notícias 24h FHD
 http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
-#EXTINF:-1,TV VIDEONEWS
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1,Oportunidades TV HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1,Multishow HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Multishow HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
-#EXTINF:-1,Multishow FHD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Multishow FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
-#EXTINF:-1,MTV HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MTV HD
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
-#EXTINF:-1,BIS HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BIS HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
-#EXTINF:-1,Comedy Central HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Comedy Central HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
-#EXTINF:-1,TBS HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TBS HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/721
-#EXTINF:-1,E! alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",E! alta definição
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
-#EXTINF:-1,Prime box HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Prime box HD
 http://cdn2.connectbr.com.br/Prime/index.m3u8
-#EXTINF:-1,Prime box HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Prime box HD
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
-#EXTINF:-1,ARTE 1
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ARTE 1
 https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
-#EXTINF:-1,TLC HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TLC HD
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-#EXTINF:-1,GNT HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GNT HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
-#EXTINF:-1,Receita Fast HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Receita Fast HD
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
-#EXTINF:-1,Food Network HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-#EXTINF:-1,Discovery ID HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
-#EXTINF:-1,Trace Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Brasil
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
-#EXTINF:-1,Trace Sport Stars
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Discovery Turbo alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Turbo alta definição
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-#EXTINF:-1,Discovery World HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery World HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-#EXTINF:-1,Discovery h&h HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery h&h HD
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-#EXTINF:-1,Discovery Channel SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Channel SD
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery Channel HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Channel HD
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-#EXTINF:-1,Discovery Science HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Science HD
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-#EXTINF:-1,Discovery Theatre HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Theatre HD
 https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-#EXTINF:-1,HGTV SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HGTV SD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HGTV HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HGTV HD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
-#EXTINF:-1,HISTORY HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HISTORY HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
-#EXTINF:-1,Animal Planet HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Animal Planet HD
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-#EXTINF:-1,Curta!
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:-1,Revry Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
-#EXTINF:-1,Olá TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Olá TV
 http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
-#EXTINF:-1,Viajando pelo Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-#EXTINF:-1,ViVA SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA SD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
-#EXTINF:-1,ViVA HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA HD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
-#EXTINF:-1,ViVA HD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA HD [Alterar]
 http://64.31.40.14:14884/
-#EXTINF:-1,TNT Novelas SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT Novelas SD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
-#EXTINF:-1,TNT Novelas HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT Novelas HD
 http://51.79.17.168:14613/
-#EXTINF:-1,Novelando HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Novelando HD
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-#EXTINF:-1,Novelando HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Novelando HD
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-#EXTINF:-1,Os Dez Mandamentos
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Os Dez Mandamentos
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ManoTV
-#EXTINF:-1,TV Novelas
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
-#EXTINF:-1,TVi Ficção
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-#EXTINF:-1,Las Estrellas América Latina
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Las Estrellas América Latina
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,SONY ONE SHARK TANK
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:-1, Comédia Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1,SPACE HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:-1,TNT SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT SD
 https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
-#EXTINF:-1,TNT HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
-#EXTINF:-1, Série TNT HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Série TNT HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
-#EXTINF:-1,A&E SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",A&E SD
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A&E HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",A&E HD
 http://cdn.connectbr.com.br/AE/index.m3u8
-#EXTINF:-1,AXN SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AXN SD
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AXN HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AXN HD
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Paramount Channel alta definição
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Paramount Channel alta definição
 http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1,Telecine Action HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Action HD
 http://64.31.40.14:14056/
-#EXTINF:-1,Telecine Pipoca HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Pipoca HD
 http://51.83.238.223:16763/
-#EXTINF:-1, Telecine Premium HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Premium HD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
-#EXTINF:-1,Telecine Touch HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Touch HD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
-#EXTINF:-1,Telecine Cult HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Cult HD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
-#EXTINF:-1,Telecine Fun HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Fun HD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
-#EXTINF:-1, AMC HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AMC HD
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:-1, CANAL ESTRELA
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CANAL ESTRELA
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
-#EXTINF:-1,Sony Channel HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Sony Channel HD
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1,Sony Movies HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Sony Movies HD
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:-1,FX HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FX HD
 http://199.127.60.83:16043/
-#EXTINF:-1,FX HD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FX HD [Alterar]
 http://64.31.40.14:14043/
-#EXTINF:-1,CINEMAX
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CINEMAX
 http://64.31.40.14:14031/
-#EXTINF:-1,MEGAPIX HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MEGAPIX HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
-#EXTINF:-1,MEGAPIX HD [Alterar]
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MEGAPIX HD [Alterar]
 http://64.31.40.14:14048/
-#EXTINF:-1, Estúdio Universal HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Estúdio Universal HD
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
-#EXTINF:-1,Disney Channel HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Disney Channel HD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/356.m3u8
-#EXTINF:-1,Disney Channel FHD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Disney Channel FHD
 http://51.83.238.223:16274/
-#EXTINF:-1,MyTime Movies
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-#EXTINF:-1,MOVIE SPHERE
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1,SONY ONE EMOCOES
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SONY ONE EMOCOES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-#EXTINF:-1,Bora Filmes
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Bora Filmes
 http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1,Entretendo
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
-#EXTINF:-1,Dark Flix
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
-#EXTINF:-1,TV NOVA PLAY
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
-#EXTINF:-1,CHANNEL ONE
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CHANNEL ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1,HTO FILMES
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HTO FILMES
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Runtime Ação HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1,Runtime TV e Filmes HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime TV e Filmes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1,Runtime Comédia HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Comédia HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1,Runtime Família
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1,Runtime Romance
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1,Runtime Cine Espanto
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Cine Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1,Runtime Crime
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1,Otaku Sign TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-#EXTINF:-1,Carregando...TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Carregando...TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1,Geekdot​
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1,AniTV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AniTV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1,Olá Anime HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Olá Anime HD
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:-1,Nickelodeon HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-#EXTINF:-1,Super Onze
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Super Onze
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1,TVi Realitys
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi Realitys
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
-#EXTINF:-1,TVi África
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1, Exija África HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Exija África HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1,Liga Campeonesᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Liga Campeonesᴴᴰ
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
-#EXTINF:-1,RTP1 HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",RTP1 HD
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
-#EXTINF:-1,CNN EUA
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN EUA
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:-1,SEO TV Deportes SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SEO TV Deportes SD
 https://seo.tv.bo/tv/seo5.m3u8
-#EXTINF:-1,TV RBC
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
-#EXTINF:-1,BS TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1,TV CLÁSSICOS
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV CLÁSSICOS
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1,OTAKU SIGN TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
-#EXTINF:-1,BR Super TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BR Super TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1,PBC TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",PBC TV
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-#EXTINF:-1,ULB TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8?ManoTV
-#EXTINF:-1,FILMES GOSPEL TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FILMES GOSPEL TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ManoTV
-#EXTINF:-1,TOP Mix TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TOP Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
-#EXTINF:-1,TVM Pará
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVM Pará
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?ManoTV
-#EXTINF:-1,GLN TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-#EXTINF:-1,TV Grão Pará
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Grão Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-#EXTINF:-1,TV LITORAL
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV LITORAL
 https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
-#EXTINF:-1,TV LITORAL RN
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV LITORAL RN
 https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
-#EXTINF:-1,Soul Cine Clube
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-#EXTINF:-1,Clube Web TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1,Tela Viva TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
-#EXTINF:-1,Rede Família
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Rede Família
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
-#EXTINF:-1,NBT
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-#EXTINF:-1,NGT
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1,Canal 29
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1, XTREME TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
-#EXTINF:-1,TV Aracati
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1,Life Channel Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Life Channel Brasil
 https://cdn2.connectbr.com.br/life/playlist.m3u8?ManoTV
-#EXTINF:-1,TV BRASIL
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-#EXTINF:-1,TBO HD (Rede Brasil)
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TBO HD (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
-#EXTINF:-1,TV Brasil Hits
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
-#EXTINF:-1,TERRA VIVA HD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TERRA VIVA HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1,Agro Brasil
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,XR HEALTH BRASIL
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1,CONECTV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
-#EXTINF:-1,TV Gazeta MA SD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Gazeta MA SD
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
-#EXTINF:-1,TV A Folha
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1,Astral TV FHD
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Astral TV FHD
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1,Cultura Internacional
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Cultura Internacional
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1,Caravana Play
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Caravana Play
 https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
-#EXTINF:-1, Wtj TV Minas
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Wtj TV Minas
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1,Play TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1, Ypê TV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1,SPTV
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1,TV Imperial
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Imperial
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
-#EXTINF:-1,TV Mais Família
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
-#EXTINF:-1,TV Fala Litoral
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1,TV CEL
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV CEL
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
-#EXTINF:-1,GRJNGO
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+
