@@ -1389,6 +1389,10 @@ https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 ## CLIPS ##
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CLIPS",CHICOS TV WEB
+https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png" group-title="CLIPS",Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
