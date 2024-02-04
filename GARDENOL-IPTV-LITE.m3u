@@ -4,8 +4,8 @@
 ##                  CREDITOS                    ##
 ##    LISTA IPTV PARTICULAR : GARDENOL IPTV     ##
 ##                                              ##
-##          ( LISTA NÃO COMERCIAL )             ##
-##    CRIACAO E ADAPTACAO: GARDENOL IPTV        ##
+##       ( ESTA LISTA NÃO É COMERCIAL )         ##
+##     CRIACAO E ADAPTACAO: GARDENOL IPTV       ##
 ##                                              ##
 ##################################################
 
@@ -589,6 +589,9 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN BRASIL alta definição
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN EUA
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Globo News HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 
@@ -900,9 +903,6 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",RTP1 HD
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN EUA
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SEO TV Deportes SD
 https://seo.tv.bo/tv/seo5.m3u8
