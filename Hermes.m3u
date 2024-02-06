@@ -1,546 +1,275 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 2 HD
-http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SporTV 3 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN HD [Alterar]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN FHD
-http://51.83.238.223:16515/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 2 alta definição
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 2 HD [Alterar]
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 3 alta definição
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 alta definição
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 HD
-http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ESPN 4 FHD [Alterar]
-http://51.83.238.223:16575/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band Sports alta definição
-http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",UFC Fightpass HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Premiere 4 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CazéTV HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JOGO 5
-https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NEWS
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS 576p
-https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS SD
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NOTÍCIAS HD
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN BRASIL SD
-https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN BRASIL alta definição
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Globo News HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band News SD
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Band News HD
-http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AVANÇA BRASIL
-https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",4 POR 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Resumo da Ópera
-https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Notícias 24h FHD
-http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV VIDEONEWS
-https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Oportunidades TV HD
-http://maistop.net:80/live/free/free/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Multishow HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Multishow FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MTV HD
-http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BIS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Comedy Central HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TBS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/721
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",E! alta definição
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Prime box HD
-http://cdn2.connectbr.com.br/Prime/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Prime box HD
-http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ARTE 1
-https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TLC HD
-https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GNT HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Receita Fast HD
-https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Food Network HD
-https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery ID HD
-https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Brasil
-https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Turbo alta definição
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery World HD
-https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery h&h HD
-https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Channel SD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Channel HD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Science HD
-https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Theatre HD
-https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HGTV SD
-https://cdn-1.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HGTV HD
-https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HISTORY HD
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Animal Planet HD
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Curta!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Revry Brasil
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Olá TV
-http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Viajando pelo Brasil
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA SD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA HD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ViVA HD [Alterar]
-http://64.31.40.14:14884/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT Novelas SD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT Novelas HD
-http://51.79.17.168:14613/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Novelando HD
-http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Novelando HD
-https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Os Dez Mandamentos
-https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Novelas
-https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi Ficção
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Las Estrellas América Latina
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SONY ONE SHARK TANK
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Comédia Brasil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SPACE HD
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT SD
-https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TNT HD
-https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Série TNT HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",A&E SD
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",A&E HD
-http://cdn.connectbr.com.br/AE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AXN SD
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AXN HD
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Paramount Channel alta definição
-http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Action HD
-http://64.31.40.14:14056/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Pipoca HD
-http://51.83.238.223:16763/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Premium HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Touch HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Cult HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Telecine Fun HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AMC HD
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CANAL ESTRELA
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Sony Channel HD
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Sony Movies HD
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FX HD
-http://199.127.60.83:16043/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FX HD [Alterar]
-http://64.31.40.14:14043/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CINEMAX
-http://64.31.40.14:14031/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MEGAPIX HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MEGAPIX HD [Alterar]
-http://64.31.40.14:14048/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Estúdio Universal HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Disney Channel HD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/356.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Disney Channel FHD
-http://51.83.238.223:16274/
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MyTime Movies
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Entretendo
-http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CHANNEL ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",HTO FILMES
-https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime TV e Filmes HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Comédia HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Otaku Sign TV
-https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Carregando...TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Geekdot​
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",AniTV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Olá Anime HD
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Nickelodeon HD
-http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Super Onze
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi Realitys
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVi África
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Exija África HD
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Liga Campeonesᴴᴰ
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",RTP1 HD
-https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CNN EUA
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SEO TV Deportes SD
-https://seo.tv.bo/tv/seo5.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV CLÁSSICOS
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",BR Super TV
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",PBC TV
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",FILMES GOSPEL TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TOP Mix TV
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TVM Pará
-https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Grão Pará
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV LITORAL
-https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV LITORAL RN
-https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Clube Web TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Rede Família
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",NBT
-https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Canal 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Life Channel Brasil
-https://cdn2.connectbr.com.br/life/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TBO HD (Rede Brasil)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TERRA VIVA HD
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Agro Brasil
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",XR HEALTH BRASIL
-http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",CONECTV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Gazeta MA SD
-https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Astral TV FHD
-https://isaocorp.cloudecast.com/astraltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Cultura Internacional
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Caravana Play
-https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Wtj TV Minas
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Imperial
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Mais Família
-https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Fala Litoral
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV CEL
-https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",GRJNGO
-http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",CCTV1HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央频道",CCTV2HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央频道",CCTV3HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央频道",CCTV4HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央频道",CCTV5HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV6HD
+http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中央频道",CCTV7HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中央频道",CCTV8HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中央频道",CCTV9HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中央频道",CCTV10HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央频道",CCTV11HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央频道",CCTV12HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央频道",CCTV13HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央频道",CCTV14HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央频道",CCTV15HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央频道",CCTV17HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央频道",CCTV5+HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央频道",CCTV 4K
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="中央频道",CGTN HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中央频道",共同战疫
+http://newsalic.v.myalicdn.com/news/new10_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="60" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中央频道",CETV1
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="中央频道",CETV2
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="中央频道",CETV3
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中央频道",CETV4
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视频道",凤凰中文HD
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视频道",凤凰资讯HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000294103.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视HD
+http://222.186.130.11/live-cnc-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道",吉林卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视频道",山西卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视频道",陕西卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视频道",宁夏卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",青海卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="卫视频道",阳光卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙古卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视频道",哈哈炫动
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视频道",优漫卡通
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视频道",KAKU少儿
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视频道",嘉佳卡通
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",山东教育卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海文广",五星体育HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海文广",欢笑剧场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",都市剧场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",动漫秀场HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海文广",劲爆体育HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海文广",极速汽车HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海文广",游戏风云HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海文广",生活时尚HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",魅力足球HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海文广",幸福彩HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海文广",第一财经HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海文广",上海纪实HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海文广",上海新闻HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海文广",上海都市HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海文广",上海电视剧HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",上海ICS外语频道HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",上海艺术人文
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ysrw/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海文广",法治天地
+http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海文广",七彩戏剧
+http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播1-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播2-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播3-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播4-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播5-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播6-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播7-1080P
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdianying/NjpdyJSKDXTB.png" group-title="NewTV数字频道",NewTV黑莓电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV黑莓动画
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/wmyx/NdjJSKDXTB.png" group-title="NewTV数字频道",NewTV黑莓电竞
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226307/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/aiqingxj/NaqxjJSKDXTB.png" group-title="NewTV数字频道",NewTV爱情喜剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-bokesen/NsjbjJSKDXTB.png" group-title="NewTV数字频道",NewTV搏击
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV超级电视剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV超级电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV超级综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-1500k-720P-cmlapo/NcmlpJSKDXTB.png" group-title="NewTV数字频道",NewTV潮妈辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/NdzdyJSKDXTB.png" group-title="NewTV数字频道",NewTV动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png" group-title="NewTV数字频道",NewTV古装剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xiqumd/NhwjcJSKDXTB.png" group-title="NewTV数字频道",NewTV海外剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiatingjc/NjtjcJSKDXTB.png" group-title="NewTV数字频道",NewTV家庭剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/NjkyyJSKDXTB.png" group-title="NewTV数字频道",NewTV健康有约
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/saishijx/NjpzyJSKDXTB.png" group-title="NewTV数字频道",NewTV金牌综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingsongxy/NjsxyJSKDXTB.png" group-title="NewTV数字频道",NewTV惊悚悬疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdaju/NjpdjJSKDXTB.png" group-title="NewTV数字频道",NewTV精品大剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/NjpjlJSKDXTB.png" group-title="NewTV数字频道",NewTV精品记录
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jtiyu/NjptyJSKDXTB.png" group-title="NewTV数字频道",NewTV精品体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junlvjc/NjljcJSKDXTB.png" group-title="NewTV数字频道",NewTV军旅剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV数字频道",NewTV军旅剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junshipl/NjsplJSKDXTB.png" group-title="NewTV数字频道",NewTV军事评论
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/mingxingdp/NmxdpJSKDXTB.png" group-title="NewTV数字频道",NewTV明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/NnyzfJSKDXTB.png" group-title="NewTV数字频道",NewTV农业致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-xwwl/NxwwlJSKDXTB.png" group-title="NewTV数字频道",NewTV炫舞未来
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gzkongfu/NzggfJSKDXTB.png" group-title="NewTV数字频道",NewTV中国功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱没事
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT数字频道",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
