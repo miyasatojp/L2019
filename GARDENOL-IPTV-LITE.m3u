@@ -11,10 +11,24 @@
 
 
 
-#EXTINF:-1 tvg-id="SayeedBlack.us" tvg-name="SayeedBlack" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/31f1725f-798e-4e0f-974b-aa62949b2168-profile_image-300x300.png" group-title="01OldBois",SayeedBlack
-https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CtkEqICsrAGB2bpuX-UnFroE7kfN9JzI-A3dgVOMkdRmaiu8WI-NW9gu6aq1fZPp-0U4GCngFpjAFn7LK5g38us5r8onNjamy0w0JGTB0ObEHU9AFUBPhPb5F2xoHjdMbp4o9zvGy7eax0wgcyjsOtLc3IGhyKIbOb9Bvc50rjo-2Q70pRc1u0xCxcRI74ZGg0taNXmUT0liVEiSR8XOYvmEgwXb5Om9XbSggWyx2xpn4a03t6SbRfF69g09s0s-C6QWCGSYN77BSXq68murniH9MIZNaWbeW-uoMz9TTdERQIv46pualJfLHPRWNp_HGyPKZk3U1Js2SllXqrfOtwgX2mUijPuE1Bk5uA4b0pkDRDFDXPRZCwK1Qnha0WxGS4DqSGBy9xrvNtBqQmNwlOwaebCT5W7WR9bwNbM02eGkyOc4jh3TooTl5amDEj4eNCX1OHXmGHrWfX_DB3qv52A72Vk6uzk7fe6M1LjQlCcVRM_3_GArdnPUuQoCTYGj2vBAf9_qws3Hn30OTUI2iPK6jSXAtfmAczziTN5Gdzp-rJuaBfrNP8c6LHbcVBjjue8OdH29kr7YYvQ5JchL5O2pLlqEEblcA9Fb-ttJ6PlCLTQI7Xg1OMCBaz6X1lXMdusffUETM_mvUnrYS2qFYp_isjg1hXgE8x5gABKKOQl1kN-4Ef_tCmjTsDIiUwnpk38A7y0Xr3kluZXEweRKBJPeSjnulq2LQ-6jix722GOmnA4FDprOroI_Zs43QQSYHM5V2OV2XLScJMmDikahODjU3GQHjlKoojo0shoM1cjVKV2M3DlmzkFnIAEqCWV1LXdlc3QtMjDUCA.m3u8
-
-
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV-4 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="Undefined" ,山东卫视 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/3tivvMm.png",CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 
 
 ## SERIES ##
