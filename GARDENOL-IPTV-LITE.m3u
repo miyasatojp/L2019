@@ -34,8 +34,10 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
-#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+#EXTINF:-1 type="MUSICA" TESTE,
+#EXTBG:https://gameranx.com/wp-content/uploads/2016/09/Nier-Automata-720P-MWallpaper.jpg
 http://node-19.zeno.fm:80/419bxfcv868uv
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CINE TV",CHICOS TV WEB
