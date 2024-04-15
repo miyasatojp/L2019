@@ -27,6 +27,13 @@ https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/OContinentalS01E03.m
 ## CINE TV ##
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg" group-title="RADIO",VENCERÁS RÁDIO WEB
+http://node-19.zeno.fm:80/xacqjxjn0m7uv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO
+http://node-19.zeno.fm:80/419bxfcv868uv
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J2DgQzD/Chicos1.png" group-title="CINE TV",CHICOS TV WEB
 https://live01.livemustv.com.br/miyasatojp90/miyasatojp90/playlist.m3u8
 
@@ -1365,11 +1372,7 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 ## RADIO ##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg" group-title="RADIO",VENCERÁS RÁDIO WEB
-http://node-19.zeno.fm:80/xacqjxjn0m7uv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO
-http://node-19.zeno.fm:80/419bxfcv868uv
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
