@@ -11,13 +11,5 @@
 
 
 
-## SERIES ##
-
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/folder.jpg" group-title="SERIES",S01E01 O Continental
-https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/OContinentalS01E01.mp4
-
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/folder.jpg" group-title="SERIES",S01E02 O Continental
-https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/OContinentalS01E02.mp4
-
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/folder.jpg" group-title="SERIES",S01E03 O Continental
-https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/OContinentalS01E03.mp4
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",JP NEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
