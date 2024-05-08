@@ -13,13 +13,6 @@
 
 ## SERIES ##
 
-#EXTINF:-1 tvg-logo="" group-title="COMERCIAL",Vinheta Carlos 1
-https://gardenol.miyasatojp.workers.dev/0:/COMERCIAIS/Vinheta%20Carlos%201.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="COMERCIAL",Vinheta Carlos 2
-https://gardenol.miyasatojp.workers.dev/0:/COMERCIAIS/Vinheta%20Carlos%202.mp4
-
-
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/folder.jpg" group-title="SERIES",S01E01 O Continental
 https://gardenol.miyasatojp.workers.dev/0:/OContinental2023/OContinentalS01E01.mp4
 
