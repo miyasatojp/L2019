@@ -941,7 +941,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-peru-png-image_6933429.png" group-title="LATINO",A&E (Peru) (🇵🇪)
 http://190.61.55.186:1010/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",RCC (Paraguai)
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",RCC (Paraguai) (🇵🇾)
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w427510512.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Promar (Venezuela)
