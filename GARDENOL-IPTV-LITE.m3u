@@ -1183,8 +1183,6 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
 #EXTINF:-1,2 Quellon (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal2quellon/index.m3u8
-#EXTINF:-1,21 Sextury (Rusia) (+18) (🇷🇺)
-http://xgqijyed.russtv.net/iptv/WPTKFMPUEQ89K2/12205/index.m3u8
 #EXTINF:-1,24 Horas (Chile) (🇨🇱)
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1,25 (Rep. Dominicana) (🇩🇴)
@@ -1373,8 +1371,6 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1,Azufral (Colombia) (🇨🇴)
 https://tvlatina.live:1936/8020/8020/.m3u8
-#EXTINF:-1,Babestation (Alemania) (+18) (🇩🇪)
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1,Bailen (España) (🇪🇸)
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/index.m3u8
 #EXTINF:-1,Balkan Radio (Austria) (🇦🇹)
@@ -2575,8 +2571,6 @@ https://n9.cl/5a5nc
 https://is.gd/WFSX8J
 #EXTINF:-1,Kajou (Haiti) (🇭🇹)
 https://n9.cl/lpfyj
-#EXTINF:-1,Kaloopy (USA) (+18) (🇺🇸)
-https://is.gd/knTPaV
 #EXTINF:-1,Kanal D Drama (España) (🇪🇸)
 https://is.gd/ews6YI
 #EXTINF:-1,Karavana (Chile) (🇨🇱)
@@ -2591,8 +2585,6 @@ https://is.gd/F8KJML
 https://n9.cl/bukjx
 #EXTINF:-1,Kids Radio FM (Rusia) (🇷🇺)
 https://is.gd/KmSQ4r
-#EXTINF:-1,Kino 18+ (Rusia) (+18) (🇷🇺)
-https://is.gd/YXMfyu
 #EXTINF:-1,Kiss Kiss (Italia) (🇮🇹)
 https://is.gd/YreiHk
 #EXTINF:-1,Kiss Kiss Italia (Italia) (🇮🇹)
@@ -2687,8 +2679,6 @@ https://is.gd/hGK7uL
 https://is.gd/vZK7mq
 #EXTINF:-1,Mi canal (Guatemala) (🇬🇹)
 https://n9.cl/o6ibd
-#EXTINF:-1,Miami Mexico (USA) (+18) (🇺🇸)
-https://is.gd/WBBjyv
 #EXTINF:-1,Mijas 3.40 (España) (🇪🇸)
 https://is.gd/szGRcQ
 #EXTINF:-1,Milagro (Brasil) (🇧🇷)
@@ -2997,12 +2987,8 @@ https://is.gd/HKaLZq
 https://is.gd/Z9Gi4A
 #EXTINF:-1,RU Music (Rusia) (🇷🇺)
 https://is.gd/XfHXhj
-#EXTINF:-1, Russian (USA) (+18) (🇺🇸)
-http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,Russian Music Box (Rusia) (🇷🇺)
 https://is.gd/I5w0Yb
-#EXTINF:-1,Russkaya Noch (Rusia) (+18) (🇷🇺)
-https://is.gd/sRX7iN
 #EXTINF:-1,S1 (Rusia) (🇷🇺)
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1,S86 (Rusia) (🇷🇺)
@@ -3329,8 +3315,6 @@ https://is.gd/BNG5i3
 https://is.gd/6420mf
 #EXTINF:-1,Vision (Guatemala) (🇬🇹)
 https://is.gd/hHWJ7V
-#EXTINF:-1, Visit-X (Alemania) (+18) (🇩🇪)
-https://stream.visit-x.tv/vxtv/live/.m3u8
 #EXTINF:-1,Visual Radio (Italia) (🇮🇹)
 https://is.gd/l8qIme
 #EXTINF:-1,Vivamovil (España) (🇪🇸)
