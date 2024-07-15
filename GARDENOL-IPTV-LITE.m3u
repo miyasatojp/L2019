@@ -938,88 +938,88 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 ## LATINO ##
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-peru-png-image_6933429.png" group-title="LATINO",A&E (Peru) (🇵🇪)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",A&E (Peru) (🇵🇪)
 http://190.61.55.186:1010/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",ABC (Paraguay) (🇵🇾)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",ABC (Paraguay) (🇵🇾)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/239/original/circle-flag-of-paraguay-free-png.png" group-title="LATINO",RCC (Paraguai) (🇵🇾)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",RCC (Paraguai) (🇵🇾)
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w427510512.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Promar (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Promar (Venezuela)
 https://vcp.myplaytv.com/promar/promar/chunklist_w1121789661.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/venezuela_flag_flags_18057.png" group-title="LATINO",Movie Fe (Venezuela)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Movie Fe (Venezuela)
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1790213773.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/707/475/original/cuba-flag-circle-shape-flag-icon-png.png" group-title="LATINO",Martí HD (Cuba)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Martí HD (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",DW HD (Español)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",DW HD (Español)
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/768px-CGTN.png" group-title="LATINO",CGTN China(Español)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",CGTN China(Español)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RTVE HD (Espanha)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",RTVE HD (Espanha)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Galicia 7 HD (Espanha)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Galicia 7 HD (Espanha)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RIBERA (Espanha)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",RIBERA (Espanha)
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",RT (Espanha)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",RT (Espanha)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/632/original/spain-circle-flag-png.png" group-title="LATINO",Canal Malaga (Espanha)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Canal Malaga (Espanha)
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="LATINO",Colosal HD(Español)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Colosal HD(Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="LATINO",POWER TV HD(Español)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",POWER TV HD(Español)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/636/original/argentina-circle-flag-png.png" group-title="LATINO",Radio TV Neuquen (ARG)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Radio TV Neuquen (ARG)
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino (Chile)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",El Pinguino (Chile)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",El Pinguino 2(Chile)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",El Pinguino 2(Chile)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139939/isolated/preview/4c8a09b1949e241504d97221f55da0b1-emblema-da-bandeira-do-chile.png" group-title="LATINO",Holvoet (Chile)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Holvoet (Chile)
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Canal 10 (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Canal 10 (Mexico)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MULTIMEDIOS (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",MULTIMEDIOS (Mexico)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",MONTERREY (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",MONTERREY (Mexico)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/642/original/mexico-circle-flag-png.png" group-title="LATINO",Ovacion (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Ovacion (Mexico)
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/013/760/629/non_2x/costa-rica-circle-flag-free-png.png" group-title="LATINO",Extrema TV (Costa Rica)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Extrema TV (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/150/non_2x/el-salvador-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",Canal Wow (El Salvador)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Canal Wow (El Salvador)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/150/non_2x/el-salvador-3d-rounded-flag-with-transparent-background-free-png.png" group-title="LATINO",Canal 21 (El Salvador)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Canal 21 (El Salvador)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png" group-title="LATINO",Mega (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Mega (Bolivia)
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w962441080.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139968/isolated/preview/8919e5a3e7f639df7a980c3cd08a059e-emblema-da-bandeira-da-colombia.png" group-title="LATINO",Cali TV (Colômbia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Cali TV (Colômbia)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w1506754820.m3u8
 
 
