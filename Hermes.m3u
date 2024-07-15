@@ -10,6 +10,7 @@
 ##################################################
 
 
+
 #EXTINF:-1,1 HD Music (Rusia) (🇷🇺)
 http://146.158.0.56/1HD/mono.m3u8
 #EXTINF:-1,1 Mus (Bielorrusia) (🇧🇾)
@@ -64,10 +65,6 @@ https://30a-tv.com/music.m3u8
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/.m3u8
 #EXTINF:-1,33TV (España) (🇪🇸)
 https://limited43.todostreaming.es/live/simbana-livestream.m3u8
-#EXTINF:-1,36 Trivision (Costa Rica) (🇨🇷)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1,36 Trivision (Costa Rica) (🇨🇷)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1,4.1 (Mexico) (🇲🇽)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1,4.2 (Mexico) (🇲🇽)
@@ -386,8 +383,6 @@ https://stream.oursnetworktv.com/latin/encoder6tecpan/.m3u8
 https://stream.oursnetworktv.com/latin/talangatv/.m3u8
 #EXTINF:-1,Canal 8 Catacaos (Peru) (🇵🇪)
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1,Canal Cocina (Mexico) (🇲🇽)
-https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 #EXTINF:-1,Canal Costa (España) (🇪🇸)
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 #EXTINF:-1,Canal Diplomatico (Venezuela) (🇻🇪)
@@ -430,8 +425,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1,Capital (Nepal) (🇳🇵)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1,Caracol (Colombia) (🇨🇴)
-http://181.78.12.119:16123/play/ch58a/index.m3u8
 #EXTINF:-1,Caracola (Chile) (🇨🇱)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Carare (Colombia) (🇨🇴)
@@ -480,8 +473,6 @@ https://is.gd/7hOd2Q
 https://is.gd/erDx3q
 #EXTINF:-1,Cine Nanar (Francia) (🇫🇷)
 https://n9.cl/dyqexb
-#EXTINF:-1,Cine Premium (España) (🇪🇸)
-http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1,Cine Prime (Francia) (🇫🇷)
 https://is.gd/PS9kGu
 #EXTINF:-1,Cine Retro (Mexico) (🇲🇽)
@@ -490,8 +481,6 @@ https://is.gd/Uxl43c
 https://is.gd/BSAj8P
 #EXTINF:-1,Cine Western (Francia) (🇫🇷)
 https://n9.cl/o30k8
-#EXTINF:-1,Cinecanal (Argentina) (🇦🇷)
-http://181.78.12.119:16123/play/ch10/index.m3u8
 #EXTINF:-1,Cinecanal (Mexico) (🇲🇽)
 http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTINF:-1,Cinemonde (Brasil) (🇧🇷)
@@ -580,8 +569,6 @@ https://is.gd/wL4m1k
 https://is.gd/WRaJcb
 #EXTINF:-1,Coop JP (Argentina) (🇦🇷)
 https://is.gd/2Qrmsm
-#EXTINF:-1,Coosmovision (Colombia) (🇨🇴)
-https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1,Cops (Canada) (🇨🇦)
 https://n9.cl/1bxuz
 #EXTINF:-1,Coral (Bolivia) (🇧🇴)
@@ -624,8 +611,6 @@ https://is.gd/xWw8Qn
 https://n9.cl/4qb8k
 #EXTINF:-1,CTV (Guatemala) (🇬🇹)
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1,CTV Barranquilla (Colombia) (🇨🇴)
-http://181.78.12.119:16123/play/a09z/index.m3u8
 #EXTINF:-1,CTV Internacional (Honduras) (🇭🇳)
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1,Curiosity Now (Alemania) (🇩🇪)
@@ -716,10 +701,6 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1,Discovery Channel (Rusia) (🇷🇺)
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1,Discovery H&H (Mexico) (🇲🇽)
-http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:-1,Discovery H&H (Peru) (🇵🇪)
-http://181.78.12.119:16123/play/ch25/index.m3u8
 #EXTINF:-1,Discovery ID (Argentina) (🇦🇷)
 http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:-1,Discovery ID (India) (🇮🇳)
@@ -732,10 +713,6 @@ http://45.159.74.14:80/InvestigationDiscovery/index.m3u8
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1,Discovery World (España) (🇪🇸)
 http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1,Disney Channel (Argentina) (🇦🇷)
-http://181.78.12.119:16123/play/ch03/index.m3u8
-#EXTINF:-1,Disney Junior (España) (🇪🇸)
-http://181.78.12.119:16123/play/ch05/index.m3u8
 #EXTINF:-1,Ditty (USA) (🇺🇸)
 https://is.gd/AcV2Hj
 #EXTINF:-1,Djazz Stingray (USA) (🇺🇸)
@@ -1032,8 +1009,6 @@ https://is.gd/m8FX50
 https://n9.cl/3n6p9
 #EXTINF:-1,Foro (Mexico) (🇲🇽)
 https://is.gd/LbZCP3
-#EXTINF:-1,Fort (Uganda) (🇺🇬)
-https://is.gd/2OBiKa
 #EXTINF:-1,FOX 2 San Francisco (USA) (🇺🇸)
 https://n9.cl/28jko
 #EXTINF:-1,FOX Sports 3 (España) (🇪🇸)
@@ -1136,8 +1111,6 @@ https://is.gd/ItZtrQ
 https://n9.cl/zvc89
 #EXTINF:-1,Great British Menu (UK) (🇬🇧)
 https://n9.cl/esmai
-#EXTINF:-1,Green Channel (Japon) (🇯🇵)
-https://is.gd/8tsHMT
 #EXTINF:-1,Grjngo (Alemania) (🇩🇪)
 https://n9.cl/nbqcf
 #EXTINF:-1,Grjngo (España) (🇪🇸)
@@ -1158,8 +1131,6 @@ https://n9.cl/ur798
 https://n9.cl/9o15d
 #EXTINF:-1,H2 History (España) (🇪🇸)
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1,Hagerty (USA) (🇺🇸)
-https://is.gd/ZdniEO
 #EXTINF:-1,Haina Vision (Rep. Dominicana) (🇩🇴)
 https://is.gd/fnTXGF
 #EXTINF:-1,Hallmark Movies & More (USA) (🇺🇸)
@@ -1222,8 +1193,6 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 https://n9.cl/f873x
 #EXTINF:-1,History Hit (UK) (🇬🇧)
 https://n9.cl/hpzuyg
-#EXTINF:-1,HiT FM (Italia) (🇮🇹)
-https://is.gd/VxRpe1
 #EXTINF:-1,Hit Radio (Rusia) (🇷🇺)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1,HMI Promz News (Haiti) (🇭🇹)
@@ -1272,8 +1241,6 @@ https://n9.cl/9rjte
 https://is.gd/p4QxIb
 #EXTINF:-1,I Survived… (USA) (🇺🇸)
 https://n9.cl/k6w7z
-#EXTINF:-1,I+ Imas (España) (🇪🇸)
-https://is.gd/MRUZyb
 #EXTINF:-1,Ibiza Radio (España) (🇪🇸)
 https://is.gd/rFPdAO
 #EXTINF:-1,Icaro (Italia) (🇮🇹)
@@ -1382,10 +1349,6 @@ https://n9.cl/h6uvok
 https://is.gd/nDUR3V
 #EXTINF:-1,Jawa Pos (Indonesia) (🇮🇩)
 https://n9.cl/5wm4e
-#EXTINF:-1,Jawhara (Emiratos Arabes) (🇦🇪)
-https://is.gd/GxHKNh
-#EXTINF:-1,Jawhara FM (Emiratos Arabes) (🇦🇪)
-https://n9.cl/ken7h
 #EXTINF:-1,JBTV Music (USA) (🇺🇸)
 https://is.gd/kOWSrk
 #EXTINF:-1,Jellytoon (Francia) (🇫🇷)
@@ -1470,16 +1433,12 @@ https://n9.cl/oym7k
 https://is.gd/OZnp91
 #EXTINF:-1,La Chilena (Chile) (🇨🇱)
 https://is.gd/3Gfoci
-#EXTINF:-1,La Corriente (Mexico) (🇲🇽)
-https://is.gd/1woWm4
 #EXTINF:-1,La Melinkana (Chile) (🇨🇱)
 https://is.gd/wq5YCy
 #EXTINF:-1,La Nuestra (Chile) (🇨🇱)
 https://is.gd/BbNmrN
 #EXTINF:-1,La Red (Chile) (🇨🇱)
 https://is.gd/0ty5cP
-#EXTINF:-1,La Reina (Rep. Dominicana) (🇩🇴)
-https://n9.cl/fkovx
 #EXTINF:-1,La Rosa De Guadalupe (Mexico) (🇲🇽)
 https://is.gd/OpW9nU
 #EXTINF:-1,Lancelot (España) (🇪🇸)
@@ -1744,8 +1703,6 @@ https://is.gd/4EXlXi
 https://n9.cl/8p4xi0
 #EXTINF:-1,Planeta (Peru) (🇵🇪)
 https://is.gd/lyyJkI
-#EXTINF:-1,Play (Argentina) (🇦🇷)
-https://is.gd/Fg3dok
 #EXTINF:-1,Play (Grecia) (🇬🇷)
 https://is.gd/4ZfBT3
 #EXTINF:-1,Plaza (Chile) (🇨🇱)
@@ -1804,8 +1761,6 @@ https://is.gd/lCygHj
 https://is.gd/XnNjSz
 #EXTINF:-1,RCK (Chile) (🇨🇱)
 https://is.gd/T3QhPw
-#EXTINF:-1,RD Click (El Salvador) (🇸🇻)
-https://is.gd/PuglwX
 #EXTINF:-1,Ready (Rep. Dominicana) (🇩🇴)
 https://is.gd/ZW4xmR
 #EXTINF:-1,Real Wild (USA) (🇺🇸)
@@ -1862,8 +1817,6 @@ https://is.gd/I5w0Yb
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1,S86 (Rusia) (🇷🇺)
 https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1,Sabadell Valles (España) (🇪🇸)
-https://is.gd/1Jz5Yf
 #EXTINF:-1,Salud (Chile) (🇨🇱)
 https://is.gd/4zj2Af
 #EXTINF:-1,San Jose (Costa Rica) (🇨🇷)
@@ -1874,8 +1827,6 @@ https://is.gd/GUAl9B
 https://is.gd/mWwzSB
 #EXTINF:-1,Santa Maria (Chile) (🇨🇱)
 https://is.gd/hjcXLe
-#EXTINF:-1,SAS (Guatemala) (🇬🇹)
-https://is.gd/l8rXE1
 #EXTINF:-1,Scream IN (Francia) (🇫🇷)
 https://is.gd/mVpCBt
 #EXTINF:-1,SCÑ San Carlos Ñuble (Chile) (🇨🇱)
@@ -1990,8 +1941,6 @@ https://is.gd/sNOC7u
 https://n9.cl/trjai
 #EXTINF:-1,Telecolor (Peru) (🇵🇪)
 https://is.gd/ig2230
-#EXTINF:-1,Telecondor (Argentina) (🇦🇷)
-https://is.gd/8smozZ
 #EXTINF:-1,Telefuturo (Rep. Dominicana) (🇩🇴)
 https://is.gd/wOKCVd
 #EXTINF:-1,Telemax (Mexico) (🇲🇽)
@@ -2042,8 +1991,6 @@ https://n9.cl/9xatf
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1,TLSD (Rep. Dominicana) (🇩🇴)
 https://is.gd/iulcmF
-#EXTINF:-1,TMA Caraibes (Francia) (🇫🇷)
-http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1,TN Todo Noticias (Argentina) (🇦🇷)
 https://is.gd/Tnx3nP
 #EXTINF:-1,TNI Nueva Isabela (Rep. Dominicana) (🇩🇴)
@@ -2090,8 +2037,6 @@ https://n9.cl/a2816t
 https://n9.cl/smdw2
 #EXTINF:-1,TVA Aire (Paraguay) (🇵🇾)
 https://is.gd/S4ygpO
-#EXTINF:-1,TVH Higuey (Rep. Dominicana) (🇩🇴)
-https://is.gd/1CB6G5
 #EXTINF:-1,TVI Reality (Portugal) (🇵🇹)
 https://is.gd/tZEesN
 #EXTINF:-1, TVM 3 (Suiza) (🇨🇭)
@@ -2232,8 +2177,6 @@ https://is.gd/bgI1uA
 https://is.gd/KMBlWD
 #EXTINF:-1,WWAY 3 (USA) (🇺🇸)
 https://is.gd/WCg4Pz
-#EXTINF:-1,Xalastra (Grecia) (🇬🇷)
-https://is.gd/v7GKV6
 #EXTINF:-1,XFC (USA) (🇺🇸)
 https://is.gd/WBlo9R
 #EXTINF:-1,XHKG (Mexico) (🇲🇽)
