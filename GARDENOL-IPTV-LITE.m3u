@@ -1734,62 +1734,90 @@ https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal+ Sport (Rep. Checa) (🇨🇿)
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
-#EXTINF:-1,Canela (Colombia) (🇨🇴)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela (Colombia) (🇨🇴)
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
-#EXTINF:-1,Canela (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1,Canela (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
-#EXTINF:-1,Canela Cinema (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela Cinema (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-#EXTINF:-1,Canela Clasicos (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela Clasicos (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1,Canela Deportes (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela Deportes (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1,Canela Hits (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela Hits (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1,Canela Telenovelas (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela Telenovelas (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1,Capital (Nepal) (🇳🇵)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Capital (Nepal) (🇳🇵)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1,Caracola (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Caracola (Chile) (🇨🇱)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1,Carare (Colombia) (🇨🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Carare (Colombia) (🇨🇴)
 https://cp.panelchs.com:1936/8160/8160/.m3u8
-#EXTINF:-1,Cardinal (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Cardinal (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-#EXTINF:-1,Caribbean Hot 7 (Santa Lucia) (🇱🇨)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Caribbean Hot 7 (Santa Lucia) (🇱🇨)
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/.m3u8
-#EXTINF:-1,Carioca (Brasil) (🇧🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Carioca (Brasil) (🇧🇷)
 https://ott1.hdlatam.tv/live/TVCARIOCA/playlist.m3u8
-#EXTINF:-1,Carivision (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Carivision (Rep. Dominicana) (🇩🇴)
 https://ss5.domint.net:3174/car_str/carivision/.m3u8
-#EXTINF:-1,CB Coto Brus (Costa Rica) (🇨🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CB Coto Brus (Costa Rica) (🇨🇷)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1,CE Cadena Elite (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CE Cadena Elite (España) (🇪🇸)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1,CGTN Español (China) (🇨🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",CGTN Español (China) (🇨🇳)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,Chacra (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Chacra (Argentina) (🇦🇷)
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1,Chada (Marruecos) (🇲🇦)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Chada (Marruecos) (🇲🇦)
 https://edge14.vedge.infomaniak.com/livecast/chadatv/.m3u8
-#EXTINF:-1,Charrua (Uruguay) (🇺🇾)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Charrua (Uruguay) (🇺🇾)
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/.m3u8
-#EXTINF:-1,Chefclub (Francia) (🇫🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Chefclub (Francia) (🇫🇷)
 https://d19umdgd0zr2ln.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-FR-prod/chc/ch/ch.m3u8
-#EXTINF:-1,Chilecito (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Chilecito (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1,Choppertown (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Choppertown (USA) (🇺🇸)
 https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8
-#EXTINF:-1,Choppertown (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Choppertown (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
-#EXTINF:-1,Cine Brasil (Brasil) (🇧🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Cine Brasil (Brasil) (🇧🇷)
 http://168.205.87.198:8555/live/1427/123456/243.m3u8
-#EXTINF:-1,Cine De Oro (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Cine De Oro (España) (🇪🇸)
 https://d1h0zad7xujax8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kutoavuqr0lmn/playlist.m3u8
-#EXTINF:-1,Cine Español Rakuten (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Cine Español Rakuten (España) (🇪🇸)
 https://is.gd/6dKbLq
+
 #EXTINF:-1,Cine Friki (España) (🇪🇸)
 https://is.gd/4s394q
 #EXTINF:-1,Cine Life (USA) (🇺🇸)
