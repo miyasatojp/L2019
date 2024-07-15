@@ -1140,233 +1140,339 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 
 
-
-#EXTINF:-1,1 HD Music (Rusia) (🇷🇺)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",1 HD Music (Rusia) (🇷🇺)
 http://146.158.0.56/1HD/mono.m3u8
-#EXTINF:-1,1 Mus (Bielorrusia) (🇧🇾)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",1 Mus (Bielorrusia) (🇧🇾)
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1,10 Chiapas (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",10 Chiapas (Mexico) (🇲🇽)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/.m3u8
-#EXTINF:-1,100% Auto Moto (Bulgaria) (🇧🇬)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",100% Auto Moto (Bulgaria) (🇧🇬)
 http://100automoto.tv:1935/bgtv1/autotv/.m3u8
-#EXTINF:-1,101 Malaga (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",101 Malaga (España) (🇪🇸)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1,11 Mar De Ajo (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",11 Mar De Ajo (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-#EXTINF:-1,12 Parma (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",12 Parma (Italia) (🇮🇹)
 https://5929b138b139d.streamlock.net/12TVParma/livestream/.m3u8
-#EXTINF:-1,13 Cultura (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Cultura (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1,13 Entretencion (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Entretencion (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1,13 Esquipulas (Guatemala) (🇬🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Esquipulas (Guatemala) (🇬🇹)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1,13 Festival (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Festival (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1,13 Humor (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Humor (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1,13 La Rioja (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 La Rioja (Argentina) (🇦🇷)
 http://arcast.net:1935/mp/mp/.m3u8
-#EXTINF:-1,13 Max (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Max (Argentina) (🇦🇷)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
-#EXTINF:-1,13 Prime (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Prime (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1,13 Realities (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Realities (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1,13 Teleseries (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",13 Teleseries (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1,14 Catorce (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",14 Catorce (Rep. Dominicana) (🇩🇴)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-#EXTINF:-1,19 (El Salvador) (🇸🇻)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",19 (El Salvador) (🇸🇻)
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1,2 Canal AlpaSurfnet (Colombia) (🇨🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",2 Canal AlpaSurfnet (Colombia) (🇨🇴)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
-#EXTINF:-1,2 Quellon (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",2 Quellon (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal2quellon/index.m3u8
-#EXTINF:-1,24 Horas (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",24 Horas (Chile) (🇨🇱)
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1,25 (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",25 (Rep. Dominicana) (🇩🇴)
 https://ss3.domint.net:3150/c25_str/canal25/.m3u8
-#EXTINF:-1,3 La Pampa (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",3 La Pampa (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/.m3u8
-#EXTINF:-1,30A Music (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",30A Music (USA) (🇺🇸)
 https://30a-tv.com/music.m3u8
-#EXTINF:-1,33 Tijuana (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",33 Tijuana (Mexico) (🇲🇽)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/.m3u8
-#EXTINF:-1,33TV (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",33TV (España) (🇪🇸)
 https://limited43.todostreaming.es/live/simbana-livestream.m3u8
-#EXTINF:-1,36 Trivision (Costa Rica) (🇨🇷)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1,36 Trivision (Costa Rica) (🇨🇷)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1,4.1 (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",4.1 (Mexico) (🇲🇽)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1,4.2 (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",4.2 (Mexico) (🇲🇽)
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/.m3u8
-#EXTINF:-1,44 Chihuahua (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",44 Chihuahua (Mexico) (🇲🇽)
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/.m3u8
-#EXTINF:-1,4EVER Music (Ucrania) (🇺🇦)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",4EVER Music (Ucrania) (🇺🇦)
 http://xgqijyed.russtv.net/iptv/WPTKFMPUEQ89K2/970/index.m3u8
-#EXTINF:-1,4VEH Radio Tele (Haiti) (🇭🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",4VEH Radio Tele (Haiti) (🇭🇹)
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/.m3u8
-#EXTINF:-1,4You Radio (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",4You Radio (Italia) (🇮🇹)
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
-#EXTINF:-1,5 Solola (Guatemala) (🇬🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",5 Solola (Guatemala) (🇬🇹)
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
-#EXTINF:-1,504 (Honduras) (🇭🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",504 (Honduras) (🇭🇳)
 https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:-1,51 Radio (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",51 Radio (Italia) (🇮🇹)
 http://wms.shared.streamshow.it/canale51/canale51/.m3u8
-#EXTINF:-1,538 (Paises Bajos) (🇳🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",538 (Paises Bajos) (🇳🇱)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-#EXTINF:-1,57 (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",57 (USA) (🇺🇸)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
-#EXTINF:-1,57 RTV (El Salvador) (🇸🇻)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",57 RTV (El Salvador) (🇸🇻)
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1,6 Multimedios CDMX (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",6 Multimedios CDMX (Mexico) (🇲🇽)
 http://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1,7 Canale 7 (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",7 Canale 7 (Italia) (🇮🇹)
 http://wms.shared.streamshow.it/canale7/canale7/.m3u8
-#EXTINF:-1,7 Jujuy (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",7 Jujuy (Argentina) (🇦🇷)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-#EXTINF:-1,7 Neuquen (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",7 Neuquen (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
-#EXTINF:-1,7 Tele Valencia (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",7 Tele Valencia (España) (🇪🇸)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1,777 (Costa Rica) (🇨🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",777 (Costa Rica) (🇨🇷)
 http://45.166.92.22:58001/play/a059/index.m3u8
-#EXTINF:-1,8 La Marina (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",8 La Marina (España) (🇪🇸)
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1,8 Mediterraneo (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",8 Mediterraneo (España) (🇪🇸)
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1,8 NTV (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",8 NTV (Mexico) (🇲🇽)
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/.m3u8
-#EXTINF:-1,8 San Juan (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",8 San Juan (Argentina) (🇦🇷)
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-#EXTINF:-1,88 Stereo (Costa Rica) (🇨🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",88 Stereo (Costa Rica) (🇨🇷)
 http://k3.usastreams.com/CableLatino/88stereo/.m3u8
-#EXTINF:-1,9 Bio Bio (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9 Bio Bio (Chile) (🇨🇱)
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1,9 Canal Barbe (Guatemala) (🇬🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9 Canal Barbe (Guatemala) (🇬🇹)
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1,9 Canal Ixchiguan (Guatemala) (🇬🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9 Canal Ixchiguan (Guatemala) (🇬🇹)
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
-#EXTINF:-1,90 Minutos (Colombia) (🇨🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",90 Minutos (Colombia) (🇨🇴)
 http://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1,91 NRG (Grecia) (🇬🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",91 NRG (Grecia) (🇬🇷)
 http://tv.nrg91.gr:1935/onweb/live/.m3u8
-#EXTINF:-1,9x Jhakaas (India) (🇮🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9x Jhakaas (India) (🇮🇳)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/.m3u8
-#EXTINF:-1,9x M (India) (🇮🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9x M (India) (🇮🇳)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/.m3u8
-#EXTINF:-1,9x Tashan (India) (🇮🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",9x Tashan (India) (🇮🇳)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/.m3u8
-#EXTINF:-1,A Spor (Turquia) (🇹🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",A Spor (Turquia) (🇹🇷)
 http://xgqijyed.russtv.net/iptv/WPTKFMPUEQ89K2/19069/index.m3u8
-#EXTINF:-1,A&E (Peru) (🇵🇪)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",A&E (Peru) (🇵🇪)
 http://190.61.55.186:1010/play/a01f/index.m3u8
-#EXTINF:-1,ABC (Japon) (🇯🇵)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ABC (Japon) (🇯🇵)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-#EXTINF:-1,ABC (Paraguay) (🇵🇾)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ABC (Paraguay) (🇵🇾)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/index.m3u8
-#EXTINF:-1,ABC Perth (Australia) (🇦🇺)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ABC Perth (Australia) (🇦🇺)
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1,Abya Yala (Bolivia) (🇧🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Abya Yala (Bolivia) (🇧🇴)
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1,ACCDN (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ACCDN (USA) (🇺🇸)
 https://d2ncos3ajn8k1w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-de57um7xrx88p/ACC_Digital_Network_US.m3u8
-#EXTINF:-1,AD Architectural Digest (Canada) (🇨🇦)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AD Architectural Digest (Canada) (🇨🇦)
 https://d3ouy9idpr6kd5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rxkm8u7dtmx7h/playlist.m3u8
-#EXTINF:-1,Adventure Earth (UK) (🇬🇧)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Adventure Earth (UK) (🇬🇧)
 https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8
-#EXTINF:-1,AE Radio (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AE Radio (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
-#EXTINF:-1,Afrobeats (Nigeria) (🇳🇬)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Afrobeats (Nigeria) (🇳🇬)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,AFV (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AFV (España) (🇪🇸)
 https://7fecfa1db0bf431badb66186c21f3294.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-ROKU/mt/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1,Agenda 56 (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Agenda 56 (Rep. Dominicana) (🇩🇴)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:-1,Agro (Peru) (🇵🇪)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Agro (Peru) (🇵🇪)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1,Aion (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Aion (Rep. Dominicana) (🇩🇴)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1,Aire Santa Fe (Argentina) (🇦🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Aire Santa Fe (Argentina) (🇦🇷)
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:-1,Alcarria (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alcarria (España) (🇪🇸)
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1,Alerce (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alerce (Chile) (🇨🇱)
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
-#EXTINF:-1,Alien Nation (Canada) (🇨🇦)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alien Nation (Canada) (🇨🇦)
 https://d2yinr40pnztt5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c47047c65gdy2-prod/amgdustintl/playlist.m3u8
-#EXTINF:-1,Alien Nation (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alien Nation (USA) (🇺🇸)
 https://dmnrfk13mvw0g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fn3k0b4vpit0u-prod/amgdust/playlist.m3u8
-#EXTINF:-1,Alone (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alone (USA) (🇺🇸)
 https://d3181anftsyl2u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6w5tevkbo9yqh/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1,Alpe d’Huez (Francia) (🇫🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alpe d’Huez (Francia) (🇫🇷)
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/.m3u8
-#EXTINF:-1,Alto Adige (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Alto Adige (Italia) (🇮🇹)
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/.m3u8
-#EXTINF:-1,AMC (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AMC (España) (🇪🇸)
 https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8
-#EXTINF:-1,America's Got Talent (UK) (🇬🇧)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",America's Got Talent (UK) (🇬🇧)
 https://dhkq1p9audihq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ty7fjsrdyiaa7/index.m3u8
-#EXTINF:-1,American Idol (UK) (🇬🇧)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",American Idol (UK) (🇬🇧)
 https://d2h3esqi6ab3e7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amzcfijfnc8wu/index.m3u8
-#EXTINF:-1,Amor Para Todos (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Amor Para Todos (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1,Andromeda (Italia) (🇮🇹)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Andromeda (Italia) (🇮🇹)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_it_andromeda_001.m3u8
-#EXTINF:-1,Animal Planet (India) (🇮🇳)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Animal Planet (India) (🇮🇳)
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1,Animal Planet (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Animal Planet (Mexico) (🇲🇽)
 http://45.166.92.22:58001/play/a00m/index.m3u8
-#EXTINF:-1,Antofagasta (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Antofagasta (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1,Arabica (Libano) (🇱🇧)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Arabica (Libano) (🇱🇧)
 http://istream.binarywaves.com:8081/hls/arabica/.m3u8
-#EXTINF:-1,Arena Sport 1 (Eslovaquia) (🇸🇰)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Arena Sport 1 (Eslovaquia) (🇸🇰)
 http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1,Art (Bulgaria) (🇧🇬)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Art (Bulgaria) (🇧🇬)
 https://stream.osc.bg/tvart/Stream3/.m3u8
-#EXTINF:-1,Artequatre (España) (🇪🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Artequatre (España) (🇪🇸)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1,AS Antena Seis (Costa Rica) (🇨🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AS Antena Seis (Costa Rica) (🇨🇷)
 http://tv.azulstream.com:8081/live/NGBjaF4fW5Ms/Nhh3jbs6AsVs/1.m3u8
-#EXTINF:-1,AS AzStar (Azerbaiyan) (🇦🇿)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AS AzStar (Azerbaiyan) (🇦🇿)
 http://live.azstartv.com/azstar/smil:azstar.smil/.m3u8
-#EXTINF:-1,Asi Es Mi Gente (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Asi Es Mi Gente (USA) (🇺🇸)
 https://www.yupi.live:1936/tvmigente/tvmigente/.m3u8
-#EXTINF:-1,Assime Portugal (Brasil) (🇧🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Assime Portugal (Brasil) (🇧🇷)
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
-#EXTINF:-1,Astrakhan Live (Rusia) (🇷🇺)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Astrakhan Live (Rusia) (🇷🇺)
 http://streaming.astrakhan.ru/astrakhanrulivehd/index.m3u8
-#EXTINF:-1,Astrakhan Sport (Rusia) (🇷🇺)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Astrakhan Sport (Rusia) (🇷🇺)
 http://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
-#EXTINF:-1,Asucap San Jorge (Colombia) (🇨🇴)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Asucap San Jorge (Colombia) (🇨🇴)
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1,At Home (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",At Home (USA) (🇺🇸)
 https://d38hcacrmij9gq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-27dbz8yu90fra/playlist.m3u8
-#EXTINF:-1,Atlanta Channel (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Atlanta Channel (USA) (🇺🇸)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/.m3u8
-#EXTINF:-1,Austral (Ecuador) (🇪🇨)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Austral (Ecuador) (🇪🇨)
 https://stmv3.voxtvhd.com.br/australtv/australtv/.m3u8
-#EXTINF:-1,Autentica (Peru) (🇵🇪)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Autentica (Peru) (🇵🇪)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1,Auto Motor Sport (Suiza) (🇨🇭)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Auto Motor Sport (Suiza) (🇨🇭)
 https://is.gd/jJkXaV
-#EXTINF:-1,AW (Brasil) (🇧🇷)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AW (Brasil) (🇧🇷)
 http://168.205.87.198:8555/live/1427/123456/181.m3u8
-#EXTINF:-1,Awapa Sports (El Salvador) (🇸🇻)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Awapa Sports (El Salvador) (🇸🇻)
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1,AXN (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AXN (Mexico) (🇲🇽)
 http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:-1,AXN Spin (Polonia) (🇵🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AXN Spin (Polonia) (🇵🇱)
 http://175.107.244.52:4457/play/a07f/index.m3u8
-#EXTINF:-1,AXS Now (USA) (🇺🇸)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AXS Now (USA) (🇺🇸)
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,Aysen (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Aysen (Chile) (🇨🇱)
 https://v1.tustreaming.cl/aysentv/index.m3u8
+
 #EXTINF:-1,Azteca Int (Mexico) (🇲🇽)
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1,Azufral (Colombia) (🇨🇴)
@@ -1517,8 +1623,6 @@ https://stream.oursnetworktv.com/latin/encoder6tecpan/.m3u8
 https://stream.oursnetworktv.com/latin/talangatv/.m3u8
 #EXTINF:-1,Canal 8 Catacaos (Peru) (🇵🇪)
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1,Canal Cocina (Mexico) (🇲🇽)
-https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 #EXTINF:-1,Canal Costa (España) (🇪🇸)
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 #EXTINF:-1,Canal Diplomatico (Venezuela) (🇻🇪)
@@ -1561,8 +1665,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1,Capital (Nepal) (🇳🇵)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1,Caracol (Colombia) (🇨🇴)
-http://181.78.12.119:16123/play/ch58a/index.m3u8
 #EXTINF:-1,Caracola (Chile) (🇨🇱)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Carare (Colombia) (🇨🇴)
@@ -1611,8 +1713,6 @@ https://is.gd/7hOd2Q
 https://is.gd/erDx3q
 #EXTINF:-1,Cine Nanar (Francia) (🇫🇷)
 https://n9.cl/dyqexb
-#EXTINF:-1,Cine Premium (España) (🇪🇸)
-http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1,Cine Prime (Francia) (🇫🇷)
 https://is.gd/PS9kGu
 #EXTINF:-1,Cine Retro (Mexico) (🇲🇽)
@@ -1621,8 +1721,6 @@ https://is.gd/Uxl43c
 https://is.gd/BSAj8P
 #EXTINF:-1,Cine Western (Francia) (🇫🇷)
 https://n9.cl/o30k8
-#EXTINF:-1,Cinecanal (Argentina) (🇦🇷)
-http://181.78.12.119:16123/play/ch10/index.m3u8
 #EXTINF:-1,Cinecanal (Mexico) (🇲🇽)
 http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTINF:-1,Cinemonde (Brasil) (🇧🇷)
@@ -1711,8 +1809,6 @@ https://is.gd/wL4m1k
 https://is.gd/WRaJcb
 #EXTINF:-1,Coop JP (Argentina) (🇦🇷)
 https://is.gd/2Qrmsm
-#EXTINF:-1,Coosmovision (Colombia) (🇨🇴)
-https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1,Cops (Canada) (🇨🇦)
 https://n9.cl/1bxuz
 #EXTINF:-1,Coral (Bolivia) (🇧🇴)
@@ -1755,8 +1851,6 @@ https://is.gd/xWw8Qn
 https://n9.cl/4qb8k
 #EXTINF:-1,CTV (Guatemala) (🇬🇹)
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1,CTV Barranquilla (Colombia) (🇨🇴)
-http://181.78.12.119:16123/play/a09z/index.m3u8
 #EXTINF:-1,CTV Internacional (Honduras) (🇭🇳)
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1,Curiosity Now (Alemania) (🇩🇪)
@@ -1847,10 +1941,6 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1,Discovery Channel (Rusia) (🇷🇺)
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1,Discovery H&H (Mexico) (🇲🇽)
-http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:-1,Discovery H&H (Peru) (🇵🇪)
-http://181.78.12.119:16123/play/ch25/index.m3u8
 #EXTINF:-1,Discovery ID (Argentina) (🇦🇷)
 http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:-1,Discovery ID (India) (🇮🇳)
@@ -1863,10 +1953,6 @@ http://45.159.74.14:80/InvestigationDiscovery/index.m3u8
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1,Discovery World (España) (🇪🇸)
 http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1,Disney Channel (Argentina) (🇦🇷)
-http://181.78.12.119:16123/play/ch03/index.m3u8
-#EXTINF:-1,Disney Junior (España) (🇪🇸)
-http://181.78.12.119:16123/play/ch05/index.m3u8
 #EXTINF:-1,Ditty (USA) (🇺🇸)
 https://is.gd/AcV2Hj
 #EXTINF:-1,Djazz Stingray (USA) (🇺🇸)
@@ -2163,8 +2249,6 @@ https://is.gd/m8FX50
 https://n9.cl/3n6p9
 #EXTINF:-1,Foro (Mexico) (🇲🇽)
 https://is.gd/LbZCP3
-#EXTINF:-1,Fort (Uganda) (🇺🇬)
-https://is.gd/2OBiKa
 #EXTINF:-1,FOX 2 San Francisco (USA) (🇺🇸)
 https://n9.cl/28jko
 #EXTINF:-1,FOX Sports 3 (España) (🇪🇸)
@@ -2267,8 +2351,6 @@ https://is.gd/ItZtrQ
 https://n9.cl/zvc89
 #EXTINF:-1,Great British Menu (UK) (🇬🇧)
 https://n9.cl/esmai
-#EXTINF:-1,Green Channel (Japon) (🇯🇵)
-https://is.gd/8tsHMT
 #EXTINF:-1,Grjngo (Alemania) (🇩🇪)
 https://n9.cl/nbqcf
 #EXTINF:-1,Grjngo (España) (🇪🇸)
@@ -2289,8 +2371,6 @@ https://n9.cl/ur798
 https://n9.cl/9o15d
 #EXTINF:-1,H2 History (España) (🇪🇸)
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1,Hagerty (USA) (🇺🇸)
-https://is.gd/ZdniEO
 #EXTINF:-1,Haina Vision (Rep. Dominicana) (🇩🇴)
 https://is.gd/fnTXGF
 #EXTINF:-1,Hallmark Movies & More (USA) (🇺🇸)
@@ -2353,8 +2433,6 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 https://n9.cl/f873x
 #EXTINF:-1,History Hit (UK) (🇬🇧)
 https://n9.cl/hpzuyg
-#EXTINF:-1,HiT FM (Italia) (🇮🇹)
-https://is.gd/VxRpe1
 #EXTINF:-1,Hit Radio (Rusia) (🇷🇺)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1,HMI Promz News (Haiti) (🇭🇹)
@@ -2403,8 +2481,6 @@ https://n9.cl/9rjte
 https://is.gd/p4QxIb
 #EXTINF:-1,I Survived… (USA) (🇺🇸)
 https://n9.cl/k6w7z
-#EXTINF:-1,I+ Imas (España) (🇪🇸)
-https://is.gd/MRUZyb
 #EXTINF:-1,Ibiza Radio (España) (🇪🇸)
 https://is.gd/rFPdAO
 #EXTINF:-1,Icaro (Italia) (🇮🇹)
@@ -2513,10 +2589,6 @@ https://n9.cl/h6uvok
 https://is.gd/nDUR3V
 #EXTINF:-1,Jawa Pos (Indonesia) (🇮🇩)
 https://n9.cl/5wm4e
-#EXTINF:-1,Jawhara (Emiratos Arabes) (🇦🇪)
-https://is.gd/GxHKNh
-#EXTINF:-1,Jawhara FM (Emiratos Arabes) (🇦🇪)
-https://n9.cl/ken7h
 #EXTINF:-1,JBTV Music (USA) (🇺🇸)
 https://is.gd/kOWSrk
 #EXTINF:-1,Jellytoon (Francia) (🇫🇷)
@@ -2601,16 +2673,12 @@ https://n9.cl/oym7k
 https://is.gd/OZnp91
 #EXTINF:-1,La Chilena (Chile) (🇨🇱)
 https://is.gd/3Gfoci
-#EXTINF:-1,La Corriente (Mexico) (🇲🇽)
-https://is.gd/1woWm4
 #EXTINF:-1,La Melinkana (Chile) (🇨🇱)
 https://is.gd/wq5YCy
 #EXTINF:-1,La Nuestra (Chile) (🇨🇱)
 https://is.gd/BbNmrN
 #EXTINF:-1,La Red (Chile) (🇨🇱)
 https://is.gd/0ty5cP
-#EXTINF:-1,La Reina (Rep. Dominicana) (🇩🇴)
-https://n9.cl/fkovx
 #EXTINF:-1,La Rosa De Guadalupe (Mexico) (🇲🇽)
 https://is.gd/OpW9nU
 #EXTINF:-1,Lancelot (España) (🇪🇸)
@@ -2875,8 +2943,6 @@ https://is.gd/4EXlXi
 https://n9.cl/8p4xi0
 #EXTINF:-1,Planeta (Peru) (🇵🇪)
 https://is.gd/lyyJkI
-#EXTINF:-1,Play (Argentina) (🇦🇷)
-https://is.gd/Fg3dok
 #EXTINF:-1,Play (Grecia) (🇬🇷)
 https://is.gd/4ZfBT3
 #EXTINF:-1,Plaza (Chile) (🇨🇱)
@@ -2935,8 +3001,6 @@ https://is.gd/lCygHj
 https://is.gd/XnNjSz
 #EXTINF:-1,RCK (Chile) (🇨🇱)
 https://is.gd/T3QhPw
-#EXTINF:-1,RD Click (El Salvador) (🇸🇻)
-https://is.gd/PuglwX
 #EXTINF:-1,Ready (Rep. Dominicana) (🇩🇴)
 https://is.gd/ZW4xmR
 #EXTINF:-1,Real Wild (USA) (🇺🇸)
@@ -2993,8 +3057,6 @@ https://is.gd/I5w0Yb
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1,S86 (Rusia) (🇷🇺)
 https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1,Sabadell Valles (España) (🇪🇸)
-https://is.gd/1Jz5Yf
 #EXTINF:-1,Salud (Chile) (🇨🇱)
 https://is.gd/4zj2Af
 #EXTINF:-1,San Jose (Costa Rica) (🇨🇷)
@@ -3005,8 +3067,6 @@ https://is.gd/GUAl9B
 https://is.gd/mWwzSB
 #EXTINF:-1,Santa Maria (Chile) (🇨🇱)
 https://is.gd/hjcXLe
-#EXTINF:-1,SAS (Guatemala) (🇬🇹)
-https://is.gd/l8rXE1
 #EXTINF:-1,Scream IN (Francia) (🇫🇷)
 https://is.gd/mVpCBt
 #EXTINF:-1,SCÑ San Carlos Ñuble (Chile) (🇨🇱)
@@ -3121,8 +3181,6 @@ https://is.gd/sNOC7u
 https://n9.cl/trjai
 #EXTINF:-1,Telecolor (Peru) (🇵🇪)
 https://is.gd/ig2230
-#EXTINF:-1,Telecondor (Argentina) (🇦🇷)
-https://is.gd/8smozZ
 #EXTINF:-1,Telefuturo (Rep. Dominicana) (🇩🇴)
 https://is.gd/wOKCVd
 #EXTINF:-1,Telemax (Mexico) (🇲🇽)
@@ -3173,8 +3231,6 @@ https://n9.cl/9xatf
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1,TLSD (Rep. Dominicana) (🇩🇴)
 https://is.gd/iulcmF
-#EXTINF:-1,TMA Caraibes (Francia) (🇫🇷)
-http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1,TN Todo Noticias (Argentina) (🇦🇷)
 https://is.gd/Tnx3nP
 #EXTINF:-1,TNI Nueva Isabela (Rep. Dominicana) (🇩🇴)
@@ -3221,8 +3277,6 @@ https://n9.cl/a2816t
 https://n9.cl/smdw2
 #EXTINF:-1,TVA Aire (Paraguay) (🇵🇾)
 https://is.gd/S4ygpO
-#EXTINF:-1,TVH Higuey (Rep. Dominicana) (🇩🇴)
-https://is.gd/1CB6G5
 #EXTINF:-1,TVI Reality (Portugal) (🇵🇹)
 https://is.gd/tZEesN
 #EXTINF:-1, TVM 3 (Suiza) (🇨🇭)
@@ -3363,8 +3417,6 @@ https://is.gd/bgI1uA
 https://is.gd/KMBlWD
 #EXTINF:-1,WWAY 3 (USA) (🇺🇸)
 https://is.gd/WCg4Pz
-#EXTINF:-1,Xalastra (Grecia) (🇬🇷)
-https://is.gd/v7GKV6
 #EXTINF:-1,XFC (USA) (🇺🇸)
 https://is.gd/WBlo9R
 #EXTINF:-1,XHKG (Mexico) (🇲🇽)
@@ -3399,8 +3451,6 @@ https://n9.cl/id8jm
 https://is.gd/QK7yXi
 #EXTINF:-1,Zurqui (Costa Rica) (🇨🇷)
 https://is.gd/V5HZZW
-
-
 
 
 
