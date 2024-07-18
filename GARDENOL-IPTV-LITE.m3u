@@ -1028,7 +1028,8 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w15
 
 ## LATINO MIX ##
 
-
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",57 (USA) (🇺🇸)
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",10 Chiapas (Mexico) (🇲🇽)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/.m3u8
@@ -2641,9 +2642,6 @@ http://wms.shared.streamshow.it/canale51/canale51/.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",538 (Paises Bajos) (🇳🇱)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",57 (USA) (🇺🇸)
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",7 Canale 7 (Italia) (🇮🇹)
 http://wms.shared.streamshow.it/canale7/canale7/.m3u8
