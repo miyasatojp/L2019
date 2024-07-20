@@ -713,9 +713,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",TBO HD (Rede Brasil)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
