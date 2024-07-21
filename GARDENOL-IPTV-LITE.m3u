@@ -115,14 +115,12 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 
 ## ESPORTES ##
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",FOX Sports 3 (España) (🇪🇸)
-http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Bein Sports Xtra Ñ (España) (🇪🇸)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Band Sports FHD (Brasil) (🇧🇷)
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",JOGO 1 (Brasil) (🇧🇷)
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
@@ -132,9 +130,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",ATG Tv
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Bein Sports Xtra Ñ (España) (🇪🇸)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Sport Ext (Chile) (🇨🇱)
 https://is.gd/QLlUHp
@@ -198,6 +193,9 @@ https://is.gd/Od5UeT
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Motor Racing (USA) (🇺🇸)
 https://is.gd/1mFDs8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",FOX Sports 3 (España) (🇪🇸)
+http://45.166.92.22:58001/play/a01j/index.m3u8
 
 
 
