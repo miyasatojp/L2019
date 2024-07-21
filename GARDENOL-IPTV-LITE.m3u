@@ -143,9 +143,6 @@ http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Auto Motor Sport (Suiza) (🇨🇭)
 https://is.gd/jJkXaV
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",ESR eSports Network (USA) (🇺🇸)
-https://eyeonesports.com/ES2RA-628g.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Eurosport 1 (Polonia) (🇵🇱)
 http://54.39.17.6/eurosport/index.m3u8
 
