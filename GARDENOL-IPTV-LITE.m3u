@@ -156,6 +156,78 @@ http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",SKY Sports Main Event HD
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Awapa Sports (El Salvador) (🇸🇻)
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Bein Sports Xtra Ñ (España) (🇪🇸)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",FOX Sports 3 (España) (🇪🇸)
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Sky Sports La Liga (España) (🇪🇸)
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Sport Ext (Chile) (🇨🇱)
+https://is.gd/QLlUHp
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Arena Sport 1 (Eslovaquia) (🇸🇰)
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Astrakhan Sport (Rusia) (🇷🇺)
+http://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Auto Motor Sport (Suiza) (🇨🇭)
+https://is.gd/jJkXaV
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Bein Sports Xtra (UK) (🇬🇧)
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Canal+ Sport (Rep. Checa) (🇨🇿)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",ESR eSports Network (USA) (🇺🇸)
+https://eyeonesports.com/ES2RA-628g.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Eurosport 1 (Polonia) (🇵🇱)
+http://54.39.17.6/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Gaora Sports (Japon) (🇯🇵)
+https://is.gd/LKCPVN
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Horizon Sports (USA) (🇺🇸)
+https://is.gd/MdOnUC
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",J Sports 1 (Japon) (🇯🇵)
+https://is.gd/1JbKbE
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",J Sports 2 (Japon) (🇯🇵)
+https://is.gd/bXKCdC
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",J Sports 3 (Japon) (🇯🇵)
+https://is.gd/USb78d
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",J Sports 4 (Japon) (🇯🇵)
+https://is.gd/3zN7RW
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Origin Sports (UK) (🇬🇧)
+https://is.gd/I5u9cB
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Sport Digital (Suiza) (🇨🇭)
+https://is.gd/jM8uUZ
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Star Sports 1 (India) (🇮🇳)
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Swerve Sports (USA) (🇺🇸)
+https://is.gd/uKcxh4
+
+
+
+
 
 
 
@@ -502,9 +574,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Brasil
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Discovery Turbo alta definição
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
@@ -1044,9 +1113,6 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Austral (Ecuador) (🇪🇨)
 https://stmv3.voxtvhd.com.br/australtv/australtv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Awapa Sports (El Salvador) (🇸🇻)
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",AXN (Mexico) (🇲🇽)
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
@@ -1524,9 +1590,6 @@ https://is.gd/zq0zij
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Foro (Mexico) (🇲🇽)
 https://is.gd/LbZCP3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",FOX Sports 3 (España) (🇪🇸)
-http://45.166.92.22:58001/play/a01j/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",France 24 (España) (🇪🇸)
 https://is.gd/OREb6o
 
@@ -1950,9 +2013,6 @@ https://n9.cl/7li50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Sicom 16.2 (Mexico) (🇲🇽)
 https://n9.cl/jmt6e
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Sky Sports La Liga (España) (🇪🇸)
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",SM Su Mundo (Rep. Dominicana) (🇩🇴)
 https://is.gd/j1a2e6
 
@@ -1982,9 +2042,6 @@ http://45.166.92.22:58001/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Spektra (España) (🇪🇸)
 https://is.gd/weZW9N
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Sport Ext (Chile) (🇨🇱)
-https://is.gd/QLlUHp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO",Stormcast Novelas (España) (🇪🇸)
 https://is.gd/bOdvKR
@@ -2491,9 +2548,6 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Arabica (Libano) (🇱🇧)
 http://istream.binarywaves.com:8081/hls/arabica/.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Arena Sport 1 (Eslovaquia) (🇸🇰)
-http://78.130.250.2:8023/play/a02o/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Art (Bulgaria) (🇧🇬)
 https://stream.osc.bg/tvart/Stream3/.m3u8
 
@@ -2509,17 +2563,11 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Astrakhan Live (Rusia) (🇷🇺)
 http://streaming.astrakhan.ru/astrakhanrulivehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Astrakhan Sport (Rusia) (🇷🇺)
-http://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",At Home (USA) (🇺🇸)
 https://d38hcacrmij9gq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-27dbz8yu90fra/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Atlanta Channel (USA) (🇺🇸)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Auto Motor Sport (Suiza) (🇨🇭)
-https://is.gd/jJkXaV
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",AW (Brasil) (🇧🇷)
 http://168.205.87.198:8555/live/1427/123456/181.m3u8
@@ -2575,9 +2623,6 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Beach Pawleys Island (USA) (🇺🇸)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Bein Sports Xtra (UK) (🇬🇧)
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Bellla & Monella (Italia) (🇮🇹)
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/.m3u8
 
@@ -2628,9 +2673,6 @@ https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f91
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal Motor (Noruega) (🇳🇴)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canal+ Sport (Rep. Checa) (🇨🇿)
-http://78.130.250.2:8023/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Canela (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
@@ -3016,9 +3058,6 @@ https://is.gd/fzEOAb
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Electric Now (USA) (🇺🇸)
 https://is.gd/reCJ8L
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Eleven Sports 1 (Polonia) (🇵🇱)
-https://is.gd/dSzFjN
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Ellef (Paises Bajos) (🇳🇱)
 https://n9.cl/cjn4z
 
@@ -3040,9 +3079,6 @@ https://n9.cl/nqiob
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ESPN (USA) (🇺🇸)
 http://143.244.60.30/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",ESR eSports Network (USA) (🇺🇸)
-https://eyeonesports.com/ES2RA-628g.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Essential (Corea) (🇰🇷)
 https://is.gd/NxJ7aK
 
@@ -3057,9 +3093,6 @@ https://n9.cl/4vek8n
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Euro (Italia) (🇮🇹)
 https://is.gd/FzyDes
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Eurosport 1 (Polonia) (🇵🇱)
-http://54.39.17.6/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Fabella (Alemania) (🇩🇪)
 https://n9.cl/corgol20
@@ -3219,9 +3252,6 @@ https://n9.cl/gy9of
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Game Show Central (USA) (🇺🇸)
 https://n9.cl/ltiy87
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Gaora Sports (Japon) (🇯🇵)
-https://is.gd/LKCPVN
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",GB News (UK) (🇬🇧)
 https://n9.cl/1cm8s4
@@ -3400,9 +3430,6 @@ https://is.gd/cIkOVL
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Homicide (Francia) (🇫🇷)
 https://n9.cl/3v7r3
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Horizon Sports (USA) (🇺🇸)
-https://is.gd/MdOnUC
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Horror Machine (USA) (🇺🇸)
 https://is.gd/M2aJqD
 
@@ -3540,18 +3567,6 @@ https://n9.cl/t1knk
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Italia 2 (Italia) (🇮🇹)
 https://n9.cl/m0aif
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",J Sports 1 (Japon) (🇯🇵)
-https://is.gd/1JbKbE
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",J Sports 2 (Japon) (🇯🇵)
-https://is.gd/bXKCdC
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",J Sports 3 (Japon) (🇯🇵)
-https://is.gd/USb78d
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",J Sports 4 (Japon) (🇯🇵)
-https://is.gd/3zN7RW
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Jamie Oliver (USA) (🇺🇸)
 https://n9.cl/h6uvok
@@ -3863,9 +3878,6 @@ https://is.gd/P0o6mg
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Opoja (Kosovo) (🇽🇰)
 https://is.gd/upyzWU
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Origin Sports (UK) (🇬🇧)
-https://is.gd/I5u9cB
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Outdoor (Nueva Zelanda) (🇳🇿)
 https://is.gd/A0uXIL
 
@@ -4019,20 +4031,11 @@ https://is.gd/xVaGA3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Soul Cine Clube (Brasil) (🇧🇷)
 https://is.gd/B3HZ3X
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Sport Digital (Suiza) (🇨🇭)
-https://is.gd/jM8uUZ
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Spotlight Rakuten (Francia) (🇫🇷)
 https://is.gd/ebOLmE
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Star Sports 1 (India) (🇮🇳)
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Super! (Italia) (🇮🇹)
 https://is.gd/mVWicO
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Swerve Sports (USA) (🇺🇸)
-https://is.gd/uKcxh4
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO",Taormina Radio (Italia) (🇮🇹)
 https://is.gd/lsg8iR
