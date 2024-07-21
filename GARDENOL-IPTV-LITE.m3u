@@ -33,9 +33,6 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO 2
-https://stream.zeno.fm/419bxfcv868uv.m3u
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfD49J8/Faroeste1.png" group-title="CINE TV",Grjngo (Faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 
