@@ -179,9 +179,6 @@ https://is.gd/uKcxh4
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Boxing (USA) (🇺🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",100% Auto Moto (Bulgaria) (🇧🇬)
-http://100automoto.tv:1935/bgtv1/autotv/.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES",Canal Motor (Noruega) (🇳🇴)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
