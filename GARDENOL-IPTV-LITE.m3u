@@ -13,17 +13,24 @@
 
 ## SERIES ##
 
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",1 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E01.mp4
 
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",2 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E02.mp4
 
-#EXTINF:0 description="DUBLADO",Trailer Salem
-#EXTSIZE: big
-#EXTBG: #363636
-https://youtu.be/eQIAN4pZ3gE?si=5x0L39Sltqcvlmay
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",3 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E03.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" type="video" description="HD - 1080P"  subtitles="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E01%20-%20O%20Voto.srt",episodio 1
-#EXTSIZE: Medium
-#EXTBG: #774343
-https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E01%20-%20O%20Voto.mp4
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",4 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E04.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",5 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E05.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",6 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E06.mp4
+
 
 
 
