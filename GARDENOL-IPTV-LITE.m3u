@@ -13,23 +13,70 @@
 
 ## SERIES ##
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",1 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E01
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E01.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",2 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E02
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E02.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",3 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E03
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E03.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",4 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E04
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E04.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",5 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E05
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E05.mp4
 
-#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="SERIE",6 Dick Turpin
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin",Dick Turpin S01E06
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E06.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E01 - O Voto
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E01%20-%20O%20Voto.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E02 - A Criança de Pedra
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E02%20-%20A%20Crian%C3%A7a%20de%20Pedra.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E03 - Em Vão
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E03%20-%20Em%20V%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E04 - Sobreviventes
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E04%20-%20Sobreviventes.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E05 - Mentiras
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E05%20-%20Mentiras.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E06 - A Rosa e o Roseira
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E06%20-%20A%20Rosa%20e%20o%20Roseira.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E07 - Nossa Própria América
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E07%20-%20Nossa%20Pr%C3%B3pria%20Am%C3%A9rica.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E08 - Partidas
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E08%20-%20Partidas.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E09 - Crianças Tinham Medo
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E09%20-%20Crian%C3%A7as%20Tinham%20Medo.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E10 - A Casa do Sofrimento
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E10%20-%20A%20Casa%20do%20Sofrimento.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E11 - Gato e Rato
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E11%20-%20Gato%20e%20Rato.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E12 - Cinzas, Cinzas
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E12%20-%20Cinzas,%20Cinzas.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/Salem.jpeg" group-title="SALEM",S01E13 - Todos Caímos
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/Salem2015/S01E13%20-%20Todos%20Ca%C3%ADmos.mp4
+
+
+
+
 
 
 
