@@ -14,6 +14,11 @@
 ## FILMES ##
 
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1420faafda126a6fe2a45a60f1202625d04c3de4297f55fa106754716362fca0.jpg" group-title="FILMES",A Noite Em Que Voltaram Para Casa 2024
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Noite%20Em%20Que%20Voltaram%20Para%20Casa.mp4
 
@@ -31,6 +36,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Atlas.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/soLaiiEGZoLUfEUglw4bhOfQryn.jpg" group-title="FILMES",Autoconfiança
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Autoconfian%C3%A7a.mp4
+
+#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2023/10/20231027-cercados-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Cercados
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Cercados.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Duas%20Pecadoras%20e%20Uma%20Mula.jpg" group-title="FILMES",Duas Pecadoras e Uma Mula
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duas%20Pecadoras%20e%20Uma%20Mula.mp4
 
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/03/24/1810006418-ghostbusters-frozen-empire-22024.jpg" group-title="FILMES",Ghostbusters Apocalipse de Gelo
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Ghostbusters%20Apocalipse%20de%20Gelo.mp4
@@ -55,6 +66,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Exorcista%20do%20Papa%2020
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original//7PoIAvL3Io5v0HyBliXfXZruQTi.jpg" group-title="FILMES",Os Infalíveis – 2024
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Infal%C3%ADveis%20%E2%80%93%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Segredos%20de%20fam%C3%ADlia%202023.jpg" group-title="FILMES",Segredos de família 2023
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Segredos%20de%20fam%C3%ADlia%202023.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/urR3KZdTIIdB8OrdVxScRkuSRo9.jpg" group-title="FILMES",Thor Deus do Trovao 2022
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Thor%20Deus%20do%20Trovao%202022.mp4
