@@ -14,6 +14,15 @@
 ## FILMES ##
 
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/08/13/00/25/5438157.jpg" group-title="FILMES",A Escolha de Maria
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Escolha%20de%20Maria.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/12/14/07/20/4528416.jpg" group-title="FILMES",A Garota de Miller
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Garota%20de%20Miller%202024.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1420faafda126a6fe2a45a60f1202625d04c3de4297f55fa106754716362fca0.jpg" group-title="FILMES",A Noite Em Que Voltaram Para Casa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Noite%20Em%20Que%20Voltaram%20Para%20Casa.mp4
 
@@ -22,6 +31,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Teia%20%E2%80%93%202024.mp
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/4wkIIqpSf6smIbFyBOoMoYUn34E.jpg" group-title="FILMES",A Última Sessão de Freud
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%20de%20Freud.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/32/16/20185806.jpg" group-title="FILMES",Anna Karenina
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Anna%20Karenina%202012.mp4
 
 #EXTINF:-1 tvg-logo="https://sqlvs.com.br/wp-content/uploads/2023/12/aquaman.jpg" group-title="FILMES",Aquaman 2 O Reino Perdido
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aquaman%202%20O%20Reino%20Perdido.mp4
