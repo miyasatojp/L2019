@@ -20,6 +20,9 @@
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/08/13/00/25/5438157.jpg" group-title="FILMES",A Escolha de Maria
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Escolha%20de%20Maria.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/07/11/23/06/0833684.jpg" group-title="FILMES",A Freira 2
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Freira%202.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/12/14/07/20/4528416.jpg" group-title="FILMES",A Garota de Miller
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Garota%20de%20Miller%202024.mp4
 
@@ -56,8 +59,14 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aumenta%20que%20%C3%A9%20Rock%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/soLaiiEGZoLUfEUglw4bhOfQryn.jpg" group-title="FILMES",Autoconfiança
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Autoconfian%C3%A7a.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg" group-title="FILMES",Bad Boys 4 - Até O Fim
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Bad%20Boys%204%20-%20At%C3%A9%20O%20Fim.mp4
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F0IClE8XsA0UOiB.jpg" group-title="FILMES",Blondi
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Blondi.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg" group-title="FILMES",Bohemian Rhapsody
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Bohemian.Rhapsody.2019.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2023/10/20231027-cercados-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Cercados
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Cercados.mp4
@@ -103,6 +112,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Guerra%20Civil%202024.mp4
 
 #EXTINF:-1 tvg-logo="https://hojepr.com/wp-content/uploads/2024/01/Imaculada_Diamond-Films_Teaser-P.jpg" group-title="FILMES",Imaculada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Imaculada%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://meioamargo.com/wp-content/uploads/2023/05/agente-infiltrado-meio-amargo-poster-500x667.jpg" group-title="FILMES",Infiltrado
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Infiltrado.2023.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/69f7b1f96787cdc103df122a98fe66d378528caa8f8d1aea8561475b43640a9a.jpg" group-title="FILMES",Isca
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Isca%202024.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/7b/2a/7b2aee713aa190fa761e90559c92255e.PNG" group-title="FILMES",Jorge da Capadócia
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Jorge%20da%20Capad%C3%B3cia.mp4
@@ -202,6 +217,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Um%20Presente%20da%20Tiffany%2
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2024/03/20240320-uma-historia-de-superacao-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Uma História de Superação
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma%20Hist%C3%B3ria%20de%20Supera%C3%A7%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/15/18/20028633.jpg" group-title="FILMES",Uma Mente Brilhante
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma.Mente.Brilhante.2001.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/01/23/14/59/1144641.png" group-title="FILMES",Vidas Passadas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Vidas.Passadas.2023.mp4
