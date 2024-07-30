@@ -11,5 +11,40 @@
 
 
 
-#EXTINF:-1,1 HD Music (Rusia) (🇷🇺)
-http://146.158.0.56/1HD/mono.m3u8
+## FILMES ##
+
+#EXTINF:-1 tvg-logo="https://sqlvs.com.br/wp-content/uploads/2023/12/aquaman.jpg" group-title="FILMES Teste",Aquaman 2 O Reino Perdido
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aquaman%202%20O%20Reino%20Perdido.mp4
+
+## SERIES ##
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin.webp" group-title="Dick Turpin Teste",Ep.1 Dick Turpin
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/DickTurpin/Dick%20Turpin%20S01E01.mp4
+
+## GOSPEL ##
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg" group-title="GOSPEL Teste",TUTU Clipes Gospel
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w13317687.m3u8
+
+## ESPORTES ##
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png" group-title="ESPORTES Teste",Bein Sports Xtra Ñ (España) (🇪🇸)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+## VARIEDADES ##
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png" group-title="VARIEDADES",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
+
+
+## LATINO MIX ##
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png" group-title="LATINO Teste",13 Cultura (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+
+## MUNDO ##
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png" group-title="MUNDO Teste",Gusto TV (Canadá)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
+
