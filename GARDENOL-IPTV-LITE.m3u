@@ -38,6 +38,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MGUzY2YtYzQxYy00NmIwLWJiZjgtNjdmMDg3ZGJjNDkyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",Acerto de Contas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Acerto%20de%20Contas.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/408310451f18ebfe1bd25c5050ffd08af745881ed04a8e3187fa99273dfeefa8.jpg" group-title="FILMES",Amor Verdadeiro
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amor%20Verdadeiro.mp4https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amor%20Verdadeiro.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/32/16/20185806.jpg" group-title="FILMES",Anna Karenina
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Anna%20Karenina%202012.mp4
 
@@ -161,6 +164,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Porto%20Seguro%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xScOAzPLbF1e6ATjuhK3EtuMToV.jpg" group-title="FILMES",Mexida
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mexida%202024.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/03/01/09/43/5188400.jpg" group-title="FILMES",Música
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%C3%BAsica.mp4
+
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/06/20240610-na-terra-de-santos-e-pecadores-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Na Terra de Santos e Pecadores
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Na%20Terra%20de%20Santos%20e%20Pecadores.mp4
 
@@ -236,11 +242,17 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Infal%C3%ADveis%20%E2%80%
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/98150ce442652b85496ee2cddfbe9f469195dee36fce50b0c7983576b9da8063.jpg" group-title="FILMES",Os Irmãos Sisters
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Irm%C3%A3os%20Sisters.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/24/02/29/17/09/4900470.jpg" group-title="FILMES",Os Observadores
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Observadores.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/01/07/20/59/207268.jpg" group-title="FILMES",Os Oito Odiados
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Oito%20Odiados.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/12/20221222-paixao-perigosa-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Paixão Perigosa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Paix%C3%A3o%20Perigosa.mp4
+
+#EXTINF:-1 tvg-logo="https://www.palesttrando.com.br/wp-content/uploads/2019/09/Paulinho-Gogo-Palesttrando.jpg" group-title="FILMES",Paulinho Gogo em Top Love
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Paulinho%20Gogo%20em%20Top%20Love.mp4
 
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/amz.043032/0043032_335.jpg" group-title="FILMES",Por um Punhado de Dólares
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Por%20um%20Punhado%20de%20D%C3%B3lares.mp4
@@ -250,6 +262,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Radioactive.2021.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/04/20240219-revelacoes-papo-de-cinema-cartaz-e1708368850474.jpeg" group-title="FILMES",Revelações
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Revela%C3%A7%C3%B5es.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/a8/2e/a82e08d70b376cb9a64b81ac4482be3d.png" group-title="FILMES",Rivais
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Rivais.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/06/20220609-romance-a-la-carte-papo-de-cinema-crtaz.jpeg" group-title="FILMES",Romance à la Carte
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Romance%20%C3%A0%20la%20Carte%202021.mp4
@@ -298,6 +313,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Vidas.Passadas.2023.mp4
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/315811338/s718/wanted-man.jpg" group-title="FILMES",Wanted Man Marcado Para Morrer
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Wanted%20Man%20Marcado%20Para%20Morrer.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26VzK0GVAsZhVXIbv3qDKiwBYud.jpg" group-title="FILMES",Xeque Mate
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Xeque%20Mate.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/24/02/08/21/02/1198781.jpg" group-title="FILMES",Zona de Risco
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Zona%20de%20Risco.mp4
 
 
 
