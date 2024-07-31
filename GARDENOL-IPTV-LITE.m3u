@@ -35,6 +35,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Teia%20%E2%80%93%202024.mp
 #EXTINF:-1 tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/4wkIIqpSf6smIbFyBOoMoYUn34E.jpg" group-title="FILMES",A Última Sessão de Freud
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%20de%20Freud.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MGUzY2YtYzQxYy00NmIwLWJiZjgtNjdmMDg3ZGJjNDkyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",Acerto de Contas
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Acerto%20de%20Contas.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/32/16/20185806.jpg" group-title="FILMES",Anna Karenina
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Anna%20Karenina%202012.mp4
 
@@ -43,6 +46,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aquaman%202%20O%20Reino%20Perd
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2024/03/20240320-as-aventuras-de-lady-marian-papo-de-cinema-cartaz.jpeg" group-title="FILMES",As Aventuras de Lady Marian
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/As%20Aventuras%20de%20Lady%20Marian.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/064a95d6effae0122066252b7c3c1bf56ee194ca03683be73207e5d642ec291f.jpg" group-title="FILMES",Assassino de Aluguel
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Assassino%20de%20Aluguel.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/0e/8f/0e8f89f1cc50aa31936f2a06a2ae2d5d.jpg" group-title="FILMES",Assine Aquí
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Assine%20Aqu%C3%AD.mp4
@@ -86,11 +92,26 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Colateral.mp4
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2023/11/20231116-coragem-sem-limites-papo-de-cinema-cartaaz.jpeg" group-title="FILMES",Coragem Sem Limites
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Coragem%20Sem%20Limites.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/16/17/24/3653490.jpg" group-title="FILMES",Cry Macho - O Caminho para Redenção
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Cry%20Macho%20-%20O%20Caminho%20para%20Reden%C3%A7%C3%A3o.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/d2/3a/d23ac1aa2b62e88cf0d814e1568042b9.jpg" group-title="FILMES",Damaged
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Damaged.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/08/25/10/00/3213511.jpg" group-title="FILMES",Dead for a Dollar
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dead%20for%20a%20Dollar.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUwOTAyZWQtN2M4Mi00NDAyLTg0MTUtZTM5ZTNhNWFiZTE0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="FILMES",Desperate Riders
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Desperate%20Riders.mp4
+
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2023/10/20231027-discurso-oculto-papo-de-cinema-cartaz.jpg" group-title="FILMES",Discurso Oculto
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Discurso%20Oculto%202023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/07/53/20391069.jpg" group-title="FILMES",Django Livre
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Django%20Livre.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="FILMES",Do Outro Lado da Lei
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Do%20Outro%20Lado%20da%20Lei.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/24/03/21/18/57/5264502.png" group-title="FILMES",Dona Lurdes - O Filme
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dona%20Lurdes%20-%20O%20Filme%202024.mp4
@@ -115,6 +136,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Godzilla%20Minus%20One%202023.
 
 #EXTINF:-1 tvg-logo="https://jardimdasamericas.com.br/uploads/2024/04/capa-filme-guerra-civil-59b52-large.jpg" group-title="FILMES",Guerra Civil
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Guerra%20Civil%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/12/22/16/36/3923247.jpg" group-title="FILMES",Hostis
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Hostis.mp4
 
 #EXTINF:-1 tvg-logo="https://hojepr.com/wp-content/uploads/2024/01/Imaculada_Diamond-Films_Teaser-P.jpg" group-title="FILMES",Imaculada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Imaculada%202024.mp4
@@ -152,6 +176,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nosso%20Lar.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/O_Amor_D%C3%A1_Voltas.jpg" group-title="FILMES",O Amor dá Voltas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Amor%20d%C3%A1%20Voltas.mp4
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/316085808/s718/o-beco-da-morte.jpg" group-title="FILMES",O Beco da Morte
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Beco%20da%20Morte.mp4
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.286769/0286769_335.jpg" group-title="FILMES",O Caçador de Recompensas
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Ca%C3%A7ador%20de%20Recompensas.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/03/30/19/08/5912014.png" group-title="FILMES",O Exorcista do Papa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Exorcista%20do%20Papa%202023.mp4
 
@@ -166,6 +196,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Pianista.mp4
 
 #EXTINF:-1 tvg-logo="https://ds0.cds.nowonline.com.br/assets/p21035681_v_v11_ai.jpg" group-title="FILMES",O Piloto – Uma Batalha Pela Sobrevivência
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Piloto%20%E2%80%93%20Uma%20Batalha%20Pela%20Sobreviv%C3%AAncia.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fb54600502670a5db75a2b640e84d693ca74f5e670e087839d21742c3d1620d0.jpg" group-title="FILMES",O Primeiro Tiro - A Lenda de Wyatt Earp
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Primeiro%20Tiro%20-%20A%20Lenda%20de%20Wyatt%20Earp.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/573fa41af390e77b5db2ff81dad76b6280651ebf5cc2b9b4201373bd37b56803.jpg" group-title="FILMES",O Vale do Amor
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Vale%20do%20Amor%202022.mp4
@@ -191,11 +224,26 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O.Roubo.de.88.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/136966819/s718/ofelia.jpg" group-title="FILMES",Ofélia
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Of%C3%A9lia%202019.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/20/19/18/0134686.jpg" group-title="FILMES",Organ Trail Sobrevivência
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Organ%20Trail%20Sobreviv%C3%AAncia.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/24/02/23/15/44/3187051.png" group-title="FILMES",Os Farofeiros 2
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Farofeiros%202.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original//7PoIAvL3Io5v0HyBliXfXZruQTi.jpg" group-title="FILMES",Os Infalíveis
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Infal%C3%ADveis%20%E2%80%93%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/98150ce442652b85496ee2cddfbe9f469195dee36fce50b0c7983576b9da8063.jpg" group-title="FILMES",Os Irmãos Sisters
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Irm%C3%A3os%20Sisters.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/01/07/20/59/207268.jpg" group-title="FILMES",Os Oito Odiados
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Oito%20Odiados.mp4
+
+#EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/12/20221222-paixao-perigosa-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Paixão Perigosa
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Paix%C3%A3o%20Perigosa.mp4
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/amz.043032/0043032_335.jpg" group-title="FILMES",Por um Punhado de Dólares
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Por%20um%20Punhado%20de%20D%C3%B3lares.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/16/09/22/5277396.jpg" group-title="FILMES",Radioactive
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Radioactive.2021.mp4
@@ -215,6 +263,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Segredos%20de%20fam%C3%ADlia%2
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/24/03/22/17/54/2357836.jpg" group-title="FILMES",Sem Coração
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sem%20Cora%C3%A7%C3%A3o.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d1435c8fa97b5741ecdf803c960f904ca99772541993963a7d8e645fb2ceed7c.jpg" group-title="FILMES",Sob o Sol do Oeste
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sob%20o%20Sol%20do%20Oeste.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/48JxpSqj6srO8a73uO77ia9OE5Q=/322x478/smart/filters:format(webp)/media/movies/covers/2019/10/badland-poster.jpg" group-title="FILMES",Terra dos Bravos
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Terra%20dos%20Bravos.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/urR3KZdTIIdB8OrdVxScRkuSRo9.jpg" group-title="FILMES",Thor Deus do Trovao
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Thor%20Deus%20do%20Trovao%202022.mp4
 
@@ -223,6 +277,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Todas%20Menos%20T%C3%BA.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/16/14/5867467.jpg" group-title="FILMES",Tolkien
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Tolkien.2019.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/414c329aac93795195a8a2abdf1bb2087dbb3fa0d0ab32b01bdd2f9cce8ef27b.jpg" group-title="FILMES",Trilha de Vingança
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Trilha%20de%20Vingan%C3%A7a.mp4
 
 #EXTINF:-1 tvg-logo="https://pequenajornalista.com/wp-content/uploads/2022/12/51I4EKA6NmL._AC_SY780_.jpg" group-title="FILMES",Um Presente da Tiffany
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Um%20Presente%20da%20Tiffany%202022.mp4
