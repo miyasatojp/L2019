@@ -36,8 +36,14 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MGUzY2YtYzQxYy00NmIwLWJiZjgtNjdmMDg3ZGJjNDkyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",Acerto de Contas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Acerto%20de%20Contas.mp4
 
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Amigos-Sem-Compromisso.jpg" group-title="FILMES",Amigos Sem Compromisso
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amigos%20Sem%20Compromisso.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/32/16/20185806.jpg" group-title="FILMES",Anna Karenina
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Anna%20Karenina%202012.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/11/30/20/57/3044754.jpg" group-title="FILMES",Apaixonada
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Apaixonada.mp4
 
 #EXTINF:-1 tvg-logo="https://sqlvs.com.br/wp-content/uploads/2023/12/aquaman.jpg" group-title="FILMES",Aquaman 2 O Reino Perdido
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aquaman%202%20O%20Reino%20Perdido.mp4
@@ -105,6 +111,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Cry%20Macho%20-%20O%20Caminho%
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/d2/3a/d23ac1aa2b62e88cf0d814e1568042b9.jpg" group-title="FILMES",Damaged
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Damaged.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/74/a7/74a78eb7ba12698fdad595b588925a89.jpg" group-title="FILMES",De Repente Miss
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/De%20Repente%20Miss.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/08/25/10/00/3213511.jpg" group-title="FILMES",Dead for a Dollar
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dead%20for%20a%20Dollar.mp4
 
@@ -120,6 +129,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Django%20Livre.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="FILMES",Do Outro Lado da Lei
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Do%20Outro%20Lado%20da%20Lei.mp4
 
+#EXTINF:-1 tvg-logo="https://www.estrelando.com.br/uploads/2024/03/27/dois-e-demais-nota-1--1711551454.jpg" group-title="FILMES",Dois é Demais em Orlando
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dois%20%C3%A9%20Demais%20em%20Orlando.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/09/20/19/39/3273959.png" group-title="FILMES",Domingo à Noite
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Domingo%20%C3%A0%20Noite.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/24/03/21/18/57/5264502.png" group-title="FILMES",Dona Lurdes - O Filme
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dona%20Lurdes%20-%20O%20Filme%202024.mp4
 
@@ -134,6 +149,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emma.mp4
 
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/07/20240731-fronteira-sombria-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Fronteira Sombria
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Fronteira%20Sombria.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/07/12/07/10/5455507.jpg" group-title="FILMES",Férias Trocadas
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/F%C3%A9rias%20Trocadas.mp4
 
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/07/20240703-furia-assassina-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Fúria Assassina
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/F%C3%BAria%20Assassina.mp4
@@ -170,6 +188,12 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Porto%20Seguro%202.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xScOAzPLbF1e6ATjuhK3EtuMToV.jpg" group-title="FILMES",Mexida
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mexida%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/21/20/37/1333793.png" group-title="FILMES",Minha Irmã e Eu
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Minha%20Irm%C3%A3%20e%20Eu.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/c6/3c/c63c41249abbbe5358b87a684ca53791.png" group-title="FILMES",Morando com o Crush
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Morando%20com%20o%20Crush.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/03/01/09/43/5188400.jpg" group-title="FILMES",Música
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%C3%BAsica.mp4
@@ -338,6 +362,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma.Mente.Brilhante.2001.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/01/23/14/59/1144641.png" group-title="FILMES",Vidas Passadas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Vidas.Passadas.2023.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/01/31/14/21/5174880.jpg" group-title="FILMES",Vidente Por Acidente
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Vidente%20Por%20Acidente.mp4
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/315811338/s718/wanted-man.jpg" group-title="FILMES",Wanted Man Marcado Para Morrer
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Wanted%20Man%20Marcado%20Para%20Morrer.mp4
