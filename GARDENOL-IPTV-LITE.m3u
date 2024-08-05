@@ -36,6 +36,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MGUzY2YtYzQxYy00NmIwLWJiZjgtNjdmMDg3ZGJjNDkyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",Acerto de Contas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Acerto%20de%20Contas.mp4
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/PrDY3UiIevdOHNkhQEClXccgBJw=/322x478/smart/filters:format(webp)/media/movies/covers/2024/06/images_3_guDlfRE.jpeg" group-title="FILMES",Ameaça Dupla
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amea%C3%A7a%20Dupla.mp4
+
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Amigos-Sem-Compromisso.jpg" group-title="FILMES",Amigos Sem Compromisso
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amigos%20Sem%20Compromisso.mp4
 
@@ -104,6 +107,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Colateral.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2023/11/20231116-coragem-sem-limites-papo-de-cinema-cartaaz.jpeg" group-title="FILMES",Coragem Sem Limites
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Coragem%20Sem%20Limites.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/wOxhoZPfg5I7bzPFsIxHThuhYPU=/322x478/smart/filters:format(webp)/media/movies/covers/2021/11/large_snakehead-poster.jpeg" group-title="FILMES",Crimes em Chinatown
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Crimes%20em%20Chinatown.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/16/17/24/3653490.jpg" group-title="FILMES",Cry Macho - O Caminho para Redenção
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Cry%20Macho%20-%20O%20Caminho%20para%20Reden%C3%A7%C3%A3o.mp4
@@ -200,6 +206,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Morando%20com%20o%20Crush.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/03/01/09/43/5188400.jpg" group-title="FILMES",Música
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%C3%BAsica.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/iE0Dk2uCJ5c8kxfrcfsy4LAzsrI=/322x478/smart/filters:format(webp)/media/movies/covers/2023/04/1090.jpg" group-title="FILMES",Na Mira do Inimigo
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Na%20Mira%20do%20Inimigo.mp4
 
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/06/20240610-na-terra-de-santos-e-pecadores-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Na Terra de Santos e Pecadores
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Na%20Terra%20de%20Santos%20e%20Pecadores.mp4
