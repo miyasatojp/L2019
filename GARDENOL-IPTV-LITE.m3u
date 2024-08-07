@@ -165,11 +165,20 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dona%20Lurdes%20-%20O%20Filme%
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Duas%20Pecadoras%20e%20Uma%20Mula.jpg" group-title="FILMES",Duas Pecadoras e Uma Mula
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duas%20Pecadoras%20e%20Uma%20Mula.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg" group-title="FILMES",Duna 2
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duna%202.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/20/10/5897145.jpg" group-title="FILMES",Duna
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duna.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/97/7f/977ff828c5ac37f659c8b1bcbf398489.png" group-title="FILMES",Emboscada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emboscada.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/12/04/14/45/2094218.jpg" group-title="FILMES",Emma
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emma.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8fa1dbfdcb23680b8f664dcc9b73b0e9512e32191bcee85ccec3c84dd123e551.jpg" group-title="FILMES",Fora dos Muros da Escola
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Fora%20dos%20Muros%20da%20Escola.mp4
 
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/07/20240731-fronteira-sombria-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Fronteira Sombria
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Fronteira%20Sombria.mp4
@@ -225,6 +234,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mexida%202024.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/21/20/37/1333793.png" group-title="FILMES",Minha Irmã e Eu
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Minha%20Irm%C3%A3%20e%20Eu.mp4
 
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/MS.jpeg" group-title="FILMES",Missão Suicida 2024
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Miss%C3%A3o%20Suicida%202024.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/c6/3c/c63c41249abbbe5358b87a684ca53791.png" group-title="FILMES",Morando com o Crush
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Morando%20com%20o%20Crush.mp4
 
@@ -248,6 +260,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nosso%20Lar%202%20-%20Os%20Men
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2a/Nosso_Lar_2010.jpg" group-title="FILMES",Nosso Lar
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nosso%20Lar.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/neof.jpeg" group-title="FILMES",Não É o Fim
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/N%C3%A3o%20%C3%89%20o%20Fim.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/O_Amor_D%C3%A1_Voltas.jpg" group-title="FILMES",O Amor dá Voltas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Amor%20d%C3%A1%20Voltas.mp4
@@ -354,11 +369,17 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Planeta%20dos%20Macacos%20-%20
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/amz.043032/0043032_335.jpg" group-title="FILMES",Por um Punhado de Dólares
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Por%20um%20Punhado%20de%20D%C3%B3lares.mp4
 
+#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/05/20240509-procura-se-um-traidor-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Procura-se um Traidor
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Procura-se%20um%20Traidor.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/dd/c3/ddc3216fef82aced1bf8e709801deaff.jpg" group-title="FILMES",Programa DNA
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Programa%20DNA.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/16/09/22/5277396.jpg" group-title="FILMES",Radioactive
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Radioactive.2021.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/02/04/12/05/5133770.jpg" group-title="FILMES",Raça e Redenção
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Ra%C3%A7a%20e%20Reden%C3%A7%C3%A3o.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/04/20240219-revelacoes-papo-de-cinema-cartaz-e1708368850474.jpeg" group-title="FILMES",Revelações
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Revela%C3%A7%C3%B5es.mp4
@@ -374,6 +395,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Rota%20Sem%20Sa%C3%ADda.mp4
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Segredos%20de%20fam%C3%ADlia%202023.jpg" group-title="FILMES",Segredos de família
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Segredos%20de%20fam%C3%ADlia%202023.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA4MmFmN2QtMTk4Yy00YTM1LTk3YTAtNTUxZDUzMThiODY0XkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_.jpg" group-title="FILMES",Seis Semanas
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Seis%20Semanas.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/24/03/22/17/54/2357836.jpg" group-title="FILMES",Sem Coração
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sem%20Cora%C3%A7%C3%A3o.mp4
@@ -414,8 +438,14 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Um.Lugar.Silencioso.Dia.Um.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81smko0J5jL._AC_UF350,350_QL50_.jpg" group-title="FILMES",Uma Canção De Gratidão
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma%20Can%C3%A7%C3%A3o%20De%20Gratid%C3%A3o.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4b2a5499248e69280c71db426986e8ff95b0a2d39360aa44d5be4aa7fe3f2132.jpg" group-title="FILMES",Uma Gravidez Desejada
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma%20Gravidez%20Desejada.mp4
+
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2024/03/20240320-uma-historia-de-superacao-papo-de-cinema-cartaz.jpeg" group-title="FILMES",Uma História de Superação
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma%20Hist%C3%B3ria%20de%20Supera%C3%A7%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRkMzQ2YWQtYmRjMy00NzhkLWI0ZTQtOGIxYTBmOGVlYTJmXkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_.jpg" group-title="FILMES",Uma Visita Inesperada
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma%20Visita%20Inesperada.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/15/18/20028633.jpg" group-title="FILMES",Uma Mente Brilhante
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Uma.Mente.Brilhante.2001.mp4
