@@ -15,9 +15,14 @@
 ## FILMES ##
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/01/31/21/04/546636.jpg" group-title="FILMES",A Cabana
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Cabana.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/08/13/00/25/5438157.jpg" group-title="FILMES",A Escolha de Maria
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Escolha%20de%20Maria.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/11/28/18/40/3044833.jpg" group-title="FILMES",A Forma da Água
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Forma%20da%20%C3%81gua.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/07/11/23/06/0833684.jpg" group-title="FILMES",A Freira 2
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Freira%202.mp4
@@ -33,6 +38,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Noite%20Em%20Que%20Voltara
 
 #EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15441_medio.jpg" group-title="FILMES",A Teia
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Teia%20%E2%80%93%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiMjQ1YzQtODU1Yy00YWFkLTgwY2YtOGJjNWMwOWJkMTZiXkEyXkFqcGdeQXVyNjcyMzUzNTM@._V1_.jpg" group-title="FILMES",A Viúva Negra
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Vi%C3%BAva%20Negra.mp4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/4wkIIqpSf6smIbFyBOoMoYUn34E.jpg" group-title="FILMES",A Última Sessão de Freud
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20%C3%9Altima%20Sess%C3%A3o%20de%20Freud.mp4
@@ -54,6 +62,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Alien%20-%20O%20Oitavo%20Passa
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/PrDY3UiIevdOHNkhQEClXccgBJw=/322x478/smart/filters:format(webp)/media/movies/covers/2024/06/images_3_guDlfRE.jpeg" group-title="FILMES",Ameaça Dupla
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amea%C3%A7a%20Dupla.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/08/22/22/50/3689762.jpg" group-title="FILMES",Ameaça Profunda
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amea%C3%A7a%20Profunda.mp4
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Amigos-Sem-Compromisso.jpg" group-title="FILMES",Amigos Sem Compromisso
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Amigos%20Sem%20Compromisso.mp4
@@ -178,6 +189,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emboscada.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/12/04/14/45/2094218.jpg" group-title="FILMES",Emma
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emma.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg" group-title="FILMES",Finch
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Finch.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8fa1dbfdcb23680b8f664dcc9b73b0e9512e32191bcee85ccec3c84dd123e551.jpg" group-title="FILMES",Fora dos Muros da Escola
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Fora%20dos%20Muros%20da%20Escola.mp4
 
@@ -220,11 +234,17 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Jorge%20da%20Capad%C3%B3cia.mp
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/20/19/09/3968558.png" group-title="FILMES",Madre Teresa e Eu
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Madre%20Teresa%20e%20Eu.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1ZGMyYWQtNjg4Yi00ZGJlLWEyOGYtZTExZTNkMjA5YTNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",Manobra Arriscada
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Manobra%20Arriscada.mp4
+
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/dam.393143/0393143_335.jpg" group-title="FILMES",Megaterremoto
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Megaterremoto.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ec58b7bee49bd81cf576849c6086e395ef7019a189fdee78edffa6ac1d2200f4.jpg" group-title="FILMES",Meteoro O Fim dos Tempos
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meteoro%20O%20Fim%20dos%20Tempos.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/02/14/19/56/5358479.jpg" group-title="FILMES",Meu Nome é Gal
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Nome%20%C3%A9%20Gal.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/28/8e/288ecc748c97cc5a7fff612d1b65da72.jpg" group-title="FILMES",Meu Porto Seguro 2
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Porto%20Seguro%202.mp4
@@ -243,6 +263,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Morando%20com%20o%20Crush.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" group-title="FILMES",MR-9 Missão Mortal
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/MR-9%20Miss%C3%A3o%20Mortal.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Mussum.jpg" group-title="FILMES",Mussum - O Filmis
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mussum%20-%20O%20Filmis.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/03/01/09/43/5188400.jpg" group-title="FILMES",Música
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%C3%BAsica.mp4
@@ -288,6 +311,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Furioso.mp4
 
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/10/20221024-o-passado-papo-de-cinema-cartaz.jpeg" group-title="FILMES",O Passado
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Passado.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1b/%C3%93_Pa%C3%AD%2C_%C3%93_2.png" group-title="FILMES",Ó Paí, Ó 2
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Pa%C3%AD%20O%202.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/432/21043224_20130923202123729.jpg" group-title="FILMES",O Pianista
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Pianista.mp4
@@ -405,6 +431,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sem%20Cora%C3%A7%C3%A3o.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d1435c8fa97b5741ecdf803c960f904ca99772541993963a7d8e645fb2ceed7c.jpg" group-title="FILMES",Sob o Sol do Oeste
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sob%20o%20Sol%20do%20Oeste.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/05/50/20492816.jpg" group-title="FILMES",Somos Tão Jovens
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Somos%20T%C3%A3o%20Jovens.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/05af2deb4f52973d18596b702dcb73216ebd1cd008d868df2075d7f1ab95f830.jpg" group-title="FILMES",Tempestade de Gelo
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Tempestade.de.Gelo.mp4
