@@ -15,6 +15,9 @@
 ## FILMES ##
 
 
+#EXTINF:-1 tvg-logo="https://www.sonypictures.com.br/sites/brazil/files/2023-04/1400x2100.jpg" group-title="FILMES",65-Ameaça Pré-Histórica
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/65-Amea%C3%A7a%20Pr%C3%A9-Hist%C3%B3rica.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/01/31/21/04/546636.jpg" group-title="FILMES",A Cabana
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Cabana.mp4
 
@@ -165,6 +168,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Django%20Livre.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="FILMES",Do Outro Lado da Lei
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Do%20Outro%20Lado%20da%20Lei.mp4
 
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/dois-coracoes-2022.jpeg" group-title="FILMES",Dois Corações
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dois%20Cora%C3%A7%C3%B5es.mp4
+
 #EXTINF:-1 tvg-logo="https://www.estrelando.com.br/uploads/2024/03/27/dois-e-demais-nota-1--1711551454.jpg" group-title="FILMES",Dois é Demais em Orlando
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Dois%20%C3%A9%20Demais%20em%20Orlando.mp4
 
@@ -182,6 +188,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duna%202.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/20/10/5897145.jpg" group-title="FILMES",Duna
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Duna.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/11/16/17/38/2594993.png" group-title="FILMES",Emancipation - Uma História de Liberdade
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emancipation%20-%20Uma%20Hist%C3%B3ria%20de%20Liberdade.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/97/7f/977ff828c5ac37f659c8b1bcbf398489.png" group-title="FILMES",Emboscada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Emboscada.mp4
@@ -225,6 +234,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Indiana%20Jones%20e%20A%20Rel%
 #EXTINF:-1 tvg-logo="https://meioamargo.com/wp-content/uploads/2023/05/agente-infiltrado-meio-amargo-poster-500x667.jpg" group-title="FILMES",Infiltrado
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Infiltrado.2023.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/10/31/20/39/476171.jpg" group-title="FILMES",Interestelar
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Interestelar.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/69f7b1f96787cdc103df122a98fe66d378528caa8f8d1aea8561475b43640a9a.jpg" group-title="FILMES",Isca
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Isca%202024.mp4
 
@@ -240,6 +252,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Manobra%20Arriscada.mp4
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/dam.393143/0393143_335.jpg" group-title="FILMES",Megaterremoto
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Megaterremoto.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/07/28/17/00/0281797.jpg" group-title="FILMES",Megatubarão 2
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Megatubar%C3%A3o%202.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ec58b7bee49bd81cf576849c6086e395ef7019a189fdee78edffa6ac1d2200f4.jpg" group-title="FILMES",Meteoro O Fim dos Tempos
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meteoro%20O%20Fim%20dos%20Tempos.mp4
 
@@ -249,8 +264,14 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Nome%20%C3%A9%20Gal.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/28/8e/288ecc748c97cc5a7fff612d1b65da72.jpg" group-title="FILMES",Meu Porto Seguro 2
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Porto%20Seguro%202.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/20/19/22/3917082.jpg" group-title="FILMES",Meu Sangue Ferve por Você
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meu%20Sangue%20Ferve%20por%20Voc%C3%AA.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xScOAzPLbF1e6ATjuhK3EtuMToV.jpg" group-title="FILMES",Mexida
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mexida%202024.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY4ZWRmNjItZGNjNC00NjM1LWFmZDctYWVhZDRkMmUxM2FiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg" group-title="FILMES",Mindcage
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mindcage.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/11/21/20/37/1333793.png" group-title="FILMES",Minha Irmã e Eu
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Minha%20Irm%C3%A3%20e%20Eu.mp4
@@ -309,8 +330,14 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Exorcista.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/17/12/08/16/46/2960113.jpg" group-title="FILMES",O Furioso
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Furioso.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/31/82/19874259.jpg" group-title="FILMES",O Livro de Eli
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Livro%20de%20Eli.mp4
+
 #EXTINF:-1 tvg-logo="https://f001.backblazeb2.com/file/papocine/2022/10/20221024-o-passado-papo-de-cinema-cartaz.jpeg" group-title="FILMES",O Passado
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Passado.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/07/15/16/58/2118664.png" group-title="FILMES",O Pastor e o Guerrilheiro
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Pastor%20e%20o%20Guerrilheiro.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1b/%C3%93_Pa%C3%AD%2C_%C3%93_2.png" group-title="FILMES",Ó Paí, Ó 2
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Pa%C3%AD%20O%202.mp4
@@ -377,6 +404,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Observadores.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/01/07/20/59/207268.jpg" group-title="FILMES",Os Oito Odiados
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Oito%20Odiados.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/53/80/5380c998d585e45d12172204c646e4cf.png" group-title="FILMES",Os Provocadores
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Os%20Provocadores.mp4
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/PZ.jpg" group-title="FILMES",Paciente Zero
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Paciente.Zero.mp4
