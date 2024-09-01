@@ -48,6 +48,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Musa%20de%20Bonnard.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1420faafda126a6fe2a45a60f1202625d04c3de4297f55fa106754716362fca0.jpg" group-title="FILMES",A Noite Em Que Voltaram Para Casa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Noite%20Em%20Que%20Voltaram%20Para%20Casa.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/65/02/20106873.jpg" group-title="FILMES",A Paixão de Cristo
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Paix%C3%A3o%20de%20Cristo.mp4
+
 #EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15441_medio.jpg" group-title="FILMES",A Teia
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Teia%20%E2%80%93%202024.mp4
 
@@ -261,6 +264,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/F%C3%BAria%20Assassina.mp4
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2024/05/20240522-general-hadik-papo-de-cinema-cartaz.jpeg" group-title="FILMES",General Hadik
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/General%20Hadik.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/Get%C3%BAlio_Film_Poster.jpg" group-title="FILMES",Getúlio
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Get%C3%BAlio.mp4
+
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/03/24/1810006418-ghostbusters-frozen-empire-22024.jpg" group-title="FILMES",Ghostbusters Apocalipse de Gelo
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Ghostbusters%20Apocalipse%20de%20Gelo.mp4
 
@@ -380,6 +386,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nosso%20Lar%202%20-%20Os%20Men
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2a/Nosso_Lar_2010.jpg" group-title="FILMES",Nosso Lar
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nosso%20Lar.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/575/21057568_20131113212032841.jpg" group-title="FILMES",Noé
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/No%C3%A9.mp4
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/neof.jpeg" group-title="FILMES",Não É o Fim
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/N%C3%A3o%20%C3%89%20o%20Fim.mp4
