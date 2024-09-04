@@ -15,6 +15,9 @@
 ## FILMES ##
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxYTVmOTctZTY4NC00NDJkLWIyNzAtNTE3ZmY0NDg3NmEyXkEyXkFqcGdeQXVyNTYyMzc1NTY@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",50 Km Por Hora
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/50%20Km%20Por%20Hora.mp4
+
 #EXTINF:-1 tvg-logo="https://www.sonypictures.com.br/sites/brazil/files/2023-04/1400x2100.jpg" group-title="FILMES",65-Ameaça Pré-Histórica
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/65-Amea%C3%A7a%20Pr%C3%A9-Hist%C3%B3rica.mp4
 
@@ -752,6 +755,9 @@ https://gardenol.miyasatojp.workers.dev/0:/SERIES/A.Mulher.no.Lago/Lady.in.the.L
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/A.Mulher.no.Lago/Lady.in.the.Lake.jpg" group-title="A Mulher no Lago",Ep.6 A Mulher no Lago
 https://gardenol.miyasatojp.workers.dev/0:/SERIES/A.Mulher.no.Lago/Lady.in.the.Lake.S01E06.mp4
+
+#EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/SERIES/A.Mulher.no.Lago/Lady.in.the.Lake.jpg" group-title="A Mulher no Lago",Ep.7 A Mulher no Lago
+https://gardenol.miyasatojp.workers.dev/0:/SERIES/A.Mulher.no.Lago/Lady.in.the.Lake.S01E07.mp4
 
 
 
