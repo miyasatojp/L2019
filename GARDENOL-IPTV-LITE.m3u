@@ -337,6 +337,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Janet%20Planet.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/7b/2a/7b2aee713aa190fa761e90559c92255e.PNG" group-title="FILMES",Jorge da Capadócia
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Jorge%20da%20Capad%C3%B3cia.mp4
 
+#EXTINF:-1 tvg-logo="https://tf-univervideo-blog.s3-accelerate.amazonaws.com/capa_vertical_lia_filme_31f32f9ecd.jpg" group-title="FILMES",Lia - O Filme
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Lia.O.Filme.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1cf4e95ecabddd2096ae87ce7a3be6ebb77ad8f53fe70f5bad4b8b6158921026.jpg" group-title="FILMES",M – A Última Esperança
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%20%E2%80%93%20A%20%C3%9Altima%20Esperan%C3%A7a.mp4
 
@@ -598,6 +601,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Romance%20%C3%A0%20la%20Carte%
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/br_rota-sem-saida-2023_p_m.jpg" group-title="FILMES",Rota Sem Saída
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Rota%20Sem%20Sa%C3%ADda.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/05/15/17/08/1569143.png" group-title="FILMES",Sede Assassina
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sede%20Assassina.mkv
+
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Segredos%20de%20fam%C3%ADlia%202023.jpg" group-title="FILMES",Segredos de família
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Segredos%20de%20fam%C3%ADlia%202023.mp4
 
@@ -627,6 +633,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Tempestade.de.Gelo.mp4
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/48JxpSqj6srO8a73uO77ia9OE5Q=/322x478/smart/filters:format(webp)/media/movies/covers/2019/10/badland-poster.jpg" group-title="FILMES",Terra dos Bravos
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Terra%20dos%20Bravos.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/03/03/09/17/4907700.jpg" group-title="FILMES",Tetris
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Tetris.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MxNWFlNDktOWJkOS00OTJiLWJmNGUtOWQyYWZhNWQyYjlkXkEyXkFqcGdeQXVyNDYyNDEwODA@._V1_FMjpg_UX1000_.jpg" group-title="FILMES",The Dirty South
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/The%20Dirty%20South.mp4
