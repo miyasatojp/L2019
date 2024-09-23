@@ -676,6 +676,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Todas%20Menos%20T%C3%BA.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/16/14/5867467.jpg" group-title="FILMES",Tolkien
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Tolkien.2019.mp4
 
+#EXTINF:-1 tvg-logo="https://www.filmkunstkinos-hannover.de/media/plakate/TouchPLomu.jpg" group-title="FILMES",Touch (Snerting)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Touch.mkv
+
 #EXTINF:-1 tvg-logo="https://ds0.cds.nowonline.com.br/assets/p25954333_v_v8_af.jpg" group-title="FILMES",Transação Perigosa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Transa%C3%A7%C3%A3o%20Perigosa.mp4
 
