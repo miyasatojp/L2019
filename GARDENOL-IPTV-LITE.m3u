@@ -58,6 +58,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Maldi%C3%A7%C3%A3o%20de%20
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/A%20Menina%20do%20Mar.jpg" group-title="FILMES",A Menina do Mar
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Menina%20do%20Mar.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/92/61/9261e1b1034abaa28f095a6f6ea75225.jpg" group-title="FILMES",A Metade de Nós
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Metade%20de%20N%C3%B3s.mkv
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/img/d0/83/d08361479aca9269775ed951d51e7110.jpg" group-title="FILMES",A Musa de Bonnard
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/A%20Musa%20de%20Bonnard.mp4
 
@@ -120,6 +123,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Antes%20da%20Dinastia.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/23/11/30/20/57/3044754.jpg" group-title="FILMES",Apaixonada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Apaixonada.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/ec/91/ec91b45647fd97d15c50a3d75084804a.jpg" group-title="FILMES",Apartamento 7A
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Apartamento%207A.mkv
 
 #EXTINF:-1 tvg-logo="https://sqlvs.com.br/wp-content/uploads/2023/12/aquaman.jpg" group-title="FILMES",Aquaman 2 O Reino Perdido
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aquaman%202%20O%20Reino%20Perdido.mp4
@@ -313,6 +319,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Godzilla%20e%20Kong%20-%20O%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e0/Godzilla_Minus_One_Poster.jpeg" group-title="FILMES",Godzilla Minus One
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Godzilla%20Minus%20One%202023.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/img/42/e2/42e2320ad43d4f7a32802fd2df1ce60a.jpg" group-title="FILMES",Greice
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Greice.mkv
+
 #EXTINF:-1 tvg-logo="https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/3555/_filmArtworkLarge/Gringa_104961697.jpg" group-title="FILMES",Gringa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Gringa.mkv
 
@@ -355,6 +364,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Jorge%20da%20Capad%C3%B3cia.mp
 #EXTINF:-1 tvg-logo="https://tf-univervideo-blog.s3-accelerate.amazonaws.com/capa_vertical_lia_filme_31f32f9ecd.jpg" group-title="FILMES",Lia O Filme
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Lia.O.Filme.mkv
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/6d/36/6d36e4307c934c759d6be0c99e1d4473.jpg" group-title="FILMES",Lobos
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Lobos.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1cf4e95ecabddd2096ae87ce7a3be6ebb77ad8f53fe70f5bad4b8b6158921026.jpg" group-title="FILMES",M-A Última Esperança
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/M%20%E2%80%93%20A%20%C3%9Altima%20Esperan%C3%A7a.mp4
 
@@ -372,6 +384,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Megatubar%C3%A3o%202.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/79658c226cec8f4e8ac7e0c36e4fa8c76c815f90e06e357a41e3abf4f483fa88.jpg" group-title="FILMES",Melhor Viúva Do Que Mal Acompanhada
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Melhor%20Vi%C3%BAva%20Do%20Que%20Mal%20Acompanhada.mkv
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VTeHGbLXH87SfcZli_DkKoOqLzY=/195x289/smart/filters:format(webp)/media/movies/covers/2023/08/cats_f6vgZmJ.jpg" group-title="FILMES",Memórias Ocultas
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mem%C3%B3rias%20Ocultas.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ec58b7bee49bd81cf576849c6086e395ef7019a189fdee78edffa6ac1d2200f4.jpg" group-title="FILMES",Meteoro O Fim dos Tempos
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Meteoro%20O%20Fim%20dos%20Tempos.mp4
@@ -409,6 +424,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Morando%20com%20o%20Crush.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" group-title="FILMES",MR-9 Missão Mortal
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/MR-9%20Miss%C3%A3o%20Mortal.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/01/22/40/1358285.jpg" group-title="FILMES",Mundo Novo
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mundo%20Novo.mkv
+
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/CAPAS/Mussum.jpg" group-title="FILMES",Mussum O Filmis
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Mussum%20-%20O%20Filmis.mp4
 
@@ -426,6 +444,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Na%20Terra%20de%20Santos%20e%2
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/07/10/18/10/4750220.jpg" group-title="FILMES",Napoleão
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Napole%C3%A3o%20(2023).mp4
+
+#EXTINF:-1 tvg-logo="https://s9.opensubtitles.com/features/3/9/7/2205793.jpg" group-title="FILMES",Nascida para Cantar
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nascida%20para%20Cantar.mkv
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/10/27/18/41/3289295.jpg" group-title="FILMES",Nefarious
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Nefarious.mp4
@@ -456,6 +477,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Cara%20da%20Piscina.mp4
 
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.286769/0286769_335.jpg" group-title="FILMES",O Caçador de Recompensas
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Ca%C3%A7ador%20de%20Recompensas.mp4
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/319625304/s718/o-crime-nao-descansa.jpg" group-title="FILMES",O Crime Não Descansa
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Crime%20N%C3%A3o%20Descansa.mkv
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/20/fd/20fd28beb20ff9ccf9f405fcf1820c49.jpg" group-title="FILMES",O Dublê
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Dubl%C3%AA.mp4
@@ -519,6 +543,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Suspeito.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/573fa41af390e77b5db2ff81dad76b6280651ebf5cc2b9b4201373bd37b56803.jpg" group-title="FILMES",O Vale do Amor
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Vale%20do%20Amor%202022.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/05/03/14/33/155533.jpg" group-title="FILMES",O Vingador da Iugoslávia 2
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20Vingador%20da%20Iugosl%C3%A1via%202.mkv
 
 #EXTINF:-1 tvg-logo="https://artecult.com/wp-content/uploads/2021/10/O-%C3%9Altimo-Duelo-CR%C3%8DTICA-CAPA-AC-500x500.png" group-title="FILMES",O Último Duelo (+16)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/O%20%C3%9Altimo%20Duelo%202021.mp4
@@ -600,6 +627,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Programa%20DNA.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/89/69/24/20125709.jpg" group-title="FILMES",Prometheus
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Prometheus.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/slYQ7076nx6O-t6CxcMs1D0OKbs=/210x312/smart/filters:format(webp)/media/movies/covers/2024/04/poster-pes-de-peixe.jpg" group-title="FILMES",Pés de Peixe
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/P%C3%A9s%20de%20Peixe.mkv
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/09/13/23/4188538.jpg" group-title="FILMES",Querida Léa
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Querida%20L%C3%A9a.mkv
