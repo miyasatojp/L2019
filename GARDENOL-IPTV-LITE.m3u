@@ -3702,6 +3702,10 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
+#EXTINF:-1,Rádio Só FlashBack radio
+https://servidor40-5.brlogic.com:8122/live
+
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",ANTENNE BAYERN
