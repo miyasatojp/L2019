@@ -3701,9 +3701,14 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg" group-title="RADIO",GARDENOL WEB RÁDIO
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-
-#EXTINF:-1,Rádio Só FlashBack radio
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",Rádio Só FlashBack
 https://servidor40-5.brlogic.com:8122/live
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",Eramos Jovens Disco Dance
+http://srv1.braudio.com.br:7020/stream.nsv
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",70 80 Disco Funk ModernSoul e Boogie
+https://discofunk.streamingmedia.it/play
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png" group-title="RADIO",antenne 1
