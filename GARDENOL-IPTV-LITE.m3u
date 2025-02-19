@@ -335,8 +335,6 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",2 Quellon (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal2quellon/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",24 Horas (Chile) (🇨🇱)
-https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",25 (Rep. Dominicana) (🇩🇴)
 https://ss3.domint.net:3150/c25_str/canal25/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",3 La Pampa (Argentina) (🇦🇷)
@@ -365,8 +363,6 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 NTV (Mexico) (🇲🇽)
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 San Juan (Argentina) (🇦🇷)
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",88 Stereo (Costa Rica) (🇨🇷)
 http://k3.usastreams.com/CableLatino/88stereo/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",9 Bio Bio (Chile) (🇨🇱)
@@ -441,8 +437,6 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/.m3u8
 https://panel.tvstream.cl:1936/8016/8016/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 8 Catacaos (Peru) (🇵🇪)
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal DOS (Chile) (🇨🇱)
-https://marine2.miplay.cl/dos/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal ISB (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Sierra De Cadiz (España) (🇪🇸)
@@ -493,10 +487,6 @@ https://is.gd/lbzTWe
 https://is.gd/ecy3yJ
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal (Costa Rica) (🇨🇷)
 https://is.gd/V68BMX
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Comunitaria (Chile) (🇨🇱)
-https://is.gd/cUu1yc
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Coral (Bolivia) (🇧🇴)
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Corazon (Mexico) (🇲🇽)
 https://is.gd/3p6TAJ
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cosmos (Peru) (🇵🇪)
@@ -571,8 +561,6 @@ https://is.gd/Hd3OE5
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Fibwi (España) (🇪🇸)
 https://is.gd/Q1pxYc
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Fitmaxx (Chile) (🇨🇱)
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Frecuencia Musical (Ecuador) (🇪🇨)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",FTV Factoria (España) (🇪🇸)
@@ -595,8 +583,6 @@ https://is.gd/OOSQpL
 https://is.gd/fnTXGF
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Haz Clic (Mexico) (🇲🇽)
 https://is.gd/wjfnaf
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Heidi & Maya (España) (🇪🇸)
-https://is.gd/yQvVfA
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Holvoet (Chile) (🇨🇱)
 https://is.gd/8X0Fc6
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",HTV Canal (Rep. Dominicana) (🇩🇴)
@@ -617,10 +603,6 @@ https://is.gd/JLA3VJ
 https://is.gd/xmBOek
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",IU Imagen Universal (Rep. Dominicana) (🇩🇴)
 https://is.gd/OrDPTe
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",K Pop (Chile) (🇨🇱)
-https://marine2.miplay.cl/kpop/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Karavana (Chile) (🇨🇱)
-https://is.gd/8BoXpp
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Kanal D Drama (España) (🇪🇸)
 https://is.gd/ews6YI
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Melinkana (Chile) (🇨🇱)
@@ -635,8 +617,6 @@ https://is.gd/GVblYS
 https://is.gd/oyIah2
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Logos Salud (España) (🇪🇸)
 https://is.gd/FlMTHR
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",M&S Mundo & Sabor (Chile) (🇨🇱)
-https://is.gd/MkwAzs
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",M95 Marbella (España) (🇪🇸)
 https://is.gd/RtVpBI
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mar La Paz (Mexico) (🇲🇽)
@@ -663,18 +643,12 @@ https://is.gd/ZljzED
 https://is.gd/eAgXfU
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MTV Live (Mexico) (🇲🇽)
 http://45.5.117.182:8000/play/a0ie/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MX Classic (Chile) (🇨🇱)
-https://is.gd/AtRb2p
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MX Family (Chile) (🇨🇱)
-https://is.gd/CjnJxA
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (España) (🇪🇸)
 https://is.gd/mDrRKe
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NCT (Chile) (🇨🇱)
 https://is.gd/7v2y1e
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Negocios (España) (🇪🇸)
 https://is.gd/PTo4Dj
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Net (Chile) (🇨🇱)
-https://is.gd/lLPm6x
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nicoya (Costa Rica) (🇨🇷)
 https://is.gd/zi5TAj
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nativa (Peru) (🇵🇪)
@@ -699,12 +673,6 @@ https://is.gd/rlixzU
 https://is.gd/4Z7Tbt
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ODTV Onda Digital 2 (Chile) (🇨🇱)
 https://is.gd/mlKuYa
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Old (Chile) (🇨🇱)
-https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Old Music (Chile) (🇨🇱)
-https://is.gd/7jhNJ6
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ON Tour Channel (Chile) (🇨🇱)
-https://is.gd/iFrKGd
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Opcion (Rep. Dominicana) (🇩🇴)
 https://is.gd/WiEKKP
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Patagonia Radio (Chile) (🇨🇱)
@@ -747,8 +715,6 @@ https://is.gd/1gC3bU
 https://is.gd/nF1RdY
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RTVD 4 (Rep. Dominicana) (🇩🇴)
 https://is.gd/Z9Gi4A
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Salud (Chile) (🇨🇱)
-https://is.gd/4zj2Af
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",San Jose (Costa Rica) (🇨🇷)
 https://is.gd/vLxbKn
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Santa Maria (Chile) (🇨🇱)
@@ -763,8 +729,6 @@ https://n9.cl/7li50
 https://n9.cl/jmt6e
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SM Su Mundo (Rep. Dominicana) (🇩🇴)
 https://is.gd/j1a2e6
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Soberana FM (Ecuador) (🇪🇨)
-https://is.gd/sLjBto
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Soberania (Chile) (🇨🇱)
 https://is.gd/uZu0gn
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sociales VIP (España) (🇪🇸)
@@ -839,8 +803,6 @@ https://n9.cl/syd4e
 https://is.gd/kEHUvm
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tu Universo (Colombia) (🇨🇴)
 https://is.gd/Z1SIl0
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tumpis (Peru) (🇵🇪)
-https://is.gd/HLKXm2
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tuya La Janda (España) (🇪🇸)
 http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVM Cordoba (España) (🇪🇸)
@@ -909,8 +871,6 @@ https://is.gd/iPj6pL
 https://is.gd/FNZg8D
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Wapp (Chile) (🇨🇱)
 https://is.gd/EJcUr9
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Wapp (Chile) (🇨🇱)
-https://marine2.miplay.cl/wapp/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zas (España) (🇪🇸)
 https://is.gd/NsGOCf
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zurqui (Costa Rica) (🇨🇷)
