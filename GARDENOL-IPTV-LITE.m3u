@@ -13,6 +13,8 @@
 
 #EXTINF:-1 tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png" group-title="CINE TV",Grjngo (Faroeste) (Brasil) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+
+
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MOVIE SPHERE
@@ -281,8 +283,6 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RT (Espanha)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Malaga (Espanha)
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?IMDSFULL
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal HD(Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",POWER TV HD(Español)
@@ -887,8 +887,6 @@ https://is.gd/w15QSR
 https://is.gd/Ymfb0E
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vclassic (Chile) (🇨🇱)
 https://is.gd/IzdhJq
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Venus Media (Paraguay) (🇵🇾)
-https://is.gd/2neaXJ
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Verbena (España) (🇪🇸)
 https://is.gd/FM7DqX
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Via Altomayo (Peru) (🇵🇪)
@@ -1489,8 +1487,6 @@ https://n9.cl/m0aif
 https://n9.cl/h6uvok
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Jellytoon (Francia) (🇫🇷)
 https://n9.cl/3rcp4
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",JITV (Indonesia) (🇮🇩)
-https://mam.jogjaprov.go.id:1937/tv/jitv/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Johnny Carson (USA) (🇺🇸)
 https://n9.cl/vz0cd
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Journy (Canada) (🇨🇦)
@@ -1779,8 +1775,6 @@ https://is.gd/Xco4Cn
 https://is.gd/ljwXEG
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Viajando Pelo Brasil (Brasil) (🇧🇷)
 https://is.gd/iOfhC8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Visual Radio (Italia) (🇮🇹)
-https://is.gd/l8qIme
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Vivax (Brasil) (🇧🇷)
 https://n9.cl/551fq
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Water Bear (Suecia) (🇸🇪)
