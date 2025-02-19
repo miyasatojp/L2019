@@ -262,7 +262,7 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ABC (Paraguay) (🇵🇾)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Martí HD (Cuba)(.cu)
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Martí HD (Cuba) (.cu)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RIBERA (Espanha) (🇪🇸)
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
