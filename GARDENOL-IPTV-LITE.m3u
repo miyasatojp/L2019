@@ -38,7 +38,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png",GOSPEL MOVIES
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
@@ -1274,8 +1274,6 @@ https://is.gd/tthrsk
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Golfpass (USA) (🇺🇸)
 https://is.gd/ai3tyK
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Gospel Movies (Brasil) (🇧🇷)
-https://stmv1.srvif.com/gospelf/gospelf/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Grandi Nomi (Italia) (🇮🇹)
 https://n9.cl/2m3sb5
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Great British Menu (UK) (🇬🇧)
