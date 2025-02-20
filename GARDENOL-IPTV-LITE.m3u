@@ -372,21 +372,18 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Aysen (Chile) (🇨🇱)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bayres (Argentina) (🇦🇷)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bio Bio (Chile) (🇨🇱)
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/.m3u8
 
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Buena (Puerto Rico) (🇵🇷)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C2 Misiones (Argentina) (🇦🇷)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C21 Chillan (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/canal21tv/live/.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C5SF Santa Fe (Argentina) (🇦🇷)
-https://stream.arcast.com.ar/c5sf/c5sf/.m3u8
+
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cable Sur (Colombia) (🇨🇴)
 https://tvlatina.live:1936/8012/8012/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cadena Sur (Peru) (🇵🇪)
@@ -395,16 +392,10 @@ https://cloudvideo.servers10.com:8081/8118/index.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 San Antonio (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 Ushuaia (Argentina) (🇦🇷)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 (El Salvador) (🇸🇻)
 https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 Las Heras (Argentina) (🇦🇷)
-https://stream.arcast.com.ar/canal3/canal3/.m3u8
 
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 5 Tandil (Argentina) (🇦🇷)
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 57 (Chile) (🇨🇱)
 https://panel.tvstream.cl:1936/8016/8016/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 8 Catacaos (Peru) (🇵🇪)
@@ -412,8 +403,7 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal ISB (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal U (Argentina) (🇦🇷)
-https://stream.arcast.live/canalu/canalu/.m3u8
+
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela (Colombia) (🇨🇴)
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
 
@@ -421,16 +411,12 @@ https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Carare (Colombia) (🇨🇴)
 https://cp.panelchs.com:1936/8160/8160/.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cardinal (Argentina) (🇦🇷)
-https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CB Coto Brus (Costa Rica) (🇨🇷)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Charrua (Uruguay) (🇺🇾)
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Chilecito (Argentina) (🇦🇷)
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cinerama (Bolivia) (🇧🇴)
 https://is.gd/nDhGoy
@@ -455,8 +441,7 @@ https://is.gd/OvDyXa
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Decima (Chile) (🇨🇱)
 https://is.gd/4F8wMH
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DHE (Argentina) (🇦🇷)
-http://45.5.117.182:8000/play/a0fs/index.m3u8
+
 
 #EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Digital 809 (Rep. Dominicana) (🇩🇴)
 https://is.gd/7vD8Ep
@@ -470,8 +455,6 @@ https://vid2.ecuamedia.net/educatv/live/.m3u8
 
 #EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Puerto (Rep. Dominicana) (🇩🇴)
 https://is.gd/Mx7kn4
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Trece (Argentina) (🇦🇷)
-https://is.gd/Gsefnj
 
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estudio (Chile) (🇨🇱)
@@ -492,8 +475,7 @@ https://is.gd/2OF1sO
 https://is.gd/6MWw3A
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Global (Peru) (🇵🇪)
 https://is.gd/HiYOGE
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Good Radio (Argentina) (🇦🇷)
-https://is.gd/DEhBI5
+
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Gracia (Chile) (🇨🇱)
 https://v4.tustreaming.cl/graciatv/index.m3u8
 
@@ -567,8 +549,7 @@ https://is.gd/4EXlXi
 https://is.gd/lyyJkI
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Plaza (Chile) (🇨🇱)
 https://is.gd/dXksy7
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Power (Argentina) (🇦🇷)
-https://is.gd/I1gqMu
+
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Pucon (Chile) (🇨🇱)
 https://is.gd/TXW4fX
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Puruwa (Ecuador) (🇪🇨)
@@ -633,14 +614,11 @@ https://is.gd/wOKCVd
 https://is.gd/9uJiTH
 #EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Teleuniverso (Rep. Dominicana) (🇩🇴)
 https://is.gd/DGzqlk
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tendencias FM (Argentina) (🇦🇷)
-https://is.gd/CrplRs
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tevex (Chile) (🇨🇱)
 https://is.gd/TSkTKW
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",The Rockstar Channel (Argentina) (🇦🇷)
-https://is.gd/bvyczE
+
 #EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tigueritos (Rep. Dominicana) (🇩🇴)
 https://is.gd/CU5vfs
 #EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TNI Nueva Isabela (Rep. Dominicana) (🇩🇴)
@@ -669,18 +647,12 @@ https://is.gd/cUSHk6
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UMAG (Chile) (🇨🇱)
 https://is.gd/MMoyT1
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uni Teve (Argentina) (🇦🇷)
-https://is.gd/iRcqRc
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Univalle (Bolivia) (🇧🇴)
 https://is.gd/YRhBEU
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UNLP (Argentina) (🇦🇷)
-https://is.gd/Myxg7U
+
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uranio (Peru) (🇵🇪)
 https://is.gd/wUo2sQ
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Urbana Teve (Argentina) (🇦🇷)
-https://is.gd/8ACGKq
-
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VC Medios (Chile) (🇨🇱)
 https://is.gd/Ymfb0E
