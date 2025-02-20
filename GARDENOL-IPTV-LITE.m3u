@@ -64,6 +64,10 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
+https://is.gd/Qy0INv
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
+https://n9.cl/8zhz2
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
@@ -264,6 +268,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/index.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Martí HD (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (Mexico) (🇲🇽)
+https://is.gd/hJCLNx
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RIBERA (Espanha) (🇪🇸)
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RT (Espanha) (🇪🇸)
@@ -874,10 +880,6 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",CNA (Cingapura)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",RT Documentary Channel
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Canal 7 ITALIA
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",telePAVIA
@@ -962,8 +964,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 http://istream.binarywaves.com:8081/hls/arabica/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",AS AzStar (Azerbaiyan) (🇦🇿)
 http://live.azstartv.com/azstar/smil:azstar.smil/.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Asi Es Mi Gente (USA) (🇺🇸)
-https://www.yupi.live:1936/tvmigente/tvmigente/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Assime Portugal (Brasil) (🇧🇷)
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Astrakhan Live (Rusia) (🇷🇺)
@@ -1026,12 +1026,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
 https://is.gd/w1sTfc
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cine Madame (Italia) (🇮🇹)
 https://is.gd/7hOd2Q
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cine Mix (Alemania) (🇩🇪)
-https://is.gd/erDx3q
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cine Nanar (Francia) (🇫🇷)
 https://n9.cl/dyqexb
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cine Prime (Francia) (🇫🇷)
-https://is.gd/PS9kGu
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cine Western (Francia) (🇫🇷)
 https://n9.cl/o30k8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Cinemonde (Brasil) (🇧🇷)
@@ -1128,14 +1124,10 @@ https://n9.cl/x9kpx1
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Discovery Channel (Rusia) (🇷🇺)
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Discovery ID (UK) (🇬🇧)
-http://45.159.74.14:80/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ditty (USA) (🇺🇸)
 https://is.gd/AcV2Hj
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",DKN DraftKings Network (USA) (🇺🇸)
 https://n9.cl/eui38
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Dr. G Medical Examiner (USA) (🇺🇸)
-https://n9.cl/g3p9a
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Drive (Francia) (🇫🇷)
 https://is.gd/8dqD5T
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Drone (USA) (🇺🇸)
@@ -1148,8 +1140,6 @@ http://46.249.95.140:8081/hls/data.m3u8
 https://is.gd/6n9P7E
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",DT Dance 2 (Paises Bajos) (🇳🇱)
 https://is.gd/VTPoM0
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",DTX (USA) (🇺🇸)
-http://175.107.244.52:4457/play/a07a/index.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Duck Dynasty (USA) (🇺🇸)
 https://n9.cl/0wbthg
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Dukh Nivaran (India) (🇮🇳)
@@ -1158,8 +1148,6 @@ https://n9.cl/r2lo7
 https://n9.cl/5uvba
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",E Live (Italia) (🇮🇹)
 https://n9.cl/lscnr
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ebony (USA) (🇺🇸)
-https://n9.cl/6ijb9
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Echo (Rusia) (🇷🇺)
 https://n9.cl/waspb
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Eco Sistema (Ucrania) (🇺🇦)
@@ -1168,8 +1156,6 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8
 https://n9.cl/yhu1i
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",El Conflicto (USA) (🇺🇸)
 https://is.gd/fzEOAb
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Electric Now (USA) (🇺🇸)
-https://is.gd/reCJ8L
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ellef (Paises Bajos) (🇳🇱)
 https://n9.cl/cjn4z
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Elshaddai (Etiopia) (🇪🇹)
@@ -1192,8 +1178,6 @@ https://n9.cl/4vek8n
 https://is.gd/FzyDes
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fabella (Alemania) (🇩🇪)
 https://n9.cl/corgol20
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fairfield Channel 26 (USA) (🇺🇸)
-https://n9.cl/38fl9
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fala Litoral (Brasil) (🇧🇷)
 https://n9.cl/e5vaz
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Family Club (Francia) (🇫🇷)
@@ -1202,10 +1186,6 @@ https://is.gd/FIDJt7
 https://n9.cl/cgta5q
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fashion Czech & Slovak (Eslovaquia) (🇸🇰)
 http://lb.streaming.sk/fashiontv/stream/.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fear Factor (USA) (🇺🇸)
-https://is.gd/ToCZVS
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fear Zone (USA) (🇺🇸)
-https://is.gd/mrqPYL
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Feel Good Radio (Paises Bajos) (🇳🇱)
 https://n9.cl/p633w
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Feliz 7 Play (Brasil) (🇧🇷)
@@ -1214,18 +1194,10 @@ https://is.gd/9jcL4X
 http://213.163.114.23:25461/ipko/M8TATzJPXe/1
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Festina (Kosovo) (🇽🇰)
 https://n9.cl/b0shq
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Festive Hub (UK) (🇬🇧)
-https://n9.cl/corgol24
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fight Network (USA) (🇺🇸)
 https://is.gd/uSwQKo
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Film Al Femminile (Italia) (🇮🇹)
-https://n9.cl/corgol30
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Film E Sorrisi (Italia) (🇮🇹)
 https://n9.cl/rxqde
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Film Gold (Alemania) (🇩🇪)
-https://n9.cl/9syipl
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fireplace 4K (USA) (🇺🇸)
-https://n9.cl/corgol38
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Firstlight (USA) (🇺🇸)
 https://n9.cl/0dyp2r
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Flipping Nation (USA) (🇺🇸)
@@ -1238,16 +1210,12 @@ https://is.gd/PmBrDr
 https://n9.cl/corgol52
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Forged In Fire (USA) (🇺🇸)
 https://is.gd/m8FX50
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Formula (Georgia) (🇬🇪)
-https://n9.cl/3n6p9
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",FOX 2 San Francisco (USA) (🇺🇸)
 https://n9.cl/28jko
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Freebie (USA) (🇺🇸)
 https://n9.cl/z9usza
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Frequence Novelas (Francia) (🇫🇷)
 https://n9.cl/rt27s
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Gallo (Brasil) (🇧🇷)
-https://n9.cl/aedx4
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",GB News (UK) (🇬🇧)
 https://n9.cl/1cm8s4
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",GCTV Global Champions (Italia) (🇮🇹)
@@ -1300,10 +1268,6 @@ https://n9.cl/9wh712
 https://is.gd/xvhDlr
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Heimat Kino (Alemania) (🇩🇪)
 https://is.gd/Er7Okb
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Hell's Kitchen (USA) (🇺🇸)
-https://n9.cl/vr61j
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Heritage (India) (🇮🇳)
-https://is.gd/PeddLP
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HGTV Hau Giang (Vietnam) (🇻🇳)
 https://n9.cl/bn1d1
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Hip Hop (Italia) (🇮🇹)
@@ -1330,8 +1294,6 @@ https://n9.cl/58rqk
 https://is.gd/cIkOVL
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Homicide (Francia) (🇫🇷)
 https://n9.cl/3v7r3
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Horror Machine (USA) (🇺🇸)
-https://is.gd/M2aJqD
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HTV Hevizi (Hungria) (🇭🇺)
 https://n9.cl/46j20
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Hulchul (Canada) (🇨🇦)
@@ -1370,26 +1332,18 @@ https://is.gd/yQDpyn
 https://is.gd/W9yVkc
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Inside Crime (UK) (🇬🇧)
 https://n9.cl/p86aj
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Inter (Brasil) (🇧🇷)
-https://n9.cl/8zhz2
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Investment Pitch (USA) (🇺🇸)
 https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ion Mystery (USA) (🇺🇸)
-https://is.gd/59eP2w
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Iqra Bangla (Bangladesh) (🇧🇩)
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ishtar (Irak) (🇮🇶)
 https://is.gd/JjeII2
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",ISTV (Brasil) (🇧🇷)
-https://n9.cl/t1knk
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Italia 2 (Italia) (🇮🇹)
 https://n9.cl/m0aif
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Jamie Oliver (USA) (🇺🇸)
 https://n9.cl/h6uvok
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Journy (USA) (🇺🇸)
 https://is.gd/M42yCU
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",JP Jovem Pan News (Brasil) (🇧🇷)
-https://n9.cl/p608r
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",JTBC Baseball (Corea) (🇰🇷)
 https://is.gd/R4YiaT
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",JTBC Begin Again (Corea) (🇰🇷)
@@ -1488,8 +1442,6 @@ https://is.gd/WtHplh
 https://is.gd/9BAMz6
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Muzzik ZZ (Serbia) (🇷🇸)
 https://is.gd/fDH7oq
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",My Time Movie Network (Mexico) (🇲🇽)
-https://is.gd/hJCLNx
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",My Zen Fit (UK) (🇬🇧)
 https://is.gd/1KQ7Od
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Nature Stream (USA) (🇺🇸)
@@ -1546,18 +1498,12 @@ https://is.gd/jkWui1
 https://n9.cl/8p4xi0
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Play (Grecia) (🇬🇷)
 https://is.gd/4ZfBT3
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",PonTV (Brasil) (🇧🇷)
-https://is.gd/Qy0INv
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Pop Pegajoso (USA) (🇺🇸)
 https://is.gd/GYlayW
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Portal Ativo (Brasil) (🇧🇷)
 https://is.gd/tWArrM
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Power (Turquia) (🇹🇷)
-https://is.gd/yJCLa5
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Power Dance (Turquia) (🇹🇷)
 https://is.gd/IoIltL
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Power Turk (Turquia) (🇹🇷)
-https://is.gd/LFp6DF
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Power Turk Akustik (Turquia) (🇹🇷)
 https://is.gd/CFt7lq
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Power Turk Slow (Turquia) (🇹🇷)
@@ -1584,8 +1530,6 @@ https://is.gd/JePniq
 https://is.gd/rUWuk8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",RPM (Sudafrica) (🇿🇦)
 https://is.gd/R7MHyX
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",RU Music (Rusia) (🇷🇺)
-https://is.gd/XfHXhj
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",S1 (Rusia) (🇷🇺)
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",S86 (Rusia) (🇷🇺)
@@ -1616,8 +1560,6 @@ https://30a-tv.com/beachy.m3u8
 https://is.gd/DcPyMn
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",The Bob Ross Channel (USA) (🇺🇸)
 https://is.gd/AxpMDw
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",The Jack Hannah Channel (Canada) (🇨🇦)
-https://is.gd/gDeT0P
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",The Wicked Tuna (Paises Bajos) (🇳🇱)
 https://is.gd/zX3kJM
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Tivikom Ulan-Udje (Rusia) (🇷🇺)
@@ -1652,12 +1594,8 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 https://is.gd/LB8jlC
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Wild Planet (UK) (🇬🇧)
 https://is.gd/uaQ4sd
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",XFC (USA) (🇺🇸)
-https://is.gd/WBlo9R
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",XITE Hits (UK) (🇬🇧)
 https://is.gd/snMcMj
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",XITE Just Chill (USA) (🇺🇸)
-https://is.gd/3pvnnN
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",XITE Rock On (Alemania) (🇩🇪)
 https://is.gd/TQYscC
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",XITE Rock On (USA) (🇺🇸)
