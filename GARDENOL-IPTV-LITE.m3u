@@ -152,9 +152,9 @@ http://200.189.113.201/hls/tve.m3u8
 http://200.189.113.201:80/hls/tve.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",CATVE HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL HD  (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NOVO BRASIL HD  (🇧🇷)
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL FHD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NOVO BRASIL FHD (🇧🇷)
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
@@ -174,11 +174,11 @@ http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Pet Lovers TV HD (🇧🇷)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD (SP)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD (SP) (🇧🇷)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD (🇧🇷)
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV OSORIO NEWS HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV OSORIO NEWS HD (🇧🇷)
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Mon HD (🇧🇷)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
