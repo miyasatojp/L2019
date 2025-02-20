@@ -100,155 +100,155 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://is.gd/Od5UeT
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (USA) (🇺🇸)
 https://is.gd/1mFDs8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band TV Vale do Uruará
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png",TV GRAO PARA GAZETA
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://seeklogo.com/images/G/gazeta-logo-5F1A8CD351-seeklogo.com.png",TV GRAO PARA GAZETA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png",SBT - TV Cidade Verde (PI)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png",SBT - TV Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png",SBT TV Guajará (PA)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logospng.org/download/sbt/logo-sbt-512.png",SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",E PARANÁ
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",E PARANÁ
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",TV CULTURA PR
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",TV CULTURA PR
 http://200.189.113.201:80/hls/tve.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",CATVE HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",CATVE HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL HD
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL FHD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL FHD
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg",NOVA ERA TV HD Lages SC
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png",TV Metropole HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png",TV Metropole HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD JUNDIAI
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg",MASTER TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg",MASTER TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg",FonteTV HD (GO)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg",FonteTV HD (GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png",TV Câmara
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png",TV Câmara
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV LIBERDADE HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Pet Lovers TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Pet Lovers TV HD
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD (SP)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV OSORIO NEWS HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV OSORIO NEWS HD
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Mon HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Mon HD
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TVídeoNews HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TVídeoNews HD
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NGT HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NGT HD
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Japi HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Japi HD
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",DEMAIS TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",DEMAIS TV HD
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",REDE SPTV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",REDE SPTV HD
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV ITAPETININGA HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV ITAPETININGA HD
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV RIO MADEIRA HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV RIO MADEIRA HD
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CLUBE WEB
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CHROMA
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Canal 29 WebTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Canal 29 WebTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Brusque (SC)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM MACEIÓ
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM MACEIÓ
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER TV PR
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SDB
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SDB
 https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CORDEIRO
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CORDEIRO
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",ELYTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",ELYTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER SHOW TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SOL COMUNIDADE
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",CONECT TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",CONECT TV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",SERTAO TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS 576p
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS 576p
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS SD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS SD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",AVANÇA BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",4 POR 4
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",4 POR 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Resumo da Ópera
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Resumo da Ópera
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV VIDEONEWS
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Oportunidades TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",SONY ONE SHARK TANK
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Curta!
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Revry Brasil
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Viajando pelo Brasil
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TVi África
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TVi África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Exija África HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Exija África HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BS TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BR Super TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BR Super TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",PBC TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",PBC TV
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Grão Pará
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Grão Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Soul Cine Clube
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Clube Web TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NBT
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NGT
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Aracati
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",XR HEALTH BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",CONECTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Gazeta MA SD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Gazeta MA SD
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Astral TV FHD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Astral TV FHD
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Caravana Play
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Caravana Play
 https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Wtj TV Minas
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Wtj TV Minas
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Play TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Ypê TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Fala Litoral
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Anime TV WebTV HD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -262,595 +262,595 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ABC (Paraguay) (🇵🇾)
+#EXTINF:-1 group-title="PARAGUAI" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ABC (Paraguay) (🇵🇾)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Martí HD (Cuba)
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Martí HD (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (Mexico) (🇲🇽)
 https://is.gd/hJCLNx
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RIBERA (Espanha) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RIBERA (Espanha) (🇪🇸)
 http://common01.todostreaming.es/live/ribera-livestream.m3u8?IMDSFULL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RT (Espanha) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RT (Espanha) (🇪🇸)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal HD(Español)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal HD(Español)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",POWER TV HD(Español)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",POWER TV HD(Español)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Radio TV Neuquen (ARG) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Radio TV Neuquen (ARG) (🇦🇷)
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino (Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino 2(Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino 2(Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Holvoet (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Holvoet (Chile) (🇨🇱)
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 10 (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 10 (Mexico) (🇲🇽)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MULTIMEDIOS (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MULTIMEDIOS (Mexico) (🇲🇽)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MONTERREY (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MONTERREY (Mexico) (🇲🇽)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ovacion (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ovacion (Mexico) (🇲🇽)
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Extrema TV (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Extrema TV (Costa Rica) (🇨🇷)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 21 (El Salvador) (🇸🇻)
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 21 (El Salvador) (🇸🇻)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mega (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mega (Bolivia) (🇧🇴)
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w962441080.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cali TV (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cali TV (Colombia) (🇨🇴)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w1506754820.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",57 (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",57 (USA) (🇺🇸)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",10 Chiapas (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",10 Chiapas (Mexico) (🇲🇽)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Cultura (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Cultura (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Festival (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Festival (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 La Rioja (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 La Rioja (Argentina) (🇦🇷)
 http://arcast.net:1935/mp/mp/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Max (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Max (Argentina) (🇦🇷)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Realities (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Realities (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Teleseries (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",13 Teleseries (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",14 Catorce (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",14 Catorce (Rep. Dominicana) (🇩🇴)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",19 (El Salvador) (🇸🇻)
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",19 (El Salvador) (🇸🇻)
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",2 Canal AlpaSurfnet (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",2 Canal AlpaSurfnet (Colombia) (🇨🇴)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",2 Quellon (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",2 Quellon (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal2quellon/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",25 (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",25 (Rep. Dominicana) (🇩🇴)
 https://ss3.domint.net:3150/c25_str/canal25/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33 Tijuana (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33 Tijuana (Mexico) (🇲🇽)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33TV (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33TV (España) (🇪🇸)
 https://limited43.todostreaming.es/live/simbana-livestream.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",4.1 (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",4.1 (Mexico) (🇲🇽)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",4.2 (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",4.2 (Mexico) (🇲🇽)
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",44 Chihuahua (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",44 Chihuahua (Mexico) (🇲🇽)
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",504 (Honduras) (🇭🇳)
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",504 (Honduras) (🇭🇳)
 https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",6 Multimedios CDMX (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",6 Multimedios CDMX (Mexico) (🇲🇽)
 http://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",7 Jujuy (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",7 Jujuy (Argentina) (🇦🇷)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",7 Neuquen (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",7 Neuquen (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 Mediterraneo (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 Mediterraneo (España) (🇪🇸)
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 NTV (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 NTV (Mexico) (🇲🇽)
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",88 Stereo (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",88 Stereo (Costa Rica) (🇨🇷)
 http://k3.usastreams.com/CableLatino/88stereo/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",9 Bio Bio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",9 Bio Bio (Chile) (🇨🇱)
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AE Radio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AE Radio (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AFV (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AFV (España) (🇪🇸)
 https://7fecfa1db0bf431badb66186c21f3294.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-ROKU/mt/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Agenda 56 (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Agenda 56 (Rep. Dominicana) (🇩🇴)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Aion (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Aion (Rep. Dominicana) (🇩🇴)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Alcarria (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Alcarria (España) (🇪🇸)
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Alerce (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Alerce (Chile) (🇨🇱)
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AMC (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",AMC (España) (🇪🇸)
 https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Antofagasta (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Antofagasta (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Artequatre (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Artequatre (España) (🇪🇸)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Asucap San Jorge (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Asucap San Jorge (Colombia) (🇨🇴)
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Austral (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Austral (Ecuador) (🇪🇨)
 https://stmv3.voxtvhd.com.br/australtv/australtv/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Aysen (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Aysen (Chile) (🇨🇱)
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Azteca Int (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Azteca Int (Mexico) (🇲🇽)
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bayres (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bayres (Argentina) (🇦🇷)
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Beteve (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Beteve (España) (🇪🇸)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bigtime (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bigtime (España) (🇪🇸)
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bio Bio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Bio Bio (Chile) (🇨🇱)
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Buap (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Buap (Mexico) (🇲🇽)
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Buena (Puerto Rico) (🇵🇷)
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Buena (Puerto Rico) (🇵🇷)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C2 Misiones (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C2 Misiones (Argentina) (🇦🇷)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C21 Chillan (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C21 Chillan (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/canal21tv/live/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C56 Castellon (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C56 Castellon (España) (🇪🇸)
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C5SF Santa Fe (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",C5SF Santa Fe (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/c5sf/c5sf/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cable Sur (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cable Sur (Colombia) (🇨🇴)
 https://tvlatina.live:1936/8012/8012/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cadena Sur (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cadena Sur (Peru) (🇵🇪)
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cali (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cali (Colombia) (🇨🇴)
 http://vbox.cehis.net/live-calitv/calitv1/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 San Antonio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 San Antonio (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 Ushuaia (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 2 Ushuaia (Argentina) (🇦🇷)
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 (El Salvador) (🇸🇻)
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 (El Salvador) (🇸🇻)
 https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 Las Heras (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 3 Las Heras (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/canal3/canal3/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 4 Cat (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 4 Cat (España) (🇪🇸)
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 4 Mallorca (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 4 Mallorca (España) (🇪🇸)
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 5 Tandil (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 5 Tandil (Argentina) (🇦🇷)
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 57 (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 57 (Chile) (🇨🇱)
 https://panel.tvstream.cl:1936/8016/8016/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 8 Catacaos (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal 8 Catacaos (Peru) (🇵🇪)
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal ISB (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal ISB (Chile) (🇨🇱)
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Sierra De Cadiz (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Sierra De Cadiz (España) (🇪🇸)
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Terres De L'Ebre (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal Terres De L'Ebre (España) (🇪🇸)
 https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal U (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canal U (Argentina) (🇦🇷)
 https://stream.arcast.live/canalu/canalu/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela (Colombia) (🇨🇴)
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Cinema (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Cinema (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Clasicos (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Clasicos (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Deportes (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Deportes (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Hits (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Hits (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Telenovelas (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Canela Telenovelas (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Caracola (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Caracola (Chile) (🇨🇱)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Carare (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Carare (Colombia) (🇨🇴)
 https://cp.panelchs.com:1936/8160/8160/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cardinal (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cardinal (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CB Coto Brus (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CB Coto Brus (Costa Rica) (🇨🇷)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CE Cadena Elite (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CE Cadena Elite (España) (🇪🇸)
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Charrua (Uruguay) (🇺🇾)
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Charrua (Uruguay) (🇺🇾)
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Chilecito (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Chilecito (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cine Friki (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cine Friki (España) (🇪🇸)
 https://is.gd/4s394q
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cine Romantico (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cine Romantico (Mexico) (🇲🇽)
 https://is.gd/BSAj8P
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cinerama (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cinerama (Bolivia) (🇧🇴)
 https://is.gd/nDhGoy
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ciudades Del Ocio (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ciudades Del Ocio (España) (🇪🇸)
 https://is.gd/AgLkvH
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Coco (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Coco (Rep. Dominicana) (🇩🇴)
 https://is.gd/lbzTWe
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Color 36 (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Color 36 (Ecuador) (🇪🇨)
 https://is.gd/ecy3yJ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Colosal (Costa Rica) (🇨🇷)
 https://is.gd/V68BMX
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Corazon (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Corazon (Mexico) (🇲🇽)
 https://is.gd/3p6TAJ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cosmos (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Cosmos (Peru) (🇵🇪)
 https://n9.cl/jdwxu
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Costa Del Sol (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Costa Del Sol (España) (🇪🇸)
 https://is.gd/1easbP
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CTV (Guatemala) (🇬🇹)
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CTV (Guatemala) (🇬🇹)
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CTV Internacional (Honduras) (🇭🇳)
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",CTV Internacional (Honduras) (🇭🇳)
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Dance FM (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Dance FM (Chile) (🇨🇱)
 https://is.gd/OvDyXa
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DC Distrito Comedia (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DC Distrito Comedia (España) (🇪🇸)
 http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Decima (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Decima (Chile) (🇨🇱)
 https://is.gd/4F8wMH
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Deluxe Lounge (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Deluxe Lounge (España) (🇪🇸)
 https://is.gd/iEJQjZ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DHE (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DHE (Argentina) (🇦🇷)
 http://45.5.117.182:8000/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Diez Las Villas (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Diez Las Villas (España) (🇪🇸)
 https://is.gd/qfNGlN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Diez Ubeda (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Diez Ubeda (España) (🇪🇸)
 https://is.gd/Rlohnz
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Digital 809 (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Digital 809 (Rep. Dominicana) (🇩🇴)
 https://is.gd/7vD8Ep
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DMJ (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DMJ (Peru) (🇵🇪)
 https://is.gd/YWK6ye
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DW Deutsche Welle (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",DW Deutsche Welle (España) (🇪🇸)
 https://is.gd/kONAEp
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",EC EGM Channel (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",EC EGM Channel (Chile) (🇨🇱)
 https://paneltv.online:1936/8186/8186/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Educa (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Educa (Ecuador) (🇪🇨)
 https://vid2.ecuamedia.net/educatv/live/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",EL (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",EL (España) (🇪🇸)
 https://n9.cl/ruscv
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Confidencial (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Confidencial (España) (🇪🇸)
 https://is.gd/YIlWsG
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pais (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pais (España) (🇪🇸)
 https://is.gd/Ml7mdo
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Puerto (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Puerto (Rep. Dominicana) (🇩🇴)
 https://is.gd/Mx7kn4
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Trece (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Trece (Argentina) (🇦🇷)
 https://is.gd/Gsefnj
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Elche (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Elche (España) (🇪🇸)
 https://is.gd/LcWZ8o
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Escritorio (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Escritorio (España) (🇪🇸)
 http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Este Canal (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Este Canal (España) (🇪🇸)
 https://is.gd/2xEd8O
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estepona (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estepona (España) (🇪🇸)
 https://is.gd/oP5VfW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estrella (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estrella (Mexico) (🇲🇽)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estrella News (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estrella News (Mexico) (🇲🇽)
 https://is.gd/U3kI9W
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estudio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Estudio (Chile) (🇨🇱)
 https://is.gd/cCBa3t
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Explosion Regional (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Explosion Regional (Mexico) (🇲🇽)
 https://is.gd/etP87R
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Expresa (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Expresa (Mexico) (🇲🇽)
 https://is.gd/ybZgv8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Extrema (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Extrema (Costa Rica) (🇨🇷)
 https://is.gd/wRDufN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Factoria De Carnaval (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Factoria De Carnaval (España) (🇪🇸)
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Failarmy (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Failarmy (España) (🇪🇸)
 https://is.gd/Hd3OE5
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Farra Play (Paraguay) (🇵🇾)
+#EXTINF:-1 group-title="PARAGUAI" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Farra Play (Paraguay) (🇵🇾)
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Fibwi (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Fibwi (España) (🇪🇸)
 https://is.gd/Q1pxYc
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Frecuencia Musical (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Frecuencia Musical (Ecuador) (🇪🇨)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",FTV Factoria (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",FTV Factoria (España) (🇪🇸)
 https://is.gd/pjSGmU
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Futuro FM (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Futuro FM (Chile) (🇨🇱)
 https://is.gd/2OF1sO
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Garabito (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Garabito (Costa Rica) (🇨🇷)
 https://is.gd/6MWw3A
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Global (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Global (Peru) (🇵🇪)
 https://is.gd/HiYOGE
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Good Radio (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Good Radio (Argentina) (🇦🇷)
 https://is.gd/DEhBI5
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Gracia (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Gracia (Chile) (🇨🇱)
 https://v4.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Grjngo (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Grjngo (España) (🇪🇸)
 https://is.gd/OOSQpL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Haina Vision (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Haina Vision (Rep. Dominicana) (🇩🇴)
 https://is.gd/fnTXGF
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Haz Clic (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Haz Clic (Mexico) (🇲🇽)
 https://is.gd/wjfnaf
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Holvoet (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Holvoet (Chile) (🇨🇱)
 https://is.gd/8X0Fc6
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",HTV Canal (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",HTV Canal (Rep. Dominicana) (🇩🇴)
 https://is.gd/HMcS6u
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Huasco (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Huasco (Chile) (🇨🇱)
 https://paneltv.online:1936/8024/8024/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ibiza Radio (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ibiza Radio (España) (🇪🇸)
 https://is.gd/rFPdAO
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Interactiva FM (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Interactiva FM (Chile) (🇨🇱)
 https://is.gd/rIzBPN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Intercomarcal (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Intercomarcal (España) (🇪🇸)
 https://is.gd/N9Lhgo
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Iquique (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Iquique (Chile) (🇨🇱)
 https://is.gd/x6FITW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ITV Deportes (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ITV Deportes (Mexico) (🇲🇽)
 https://is.gd/JLA3VJ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ITV Patagonia (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ITV Patagonia (Chile) (🇨🇱)
 https://is.gd/xmBOek
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",IU Imagen Universal (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",IU Imagen Universal (Rep. Dominicana) (🇩🇴)
 https://is.gd/OrDPTe
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Kanal D Drama (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Kanal D Drama (España) (🇪🇸)
 https://is.gd/ews6YI
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Melinkana (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Melinkana (Chile) (🇨🇱)
 https://is.gd/wq5YCy
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Nuestra (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Nuestra (Chile) (🇨🇱)
 https://is.gd/BbNmrN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Red (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",La Red (Chile) (🇨🇱)
 https://is.gd/0ty5cP
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Lobo (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Lobo (Mexico) (🇲🇽)
 https://is.gd/GVblYS
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Logos (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Logos (España) (🇪🇸)
 https://is.gd/oyIah2
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Logos Salud (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Logos Salud (España) (🇪🇸)
 https://is.gd/FlMTHR
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",M95 Marbella (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",M95 Marbella (España) (🇪🇸)
 https://is.gd/RtVpBI
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mar La Paz (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mar La Paz (Mexico) (🇲🇽)
 https://is.gd/81C1sG
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mar Puerto Vallarta (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mar Puerto Vallarta (Mexico) (🇲🇽)
 https://is.gd/v2TmXJ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Maxi Vision (Guatemala) (🇬🇹)
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Maxi Vision (Guatemala) (🇬🇹)
 https://is.gd/pngFCW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Maya (Guatemala) (🇬🇹)
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Maya (Guatemala) (🇬🇹)
 https://is.gd/hwIJ9N
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Metropolis 19.2 (Honduras) (🇭🇳)
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Metropolis 19.2 (Honduras) (🇭🇳)
 https://is.gd/hGK7uL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mi (Paraguay) (🇵🇾)
+#EXTINF:-1 group-title="PARAGUAI" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mi (Paraguay) (🇵🇾)
 https://is.gd/vZK7mq
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mijas 3.40 (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mijas 3.40 (España) (🇪🇸)
 https://is.gd/szGRcQ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mogan (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mogan (España) (🇪🇸)
 https://is.gd/kZX3AO
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Montaña (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Montaña (Rep. Dominicana) (🇩🇴)
 https://is.gd/ZljzED
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Motorvision (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Motorvision (España) (🇪🇸)
 https://is.gd/eAgXfU
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MTV Live (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",MTV Live (Mexico) (🇲🇽)
 http://45.5.117.182:8000/play/a0ie/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",My Time Movie Network (España) (🇪🇸)
 https://is.gd/mDrRKe
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NCT (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NCT (Chile) (🇨🇱)
 https://is.gd/7v2y1e
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Negocios (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Negocios (España) (🇪🇸)
 https://is.gd/PTo4Dj
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nicoya (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nicoya (Costa Rica) (🇨🇷)
 https://is.gd/zi5TAj
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nativa (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nativa (Peru) (🇵🇪)
 https://is.gd/sfHoly
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nord (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nord (España) (🇪🇸)
 http://51.83.46.198/hls/nord.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Noroeste (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Noroeste (España) (🇪🇸)
 https://is.gd/hkTBw9
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nortevision (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nortevision (España) (🇪🇸)
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nosey Escandalos (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nosey Escandalos (España) (🇪🇸)
 https://is.gd/GR2vuS
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nothing Pero Chill (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nothing Pero Chill (España) (🇪🇸)
 https://is.gd/dToV0n
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NS Nor Selva (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NS Nor Selva (Peru) (🇵🇪)
 https://is.gd/CnCP6t
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NTV (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",NTV (Chile) (🇨🇱)
 https://marine2.miplay.cl/ntv/index.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nuevo Mundo (Guatemala) (🇬🇹)
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Nuevo Mundo (Guatemala) (🇬🇹)
 https://is.gd/rlixzU
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ODTV Onda Digital (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ODTV Onda Digital (Chile) (🇨🇱)
 https://is.gd/4Z7Tbt
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ODTV Onda Digital 2 (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",ODTV Onda Digital 2 (Chile) (🇨🇱)
 https://is.gd/mlKuYa
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Opcion (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Opcion (Rep. Dominicana) (🇩🇴)
 https://is.gd/WiEKKP
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Patagonia Radio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Patagonia Radio (Chile) (🇨🇱)
 https://is.gd/L1dCGN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Peñol (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Peñol (Colombia) (🇨🇴)
 https://is.gd/d4vu3g
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Pichilemu (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Pichilemu (Chile) (🇨🇱)
 https://is.gd/4EXlXi
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Onda Cadiz (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Onda Cadiz (España) (🇪🇸)
 https://is.gd/9KEaMX
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Onda Valencia (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Onda Valencia (España) (🇪🇸)
 https://is.gd/YVixhz
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Planeta (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Planeta (Peru) (🇵🇪)
 https://is.gd/lyyJkI
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Plaza (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Plaza (Chile) (🇨🇱)
 https://is.gd/dXksy7
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Power (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Power (Argentina) (🇦🇷)
 https://is.gd/I1gqMu
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Pucon (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Pucon (Chile) (🇨🇱)
 https://is.gd/TXW4fX
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Puruwa (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Puruwa (Ecuador) (🇪🇨)
 https://is.gd/dfJdZL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Radio Bocairent (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Radio Bocairent (España) (🇪🇸)
 https://is.gd/6I1GtP
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RCG (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RCG (Mexico) (🇲🇽)
 https://is.gd/XnNjSz
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RCK (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RCK (Chile) (🇨🇱)
 https://is.gd/T3QhPw
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ready (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ready (Rep. Dominicana) (🇩🇴)
 https://is.gd/ZW4xmR
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Recuerdos Retro (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Recuerdos Retro (Chile) (🇨🇱)
 https://is.gd/WwApFq
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Red 24 (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Red 24 (Bolivia) (🇧🇴)
 https://is.gd/aOam0G
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Reforma (Venezuela) (🇻🇪)
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Reforma (Venezuela) (🇻🇪)
 https://is.gd/55GyAE
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Region (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Region (Peru) (🇵🇪)
 https://is.gd/1gC3bU
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ribera (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Ribera (España) (🇪🇸)
 https://is.gd/nF1RdY
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RTVD 4 (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",RTVD 4 (Rep. Dominicana) (🇩🇴)
 https://is.gd/Z9Gi4A
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",San Jose (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",San Jose (Costa Rica) (🇨🇷)
 https://is.gd/vLxbKn
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Santa Maria (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Santa Maria (Chile) (🇨🇱)
 https://is.gd/hjcXLe
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SCÑ San Carlos Ñuble (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SCÑ San Carlos Ñuble (Chile) (🇨🇱)
 https://is.gd/Ro4DbS
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.1 (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.1 (Mexico) (🇲🇽)
 https://n9.cl/7li50
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.2 (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.2 (Mexico) (🇲🇽)
 https://n9.cl/jmt6e
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SM Su Mundo (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SM Su Mundo (Rep. Dominicana) (🇩🇴)
 https://is.gd/j1a2e6
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Soberania (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Soberania (Chile) (🇨🇱)
 https://is.gd/uZu0gn
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sociales VIP (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sociales VIP (España) (🇪🇸)
 https://is.gd/bpeHMN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol (Peru) (🇵🇪)
 https://is.gd/i7guHP
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol Canal 10 (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol Canal 10 (España) (🇪🇸)
 https://n9.cl/6q8yl
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol Musica (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sol Musica (España) (🇪🇸)
 https://is.gd/anmjMD
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Solidaria (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Solidaria (España) (🇪🇸)
 https://is.gd/QEAZJ2
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STV Santiago (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STV Santiago (Chile) (🇨🇱)
 https://is.gd/TOp0GN
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STV Sarapiqui (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STV Sarapiqui (Costa Rica) (🇨🇷)
 https://is.gd/CEhvNW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STZ Telebista (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",STZ Telebista (España) (🇪🇸)
 https://is.gd/jQiO87
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Super Canal (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Super Canal (Peru) (🇵🇪)
 https://is.gd/lf0jlx
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Suram (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Suram (Colombia) (🇨🇴)
 https://is.gd/kOYuwW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SV Sextavision (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SV Sextavision (Chile) (🇨🇱)
 https://is.gd/YQhALu
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",T-Vinet (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",T-Vinet (Chile) (🇨🇱)
 https://is.gd/ixarR2
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tarapoto (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tarapoto (Peru) (🇵🇪)
 https://is.gd/bPkob8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Taronja Osona (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Taronja Osona (España) (🇪🇸)
 https://is.gd/4qVVf9
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tele Brunca (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tele Brunca (Costa Rica) (🇨🇷)
 https://is.gd/BaJ8YL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tele Ritmo (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tele Ritmo (Mexico) (🇲🇽)
 https://is.gd/sNOC7u
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telecolor (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telecolor (Peru) (🇵🇪)
 https://is.gd/ig2230
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telefuturo (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telefuturo (Rep. Dominicana) (🇩🇴)
 https://is.gd/wOKCVd
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telemax (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telemax (Mexico) (🇲🇽)
 https://n9.cl/5imvi
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telemundo (Puerto Rico) (🇵🇷)
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Telemundo (Puerto Rico) (🇵🇷)
 https://is.gd/9uJiTH
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Teleuniverso (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Teleuniverso (Rep. Dominicana) (🇩🇴)
 https://is.gd/DGzqlk
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tendencias FM (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tendencias FM (Argentina) (🇦🇷)
 https://is.gd/CrplRs
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tevecat (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tevecat (España) (🇪🇸)
 https://is.gd/9PNUvm
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tevex (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tevex (Chile) (🇨🇱)
 https://is.gd/TSkTKW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",The Pet Collective (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",The Pet Collective (España) (🇪🇸)
 https://is.gd/d1EDAO
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",The Rockstar Channel (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",The Rockstar Channel (Argentina) (🇦🇷)
 https://is.gd/bvyczE
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tigueritos (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tigueritos (Rep. Dominicana) (🇩🇴)
 https://is.gd/CU5vfs
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TNI Nueva Isabela (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 group-title="REP.DOMINICANA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TNI Nueva Isabela (Rep. Dominicana) (🇩🇴)
 https://is.gd/gtTP27
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TNO Radio (Venezuela) (🇻🇪)
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TNO Radio (Venezuela) (🇻🇪)
 https://is.gd/gA79ay
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trace Latina (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trace Latina (España) (🇪🇸)
 https://is.gd/MWm0fY
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trace Urban (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trace Urban (España) (🇪🇸)
 https://is.gd/JOV38J
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trailers (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Trailers (España) (🇪🇸)
 https://is.gd/HHTDme
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tropical (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tropical (Peru) (🇵🇪)
 https://is.gd/JVPPKM
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tropical Music (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tropical Music (Colombia) (🇨🇴)
 https://n9.cl/syd4e
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tu Canal Musical (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tu Canal Musical (España) (🇪🇸)
 https://is.gd/kEHUvm
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tu Universo (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tu Universo (Colombia) (🇨🇴)
 https://is.gd/Z1SIl0
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tuya La Janda (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Tuya La Janda (España) (🇪🇸)
 http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVM Cordoba (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVM Cordoba (España) (🇪🇸)
 https://is.gd/4oGrmo
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVP Culiacan (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVP Culiacan (Mexico) (🇲🇽)
 https://is.gd/AqZukW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVP Los Mochis (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVP Los Mochis (Mexico) (🇲🇽)
 https://is.gd/k4QXaH
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVR (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVR (Chile) (🇨🇱)
 https://is.gd/QffKJB
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVU (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",TVU (Chile) (🇨🇱)
 https://is.gd/zQke1J
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UA Universidad Autonoma (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UA Universidad Autonoma (Chile) (🇨🇱)
 https://is.gd/Ld9OQQ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UCV (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UCV (Chile) (🇨🇱)
 https://is.gd/sGNX5s
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UES (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UES (Chile) (🇨🇱)
 https://is.gd/cUSHk6
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UMAG (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UMAG (Chile) (🇨🇱)
 https://is.gd/MMoyT1
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UMTV (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UMTV (Mexico) (🇲🇽)
 https://is.gd/jnYkoY
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Une Vinalopo (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Une Vinalopo (España) (🇪🇸)
 https://is.gd/RmWw9v
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uni Teve (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uni Teve (Argentina) (🇦🇷)
 https://is.gd/iRcqRc
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Univalle (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Univalle (Bolivia) (🇧🇴)
 https://is.gd/YRhBEU
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Univers (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Univers (España) (🇪🇸)
 https://is.gd/l1GDw7
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UNLP (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UNLP (Argentina) (🇦🇷)
 https://is.gd/Myxg7U
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uranio (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Uranio (Peru) (🇵🇪)
 https://is.gd/wUo2sQ
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Urbana Teve (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Urbana Teve (Argentina) (🇦🇷)
 https://is.gd/8ACGKq
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UTB Urola Telebista (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",UTB Urola Telebista (España) (🇪🇸)
 https://is.gd/jIQmFo
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VA+ (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VA+ (Mexico) (🇲🇽)
 https://is.gd/Z0Hgik
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VB Media (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VB Media (Mexico) (🇲🇽)
 https://is.gd/w15QSR
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VC Medios (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VC Medios (Chile) (🇨🇱)
 https://is.gd/Ymfb0E
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vclassic (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vclassic (Chile) (🇨🇱)
 https://is.gd/IzdhJq
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Verbena (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Verbena (España) (🇪🇸)
 https://is.gd/FM7DqX
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Via Altomayo (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Via Altomayo (Peru) (🇵🇪)
 https://is.gd/vrAJaW
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vinilos (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vinilos (Peru) (🇵🇪)
 https://is.gd/BNG5i3
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vision (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Vision (España) (🇪🇸)
 https://is.gd/6420mf
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VM Latino (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VM Latino (Costa Rica) (🇨🇷)
 https://is.gd/RcVxyw
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Voice Over Radio (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Voice Over Radio (Costa Rica) (🇨🇷)
 https://is.gd/6iBrBn
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VP (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VP (Chile) (🇨🇱)
 https://is.gd/scpOAL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VTV Valle (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VTV Valle (Chile) (🇨🇱)
 https://is.gd/Hlpx7q
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VZ (Peru) (🇵🇪)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",VZ (Peru) (🇵🇪)
 https://is.gd/iPj6pL
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",W (Nicaragua) (🇳🇮)
+#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",W (Nicaragua) (🇳🇮)
 https://is.gd/FNZg8D
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Wapp (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Wapp (Chile) (🇨🇱)
 https://is.gd/EJcUr9
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zas (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zas (España) (🇪🇸)
 https://is.gd/NsGOCf
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zurqui (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Zurqui (Costa Rica) (🇨🇷)
 https://is.gd/V5HZZW
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",iFood (USA) (🇺🇸)
 https://ifood-vizio.amagi.tv/playlist.m3u8
