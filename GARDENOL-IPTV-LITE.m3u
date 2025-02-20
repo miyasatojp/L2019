@@ -11,58 +11,58 @@
 ##################################################
 
 
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (🇧🇷)
 https://is.gd/7SctXG
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies (🇧🇷)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MOVIE SPHERE
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MOVIE SPHERE (🇧🇷)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",SONY ONE EMOÇÕES
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",SONY ONE EMOÇÕES (🇧🇷)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",CHANNEL ONE
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",CHANNEL ONE (🇧🇷)
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Ação HD
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Ação HD (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime TV e Filmes HD
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime TV e Filmes HD (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Comédia HD
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Comédia HD (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Família
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Família (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Romance
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Romance (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Cine Espanto
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Cine Espanto (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Crime
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Runtime Crime (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",GOSPEL MOVIES
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",GOSPEL MOVIES (🇧🇷)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Canal Plural
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Canal Plural (🇧🇷)
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV Gallo
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV Gallo (🇧🇷)
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",DarkFlix HD
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",DarkFlix HD (🇧🇷)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV Sjid HD (BA)
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV Sjid HD (BA) (🇧🇷)
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV SERIES Classic TV
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV SERIES Classic TV (🇧🇷)
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",CLASSIQUE TV
+#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",CLASSIQUE TV (🇧🇷)
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Music
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Music (🇧🇷)
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV MUNDIAL Gospel
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV MUNDIAL Gospel (🇧🇷)
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",FONTE TV Gospel
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",FONTE TV Gospel (🇧🇷)
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",NOVO TEMPO SP
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",NOVO TEMPO SP (🇧🇷)
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV TERCEIRO ANJO
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV TERCEIRO ANJO (🇧🇷)
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Cartoon
+#EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Cartoon (🇧🇷)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
 https://is.gd/Qy0INv
@@ -108,35 +108,35 @@ https://is.gd/1mFDs8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Bem Melhor (Brasil) (🇧🇷)
 https://video01.soultv.com.br/bemmelhor/bemmelhor/.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Blast Channel (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Blast Channel (Brasil) (🇧🇷)
 https://video01.logicahost.com.br/blast/blast/.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Cinemonde (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Cinemonde (Brasil) (🇧🇷)
 https://is.gd/Q6Gk8w
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",COM Brasil (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",COM Brasil (Brasil) (🇧🇷)
 https://n9.cl/dl9g1
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",ConecTv (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",ConecTv (Brasil) (🇧🇷)
 https://n9.cl/9p8be
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",D+ (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",D+ (Brasil) (🇧🇷)
 https://is.gd/jFqHuh
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Florida (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Florida (Brasil) (🇧🇷)
 https://is.gd/Z0Snla
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",GLN (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",GLN (Brasil) (🇧🇷)
 https://is.gd/81TFWQ
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",GNM (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",GNM (Brasil) (🇧🇷)
 https://n9.cl/70f77
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Inova 360 (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Inova 360 (Brasil) (🇧🇷)
 https://is.gd/yQDpyn
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MKK Web (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MKK Web (Brasil) (🇧🇷)
 https://is.gd/qneleZ
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Portal Ativo (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Portal Ativo (Brasil) (🇧🇷)
 https://is.gd/tWArrM
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Soul Cine Clube (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Soul Cine Clube (Brasil) (🇧🇷)
 https://is.gd/B3HZ3X
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",U Miss (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",U Miss (Brasil) (🇧🇷)
 https://is.gd/Xco4Cn
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Vivax (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Vivax (Brasil) (🇧🇷)
 https://n9.cl/551fq
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",XR Health (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",XR Health (Brasil) (🇧🇷)
 https://is.gd/TojTJ3
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band TV Vale do Uruará
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
@@ -152,153 +152,155 @@ http://200.189.113.201/hls/tve.m3u8
 http://200.189.113.201:80/hls/tve.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",CATVE HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL HD  (🇧🇷)
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL FHD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NOVO BRASIL FHD (🇧🇷)
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg",NOVA ERA TV HD Lages SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png",TV Metropole HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD (🇧🇷)
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD JUNDIAI
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/6335/6335593.png",CANAL 25 HD JUNDIAI (🇧🇷)
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://www.publicom.tv.br/imgs/channelIcons/tv-master-1.jpg",MASTER TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MASTER TV HD (🇧🇷)
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg",FonteTV HD (GO)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg",FonteTV HD (GO) (🇧🇷)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png",TV Câmara
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2017/05/16/09/40/flag-2317357_640.png",TV Câmara (🇧🇷)
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV LIBERDADE HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV LIBERDADE HD (🇧🇷)
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Pet Lovers TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Pet Lovers TV HD (🇧🇷)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD (SP)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Santa Cecília HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV OSORIO NEWS HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV OSORIO NEWS HD
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Mon HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Mon HD (🇧🇷)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TVídeoNews HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TVídeoNews HD (🇧🇷)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",NGT HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NGT HD (🇧🇷)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Japi HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Japi HD (🇧🇷)
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",DEMAIS TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",DEMAIS TV HD (🇧🇷)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",REDE SPTV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",REDE SPTV HD (🇧🇷)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV ITAPETININGA HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV ITAPETININGA HD (🇧🇷)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV RIO MADEIRA HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV RIO MADEIRA HD (🇧🇷)
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CLUBE WEB
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV CLUBE WEB (🇧🇷)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CHROMA
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV CHROMA (🇧🇷)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",Canal 29 WebTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Canal 29 WebTV (🇧🇷)
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV Brusque (SC)
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Brusque (SC) (🇧🇷)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV COM BRASIL (🇧🇷)
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV COM MACEIÓ
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV COM MACEIÓ (🇧🇷)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER TV PR
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MASTER TV PR (🇧🇷)
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SDB
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV SDB (🇧🇷)
 https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV CORDEIRO
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV CORDEIRO (🇧🇷)
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",ELYTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",ELYTV (🇧🇷)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",MASTER SHOW TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MASTER SHOW TV (🇧🇷)
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",TV SOL COMUNIDADE
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV SOL COMUNIDADE (🇧🇷)
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",CONECT TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",CONECT TV (🇧🇷)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",SERTAO TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",SERTAO TV (🇧🇷)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS 576p
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",JP NOTÍCIAS 576p (🇧🇷)
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS SD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",JP NOTÍCIAS SD (🇧🇷)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",JP NOTÍCIAS HD (🇧🇷)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",AVANÇA BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",AVANÇA BRASIL (🇧🇷)
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",4 POR 4
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",4 POR 4 (🇧🇷)
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Resumo da Ópera
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Resumo da Ópera (🇧🇷)
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV VIDEONEWS
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV VIDEONEWS (🇧🇷)
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Oportunidades TV HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Oportunidades TV HD (🇧🇷)
 http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",SONY ONE SHARK TANK
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",SONY ONE SHARK TANK (🇧🇷)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Curta!
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Curta! (🇧🇷)
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Revry Brasil
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Revry Brasil (🇧🇷)
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Viajando pelo Brasil
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Viajando pelo Brasil (🇧🇷)
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TVi África
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TVi África (🇧🇷)
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Exija África HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Exija África HD (🇧🇷)
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BS TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",BS TV (🇧🇷)
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",BR Super TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",BR Super TV (🇧🇷)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",PBC TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",PBC TV (🇧🇷)
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Grão Pará
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Grão Pará (🇧🇷)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Soul Cine Clube
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Soul Cine Clube (🇧🇷)
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Clube Web TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Clube Web TV (🇧🇷)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NBT
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NBT (🇧🇷)
 https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",NGT
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NGT (🇧🇷)
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Aracati
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Aracati (🇧🇷)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",XR HEALTH BRASIL
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",XR HEALTH BRASIL (🇧🇷)
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",CONECTV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",CONECTV (🇧🇷)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Gazeta MA SD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Gazeta MA SD (🇧🇷)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Astral TV FHD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Astral TV FHD (🇧🇷)
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Caravana Play
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Caravana Play (🇧🇷)
 https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Wtj TV Minas
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Wtj TV Minas (🇧🇷)
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Play TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Play TV (🇧🇷)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",Ypê TV
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Ypê TV (🇧🇷)
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",TV Fala Litoral
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Fala Litoral (🇧🇷)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Anime TV WebTV HD
+
+
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Anime TV WebTV HD (🇧🇷)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Loading Web TV
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Loading Web TV (🇧🇷)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Jetsons Webtv
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Jetsons Webtv (🇧🇷)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Rede Clone WebTV
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Rede Clone WebTV (🇧🇷)
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Kuriakos Kids
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Kuriakos Kids (🇧🇷)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Retrô Cartoon
+#EXTINF:-1 group-title="ANIME" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Retrô Cartoon (🇧🇷)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 
