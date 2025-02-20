@@ -14,7 +14,6 @@
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (Brasil) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 
-
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (Brasil) (🇧🇷)
 https://is.gd/7SctXG
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies
@@ -187,8 +186,6 @@ http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NACIONAL" tvg-logo="https://cdn-icons-png.flaticon.com/512/4378/4378749.png",SAO RAIMUNDO TV
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS 576p
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.pixabay.com/photo/2014/04/02/10/36/television-303975_1280.png",JP NOTÍCIAS SD
@@ -281,7 +278,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Radio TV Neuquen (ARG) (🇦🇷)
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino (Chile) (🇨🇱) 
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino (Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pinguino 2(Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
@@ -329,8 +326,6 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
 https://marine2.miplay.cl/canal2quellon/index.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",25 (Rep. Dominicana) (🇩🇴)
 https://ss3.domint.net:3150/c25_str/canal25/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",3 La Pampa (Argentina) (🇦🇷)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33 Tijuana (Mexico) (🇲🇽)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",33TV (España) (🇪🇸)
@@ -349,8 +344,6 @@ http://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",7 Neuquen (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 La Marina (España) (🇪🇸)
-https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 Mediterraneo (España) (🇪🇸)
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",8 NTV (Mexico) (🇲🇽)
@@ -515,8 +508,6 @@ https://paneltv.online:1936/8186/8186/.m3u8
 https://vid2.ecuamedia.net/educatv/live/.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",EL (España) (🇪🇸)
 https://n9.cl/ruscv
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Centro (Chile) (🇨🇱)
-https://is.gd/48NzsD
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Confidencial (España) (🇪🇸)
 https://is.gd/YIlWsG
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",El Pais (España) (🇪🇸)
@@ -561,8 +552,6 @@ https://is.gd/pjSGmU
 https://is.gd/2OF1sO
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Garabito (Costa Rica) (🇨🇷)
 https://is.gd/6MWw3A
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",GH (Rep. Dominicana) (🇩🇴)
-https://is.gd/IVK9dT
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Global (Peru) (🇵🇪)
 https://is.gd/HiYOGE
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Good Radio (Argentina) (🇦🇷)
@@ -619,8 +608,6 @@ https://is.gd/v2TmXJ
 https://is.gd/pngFCW
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Maya (Guatemala) (🇬🇹)
 https://is.gd/hwIJ9N
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Megavision (Rep. Dominicana) (🇩🇴)
-https://is.gd/uKqfQt
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Metropolis 19.2 (Honduras) (🇭🇳)
 https://is.gd/hGK7uL
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Mi (Paraguay) (🇵🇾)
@@ -713,8 +700,6 @@ https://is.gd/vLxbKn
 https://is.gd/hjcXLe
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",SCÑ San Carlos Ñuble (Chile) (🇨🇱)
 https://is.gd/Ro4DbS
-#EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicardi (Argentina) (🇦🇷)
-https://is.gd/ebto2E
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.1 (Mexico) (🇲🇽)
 https://n9.cl/7li50
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.ibb.co/ZhWS9p4/latino.png",Sicom 16.2 (Mexico) (🇲🇽)
@@ -1529,8 +1514,6 @@ https://is.gd/zsBZLU
 https://is.gd/JePniq
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Ritmos Inolvidables (USA) (🇺🇸)
 https://is.gd/rUWuk8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",RPM (Sudafrica) (🇿🇦)
-https://is.gd/R7MHyX
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",S1 (Rusia) (🇷🇺)
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",S86 (Rusia) (🇷🇺)
