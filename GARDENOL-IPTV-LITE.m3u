@@ -991,20 +991,14 @@ https://is.gd/55GyAE
 https://is.gd/gA79ay
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/venezuela.png",eSports Max (Venezuela) (🇻🇪)
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/venezuela.png",PromarTV (Venezuela) (🇻🇪)
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/venezuela.png",TeleAragua (Venezuela) (🇻🇪)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/venezuela.png",TV Familia (Venezuela) (🇻🇪)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/venezuela.png",TV FANB (Venezuela) (🇻🇪)
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
 
 
 
