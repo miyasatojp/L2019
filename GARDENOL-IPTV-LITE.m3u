@@ -356,6 +356,11 @@ https://is.gd/8ACGKq
 
 
 
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",Bolivia TV (Bolivia) (🇧🇴)
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",Cadena A (Bolivia) (🇧🇴)
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",Mega (Bolivia) (🇧🇴)
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w962441080.m3u8
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",Cinerama (Bolivia) (🇧🇴)
