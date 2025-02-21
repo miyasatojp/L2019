@@ -367,6 +367,9 @@ https://is.gd/YRhBEU
 
 
 
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Tevex (Chile) (🇨🇱)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",El Pinguino (Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",El Pinguino 2(Chile) (🇨🇱)
