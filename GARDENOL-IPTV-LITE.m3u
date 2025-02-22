@@ -565,8 +565,8 @@ https://is.gd/V5HZZW
 
 
 
-
-
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Prensa Latina (Cuba)
+https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 group-title="CUBA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Martí HD (Cuba)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
 #EXTINF:-1 group-title="CUBA" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Kanal D Drama (Cuba)
