@@ -79,10 +79,26 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 group-title="GOSPEL" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Gospel Cartoon (🇧🇷)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
 https://is.gd/Qy0INv
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
 https://n9.cl/8zhz2
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",One Golf (USA) (🇺🇸)
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Snowboarder tvᴴᴰ (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-snowboarder-ono/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
@@ -1025,9 +1041,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HBO 2 🇺🇸🇮🇳
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HBO 2 (🇺🇸🇮🇳)
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HBO Mundi 🇺🇸🇮🇳
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",HBO Mundi (🇺🇸🇮🇳)
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",AMC (USA) (🇺🇸)
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -1035,6 +1051,36 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",AMC+ East (USA) (🇺🇸)
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",MovieDome (USA) (🇺🇸)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Her Sphere by Lionsgate (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Action Hollywood Movies (USA) (🇺🇸)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",TF1 (🇫🇷)
+http://212.102.60.80/TF1/index.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",RTL bel (France) (🇫🇷)
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Trips Marterᴴᴰ (USA) (🇺🇸)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Popstar! TV (USA) (🇺🇸)
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Horror Machine (USA) (🇺🇸)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Wedo Big Stories ᴴᴰ (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Inwonder tvᴴᴰ (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Nature Time (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Nature Time (France) (🇫🇷)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Accu Weather (USA) (🇺🇸)
+https://accuweatherx-lg.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Fox News Nowᴴᴰ (USA) (🇺🇸)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",DW (USA) (🇺🇸)
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",iFood (USA) (🇺🇸)
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/345/original/circle-flag-of-portugal-free-png.png",SIC HD (Portugal)
