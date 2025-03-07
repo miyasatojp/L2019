@@ -51,6 +51,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Alien.Romulus.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Ameaca.no.Ar.jpg",Ameaça no Ar (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Ameaca.no.Ar.mp4
 
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Aos.Nossos.Filhos.jpg",Aos Nossos Filhos (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aos.Nossos.Filhos.mp4
+
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Aqui.jpg",Aqui (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Aqui.mp4
 
@@ -83,6 +86,9 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Contra.Ataque.mp4
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Coringa.Delirio.a.Dois.jpg",Coringa-Delirio a Dois (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Coringa.Delirio.a.Dois.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Covil.de.Ladroes.2.jpg",Covil de Ladrões 2 (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Covil.de.Ladroes.2.mp4
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/De.Sombra.e.Silencio.jpg",De Sombra e Silêncio (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/De.Sombra.e.Silencio.mp4
@@ -168,8 +174,17 @@ https://gardenol.miyasatojp.workers.dev/0:/FILMES/Psicose.1960.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Quando.o.Amor.Floresce.jpg",Quando o Amor Floresce (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Quando.o.Amor.Floresce.mp4
 
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Queimando.o.Filme.jpg",Queimando o Filme (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Queimando.o.Filme.mp4
+
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Respire.jpg",Respire (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Respire.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Santosh.jpg",Santosh (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Santosh.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Setembro.5.jpg",Setembro 5 (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/FILMES/Setembro.5.mp4
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/Capas/Sinais.de.Amor.jpg",Sinais de Amor (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/FILMES/Sinais.de.Amor.mp4
