@@ -25,7 +25,8 @@ https://gardenol.miyasatojp.workers.dev/0:/Videos/USB.OTG.webm
 
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Teste (🇧🇷)
-http://gardenolwebtv.duckdns.org:8080/hls/stream.m3u8
+http://177.220.187.146:8080/hls/stream.m3u8
+
 
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
