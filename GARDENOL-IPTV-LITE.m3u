@@ -14,13 +14,13 @@
 
 
 
-#EXTINF:-1 group-title="Gardenol WebTv" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
+#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 
-#EXTINF:-1 group-title="Gardenol WebTv" tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg",GARDENOL WEB RÁDIO 1
+#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://i.ibb.co/ZLLphbt/Logo-Radio-512x512.jpg",GARDENOL WEB RÁDIO 1
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-#EXTINF:-1 group-title="Gardenol WebTv" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",VENCERÁS RÁDIO WEB
+#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",VENCERÁS RÁDIO WEB
 http://node-19.zeno.fm:80/xacqjxjn0m7uv
 
 
