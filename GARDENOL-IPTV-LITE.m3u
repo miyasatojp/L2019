@@ -17,14 +17,6 @@
 #EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
 https://physicians-circulation-detector-five.trycloudflare.com/hls/live.m3u8
 
-#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/webradio1.jpg",GARDENOL WEB RÁDIO (🇧🇷)
-http://node-19.zeno.fm:80/419bxfcv868uv
-
-#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",VENCERÁS RÁDIO WEB (🇧🇷)
-http://node-19.zeno.fm:80/xacqjxjn0m7uv
-
-
-
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
