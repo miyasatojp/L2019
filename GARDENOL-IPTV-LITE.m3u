@@ -15,7 +15,7 @@
 
 
 #EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
-https://shot-locked-chess-participant.trycloudflare.com/hls/live.m3u8
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
@@ -1632,6 +1632,7 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+
 
 
 
