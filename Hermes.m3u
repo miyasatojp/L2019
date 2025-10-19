@@ -14,7 +14,7 @@
 
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+https://protocols-pumps-driving-invite.trycloudflare.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
@@ -30,4 +30,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",SONY ONE EMOÇÕES (🇧🇷)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
 
