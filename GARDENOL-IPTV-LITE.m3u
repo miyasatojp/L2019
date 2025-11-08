@@ -23,6 +23,33 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Trevo do Coroados (🇧🇷)
+https://video02.logicahost.com.br/camlitoranea/coroados.stream/chunklist_w438975845.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Restaurante Brisa do Mar (🇧🇷)
+https://video02.logicahost.com.br/portaldacidadegtba/praiacentral2.stream/chunklist_w2117611043.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Av. Paraná (🇧🇷)
+https://video02.logicahost.com.br/portaldacidadegtba/torre.stream/chunklist_w1197120406.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Praça dos Namorados (🇧🇷)
+https://video02.logicahost.com.br/portaldacidadegtba/pracadosnamorados.stream/chunklist_w1040103040.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Av. 29 de Abril (🇧🇷)
+https://video02.logicahost.com.br/portaldacidadegtba/29deabril-carnaval.stream/chunklist_w1193960227.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Av. Atlântica (🇧🇷)
+https://video02.logicahost.com.br/portaldacidadegtba/praiacentrali.stream/chunklist_w1450097747.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Ponte de Guaratuba (🇧🇷)
+https://video02.logicahost.com.br/ponteguaratuba/pontedeguaratuba.stream/chunklist_w589903076.m3u8
+
+#EXTINF:-1 group-title="Guaratuba-PR" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Ponte de Guaratuba 2 (🇧🇷)
+https://video02.logicahost.com.br/ponteguaratuba/consorcioponte2.stream/chunklist_w184892715.m3u8
+
+
+
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (🇧🇷)
@@ -1637,6 +1664,7 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+
 
 
 
