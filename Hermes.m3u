@@ -14,7 +14,7 @@
 
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
@@ -24,6 +24,7 @@ http://node-19.zeno.fm:80/xacqjxjn0m7uv
 
 #EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol%20500x500.jpg",GARDENOL WEB RÁDIO
 http://node-19.zeno.fm:80/419bxfcv868uv
+
 
 
 
