@@ -19,16 +19,10 @@ https://protocols-pumps-driving-invite.trycloudflare.com/hls/live.m3u8
 #EXTINF:-1 group-title="CINE TV" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (🇧🇷)
-https://is.gd/7SctXG
+#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",VENCERÁS RÁDIO WEB
+http://node-19.zeno.fm:80/xacqjxjn0m7uv
 
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies (🇧🇷)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MOVIE SPHERE (🇧🇷)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="CINE TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",SONY ONE EMOÇÕES (🇧🇷)
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Gardenol Web" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol%20500x500.jpg",GARDENOL WEB RÁDIO
+http://node-19.zeno.fm:80/419bxfcv868uv
 
 
