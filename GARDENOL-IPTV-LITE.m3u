@@ -593,10 +593,6 @@ https://video04.logicahost.com.br/portovelhomamore/fozaduanapontedaamizade.strea
 https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidobrasil.stream/playlist.m3u8
 #EXTINF:-1 group-title="PARAGUAI" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/paraguai.png",Farra Play (Paraguay) (🇵🇾)
 http://159.203.148.226/live/farra.m3u8
-
-
-
-
 #EXTINF:-1 group-title="PARAGUAI" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/paraguai.png",Mi (Paraguay) (🇵🇾)
 https://is.gd/vZK7mq
 
@@ -1247,3 +1243,4 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+
