@@ -1139,6 +1139,23 @@ https://n9.cl/id8jm
 
 
 
+
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 2K
+https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Pop
+https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Retro Rock
+https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",KroneHIT
@@ -1243,5 +1260,6 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+
 
 
