@@ -706,8 +706,8 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Aliento Vision
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Baraza Deep House (Grecia) (🇬🇷)
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://cdn-icons-png.flaticon.com/512/7429/7429671.png",Baraza Relaxing (Grecia) (🇬🇷)
@@ -1264,6 +1264,7 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn-icons-png.flaticon.com/512/6301/6301276.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+
 
 
 
