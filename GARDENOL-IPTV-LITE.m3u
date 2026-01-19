@@ -1368,137 +1368,137 @@ http://159.69.217.78:8000/?radio=radio2000.mp3
 
 
 
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/iSVnzR1.png",24 Hour Free Movies (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/iSVnzR1.png",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",30A TV Classic Movies
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",30A TV Classic Movies
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/mgXeEE4.png",70s Cinema
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/mgXeEE4.png",70s Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/nkEeYfI.png",80s Rewind
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/nkEeYfI.png",80s Rewind
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/KoGko6M.png",90s Throwback
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/KoGko6M.png",90s Throwback
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC East (1080p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC East (1080p)
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",American Horrors (480p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/FKBp987.png",Black Cinema
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/FKBp987.png",Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/njCKaMv.png",Cine Adrenalina (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/njCKaMv.png",Cine Adrenalina (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PdhWTO6.png",Cine Premiere (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PdhWTO6.png",Cine Premiere (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror LATAM
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror LATAM
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/eAS86qH.png",Cine XOXO
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/eAS86qH.png",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/pQJxov2.png",Classic Movies Channel
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/pQJxov2.png",Classic Movies Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/rtL5L81.png",Flicks of Fury
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/rtL5L81.png",Flicks of Fury
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png",FXM East
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png",FXM East
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸",Hallmark Movies & More
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸",Hallmark Movies & More
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",MGM+ East
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",MGM+ East
 https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",MGM+ Drive-In
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",MGM+ Drive-In
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",MGM+ Marquee
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",MGM+ Marquee
 https://fl1.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/8c54ycg.png",MOVIEDOME
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/8c54ycg.png",MOVIEDOME
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/sj5h9bl.png",Paramount Movie Channel
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/sj5h9bl.png",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",Paramount+ Picks
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/jP19sGt.png",Pelis y Popcorn
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/jP19sGt.png",Pelis y Popcorn
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/tDapGal.png",Pluto TV Action
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/tDapGal.png",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/tDapGal.png",Pluto TV Action
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/tDapGal.png",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PXhCzXn.png",Pluto TV Cine Acción (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PXhCzXn.png",Pluto TV Cine Acción (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PXhCzXn.png",Pluto TV Cine Accion
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PXhCzXn.png",Pluto TV Cine Accion
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/hCA5BRr.png",Pluto TV Cine Clásico (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/hCA5BRr.png",Pluto TV Cine Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/hCA5BRr.png",Cine Clásico
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/hCA5BRr.png",Cine Clásico
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/AQBtheU.png",Pluto TV Cine Drama (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/AQBtheU.png",Pluto TV Cine Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar Spain+
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/v3BO4nW.png",Pluto TV Cine Estelar Spain+
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/r9UhBfV.png",Pluto TV Cine Família (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/r9UhBfV.png",Pluto TV Cine Família (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/y27HHe1.png",Pluto TV Ciné Rétro
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/y27HHe1.png",Pluto TV Ciné Rétro
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GnUmEZn.png",Pluto TV Cine Suspenso (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GnUmEZn.png",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/9j1njE3.png",Pluto TV Crime Drama
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/9j1njE3.png",Pluto TV Crime Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ab21513-d563-430f-ace4-ec869e2676fb
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/SJcqknt.png",Pluto TV Crime Movies
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/SJcqknt.png",Pluto TV Crime Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/xoaIAus.png",Pluto TV Cult Films
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/xoaIAus.png",Pluto TV Cult Films
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PvhbHTZ.png",Pluto TV Drama
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/PvhbHTZ.png",Pluto TV Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b9b883-5344-4e99-81f9-dc1d9942ca58
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GVOYX4L.png",Pluto TV Estrellas de Acción (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GVOYX4L.png",Pluto TV Estrellas de Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/k6qttca.png",Pluto TV Horror
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/k6qttca.png",Pluto TV Horror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/RJhxl8t.png",Pluto TV Kultfilme
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/RJhxl8t.png",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Movies
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/H9k3OXN.png",Pluto TV Reaction
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/H9k3OXN.png",Pluto TV Reaction
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance (720p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/GJBxfyf.png",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/vSzd5m7.png",Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91571e99-b22e-454e-9622-6abd1ff79fd1
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/UmuJkVB.png",Pluto TV Spotlight
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/UmuJkVB.png",Pluto TV Spotlight
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/JzwO8IO.png",Pluto TV Staff Picks
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/JzwO8IO.png",Pluto TV Staff Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/eWtoHDM.png",Pluto TV Terror
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/eWtoHDM.png",Pluto TV Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers Spain
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/ULKvDN7.png",Pluto TV Thrillers Spain
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/biepi4A.png",Pluto TV Westerns
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/biepi4A.png",Pluto TV Westerns
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/biepi4A.png",Pluto TV Western
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/biepi4A.png",Pluto TV Western
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png",Revry Her
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png",Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸",MovieSphere (1080p)
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸",MovieSphere (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",Sundance TV East
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",Sundance TV East
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇺🇸" tvg-logo="https://i.imgur.com/y1rXIAS.png",TV Land Drama
+#EXTINF:-1 group-title="Movies 🎞️🇺🇸" tvg-logo="https://i.imgur.com/y1rXIAS.png",TV Land Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
 
 
@@ -1510,296 +1510,296 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 
-#EXTINF:-1 group-title="Movie 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/465.png",.Black
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/465.png",.Black
 http://stream.skaz.tv/stream/ch465/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/70.png",.Red HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/70.png",.Red HD
 http://stream.skaz.tv/stream/ch070/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/464.png",.Sci-Fi
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/464.png",.Sci-Fi
 http://stream.skaz.tv/stream/ch464/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/384.png",4ever Drama HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/384.png",4ever Drama HD
 http://stream.skaz.tv/stream/ch384/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/385.png",4ever Theater HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/385.png",4ever Theater HD
 http://stream.skaz.tv/stream/ch385/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="https://af-play.com/storage/images/channel_logos/59f90b6fd2719ef638fee21fa7840831.png",Enter-фильм HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="https://af-play.com/storage/images/channel_logos/59f90b6fd2719ef638fee21fa7840831.png",Enter-фильм HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/enter-film-ua-hd/video.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/623.png",AMC
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/623.png",AMC
 http://stream.skaz.tv/stream/ch623/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/65.png",Amedia Premium HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/65.png",Amedia Premium HD
 http://stream.skaz.tv/stream/ch065/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/32.png",Amedia Hit HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/32.png",Amedia Hit HD
 http://stream.skaz.tv/stream/ch032/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/421.png",Amedia 1 HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/421.png",Amedia 1 HD
 http://stream.skaz.tv/stream/ch421/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/515.png",Amedia 2 HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/515.png",Amedia 2 HD
 http://stream.skaz.tv/stream/ch515/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/326.png",Bollywood HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/326.png",Bollywood HD
 http://stream.skaz.tv/stream/ch326/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/1116.png",C More Hits HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1116.png",C More Hits HD
 http://stream.skaz.tv/stream/ch1116/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/1800.png",DetectiveJam HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1800.png",DetectiveJam HD
 http://stream.skaz.tv/stream/ch1800/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/681.png",Epic Drama HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/681.png",Epic Drama HD
 http://stream.skaz.tv/stream/ch681/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/501.png",Fan HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/501.png",Fan HD
 http://stream.skaz.tv/stream/ch501/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/684.png",FilmBox ArtHouse
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/684.png",FilmBox ArtHouse
 http://stream.skaz.tv/stream/ch684/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/709.png",FlixSnip HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/709.png",FlixSnip HD
 http://stream.skaz.tv/stream/ch709/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/103.png",Fox HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/103.png",Fox HD
 http://stream.skaz.tv/stream/ch103/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/104.png",Fox life
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/104.png",Fox life
 http://stream.skaz.tv/stream/ch104/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/1675.png",Hollywood
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1675.png",Hollywood
 http://stream.skaz.tv/stream/ch1675/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/525.png",Hollywood HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/525.png",Hollywood HD
 http://stream.skaz.tv/stream/ch525/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/382.png",KION Хит HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/382.png",KION Хит HD
 http://stream.skaz.tv/stream/ch382/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Kinowood
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Kinowood
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/459.png",Plan B HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/459.png",Plan B HD
 http://stream.skaz.tv/stream/ch459/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/470.png",Scream
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/470.png",Scream
 http://stream.skaz.tv/stream/ch470/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/712.png",Shot
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/712.png",Shot
 http://stream.skaz.tv/stream/ch712/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="https://af-play.com/storage/images/pack_logos/4a60fa143f692d24901f13ce5d98231c.png",Star Cinema HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/4a60fa143f692d24901f13ce5d98231c.png",Star Cinema HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/star-cinema-ua-hd/video.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/585.png",Star Family HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/585.png",Star Family HD
 http://stream.skaz.tv/stream/ch585/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/506.png",Start Air HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/506.png",Start Air HD
 http://stream.skaz.tv/stream/ch506/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/495.png",Start World HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/495.png",Start World HD
 http://stream.skaz.tv/stream/ch495/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/730.png",Trash HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/730.png",Trash HD
 http://stream.skaz.tv/stream/ch730/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/469.png",TV XXI Век
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/469.png",TV XXI Век
 http://stream.skaz.tv/stream/ch469/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/383.png",VHS-ка HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/383.png",VHS-ка HD
 http://stream.skaz.tv/stream/ch383/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3081.png",Viasat Kino HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3081.png",Viasat Kino HD
 http://stream.skaz.tv/stream/ch3081/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3079.png",Viasat Kino Action HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3079.png",Viasat Kino Action HD
 http://stream.skaz.tv/stream/ch3079/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3080.png",Viasat Kino Comedy HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3080.png",Viasat Kino Comedy HD
 http://stream.skaz.tv/stream/ch3080/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3082.png",Viasat Kino Megahit HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3082.png",Viasat Kino Megahit HD
 http://stream.skaz.tv/stream/ch3082/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/651.png",Viasat Kino World HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/651.png",Viasat Kino World HD
 http://stream.skaz.tv/stream/ch651/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/17.png",Viju TV 1000 HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/17.png",Viju TV 1000 HD
 http://stream.skaz.tv/stream/ch017/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/18.png",Viju TV 1000 Action HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/18.png",Viju TV 1000 Action HD
 http://stream.skaz.tv/stream/ch018/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3074.png",Viju TV1000 Romantica HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3074.png",Viju TV1000 Romantica HD
 http://stream.skaz.tv/stream/ch3074/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/3075.png",Viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3075.png",Viju TV1000 Новелла HD
 http://stream.skaz.tv/stream/ch3075/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/13.png",Viju TV 1000 Русское HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/13.png",Viju TV 1000 Русское HD
 http://stream.skaz.tv/stream/ch013/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/58.png",Viju+ Comedy HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/58.png",Viju+ Comedy HD
 http://stream.skaz.tv/stream/ch058/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/59.png",Viju+ Megahit HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/59.png",Viju+ Megahit HD
 http://stream.skaz.tv/stream/ch059/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/60.png",Viju+ Premiere HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/60.png",Viju+ Premiere HD
 http://stream.skaz.tv/stream/ch060/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/701.png",Viju+ Serial HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/701.png",Viju+ Serial HD
 http://stream.skaz.tv/stream/ch701/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/614.png",Арсенал HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/614.png",Арсенал HD
 http://stream.skaz.tv/stream/ch614/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/689.png",Блокбастер HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/689.png",Блокбастер HD
 http://stream.skaz.tv/stream/ch689/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/604.png",Болт
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/604.png",Болт
 http://stream.skaz.tv/stream/ch604/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/78.png",Дом Кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/78.png",Дом Кино
 http://stream.skaz.tv/stream/ch078/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/80.png",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/80.png",Дом Кино Премиум HD
 http://stream.skaz.tv/stream/ch080/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/110.png",Домашний
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/110.png",Домашний
 http://stream.skaz.tv/stream/ch110/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/535.png",Дорама HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/535.png",Дорама HD
 http://stream.skaz.tv/stream/ch535/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/140.png",Душевное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/140.png",Душевное HD
 http://stream.skaz.tv/stream/ch140/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/33.png",ЕвроКино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/33.png",ЕвроКино
 http://stream.skaz.tv/stream/ch033/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/537.png",Еврокино HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/537.png",Еврокино HD
 http://stream.skaz.tv/stream/ch537/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/114.png",Иллюзион+
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/114.png",Иллюзион+
 http://stream.skaz.tv/stream/ch114/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/692.png",Камеди HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/692.png",Камеди HD
 http://stream.skaz.tv/stream/ch692/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/542.png",Киноджем 1 HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/542.png",Киноджем 1 HD
 http://stream.skaz.tv/stream/ch542/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/521.png",Киноджем 2 HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/521.png",Киноджем 2 HD
 http://stream.skaz.tv/stream/ch521/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/2079.png",Кинеко HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2079.png",Кинеко HD
 http://stream.skaz.tv/stream/ch2079/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/77.png",Кино ТВ HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/77.png",Кино ТВ HD
 http://stream.skaz.tv/stream/ch077/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/619.png",Киноман
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/619.png",Киноман
 http://stream.skaz.tv/stream/ch619/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/560.png",Индия
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/560.png",Индия
 http://stream.skaz.tv/stream/ch560/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/461.png",Индийское кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/461.png",Индийское кино
 http://stream.skaz.tv/stream/ch461/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/79.png",Киномикс HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/79.png",Киномикс HD
 http://stream.skaz.tv/stream/ch079/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/460.png",Кинокомедия HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/460.png",Кинокомедия HD
 http://stream.skaz.tv/stream/ch460/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/54.png",Кинопремьера HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/54.png",Кинопремьера HD
 http://stream.skaz.tv/stream/ch054/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/10.png",Киносвидание HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/10.png",Киносвидание HD
 http://stream.skaz.tv/stream/ch010/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/8.png",Киносемья HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/8.png",Киносемья HD
 http://stream.skaz.tv/stream/ch008/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/668.png",Киносерия HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/668.png",Киносерия HD
 http://stream.skaz.tv/stream/ch668/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/652.png",Киноужас HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/652.png",Киноужас HD
 http://stream.skaz.tv/stream/ch652/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/9.png",Кинохит HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/9.png",Кинохит HD
 http://stream.skaz.tv/stream/ch009/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/112.png",Мужское кино HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/112.png",Мужское кино HD
 http://stream.skaz.tv/stream/ch112/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/15.png",Наше новое кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/15.png",Наше новое кино
 http://stream.skaz.tv/stream/ch015/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/116.png",Родное кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/116.png",Родное кино
 http://stream.skaz.tv/stream/ch116/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/466.png",Кинопоказ
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/466.png",Кинопоказ
 http://stream.skaz.tv/stream/ch466/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/2307.png",Ключ ТВ
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2307.png",Ключ ТВ
 http://stream.skaz.tv/stream/ch2307/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/136.png",Комедийное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/136.png",Комедийное HD
 http://stream.skaz.tv/stream/ch136/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/105.png",Комедия
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/105.png",Комедия
 http://stream.skaz.tv/stream/ch105/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/2127.png",Криминальное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2127.png",Криминальное HD
 http://stream.skaz.tv/stream/ch2127/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/463.png",Любимое Кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/463.png",Любимое Кино
 http://stream.skaz.tv/stream/ch463/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/636.png",Мир сериала
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/636.png",Мир сериала
 http://stream.skaz.tv/stream/ch636/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/336.png",Мосфильм HD Золотая коллекция
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/336.png",Мосфильм HD Золотая коллекция
 http://stream.skaz.tv/stream/ch336/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/703.png",День Победы HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/703.png",День Победы HD
 http://stream.skaz.tv/stream/ch703/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/620.png",НTВ Cериал
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/620.png",НTВ Cериал
 http://stream.skaz.tv/stream/ch620/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/568.png",НTВ Xит
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/568.png",НTВ Xит
 http://stream.skaz.tv/stream/ch568/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/117.png",НСТ
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/117.png",НСТ
 http://stream.skaz.tv/stream/ch117/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/714.png",Наш Кинопоказ HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/714.png",Наш Кинопоказ HD
 http://stream.skaz.tv/stream/ch714/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/131.png",Наше HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/131.png",Наше HD
 http://stream.skaz.tv/stream/ch131/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/589.png",Наше Мужское HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/589.png",Наше Мужское HD
 http://stream.skaz.tv/stream/ch589/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/139.png",Наше любимое HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/139.png",Наше любимое HD
 http://stream.skaz.tv/stream/ch139/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/2855.png",Окко TV HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/2855.png",Окко TV HD
 http://stream.skaz.tv/stream/ch2855/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/72.png",Остросюжетное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/72.png",Остросюжетное HD
 http://stream.skaz.tv/stream/ch072/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/2615.png",Патриот HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/2615.png",Патриот HD
 http://stream.skaz.tv/stream/ch2615/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/84.png",Премиальное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/84.png",Премиальное HD
 http://stream.skaz.tv/stream/ch084/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/690.png",Про Любовь HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/690.png",Про Любовь HD
 http://stream.skaz.tv/stream/ch690/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/508.png",Ретро
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/508.png",Ретро
 http://stream.skaz.tv/stream/ch508/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/98.png",Романтичное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/98.png",Романтичное HD
 http://stream.skaz.tv/stream/ch098/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/462.png",Русский Детектив
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/462.png",Русский Детектив
 http://stream.skaz.tv/stream/ch462/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/101.png",Русский Иллюзион
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/101.png",Русский Иллюзион
 http://stream.skaz.tv/stream/ch101/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/115.png",Русский бестселлер
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/115.png",Русский бестселлер
 http://stream.skaz.tv/stream/ch115/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/132.png",Русский роман
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/132.png",Русский роман
 http://stream.skaz.tv/stream/ch132/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/2077.png",Сапфир HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2077.png",Сапфир HD
 http://stream.skaz.tv/stream/ch2077/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/467.png",Синема HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/467.png",Синема HD
 http://stream.skaz.tv/stream/ch467/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Смотрим. Частный Детектив
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Смотрим. Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/468.png",Страшное HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/468.png",Страшное HD
 http://stream.skaz.tv/stream/ch468/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/543.png",Тайна
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/543.png",Тайна
 http://stream.skaz.tv/stream/ch543/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/24.png",ТВ3
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/24.png",ТВ3
 http://stream.skaz.tv/stream/ch024/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/409.png",ТВ 3 +2
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/409.png",ТВ 3 +2
 http://stream.skaz.tv/stream/ch409/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/410.png",ТВ 3 +4
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/410.png",ТВ 3 +4
 http://stream.skaz.tv/stream/ch410/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://s.skaz.tv/tvicon/411.png",ТВ 3 +6
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/411.png",ТВ 3 +6
 http://stream.skaz.tv/stream/ch411/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Твое ТВ HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Твое ТВ HD
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14229/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/134.png",Шокирующее HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/134.png",Шокирующее HD
 http://stream.skaz.tv/stream/ch134/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/505.png",Феникс+ Кино
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/505.png",Феникс+ Кино
 http://stream.skaz.tv/stream/ch505/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/691.png",Хит HD
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺" tvg-logo="http://skaz.tv/tvicon/691.png",Хит HD
 http://stream.skaz.tv/stream/ch691/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Xit Твоє Кіно HD [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Xit Твоє Кіно HD [UA]
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Action Твоє Кіно HD [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Action Твоє Кіно HD [UA]
 http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",kinosweet HD [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",kinosweet HD [UA]
 http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Super+ HD [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Super+ HD [UA]
 http://193.27.209.122/super_plus/index.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Серіал [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Серіал [UA]
 http://cdnua05.hls.tv/6516/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Мелодрами HD [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Мелодрами HD [UA]
 http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
-#EXTINF:-1 group-title="Movie 🎞️",Сine+ legend [UA]
+#EXTINF:-1 group-title="Movies 🎞️🇷🇺",Сine+ legend [UA]
 http://193.27.209.122/cine_plus_legend/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/772.png",BCU Comedy HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/772.png",BCU Comedy HDR
 http://stream.skaz.tv/stream/ch772/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/1003.png",BCU Cosmo HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/1003.png",BCU Cosmo HDR
 http://stream.skaz.tv/stream/ch1003/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2705.png",BCU Fantastic HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2705.png",BCU Fantastic HDR
 http://stream.skaz.tv/stream/ch2705/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/777.png",BCU Marvel HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/777.png",BCU Marvel HDR
 http://stream.skaz.tv/stream/ch777/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2706.png",BCU Premiere HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2706.png",BCU Premiere HDR
 http://stream.skaz.tv/stream/ch2706/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2745.png",BCU Premiere 1 HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2745.png",BCU Premiere 1 HDR
 http://stream.skaz.tv/stream/ch2745/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2746.png",BCU Premiere 2 HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2746.png",BCU Premiere 2 HDR
 http://stream.skaz.tv/stream/ch2746/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2747.png",BCU Premiere 3 HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2747.png",BCU Premiere 3 HDR
 http://stream.skaz.tv/stream/ch2747/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2288.png",BOX Franchise HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2288.png",BOX Franchise HDR
 http://stream.skaz.tv/stream/ch2288/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2929.png",BOX History 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2929.png",BOX History 4K HDR
 http://stream.skaz.tv/stream/ch2929/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2312.png",BOX Kosmo 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2312.png",BOX Kosmo 4K HDR
 http://stream.skaz.tv/stream/ch2312/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/2033.png",BOX Serial Premiere 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/2033.png",BOX Serial Premiere 4K HDR
 http://stream.skaz.tv/stream/ch2033/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://s.skaz.tv/tvicon/1977.png",Sky High Drama 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/1977.png",Sky High Drama 4K HDR
 http://stream.skaz.tv/stream/ch1977/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/1974.png",Sky High Fresh HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/1974.png",Sky High Fresh HDR
 http://stream.skaz.tv/stream/ch1974/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://s.skaz.tv/tvicon/1968.png",Sky High Space 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/1968.png",Sky High Space 4K HDR
 http://stream.skaz.tv/stream/ch1968/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/1975.png",Sky High UHD HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/1975.png",Sky High UHD HDR
 http://stream.skaz.tv/stream/ch1975/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="HDR 💎✨" tvg-logo="http://skaz.tv/tvicon/496.png",Yosso TV 4K HDR
+#EXTINF:-1 group-title="Movies HDR 💎✨🇷🇺" tvg-logo="http://skaz.tv/tvicon/496.png",Yosso TV 4K HDR
 http://stream.skaz.tv/stream/ch496/fde215a0/mono.m3u8
 
 
@@ -1809,159 +1809,159 @@ http://stream.skaz.tv/stream/ch496/fde215a0/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/553.png",BCU Premiere Ultra 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/553.png",BCU Premiere Ultra 4K
 http://stream.skaz.tv/stream/ch553/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/849.png",BCU Ultra 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/849.png",BCU Ultra 4K
 http://stream.skaz.tv/stream/ch849/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2297.png",BOX Premiere 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2297.png",BOX Premiere 4K
 http://stream.skaz.tv/stream/ch2297/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2299.png",BOX Remast 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2299.png",BOX Remast 4K
 http://stream.skaz.tv/stream/ch2299/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2707.png",BOX Remast+ 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2707.png",BOX Remast+ 4K
 http://stream.skaz.tv/stream/ch2707/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1949.png",BOX Russian 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1949.png",BOX Russian 4K
 http://stream.skaz.tv/stream/ch1949/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2300.png",BOX Serial 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2300.png",BOX Serial 4K
 http://stream.skaz.tv/stream/ch2300/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2931.png",BOX UltraStars 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2931.png",BOX UltraStars 4K
 http://stream.skaz.tv/stream/ch2931/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2926.png",BOX СССР 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2926.png",BOX СССР 4K
 http://stream.skaz.tv/stream/ch2926/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/558.png",Cinema UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/558.png",Cinema UHD
 http://stream.skaz.tv/stream/ch558/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2922.png",CineMan CCCP 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2922.png",CineMan CCCP 4K
 http://stream.skaz.tv/stream/ch2922/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2310.png",Cineman OLD 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2310.png",Cineman OLD 4K
 http://stream.skaz.tv/stream/ch2310/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1123.png",Clarity4k Anime
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1123.png",Clarity4k Anime
 http://stream.skaz.tv/stream/ch1123/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/545.png",Clarity4K Asia
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/545.png",Clarity4K Asia
 http://stream.skaz.tv/stream/ch545/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1427.png",Clarity4K Avto Blog
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1427.png",Clarity4K Avto Blog
 http://stream.skaz.tv/stream/ch1427/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1272.png",Clarity4k Galaxy Films
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1272.png",Clarity4k Galaxy Films
 http://stream.skaz.tv/stream/ch1272/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2893.png",Clarity4K Game Film
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2893.png",Clarity4K Game Film
 http://stream.skaz.tv/stream/ch2893/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2507.png",Clarity4K HBO Series
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2507.png",Clarity4K HBO Series
 http://stream.skaz.tv/stream/ch2507/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1434.png",Clarity4K Netflix
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1434.png",Clarity4K Netflix
 http://stream.skaz.tv/stream/ch1434/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1166.png",Clarity4K Travel Blog
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1166.png",Clarity4K Travel Blog
 http://stream.skaz.tv/stream/ch1166/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2883.png",Clarity4k UFO
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2883.png",Clarity4k UFO
 http://stream.skaz.tv/stream/ch2883/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2493.png",Clarity4K Walt Disney
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2493.png",Clarity4K Walt Disney
 http://stream.skaz.tv/stream/ch2493/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/451.png",Clarity4K Боевик VHS
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/451.png",Clarity4K Боевик VHS
 http://stream.skaz.tv/stream/ch451/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1179.png",Clarity4k Боевик
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1179.png",Clarity4k Боевик
 http://stream.skaz.tv/stream/ch1179/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1440.png",Clarity4K Города
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1440.png",Clarity4K Города
 http://stream.skaz.tv/stream/ch1440/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2886.png",Clarity4k Драмы
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2886.png",Clarity4k Драмы
 http://stream.skaz.tv/stream/ch2886/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2601.png",Clarity4K Запал
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2601.png",Clarity4K Запал
 http://stream.skaz.tv/stream/ch2601/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2506.png",Clarity4k Классика Кино
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2506.png",Clarity4k Классика Кино
 http://stream.skaz.tv/stream/ch2506/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2509.png",Clarity4K КиноНовинки
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2509.png",Clarity4K КиноНовинки
 http://stream.skaz.tv/stream/ch2509/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2890.png",Clarity4k КиноФраншизы
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2890.png",Clarity4k КиноФраншизы
 http://stream.skaz.tv/stream/ch2890/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2602.png",Clarity4K Киношарм
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2602.png",Clarity4K Киношарм
 http://stream.skaz.tv/stream/ch2602/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1436.png",Clarity4K КиноСССР
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1436.png",Clarity4K КиноСССР
 http://stream.skaz.tv/stream/ch1436/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1127.png",Clarity4K Kинодети CССР
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1127.png",Clarity4K Kинодети CССР
 http://stream.skaz.tv/stream/ch1127/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2621.png",Clarity4K Комедия СССР 1
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2621.png",Clarity4K Комедия СССР 1
 http://stream.skaz.tv/stream/ch2621/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2622.png",Clarity4K Комедия СССР 2
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2622.png",Clarity4K Комедия СССР 2
 http://stream.skaz.tv/stream/ch2622/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2889.png",Clarity4K Комедия
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2889.png",Clarity4K Комедия
 http://stream.skaz.tv/stream/ch2889/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2891.png",Clarity4K Комедия VHS
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2891.png",Clarity4K Комедия VHS
 http://stream.skaz.tv/stream/ch2891/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2885.png",Clarity4K Молодежные Комедии
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2885.png",Clarity4K Молодежные Комедии
 http://stream.skaz.tv/stream/ch2885/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1437.png",Clarity4K Приключения
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1437.png",Clarity4K Приключения
 http://stream.skaz.tv/stream/ch1437/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://s.skaz.tv/tvicon/3172.png",Clarity4K Ретро-Сказка 1
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3172.png",Clarity4K Ретро-Сказка 1
 http://stream.skaz.tv/stream/ch3172/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://s.skaz.tv/tvicon/3173.png",Clarity4K Ретро-Сказка 2
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3173.png",Clarity4K Ретро-Сказка 2
 http://stream.skaz.tv/stream/ch3173/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2505.png",Clarity4k Русские сериалы
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2505.png",Clarity4k Русские сериалы
 http://stream.skaz.tv/stream/ch2505/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2894.png",Clarity4K Семейный
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2894.png",Clarity4K Семейный
 http://stream.skaz.tv/stream/ch2894/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2508.png",Clarity4k Сумеречный Эфир
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2508.png",Clarity4k Сумеречный Эфир
 http://stream.skaz.tv/stream/ch2508/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2892.png",Clarity4K Театр
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2892.png",Clarity4K Театр
 http://stream.skaz.tv/stream/ch2892/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2895.png",Clarity4K Триллер
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2895.png",Clarity4K Триллер
 http://stream.skaz.tv/stream/ch2895/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2887.png",Clarity4K Ужасы
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2887.png",Clarity4K Ужасы
 http://stream.skaz.tv/stream/ch2887/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1187.png",Clarity4K Ужасы VHS
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1187.png",Clarity4K Ужасы VHS
 http://stream.skaz.tv/stream/ch1187/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1439.png",Clarity4K Фантастика
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1439.png",Clarity4K Фантастика
 http://stream.skaz.tv/stream/ch1439/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1196.png",Clarity4K Фэнтези
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1196.png",Clarity4K Фэнтези
 http://stream.skaz.tv/stream/ch1196/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/512.png",Insight UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/512.png",Insight UHD
 http://stream.skaz.tv/stream/ch512/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2154.png",KLI Новинки UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2154.png",KLI Новинки UHD
 http://stream.skaz.tv/stream/ch2154/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2342.png",Liberty Criminal 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2342.png",Liberty Criminal 4K
 http://stream.skaz.tv/stream/ch2342/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2788.png",Liberty Dreamworks 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2788.png",Liberty Dreamworks 4K
 http://stream.skaz.tv/stream/ch2788/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://s.skaz.tv/tvicon/3151.png",Liberty Medval 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3151.png",Liberty Medval 4K
 http://stream.skaz.tv/stream/ch3151/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1773.png",Liberty Netflix 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1773.png",Liberty Netflix 4K
 http://stream.skaz.tv/stream/ch1773/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2787.png",Liberty Serialy 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2787.png",Liberty Serialy 4K
 http://stream.skaz.tv/stream/ch2787/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2458.png",Liberty XX Век 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2458.png",Liberty XX Век 4K
 http://stream.skaz.tv/stream/ch2458/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2590.png",Liberty Аванпост 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2590.png",Liberty Аванпост 4K
 http://stream.skaz.tv/stream/ch2590/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1772.png",Liberty Индия 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1772.png",Liberty Индия 4K
 http://stream.skaz.tv/stream/ch1772/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1770.png",Liberty Кино Микс 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1770.png",Liberty Кино Микс 4K
 http://stream.skaz.tv/stream/ch1770/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1763.png",Liberty КиноENG 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1763.png",Liberty КиноENG 4K
 http://stream.skaz.tv/stream/ch1763/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1765.png",Liberty Легенда 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1765.png",Liberty Легенда 4K
 http://stream.skaz.tv/stream/ch1765/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2789.png",Liberty Мюзикл 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2789.png",Liberty Мюзикл 4K
 http://stream.skaz.tv/stream/ch2789/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1769.png",Liberty Русфильм 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1769.png",Liberty Русфильм 4K
 http://stream.skaz.tv/stream/ch1769/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1775.png",Liberty Семейный 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1775.png",Liberty Семейный 4K
 http://stream.skaz.tv/stream/ch1775/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1780.png",Liberty Союз 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1780.png",Liberty Союз 4K
 http://stream.skaz.tv/stream/ch1780/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1743.png",Liberty Триллеры 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1743.png",Liberty Триллеры 4K
 http://stream.skaz.tv/stream/ch1743/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1776.png",Liberty Туркфильм 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1776.png",Liberty Туркфильм 4K
 http://stream.skaz.tv/stream/ch1776/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1742.png",Liberty Ужасы 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1742.png",Liberty Ужасы 4K
 http://stream.skaz.tv/stream/ch1742/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1262.png",MM Flip UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1262.png",MM Flip UHD
 http://stream.skaz.tv/stream/ch1262/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1971.png",Sky High Mix 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1971.png",Sky High Mix 4K
 http://stream.skaz.tv/stream/ch1971/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1972.png",Sky High VHS UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1972.png",Sky High VHS UHD
 http://stream.skaz.tv/stream/ch1972/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://s.skaz.tv/tvicon/3135.png",Velilla TV Cinema 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3135.png",Velilla TV Cinema 4K
 http://stream.skaz.tv/stream/ch3135/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/1316.png",Yosso 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1316.png",Yosso 4K
 http://stream.skaz.tv/stream/ch1316/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/2063.png",Yosso TV Советские фильмы 4K
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2063.png",Yosso TV Советские фильмы 4K
 http://stream.skaz.tv/stream/ch2063/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="UHD (4k) 🎗️🖥️" tvg-logo="http://skaz.tv/tvicon/511.png",Кино UHD
+#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/511.png",Кино UHD
 http://stream.skaz.tv/stream/ch511/fde215a0/mono.m3u8
 
 
@@ -5935,6 +5935,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
