@@ -1366,9 +1366,9 @@ http://159.69.217.78:8000/?radio=radio2000.mp3
 
 
 
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/465.png",.Black
+#EXTINF:-1 group-title="Movies 🎞️" tvg-logo="http://skaz.tv/tvicon/465.png",.Black
 http://stream.skaz.tv/stream/ch465/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/70.png",.Red HD
+#EXTINF:-1 group-title="Movies 🎞️" tvg-logo="http://skaz.tv/tvicon/70.png",.Red HD
 http://stream.skaz.tv/stream/ch070/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Movie 🎞️" tvg-logo="http://skaz.tv/tvicon/464.png",.Sci-Fi
 http://stream.skaz.tv/stream/ch464/fde215a0/mono.m3u8
@@ -7350,6 +7350,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
 
 
 
