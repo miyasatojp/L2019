@@ -54,39 +54,39 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RadioItaliaTV (🇮🇹)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RadioItaliaTV (🇮🇹)
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 2K (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 2K (🇺🇸)
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 70s (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 70s (🇺🇸)
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 80s (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 80s (🇺🇸)
 https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 90s (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 90s (🇺🇸)
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Country (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Country (🇺🇸)
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Pop (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Pop (🇺🇸)
 https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Retro Rock (🇺🇸)
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo Retro Rock (🇺🇸)
 https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",88 STEREO
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",KroneHIT
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Kronehit TV
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",TV 538
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",ONE MUSIC
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",ONE MUSIC
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RETRO 1 Republica Tcheca
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RETRO 1 Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RETRO 2 Republica Tcheca
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RETRO 2 Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",The Retro Channel
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 group-title="CLIPS" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RU TV
+#EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
 
 
@@ -5567,6 +5567,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
