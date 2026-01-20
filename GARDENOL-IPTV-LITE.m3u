@@ -5585,8 +5585,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 group-title="Eslováquia/Slovensko 🇸🇰" tvg-logo="https://i.imgur.com/psb8GxZ.png",Televízia Močenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Eslováquia/Slovensko 🇸🇰" tvg-logo="https://i.imgur.com/Z7URrp1.png",Televízia OSEM (576p)
-http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Eslováquia/Slovensko 🇸🇰" tvg-logo="https://i.imgur.com/CkvB3af.png",TV Liptov (1080p)
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 group-title="Eslováquia/Slovensko 🇸🇰" tvg-logo="https://i.imgur.com/xN1CJol.png",TV LocAll (406p)
@@ -5935,6 +5933,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
