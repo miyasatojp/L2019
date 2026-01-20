@@ -116,37 +116,37 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
 https://is.gd/Qy0INv
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
 https://n9.cl/8zhz2
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Dubai Sports 2
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
 https://is.gd/jJkXaV
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Horizon Sports (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Horizon Sports (USA) (🇺🇸)
 https://is.gd/MdOnUC
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
 https://is.gd/jM8uUZ
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
 https://is.gd/Od5UeT
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (USA) (🇺🇸)
+#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (USA) (🇺🇸)
 https://is.gd/1mFDs8
 
 
@@ -1871,657 +1871,657 @@ http://stream.skaz.tv/stream/ch2063/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch511/fde215a0/mono.m3u8
 
 
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/769.png",BCU Action HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/769.png",BCU Action HD
 http://stream.skaz.tv/stream/ch769/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/770.png",BCU Catastrophe HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/770.png",BCU Catastrophe HD
 http://stream.skaz.tv/stream/ch770/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/771.png",BCU Cinema HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/771.png",BCU Cinema HD
 http://stream.skaz.tv/stream/ch771/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/834.png",BCU Cinema+ HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/834.png",BCU Cinema+ HD
 http://stream.skaz.tv/stream/ch834/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1000.png",BCU Comedy HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1000.png",BCU Comedy HD
 http://stream.skaz.tv/stream/ch1000/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1026.png",BCU Cosmo HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1026.png",BCU Cosmo HD
 http://stream.skaz.tv/stream/ch1026/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/827.png",BCU Criminal HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/827.png",BCU Criminal HD
 http://stream.skaz.tv/stream/ch827/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/773.png",BCU Fantastic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/773.png",BCU Fantastic HD
 http://stream.skaz.tv/stream/ch773/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/774.png",BCU Filmystic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/774.png",BCU Filmystic HD
 http://stream.skaz.tv/stream/ch774/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/775.png",BCU History HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/775.png",BCU History HD
 http://stream.skaz.tv/stream/ch775/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/776.png",BCU Kinorating HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/776.png",BCU Kinorating HD
 http://stream.skaz.tv/stream/ch776/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/311.png",BCU Marvel HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/311.png",BCU Marvel HD
 http://stream.skaz.tv/stream/ch311/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/790.png",BCU Media HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/790.png",BCU Media HD
 http://stream.skaz.tv/stream/ch790/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/590.png",BCU Media OLD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/590.png",BCU Media OLD
 http://stream.skaz.tv/stream/ch590/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/778.png",BCU Premiere HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/778.png",BCU Premiere HD
 http://stream.skaz.tv/stream/ch778/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/782.png",BCU Premiere 1 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/782.png",BCU Premiere 1 HD
 http://stream.skaz.tv/stream/ch782/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/783.png",BCU Premiere 2 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/783.png",BCU Premiere 2 HD
 http://stream.skaz.tv/stream/ch783/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/784.png",BCU Premiere 3 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/784.png",BCU Premiere 3 HD
 http://stream.skaz.tv/stream/ch784/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/788.png",BCU RUSerial HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/788.png",BCU RUSerial HD
 http://stream.skaz.tv/stream/ch788/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/785.png",BCU Reality HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/785.png",BCU Reality HD
 http://stream.skaz.tv/stream/ch785/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2743.png",BCU Reality OLD HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2743.png",BCU Reality OLD HD
 http://stream.skaz.tv/stream/ch2743/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/779.png",BCU Romantic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/779.png",BCU Romantic HD
 http://stream.skaz.tv/stream/ch779/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1545.png",BCU Romantic OLD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1545.png",BCU Romantic OLD
 http://stream.skaz.tv/stream/ch1545/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/780.png",BCU Russian HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/780.png",BCU Russian HD
 http://stream.skaz.tv/stream/ch780/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2744.png",BCU Russia 90s HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2744.png",BCU Russia 90s HD
 http://stream.skaz.tv/stream/ch2744/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/835.png",BCU Stars HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/835.png",BCU Stars HD
 http://stream.skaz.tv/stream/ch835/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1444.png",BCU Survival HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1444.png",BCU Survival HD
 http://stream.skaz.tv/stream/ch1444/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1445.png",BCU Survival OLD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1445.png",BCU Survival OLD
 http://stream.skaz.tv/stream/ch1445/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1429.png",BCU TruMotion HD 60 Hz
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1429.png",BCU TruMotion HD 60 Hz
 http://stream.skaz.tv/stream/ch1429/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/781.png",BCU VHS HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/781.png",BCU VHS HD
 http://stream.skaz.tv/stream/ch781/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/789.png",BCU СССР HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/789.png",BCU СССР HD
 http://stream.skaz.tv/stream/ch789/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/145.png",BCU Сваты HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/145.png",BCU Сваты HD
 http://stream.skaz.tv/stream/ch145/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2281.png",BOX Anime HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2281.png",BOX Anime HD
 http://stream.skaz.tv/stream/ch2281/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2607.png",BOX Apocalypse HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2607.png",BOX Apocalypse HD
 http://stream.skaz.tv/stream/ch2607/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2285.png",BOX Cyber HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2285.png",BOX Cyber HD
 http://stream.skaz.tv/stream/ch2285/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2287.png",BOX Fantasy HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2287.png",BOX Fantasy HD
 http://stream.skaz.tv/stream/ch2287/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/3056.png",BOX Franchise HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/3056.png",BOX Franchise HD
 http://stream.skaz.tv/stream/ch3056/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2290.png",BOX Gangster HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2290.png",BOX Gangster HD
 http://stream.skaz.tv/stream/ch2290/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2291.png",BOX Ghost HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2291.png",BOX Ghost HD
 http://stream.skaz.tv/stream/ch2291/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2292.png",BOX Hybrid HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2292.png",BOX Hybrid HD
 http://stream.skaz.tv/stream/ch2292/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2296.png",BOX Oscar HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2296.png",BOX Oscar HD
 http://stream.skaz.tv/stream/ch2296/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2301.png",BOX Serial HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2301.png",BOX Serial HD
 http://stream.skaz.tv/stream/ch2301/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/401.png",BOX Sitcom HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/401.png",BOX Sitcom HD
 http://stream.skaz.tv/stream/ch401/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2302.png",BOX Spy HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2302.png",BOX Spy HD
 http://stream.skaz.tv/stream/ch2302/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2305.png",BOX Western HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2305.png",BOX Western HD
 http://stream.skaz.tv/stream/ch2305/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2306.png",BOX Zombie HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2306.png",BOX Zombie HD
 http://stream.skaz.tv/stream/ch2306/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1030.png",CineMan
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1030.png",CineMan
 http://stream.skaz.tv/stream/ch1030/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1032.png",CineMan Action
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1032.png",CineMan Action
 http://stream.skaz.tv/stream/ch1032/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1035.png",CineMan Marvel
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1035.png",CineMan Marvel
 http://stream.skaz.tv/stream/ch1035/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1034.png",CineMan Melodrama
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1034.png",CineMan Melodrama
 http://stream.skaz.tv/stream/ch1034/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2067.png",CineMan Miniseries
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2067.png",CineMan Miniseries
 http://stream.skaz.tv/stream/ch2067/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2142.png",CineMan Premium
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2142.png",CineMan Premium
 http://stream.skaz.tv/stream/ch2142/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1033.png",CineMan Thriller
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1033.png",CineMan Thriller
 http://stream.skaz.tv/stream/ch1033/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1031.png",CineMan Top
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1031.png",CineMan Top
 http://stream.skaz.tv/stream/ch1031/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1038.png",CineMan VHS
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1038.png",CineMan VHS
 http://stream.skaz.tv/stream/ch1038/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3131.png",CineMan Военные Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3131.png",CineMan Военные Сериалы
 http://stream.skaz.tv/stream/ch3131/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2925.png",CineMan Интерны
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2925.png",CineMan Интерны
 http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1074.png",CineMan Катастрофы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1074.png",CineMan Катастрофы
 http://stream.skaz.tv/stream/ch1074/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1037.png",CineMan Комедия
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1037.png",CineMan Комедия
 http://stream.skaz.tv/stream/ch1037/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2748.png",CineMan Криминальные Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2748.png",CineMan Криминальные Сериалы
 http://stream.skaz.tv/stream/ch2748/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1327.png",CineMan Лесник
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1327.png",CineMan Лесник
 http://stream.skaz.tv/stream/ch1327/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1325.png",CineMan Ментовские войны
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1325.png",CineMan Ментовские войны
 http://stream.skaz.tv/stream/ch1325/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1326.png",CineMan ПёС
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1326.png",CineMan ПёС
 http://stream.skaz.tv/stream/ch1326/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1039.png",CineMan РуКино
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1039.png",CineMan РуКино
 http://stream.skaz.tv/stream/ch1039/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1040.png",CineMan Сваты
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1040.png",CineMan Сваты
 http://stream.skaz.tv/stream/ch1040/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1622.png",CineMan Скорая помощь
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1622.png",CineMan Скорая помощь
 http://stream.skaz.tv/stream/ch1622/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1036.png",CineMan Ужасы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1036.png",CineMan Ужасы
 http://stream.skaz.tv/stream/ch1036/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2854.png",Cobra Comedy HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2854.png",Cobra Comedy HD
 http://stream.skaz.tv/stream/ch2854/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1721.png",Fresh Adventure
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1721.png",Fresh Adventure
 http://stream.skaz.tv/stream/ch1721/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1722.png",Fresh Cinema
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1722.png",Fresh Cinema
 http://stream.skaz.tv/stream/ch1722/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1723.png",Fresh Comedy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1723.png",Fresh Comedy
 http://stream.skaz.tv/stream/ch1723/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1724.png",Fresh Family
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1724.png",Fresh Family
 http://stream.skaz.tv/stream/ch1724/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1725.png",Fresh Fantastic
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1725.png",Fresh Fantastic
 http://stream.skaz.tv/stream/ch1725/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1726.png",Fresh Horror
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1726.png",Fresh Horror
 http://stream.skaz.tv/stream/ch1726/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1727.png",Fresh Premiere
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1727.png",Fresh Premiere
 http://stream.skaz.tv/stream/ch1727/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1728.png",Fresh Rating
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1728.png",Fresh Rating
 http://stream.skaz.tv/stream/ch1728/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1729.png",Fresh Romantic
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1729.png",Fresh Romantic
 http://stream.skaz.tv/stream/ch1729/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1730.png",Fresh Russian
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1730.png",Fresh Russian
 http://stream.skaz.tv/stream/ch1730/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1731.png",Fresh Series
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1731.png",Fresh Series
 http://stream.skaz.tv/stream/ch1731/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1732.png",Fresh Soviet
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1732.png",Fresh Soviet
 http://stream.skaz.tv/stream/ch1732/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1733.png",Fresh Thriller
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1733.png",Fresh Thriller
 http://stream.skaz.tv/stream/ch1733/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1734.png",Fresh VHS
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1734.png",Fresh VHS
 http://stream.skaz.tv/stream/ch1734/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3121.png",Gold Line Brief HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3121.png",Gold Line Brief HD
 http://stream.skaz.tv/stream/ch3121/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3122.png",Gold Line  Evidence HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3122.png",Gold Line  Evidence HD
 http://stream.skaz.tv/stream/ch3122/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3123.png",Gold Line Exist HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3123.png",Gold Line Exist HD
 http://stream.skaz.tv/stream/ch3123/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3124.png",Gold Line Island HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3124.png",Gold Line Island HD
 http://stream.skaz.tv/stream/ch3124/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3125.png",Gold Line Naked and Funny HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3125.png",Gold Line Naked and Funny HD
 http://stream.skaz.tv/stream/ch3125/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3126.png",Gold Line Psycho HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3126.png",Gold Line Psycho HD
 http://stream.skaz.tv/stream/ch3126/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3127.png",Gold Line Series HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3127.png",Gold Line Series HD
 http://stream.skaz.tv/stream/ch3127/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3128.png",Gold Line Survival HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3128.png",Gold Line Survival HD
 http://stream.skaz.tv/stream/ch3128/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3129.png",Gold Line Детектив HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3129.png",Gold Line Детектив HD
 http://stream.skaz.tv/stream/ch3129/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3130.png",Gold Line Невский HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3130.png",Gold Line Невский HD
 http://stream.skaz.tv/stream/ch3130/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2837.png",KBC-Comics HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2837.png",KBC-Comics HD
 http://stream.skaz.tv/stream/ch2837/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2831.png",KBC-Elite comedys HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2831.png",KBC-Elite comedys HD
 http://stream.skaz.tv/stream/ch2831/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2840.png",KBC-Fantastic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2840.png",KBC-Fantastic HD
 http://stream.skaz.tv/stream/ch2840/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2832.png",KBC-Family Animation HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2832.png",KBC-Family Animation HD
 http://stream.skaz.tv/stream/ch2832/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2839.png",KBC-History HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2839.png",KBC-History HD
 http://stream.skaz.tv/stream/ch2839/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2846.png",KBC-MusKino HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2846.png",KBC-MusKino HD
 http://stream.skaz.tv/stream/ch2846/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2842.png",KBC-Newfilm HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2842.png",KBC-Newfilm HD
 http://stream.skaz.tv/stream/ch2842/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2833.png",KBC-Russian Комедия HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2833.png",KBC-Russian Комедия HD
 http://stream.skaz.tv/stream/ch2833/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2845.png",KBC-WAR HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2845.png",KBC-WAR HD
 http://stream.skaz.tv/stream/ch2845/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2838.png",KBC-Аниме HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2838.png",KBC-Аниме HD
 http://stream.skaz.tv/stream/ch2838/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2834.png",KBC-В.О.В. HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2834.png",KBC-В.О.В. HD
 http://stream.skaz.tv/stream/ch2834/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2844.png",KBC-Вестерн HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2844.png",KBC-Вестерн HD
 http://stream.skaz.tv/stream/ch2844/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2827.png",KBC-Видак HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2827.png",KBC-Видак HD
 http://stream.skaz.tv/stream/ch2827/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2841.png",KBC-ГАЙ Ritchie and Tarantino HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2841.png",KBC-ГАЙ Ritchie and Tarantino HD
 http://stream.skaz.tv/stream/ch2841/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2843.png",KBC-Гоблин HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2843.png",KBC-Гоблин HD
 http://stream.skaz.tv/stream/ch2843/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2828.png",KBC-ДрамаTic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2828.png",KBC-ДрамаTic HD
 http://stream.skaz.tv/stream/ch2828/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2826.png",KBC-Кошмарное HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2826.png",KBC-Кошмарное HD
 http://stream.skaz.tv/stream/ch2826/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2825.png",KBC-Легендарное HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2825.png",KBC-Легендарное HD
 http://stream.skaz.tv/stream/ch2825/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2848.png",KBC-СпортМикс HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2848.png",KBC-СпортМикс HD
 http://stream.skaz.tv/stream/ch2848/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2835.png",KBC-Страна СССР HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2835.png",KBC-Страна СССР HD
 http://stream.skaz.tv/stream/ch2835/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2836.png",KBC-Шпионское HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2836.png",KBC-Шпионское HD
 http://stream.skaz.tv/stream/ch2836/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3231.png",Kernel TV Бумажный дом
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3231.png",Kernel TV Бумажный дом
 http://stream.skaz.tv/stream/ch3231/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3235.png",Kernel TV Комедия
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3235.png",Kernel TV Комедия
 http://stream.skaz.tv/stream/ch3235/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3236.png",Kernel TV Доктор
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3236.png",Kernel TV Доктор
 http://stream.skaz.tv/stream/ch3236/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3242.png",Kernel TV Герой
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3242.png",Kernel TV Герой
 http://stream.skaz.tv/stream/ch3242/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3247.png",Kernel TV Счастливого Нового Года
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3247.png",Kernel TV Счастливого Нового Года
 http://stream.skaz.tv/stream/ch3247/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3248.png",Kernel TV Интерны
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3248.png",Kernel TV Интерны
 http://stream.skaz.tv/stream/ch3248/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3249.png",Kernel TV Космос
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3249.png",Kernel TV Космос
 http://stream.skaz.tv/stream/ch3249/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3255.png",Kernel TV Магия
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3255.png",Kernel TV Магия
 http://stream.skaz.tv/stream/ch3255/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3257.png",Kernel TV Марвел vs DC
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3257.png",Kernel TV Марвел vs DC
 http://stream.skaz.tv/stream/ch3257/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3258.png",Kernel TV Марвел Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3258.png",Kernel TV Марвел Сериалы
 http://stream.skaz.tv/stream/ch3258/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3263.png",Kernel TV Новинки
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3263.png",Kernel TV Новинки
 http://stream.skaz.tv/stream/ch3263/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3272.png",Kernel TV Сваты
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3272.png",Kernel TV Сваты
 http://stream.skaz.tv/stream/ch3272/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3273.png",Kernel TV Время
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3273.png",Kernel TV Время
 http://stream.skaz.tv/stream/ch3273/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1741.png",Liberty DC FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1741.png",Liberty DC FHD
 http://stream.skaz.tv/stream/ch1741/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1574.png",Liberty Fan FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1574.png",Liberty Fan FHD
 http://stream.skaz.tv/stream/ch1574/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1744.png",Liberty Marvel FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1744.png",Liberty Marvel FHD
 http://stream.skaz.tv/stream/ch1744/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2341.png",Liberty Plankton FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2341.png",Liberty Plankton FHD
 http://stream.skaz.tv/stream/ch2341/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/1753.png",Liberty South Park FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/1753.png",Liberty South Park FHD
 http://stream.skaz.tv/stream/ch1753/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1761.png",Liberty Аниме FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1761.png",Liberty Аниме FHD
 http://stream.skaz.tv/stream/ch1761/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1749.png",Liberty Боевики FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1749.png",Liberty Боевики FHD
 http://stream.skaz.tv/stream/ch1749/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1760.png",Liberty Занавес FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1760.png",Liberty Занавес FHD
 http://stream.skaz.tv/stream/ch1760/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1754.png",Liberty Комедии FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1754.png",Liberty Комедии FHD
 http://stream.skaz.tv/stream/ch1754/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1745.png",Liberty Короткометражный FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1745.png",Liberty Короткометражный FHD
 http://stream.skaz.tv/stream/ch1745/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1748.png",Liberty Мелодрамы FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1748.png",Liberty Мелодрамы FHD
 http://stream.skaz.tv/stream/ch1748/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1752.png",Liberty Сваты FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1752.png",Liberty Сваты FHD
 http://stream.skaz.tv/stream/ch1752/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1755.png",Liberty Сериалы FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1755.png",Liberty Сериалы FHD
 http://stream.skaz.tv/stream/ch1755/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1762.png",Liberty Шоу FHD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1762.png",Liberty Шоу FHD
 http://stream.skaz.tv/stream/ch1762/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3223.png",Magic Premiere
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3223.png",Magic Premiere
 http://stream.skaz.tv/stream/ch3223/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1214.png",MM 007 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1214.png",MM 007 HD
 http://stream.skaz.tv/stream/ch1214/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1286.png",MM Celebrity HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1286.png",MM Celebrity HD
 http://stream.skaz.tv/stream/ch1286/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1323.png",MM Classic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1323.png",MM Classic HD
 http://stream.skaz.tv/stream/ch1323/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1215.png",MM Love HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1215.png",MM Love HD
 http://stream.skaz.tv/stream/ch1215/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1219.png",MM NewFilm RU HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1219.png",MM NewFilm RU HD
 http://stream.skaz.tv/stream/ch1219/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1216.png",MM NewFilm 1 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1216.png",MM NewFilm 1 HD
 http://stream.skaz.tv/stream/ch1216/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1217.png",MM NewFilm 2 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1217.png",MM NewFilm 2 HD
 http://stream.skaz.tv/stream/ch1217/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1218.png",MM NewFilm 3 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1218.png",MM NewFilm 3 HD
 http://stream.skaz.tv/stream/ch1218/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1621.png",MM Translation HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1621.png",MM Translation HD
 http://stream.skaz.tv/stream/ch1621/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1222.png",MM UFO HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1222.png",MM UFO HD
 http://stream.skaz.tv/stream/ch1222/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1223.png",MM USSR 1941-1945 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1223.png",MM USSR 1941-1945 HD
 http://stream.skaz.tv/stream/ch1223/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1273.png",MM USSR Детектив HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1273.png",MM USSR Детектив HD
 http://stream.skaz.tv/stream/ch1273/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1224.png",MM USSR Комедия HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1224.png",MM USSR Комедия HD
 http://stream.skaz.tv/stream/ch1224/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1269.png",MM USSR Приключения HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1269.png",MM USSR Приключения HD
 http://stream.skaz.tv/stream/ch1269/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1227.png",MM USSR Фантастика HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1227.png",MM USSR Фантастика HD
 http://stream.skaz.tv/stream/ch1227/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1229.png",MM Агата Кристи HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1229.png",MM Агата Кристи HD
 http://stream.skaz.tv/stream/ch1229/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1232.png",MM Боевик Classic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1232.png",MM Боевик Classic HD
 http://stream.skaz.tv/stream/ch1232/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1233.png",MM Боевик HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1233.png",MM Боевик HD
 http://stream.skaz.tv/stream/ch1233/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1234.png",MM Вестерн HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1234.png",MM Вестерн HD
 http://stream.skaz.tv/stream/ch1234/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1236.png",MM Воронины HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1236.png",MM Воронины HD
 http://stream.skaz.tv/stream/ch1236/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1230.png",MM Грайндхаус HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1230.png",MM Грайндхаус HD
 http://stream.skaz.tv/stream/ch1230/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1324.png",MM Драма HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1324.png",MM Драма HD
 http://stream.skaz.tv/stream/ch1324/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1237.png",MM Затмение HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1237.png",MM Затмение HD
 http://stream.skaz.tv/stream/ch1237/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1238.png",MM История HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1238.png",MM История HD
 http://stream.skaz.tv/stream/ch1238/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1239.png",MM Катастрофа HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1239.png",MM Катастрофа HD
 http://stream.skaz.tv/stream/ch1239/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1241.png",MM Киберпанк HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1241.png",MM Киберпанк HD
 http://stream.skaz.tv/stream/ch1241/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2501.png",MM Кинофестиваль HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2501.png",MM Кинофестиваль HD
 http://stream.skaz.tv/stream/ch2501/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1242.png",MM Комедия Classic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1242.png",MM Комедия Classic HD
 http://stream.skaz.tv/stream/ch1242/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1243.png",MM Комедия HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1243.png",MM Комедия HD
 http://stream.skaz.tv/stream/ch1243/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1244.png",MM Криминал HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1244.png",MM Криминал HD
 http://stream.skaz.tv/stream/ch1244/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1245.png",MM Крутые 90-е HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1245.png",MM Крутые 90-е HD
 http://stream.skaz.tv/stream/ch1245/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1246.png",MM Кунг-Фу HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1246.png",MM Кунг-Фу HD
 http://stream.skaz.tv/stream/ch1246/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1249.png",MM Мифология HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1249.png",MM Мифология HD
 http://stream.skaz.tv/stream/ch1249/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1250.png",MM Нуар HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1250.png",MM Нуар HD
 http://stream.skaz.tv/stream/ch1250/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1252.png",MM Погружение HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1252.png",MM Погружение HD
 http://stream.skaz.tv/stream/ch1252/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1253.png",MM Полицейский с Рублёвки HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1253.png",MM Полицейский с Рублёвки HD
 http://stream.skaz.tv/stream/ch1253/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1254.png",MM Приключения HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1254.png",MM Приключения HD
 http://stream.skaz.tv/stream/ch1254/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1255.png",MM Роскино HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1255.png",MM Роскино HD
 http://stream.skaz.tv/stream/ch1255/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1256.png",MM Сваты HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1256.png",MM Сваты HD
 http://stream.skaz.tv/stream/ch1256/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1274.png",MM Семейный 1 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1274.png",MM Семейный 1 HD
 http://stream.skaz.tv/stream/ch1274/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1270.png",MM Семейный 2 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1270.png",MM Семейный 2 HD
 http://stream.skaz.tv/stream/ch1270/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1266.png",MM Синематограф HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1266.png",MM Синематограф HD
 http://stream.skaz.tv/stream/ch1266/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1257.png",MM Ситком HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1257.png",MM Ситком HD
 http://stream.skaz.tv/stream/ch1257/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1251.png",MM Ситком 2.0 HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1251.png",MM Ситком 2.0 HD
 http://stream.skaz.tv/stream/ch1251/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1258.png",MM Скорость HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1258.png",MM Скорость HD
 http://stream.skaz.tv/stream/ch1258/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1259.png",MM Спорт HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1259.png",MM Спорт HD
 http://stream.skaz.tv/stream/ch1259/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1260.png",MM Стивен Кинг HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1260.png",MM Стивен Кинг HD
 http://stream.skaz.tv/stream/ch1260/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1261.png",MM Супергерои HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1261.png",MM Супергерои HD
 http://stream.skaz.tv/stream/ch1261/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1263.png",MM Триллер HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1263.png",MM Триллер HD
 http://stream.skaz.tv/stream/ch1263/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1264.png",MM Ужастик HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1264.png",MM Ужастик HD
 http://stream.skaz.tv/stream/ch1264/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1275.png",MM Ужасы Classic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1275.png",MM Ужасы Classic HD
 http://stream.skaz.tv/stream/ch1275/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1276.png",MM Ужасы HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1276.png",MM Ужасы HD
 http://stream.skaz.tv/stream/ch1276/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1267.png",MM Фантастика HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1267.png",MM Фантастика HD
 http://stream.skaz.tv/stream/ch1267/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1268.png",MM Фобия HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1268.png",MM Фобия HD
 http://stream.skaz.tv/stream/ch1268/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1288.png",MS Crime HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1288.png",MS Crime HD
 http://stream.skaz.tv/stream/ch1288/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1289.png",MS Prisons HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1289.png",MS Prisons HD
 http://stream.skaz.tv/stream/ch1289/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1291.png",MS Young Blood HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1291.png",MS Young Blood HD
 http://stream.skaz.tv/stream/ch1291/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1556.png",Magic Action
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1556.png",Magic Action
 http://stream.skaz.tv/stream/ch1556/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2203.png",Magic Adventure
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2203.png",Magic Adventure
 http://stream.skaz.tv/stream/ch2203/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1557.png",Magic Comedy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1557.png",Magic Comedy
 http://stream.skaz.tv/stream/ch1557/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1582.png",Magic Family
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1582.png",Magic Family
 http://stream.skaz.tv/stream/ch1582/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1559.png",Magic Galaxy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1559.png",Magic Galaxy
 http://stream.skaz.tv/stream/ch1559/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1560.png",Magic Horror
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1560.png",Magic Horror
 http://stream.skaz.tv/stream/ch1560/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1561.png",Magic Karate
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1561.png",Magic Karate
 http://stream.skaz.tv/stream/ch1561/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1581.png",Magic Love
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1581.png",Magic Love
 http://stream.skaz.tv/stream/ch1581/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/992.png",Magic Russian
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/992.png",Magic Russian
 http://stream.skaz.tv/stream/ch992/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1562.png",Magic Thriller
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1562.png",Magic Thriller
 http://stream.skaz.tv/stream/ch1562/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1563.png",Magic VHS
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1563.png",Magic VHS
 http://stream.skaz.tv/stream/ch1563/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3038.png",MS Magic HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3038.png",MS Magic HD
 http://stream.skaz.tv/stream/ch3038/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2510.png",Oasis Action
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2510.png",Oasis Action
 http://stream.skaz.tv/stream/ch2510/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2647.png",Oasis Alien and Predator
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2647.png",Oasis Alien and Predator
 http://stream.skaz.tv/stream/ch2647/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2649.png",Oasis Anime
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2649.png",Oasis Anime
 http://stream.skaz.tv/stream/ch2649/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2650.png",Oasis Biography
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2650.png",Oasis Biography
 http://stream.skaz.tv/stream/ch2650/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2652.png",Oasis Celentano Brando Connery
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2652.png",Oasis Celentano Brando Connery
 http://stream.skaz.tv/stream/ch2652/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2653.png",Oasis Comedy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2653.png",Oasis Comedy
 http://stream.skaz.tv/stream/ch2653/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2654.png",Oasis Comedy Horrors
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2654.png",Oasis Comedy Horrors
 http://stream.skaz.tv/stream/ch2654/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2655.png",Oasis DC
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2655.png",Oasis DC
 http://stream.skaz.tv/stream/ch2655/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2656.png",Oasis Demon Slayer and Dororo
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2656.png",Oasis Demon Slayer and Dororo
 http://stream.skaz.tv/stream/ch2656/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2657.png",Oasis Detective
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2657.png",Oasis Detective
 http://stream.skaz.tv/stream/ch2657/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2660.png",Oasis Drama
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2660.png",Oasis Drama
 http://stream.skaz.tv/stream/ch2660/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2662.png",Oasis Family
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2662.png",Oasis Family
 http://stream.skaz.tv/stream/ch2662/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2666.png",Oasis Horror
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2666.png",Oasis Horror
 http://stream.skaz.tv/stream/ch2666/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1443.png",Oasis In English
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1443.png",Oasis In English
 http://stream.skaz.tv/stream/ch1443/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2674.png",Oasis Mafia
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2674.png",Oasis Mafia
 http://stream.skaz.tv/stream/ch2674/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2675.png",Oasis Marvel
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2675.png",Oasis Marvel
 http://stream.skaz.tv/stream/ch2675/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2678.png",Oasis Old Horrors
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2678.png",Oasis Old Horrors
 http://stream.skaz.tv/stream/ch2678/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2682.png",Oasis RUS Драма
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2682.png",Oasis RUS Драма
 http://stream.skaz.tv/stream/ch2682/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2681.png",Oasis RUS Комедии
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2681.png",Oasis RUS Комедии
 http://stream.skaz.tv/stream/ch2681/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2684.png",Oasis RUS Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2684.png",Oasis RUS Сериалы
 http://stream.skaz.tv/stream/ch2684/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2685.png",Oasis RUS Сериалы Драма
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2685.png",Oasis RUS Сериалы Драма
 http://stream.skaz.tv/stream/ch2685/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2686.png",Oasis Serkan Bolat
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2686.png",Oasis Serkan Bolat
 http://stream.skaz.tv/stream/ch2686/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2688.png",Oasis Soviet Comedy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2688.png",Oasis Soviet Comedy
 http://stream.skaz.tv/stream/ch2688/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2690.png",Oasis Superheroes Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2690.png",Oasis Superheroes Сериалы
 http://stream.skaz.tv/stream/ch2690/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2918.png",Oasis UK Series
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2918.png",Oasis UK Series
 http://stream.skaz.tv/stream/ch2918/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2694.png",Oasis USA Series
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2694.png",Oasis USA Series
 http://stream.skaz.tv/stream/ch2694/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1442.png",Oasis Ufo And Aliens
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1442.png",Oasis Ufo And Aliens
 http://stream.skaz.tv/stream/ch1442/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2920.png",Oasis Доктор Кто
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2920.png",Oasis Доктор Кто
 http://stream.skaz.tv/stream/ch2920/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2667.png",Oasis Корейские Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2667.png",Oasis Корейские Сериалы
 http://stream.skaz.tv/stream/ch2667/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2668.png",Oasis Кухня Отель
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2668.png",Oasis Кухня Отель
 http://stream.skaz.tv/stream/ch2668/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2669.png",Oasis Латиноамериканские Сериалы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2669.png",Oasis Латиноамериканские Сериалы
 http://stream.skaz.tv/stream/ch2669/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2676.png",Oasis Мелодрама
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2676.png",Oasis Мелодрама
 http://stream.skaz.tv/stream/ch2676/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2677.png",Oasis Миядзаки
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2677.png",Oasis Миядзаки
 http://stream.skaz.tv/stream/ch2677/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2921.png",Oasis Саша Таня
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2921.png",Oasis Саша Таня
 http://stream.skaz.tv/stream/ch2921/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2687.png",Oasis Тайны Смолвиля
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2687.png",Oasis Тайны Смолвиля
 http://stream.skaz.tv/stream/ch2687/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2663.png",Oasis Фантастика
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2663.png",Oasis Фантастика
 http://stream.skaz.tv/stream/ch2663/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2919.png",Oasis Чечня и Афган
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2919.png",Oasis Чечня и Афган
 http://stream.skaz.tv/stream/ch2919/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2880.png",Prokop TV Cinema Best HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2880.png",Prokop TV Cinema Best HD
 http://stream.skaz.tv/stream/ch2880/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2874.png",Prokop TV Comedy HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2874.png",Prokop TV Comedy HD
 http://stream.skaz.tv/stream/ch2874/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2866.png",Prokop TV Criminal HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2866.png",Prokop TV Criminal HD
 http://stream.skaz.tv/stream/ch2866/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2857.png",Prokop TV Detektiv HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2857.png",Prokop TV Detektiv HD
 http://stream.skaz.tv/stream/ch2857/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2876.png",Prokop TV Kung Fu
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2876.png",Prokop TV Kung Fu
 http://stream.skaz.tv/stream/ch2876/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2872.png",Prokop TV Netflix HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2872.png",Prokop TV Netflix HD
 http://stream.skaz.tv/stream/ch2872/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2871.png",Prokop TV Serial HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2871.png",Prokop TV Serial HD
 http://stream.skaz.tv/stream/ch2871/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2862.png",Prokop TV Вторая Мировая
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2862.png",Prokop TV Вторая Мировая
 http://stream.skaz.tv/stream/ch2862/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3148.png",SkyCam Action
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3148.png",SkyCam Action
 http://stream.skaz.tv/stream/ch3148/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3149.png",SkyCam Catastrophe
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3149.png",SkyCam Catastrophe
 http://stream.skaz.tv/stream/ch3149/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3150.png",SkyCam Goblin
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3150.png",SkyCam Goblin
 http://stream.skaz.tv/stream/ch3150/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3280.png",SkyCam Horrors
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3280.png",SkyCam Horrors
 http://stream.skaz.tv/stream/ch3280/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3282.png",SkyCam Romantic
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3282.png",SkyCam Romantic
 http://stream.skaz.tv/stream/ch3282/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3283.png",SkyCam RuKino
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3283.png",SkyCam RuKino
 http://stream.skaz.tv/stream/ch3283/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3286.png",SkyCam Victory
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3286.png",SkyCam Victory
 http://stream.skaz.tv/stream/ch3286/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3284.png",SkyCam Симпсоны
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3284.png",SkyCam Симпсоны
 http://stream.skaz.tv/stream/ch3284/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3285.png",SkyCam Южный Парк
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3285.png",SkyCam Южный Парк
 http://stream.skaz.tv/stream/ch3285/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1970.png",Sky High Anime HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1970.png",Sky High Anime HD
 http://stream.skaz.tv/stream/ch1970/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1962.png",Sky High Epoch HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1962.png",Sky High Epoch HD
 http://stream.skaz.tv/stream/ch1962/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1963.png",Sky High Fresh HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1963.png",Sky High Fresh HD
 http://stream.skaz.tv/stream/ch1963/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1961.png",Sky High Heroes HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1961.png",Sky High Heroes HD
 http://stream.skaz.tv/stream/ch1961/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1964.png",Sky High Man HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1964.png",Sky High Man HD
 http://stream.skaz.tv/stream/ch1964/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1973.png",Sky High Noir HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1973.png",Sky High Noir HD
 http://stream.skaz.tv/stream/ch1973/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1976.png",Sky High Orig HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1976.png",Sky High Orig HD
 http://stream.skaz.tv/stream/ch1976/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1966.png",Sky High Russian HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1966.png",Sky High Russian HD
 http://stream.skaz.tv/stream/ch1966/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1965.png",Sky High Series HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1965.png",Sky High Series HD
 http://stream.skaz.tv/stream/ch1965/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1969.png",Sky High Spirit HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1969.png",Sky High Spirit HD
 http://stream.skaz.tv/stream/ch1969/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1967.png",Sky High Чбу HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1967.png",Sky High Чбу HD
 http://stream.skaz.tv/stream/ch1967/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1069.png",TOP 80
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1069.png",TOP 80
 http://stream.skaz.tv/stream/ch1069/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1070.png",TOP BUDO HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1070.png",TOP BUDO HD
 http://stream.skaz.tv/stream/ch1070/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1071.png",TOP CINEMA HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1071.png",TOP CINEMA HD
 http://stream.skaz.tv/stream/ch1071/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1073.png",TOP MIX HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1073.png",TOP MIX HD
 http://stream.skaz.tv/stream/ch1073/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1072.png",TOP USSR
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1072.png",TOP USSR
 http://stream.skaz.tv/stream/ch1072/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1068.png",TOP Великолепный Век
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1068.png",TOP Великолепный Век
 http://stream.skaz.tv/stream/ch1068/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2591.png",VeleS 60FPS
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2591.png",VeleS 60FPS
 http://stream.skaz.tv/stream/ch2591/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2598.png",VeleS Movie Hits
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2598.png",VeleS Movie Hits
 http://stream.skaz.tv/stream/ch2598/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2595.png",VeleS Premiere
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2595.png",VeleS Premiere
 http://stream.skaz.tv/stream/ch2595/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2612.png",VeleS Аниме
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2612.png",VeleS Аниме
 http://stream.skaz.tv/stream/ch2612/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2801.png",VeleS Вестерн
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2801.png",VeleS Вестерн
 http://stream.skaz.tv/stream/ch2801/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3176.png",VeleS Гоблин
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3176.png",VeleS Гоблин
 http://stream.skaz.tv/stream/ch3176/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2592.png",VeleS Кинопленка
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2592.png",VeleS Кинопленка
 http://stream.skaz.tv/stream/ch2592/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2594.png",VeleS Киносерия
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2594.png",VeleS Киносерия
 http://stream.skaz.tv/stream/ch2594/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2314.png",VeleS Комедия
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2314.png",VeleS Комедия
 http://stream.skaz.tv/stream/ch2314/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2696.png",Veles Криминальный
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2696.png",Veles Криминальный
 http://stream.skaz.tv/stream/ch2696/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2802.png",VeleS Наше Кино
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2802.png",VeleS Наше Кино
 http://stream.skaz.tv/stream/ch2802/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3078.png",Veles Новогодний
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3078.png",Veles Новогодний
 http://stream.skaz.tv/stream/ch3078/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2597.png",VeleS СССР
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2597.png",VeleS СССР
 http://stream.skaz.tv/stream/ch2597/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2800.png",VeleS Семейный
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2800.png",VeleS Семейный
 http://stream.skaz.tv/stream/ch2800/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2596.png",VeleS Страшное
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2596.png",VeleS Страшное
 http://stream.skaz.tv/stream/ch2596/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2799.png",VeleS Триллер
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2799.png",VeleS Триллер
 http://stream.skaz.tv/stream/ch2799/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3136.png",Velilla TV Action War Films HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3136.png",Velilla TV Action War Films HD
 http://stream.skaz.tv/stream/ch3136/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3138.png",Velilla TV Домашний HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3138.png",Velilla TV Домашний HD
 http://stream.skaz.tv/stream/ch3138/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3287.png",Velilla TV ИП Пирогова HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3287.png",Velilla TV ИП Пирогова HD
 http://stream.skaz.tv/stream/ch3287/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3288.png",Velilla TV Кухня + Отель Элеон HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3288.png",Velilla TV Кухня + Отель Элеон HD
 http://stream.skaz.tv/stream/ch3288/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3139.png",Velilla TV Мосгаз HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3139.png",Velilla TV Мосгаз HD
 http://stream.skaz.tv/stream/ch3139/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3152.png",Velilla TV Морские дьяволы HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3152.png",Velilla TV Морские дьяволы HD
 http://stream.skaz.tv/stream/ch3152/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3137.png",Velilla TV Русский Сериал HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3137.png",Velilla TV Русский Сериал HD
 http://stream.skaz.tv/stream/ch3137/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1310.png",Yosso TV Adrenaline
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1310.png",Yosso TV Adrenaline
 http://stream.skaz.tv/stream/ch1310/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1312.png",Yosso TV Adventure
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1312.png",Yosso TV Adventure
 http://stream.skaz.tv/stream/ch1312/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1308.png",Yosso TV Best
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1308.png",Yosso TV Best
 http://stream.skaz.tv/stream/ch1308/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2457.png",Yosso TV Best 60fps
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2457.png",Yosso TV Best 60fps
 http://stream.skaz.tv/stream/ch2457/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://s.skaz.tv/tvicon/3182.png",Yosso TV Best Box 60fps
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3182.png",Yosso TV Best Box 60fps
 http://stream.skaz.tv/stream/ch3182/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1002.png",Yosso TV C-Comedy
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1002.png",Yosso TV C-Comedy
 http://stream.skaz.tv/stream/ch1002/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1575.png",Yosso TV C-History HD
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1575.png",Yosso TV C-History HD
 http://stream.skaz.tv/stream/ch1575/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/394.png",Yosso TV C-Holiday
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/394.png",Yosso TV C-Holiday
 http://stream.skaz.tv/stream/ch394/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1001.png",Yosso TV C-Inquest
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1001.png",Yosso TV C-Inquest
 http://stream.skaz.tv/stream/ch1001/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1315.png",Yosso TV C-Marvel
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1315.png",Yosso TV C-Marvel
 http://stream.skaz.tv/stream/ch1315/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1297.png",Yosso TV Grand
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1297.png",Yosso TV Grand
 http://stream.skaz.tv/stream/ch1297/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2455.png",Yosso TV Netflix
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2455.png",Yosso TV Netflix
 http://stream.skaz.tv/stream/ch2455/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1303.png",Yosso TV New Кино
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1303.png",Yosso TV New Кино
 http://stream.skaz.tv/stream/ch1303/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1311.png",Yosso TV Oblivion
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1311.png",Yosso TV Oblivion
 http://stream.skaz.tv/stream/ch1311/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1313.png",Yosso TV Thriller
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1313.png",Yosso TV Thriller
 http://stream.skaz.tv/stream/ch1313/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1298.png",Yosso TV VHS
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1298.png",Yosso TV VHS
 http://stream.skaz.tv/stream/ch1298/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1307.png",Yosso TV Забавное
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1307.png",Yosso TV Забавное
 http://stream.skaz.tv/stream/ch1307/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1309.png",Yosso TV Ковбойское
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1309.png",Yosso TV Ковбойское
 http://stream.skaz.tv/stream/ch1309/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/2062.png",Yosso TV Мелодрама
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2062.png",Yosso TV Мелодрама
 http://stream.skaz.tv/stream/ch2062/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1300.png",Yosso TV Русские Фильмы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1300.png",Yosso TV Русские Фильмы
 http://stream.skaz.tv/stream/ch1300/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1301.png",Yosso TV Советские Фильмы
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1301.png",Yosso TV Советские Фильмы
 http://stream.skaz.tv/stream/ch1301/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы 📽️" tvg-logo="http://skaz.tv/tvicon/1306.png",Yosso TV Трагичное
+#EXTINF:-1 group-title="Sala de cinema/Кинозалы 📽️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1306.png",Yosso TV Трагичное
 http://stream.skaz.tv/stream/ch1306/fde215a0/mono.m3u8
 
 
@@ -5567,4 +5567,5 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
