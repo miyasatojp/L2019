@@ -410,11 +410,11 @@ https://is.gd/6iBrBn
 https://is.gd/V5HZZW
 
 
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Prensa Latina (Cuba)🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Prensa Latina (Cuba) 🇨🇺
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Martí HD (Cuba)🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Martí HD (Cuba) 🇨🇺
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Kanal D Drama (Cuba)🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Kanal D Drama (Cuba) 🇨🇺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 
@@ -5567,6 +5567,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
