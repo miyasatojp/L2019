@@ -34,8 +34,9 @@ A lista funciona com os principais players IPTV:
 - Kodi
 - TiviMate
 - Perfect Player
+- App M3U IPTV (Android)
 - Outros players compatíveis com M3U
-
+- Link URL m3u: https://bit.ly/3p
 ---
 
 ## 📂 Estrutura do repositório
