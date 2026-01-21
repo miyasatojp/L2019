@@ -572,6 +572,63 @@ http://stream.skaz.tv/stream/ch1435/fde215a0/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672",V2BEAT TV
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/H1Aap4E.png",VEVO Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE R&B Classic Jams
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Country Today
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Country`s Finest
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp",Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Celebrates
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg",Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102487d.png",RADIO CITTA
+https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio (1080p)
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/vPxvbVv.png",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/lF8UxvR.png",MBC FM (1080p)
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/DjgNNHK.png",Qwest TV (1080p)
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/h48pwLn.png",Tropical Music TV (720p)
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/nLtiXNf.png",Wanasah (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+
+
+
 #EXTINF:-1 group-title="CINE TV 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) (🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="CINE TV 🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix (🇧🇷)
@@ -5493,62 +5550,6 @@ https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 
 
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672",V2BEAT TV
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/H1Aap4E.png",VEVO Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE R&B Classic Jams
-https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Country Today
-https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE 80s Flashback
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE 90s Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Country`s Finest
-https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp",Kaloopy HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Celebrates
-https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102487d.png",RADIO CITTA
-https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio (1080p)
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/vPxvbVv.png",Frecuencia Musical TV [Not 24/7]
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/lF8UxvR.png",MBC FM (1080p)
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/DjgNNHK.png",Qwest TV (1080p)
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/h48pwLn.png",Tropical Music TV (720p)
-https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
-#EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.imgur.com/nLtiXNf.png",Wanasah (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-
-
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/viB0FS2.png",Canaf54 TV
@@ -5575,5 +5576,3 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-
-
