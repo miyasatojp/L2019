@@ -5543,7 +5543,7 @@ https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 
 
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional (480p)
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/viB0FS2.png",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
@@ -5569,6 +5569,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
