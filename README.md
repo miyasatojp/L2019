@@ -36,7 +36,7 @@ A lista funciona com os principais players IPTV:
 - Perfect Player
 - App M3U IPTV (Android)
 - Outros players compatíveis com M3U
-- Link URL m3u: https://bit.ly/3pFolLV
+
 ---
 
 ## 📂 Estrutura do repositório
