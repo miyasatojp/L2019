@@ -116,38 +116,551 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 
 
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
 https://is.gd/Qy0INv
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
 https://n9.cl/8zhz2
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra Ñ (España) (🇪🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Dubai Sports 2
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
 https://is.gd/jJkXaV
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Horizon Sports (USA) (🇺🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Horizon Sports (USA) (🇺🇸)
 https://is.gd/MdOnUC
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
 https://is.gd/jM8uUZ
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
 https://is.gd/Od5UeT
-#EXTINF:-1 group-title="ESPORTES 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (USA) (🇺🇸)
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (USA) (🇺🇸)
 https://is.gd/1mFDs8
+
+
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/333.png",UA: Setanta Sports+ Ukraine HD
+http://stream.skaz.tv/stream/ch333/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/602.png",UA: Спорт-1
+http://stream.skaz.tv/stream/ch602/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/603.png",UA: Спорт-2
+http://stream.skaz.tv/stream/ch603/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/138.png",КХЛ Prime HD
+http://stream.skaz.tv/stream/ch138/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/34.png",КХЛ
+http://stream.skaz.tv/stream/ch034/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/39.png",Eurosport 1 HD
+http://stream.skaz.tv/stream/ch039/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/71.png",Eurosport 2 HD
+http://stream.skaz.tv/stream/ch071/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/48.png",Точка отрыва
+http://stream.skaz.tv/stream/ch048/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/36.png",МАТЧ! БОЕЦ
+http://stream.skaz.tv/stream/ch036/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/57.png",Матч! FHD
+http://stream.skaz.tv/stream/ch057/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/61.png",Матч! Футбол 1 FHD
+http://stream.skaz.tv/stream/ch061/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/62.png",Матч! Футбол 2 FHD
+http://stream.skaz.tv/stream/ch062/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/63.png",Матч! Футбол 3 FHD
+http://stream.skaz.tv/stream/ch063/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/135.png",Матч! Премьер FHD
+http://stream.skaz.tv/stream/ch135/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/56.png",Матч! Игра FHD
+http://stream.skaz.tv/stream/ch056/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/55.png",Матч! Арена HD
+http://stream.skaz.tv/stream/ch055/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/688.png",Матч! Планета
+http://stream.skaz.tv/stream/ch688/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1993.png",Setanta Sports 1 HD
+http://stream.skaz.tv/stream/ch1993/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/477.png",Setanta Sports 2 HD
+http://stream.skaz.tv/stream/ch477/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1702.png",Футбол HD
+http://stream.skaz.tv/stream/ch1702/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/708.png",Мяч HD
+http://stream.skaz.tv/stream/ch708/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/447.png",ТВ Спорт HD
+http://stream.skaz.tv/stream/ch447/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/663.png",Хоккей ТВ HD
+http://stream.skaz.tv/stream/ch663/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/475.png",Viju+ Sport HD
+http://stream.skaz.tv/stream/ch475/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/133.png",Конный Мир HD
+http://stream.skaz.tv/stream/ch133/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/549.png",UDAR TV HD
+http://stream.skaz.tv/stream/ch549/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/358.png",Fast and FunBox HD
+http://stream.skaz.tv/stream/ch358/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/359.png",FightBox HD
+http://stream.skaz.tv/stream/ch359/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/476.png",Extreme Sports
+http://stream.skaz.tv/stream/ch476/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/530.png",Живи!
+http://stream.skaz.tv/stream/ch530/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1880.png",Живи Активно HD
+http://stream.skaz.tv/stream/ch1880/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/536.png",Драйв
+http://stream.skaz.tv/stream/ch536/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/662.png",Старт HD
+http://stream.skaz.tv/stream/ch662/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2502.png",Старт Триумф
+http://stream.skaz.tv/stream/ch2502/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/567.png",Мир Баскетбола
+http://stream.skaz.tv/stream/ch567/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/725.png",NBA TV HD
+http://stream.skaz.tv/stream/ch725/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3050.png",Окко Спорт HD
+http://stream.skaz.tv/stream/ch3050/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3051.png",Окко Футбол HD
+http://stream.skaz.tv/stream/ch3051/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2810.png",Box AutoTrend HD
+http://stream.skaz.tv/stream/ch2810/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2282.png",Box Be ON Edge HD
+http://stream.skaz.tv/stream/ch2282/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2283.png",Box Be ON Edge 1 Live HD
+http://stream.skaz.tv/stream/ch2283/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2336.png",Box Sport Cast 1 Live
+http://stream.skaz.tv/stream/ch2336/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2467.png",Box Sport Cast HD
+http://stream.skaz.tv/stream/ch2467/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2808.png",Box SR Sport 4K HDR
+http://stream.skaz.tv/stream/ch2808/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2809.png",BOX SR Sport 1 Live 4K HDR
+http://stream.skaz.tv/stream/ch2809/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2807.png",Box SR Sport 2 Live 4K HDR
+http://stream.skaz.tv/stream/ch2807/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2916.png",BOX SR Sport 3 Live 4K HDR
+http://stream.skaz.tv/stream/ch2916/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2956.png",BOX SR Sport 4 Live 4K
+http://stream.skaz.tv/stream/ch2956/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2558.png",ViP Sport 1 (Sport Event)
+http://stream.skaz.tv/stream/ch2558/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2571.png",Vital Sport 1 (Sport Event)
+http://stream.skaz.tv/stream/ch2571/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2577.png",Pimple TV 1 (Sport Event)
+http://stream.skaz.tv/stream/ch2577/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2583.png",Fint Ga 1 (Sport Event)
+http://stream.skaz.tv/stream/ch2583/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1768.png",Liberty Автогир FHD
+http://stream.skaz.tv/stream/ch1768/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1981.png",Sky High Fight+ HD
+http://stream.skaz.tv/stream/ch1981/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1550.png",Clarity4k Единоборства
+http://stream.skaz.tv/stream/ch1550/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2695.png",Oasis WWE In English
+http://stream.skaz.tv/stream/ch2695/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2665.png",Oasis Фитнес
+http://stream.skaz.tv/stream/ch2665/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2923.png",CineMan Фитнес
+http://stream.skaz.tv/stream/ch2923/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1066.png",BE: Dazn Pro League 1 HD
+http://stream.skaz.tv/stream/ch1066/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/227.png",AR: Bein Sports 1 HD
+http://stream.skaz.tv/stream/ch227/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1109.png",SE: V Sport 1 HD
+http://stream.skaz.tv/stream/ch1109/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1687.png",SE: V Sport Extra
+http://stream.skaz.tv/stream/ch1687/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1689.png",SE: V Sport Premium
+http://stream.skaz.tv/stream/ch1689/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1110.png",SE: V Sport Football HD
+http://stream.skaz.tv/stream/ch1110/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1111.png",SE: V Sport Golf HD
+http://stream.skaz.tv/stream/ch1111/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1688.png",SE: V Sport Motor
+http://stream.skaz.tv/stream/ch1688/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1691.png",SE: V Sport Vinter
+http://stream.skaz.tv/stream/ch1691/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1114.png",SE: TV4 Fotboll HD
+http://stream.skaz.tv/stream/ch1114/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1115.png",SE: C More Golf HD
+http://stream.skaz.tv/stream/ch1115/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/144.png",FI: C More Max HD
+http://stream.skaz.tv/stream/ch144/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1098.png",AL: Tring Sport 1 HD
+http://stream.skaz.tv/stream/ch1098/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1331.png",US: FOX Sports 1 HD
+http://stream.skaz.tv/stream/ch1331/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1332.png",US: FOX Sports 2 HD
+http://stream.skaz.tv/stream/ch1332/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1067.png",US: NHL Network HD
+http://stream.skaz.tv/stream/ch1067/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/322.png",US: UFC Fight Pass HD
+http://stream.skaz.tv/stream/ch322/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/108.png",US: NFL Red Zone HD
+http://stream.skaz.tv/stream/ch108/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1329.png",US: MLB Network HD
+http://stream.skaz.tv/stream/ch1329/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1334.png",US: WWE Network HD
+http://stream.skaz.tv/stream/ch1334/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1336.png",US: FUBO Sports Network HD
+http://stream.skaz.tv/stream/ch1336/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1330.png",US: CBS Sports Network HD
+http://stream.skaz.tv/stream/ch1330/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1333.png",US: NBC Sports Network HD
+http://stream.skaz.tv/stream/ch1333/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1335.png",US: World Fishing Network HD
+http://stream.skaz.tv/stream/ch1335/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1623.png",US: Tennis Channel HD
+http://stream.skaz.tv/stream/ch1623/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1624.png",US: Tennis Channel International HD
+http://stream.skaz.tv/stream/ch1624/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1625.png",US: ESPN HD
+http://stream.skaz.tv/stream/ch1625/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1626.png",US: ESPN 2 HD
+http://stream.skaz.tv/stream/ch1626/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1627.png",US: ESPN 3 HD
+http://stream.skaz.tv/stream/ch1627/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1337.png",CA: Fight Network HD
+http://stream.skaz.tv/stream/ch1337/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1338.png",HR: Arena Sport 1 HD
+http://stream.skaz.tv/stream/ch1338/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1063.png",SR: Arena Sport Premium 1 HD
+http://stream.skaz.tv/stream/ch1063/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1705.png",PT: Sport TV 1 HD
+http://stream.skaz.tv/stream/ch1705/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2104.png",PT: Dazn 1 UHD
+http://stream.skaz.tv/stream/ch2104/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1711.png",SR: Sport Klub 1 HD
+http://stream.skaz.tv/stream/ch1711/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1712.png",SR: Sport Klub 2 HD
+http://stream.skaz.tv/stream/ch1712/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1988.png",MY: Astro Cricket
+http://stream.skaz.tv/stream/ch1988/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2132.png",MY: Astro Sports UHD
+http://stream.skaz.tv/stream/ch2132/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1989.png",MY: Astro Premier League 1 HD
+http://stream.skaz.tv/stream/ch1989/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1990.png",MY: Astro Premier League 2 HD
+http://stream.skaz.tv/stream/ch1990/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1991.png",MY: Astro Grandstand HD
+http://stream.skaz.tv/stream/ch1991/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2096.png",CH: Blue Sport 1 HD
+http://stream.skaz.tv/stream/ch2096/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2108.png",CZ: Nova Sport 1 HD
+http://stream.skaz.tv/stream/ch2108/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2109.png",CZ: Nova Sport 2 HD
+http://stream.skaz.tv/stream/ch2109/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2202.png",NL: ESPN HD
+http://stream.skaz.tv/stream/ch2202/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2113.png",NL: Ziggo Sport HD
+http://stream.skaz.tv/stream/ch2113/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2742.png",HK: Now Sports 4K
+http://stream.skaz.tv/stream/ch2742/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2753.png",HK: Now Sports 1 HD
+http://stream.skaz.tv/stream/ch2753/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1846.png",RO: Prima Sport 4 HD
+http://stream.skaz.tv/stream/ch1846/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/273.png",Auto Motor Sport HD
+http://stream.skaz.tv/stream/ch273/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/86.png",Dazn 1 Bar HD
+http://stream.skaz.tv/stream/ch086/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2512.png",Dazn 1 Sat HD
+http://stream.skaz.tv/stream/ch2512/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1292.png",Dazn Kabel 1 HD
+http://stream.skaz.tv/stream/ch1292/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/35.png",Dazn 2 Bar HD
+http://stream.skaz.tv/stream/ch035/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2513.png",Dazn 2 Sat HD
+http://stream.skaz.tv/stream/ch2513/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1293.png",Dazn Kabel 2 HD
+http://stream.skaz.tv/stream/ch1293/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2511.png",Dazn NFL Network HD
+http://stream.skaz.tv/stream/ch2511/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/285.png",Dazn NBA HD
+http://stream.skaz.tv/stream/ch285/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2017.png",Dazn Event 1 HD
+http://stream.skaz.tv/stream/ch2017/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/286.png",Eurosport 1 HD DE
+http://stream.skaz.tv/stream/ch286/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/287.png",Eurosport 2 HD DE
+http://stream.skaz.tv/stream/ch287/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/288.png",Eurosport 2Xtra HD
+http://stream.skaz.tv/stream/ch288/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/215.png",eSports1 HD
+http://stream.skaz.tv/stream/ch215/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3057.png",RTL+ Sport Event 1 HD
+http://stream.skaz.tv/stream/ch3057/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3066.png",RTL+ Sport Event 10 HD
+http://stream.skaz.tv/stream/ch3066/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/186.png",Sky Sport News HD
+http://stream.skaz.tv/stream/ch186/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3031.png",Sky Sport Premier League Sat HD
+http://stream.skaz.tv/stream/ch3031/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1873.png",Sky Sport Premier League HD DE
+http://stream.skaz.tv/stream/ch1873/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3032.png",Sky Sport Top Event Sat HD
+http://stream.skaz.tv/stream/ch3032/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1874.png",Sky Sport Top Event HD DE
+http://stream.skaz.tv/stream/ch1874/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3033.png",Sky Sport Golf Sat HD
+http://stream.skaz.tv/stream/ch3033/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3034.png",Sky Sport Mix Sat HD
+http://stream.skaz.tv/stream/ch3034/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1876.png",Sky Sport Mix HD DE
+http://stream.skaz.tv/stream/ch1876/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3035.png",Sky Sport Tennis Sat HD
+http://stream.skaz.tv/stream/ch3035/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1432.png",Sky Sport UHD
+http://stream.skaz.tv/stream/ch1432/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1433.png",Sky Sport Bundesliga UHD
+http://stream.skaz.tv/stream/ch1433/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2701.png",Sky Sport F1 Sat HD
+http://stream.skaz.tv/stream/ch2701/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/852.png",Sky Sport F1 HD DE
+http://stream.skaz.tv/stream/ch852/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1431.png",Sky Sport F1 Kabel HD
+http://stream.skaz.tv/stream/ch1431/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3039.png",Sky Sport Austria 1 Sat HD
+http://stream.skaz.tv/stream/ch3039/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1283.png",Sky Sport Austria 2 HD
+http://stream.skaz.tv/stream/ch1283/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1318.png",Sky Sport Austria 6 HD
+http://stream.skaz.tv/stream/ch1318/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1319.png",Sky Sport Austria 7 HD
+http://stream.skaz.tv/stream/ch1319/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/188.png",myTeamTV 1 HD
+http://stream.skaz.tv/stream/ch188/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2546.png",DYN Sport 1 HD (Event Only)
+http://stream.skaz.tv/stream/ch2546/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/868.png",PL: Canal+ 360 HD
+http://stream.skaz.tv/stream/ch868/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/872.png",PL: Canal+ Sport HD
+http://stream.skaz.tv/stream/ch872/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/637.png",PL: Eleven Sports 1 4K
+http://stream.skaz.tv/stream/ch637/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/891.png",PL: Eurosport 1
+http://stream.skaz.tv/stream/ch891/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/892.png",PL: Eurosport 2
+http://stream.skaz.tv/stream/ch892/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/893.png",PL: Extreme Sports
+http://stream.skaz.tv/stream/ch893/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/894.png",PL: FightBox
+http://stream.skaz.tv/stream/ch894/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/895.png",PL: Fightklub HD
+http://stream.skaz.tv/stream/ch895/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/932.png",PL: Polsat Sport 1 HD
+http://stream.skaz.tv/stream/ch932/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/933.png",PL: Polsat Sport 2 HD
+http://stream.skaz.tv/stream/ch933/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2489.png",PL: Polsat Sport 3 HD
+http://stream.skaz.tv/stream/ch2489/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/934.png",PL: Polsat Sport Premium 1 HD
+http://stream.skaz.tv/stream/ch934/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/937.png",PL: Sport Klub HD
+http://stream.skaz.tv/stream/ch937/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/963.png",PL: TVP Sport HD
+http://stream.skaz.tv/stream/ch963/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2958.png",ES: Dazn 1 HD
+http://stream.skaz.tv/stream/ch2958/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2959.png",ES: Dazn 2 HD
+http://stream.skaz.tv/stream/ch2959/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/765.png",ES: DAZN F1 HD
+http://stream.skaz.tv/stream/ch765/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2106.png",ES: DAZN LaLiga HD
+http://stream.skaz.tv/stream/ch2106/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2107.png",ES: DAZN LaLiga 2 HD
+http://stream.skaz.tv/stream/ch2107/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2992.png",ES: Eurosport 1 HD
+http://stream.skaz.tv/stream/ch2992/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2993.png",ES: Eurosport 2 HD
+http://stream.skaz.tv/stream/ch2993/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2219.png",ES: Real Madrid TV HD
+http://stream.skaz.tv/stream/ch2219/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2403.png",IT: Eurosport 1 HD
+http://stream.skaz.tv/stream/ch2403/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2406.png",IT: Eurosport 2 HD
+http://stream.skaz.tv/stream/ch2406/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2388.png",IT: Rai Sport HD
+http://stream.skaz.tv/stream/ch2388/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2417.png",IT: Sky Sport Arena HD
+http://stream.skaz.tv/stream/ch2417/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2418.png",IT: Sky Sport Calcio HD
+http://stream.skaz.tv/stream/ch2418/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2413.png",IT: Sky Sport Max HD
+http://stream.skaz.tv/stream/ch2413/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2419.png",IT: Sky Sport F1 HD
+http://stream.skaz.tv/stream/ch2419/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2421.png",IT: Sky Sport Golf HD
+http://stream.skaz.tv/stream/ch2421/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2422.png",IT: Sky Sport MotoGP HD
+http://stream.skaz.tv/stream/ch2422/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2423.png",IT: Sky Sport NBA HD
+http://stream.skaz.tv/stream/ch2423/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2424.png",IT: Sky Sport Tennis HD
+http://stream.skaz.tv/stream/ch2424/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2412.png",IT: Sky Sport Super Tennis HD
+http://stream.skaz.tv/stream/ch2412/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2440.png",IE: Premier Sports 1 HD 50fps
+http://stream.skaz.tv/stream/ch2440/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2441.png",IE: Premier Sports 2 HD 50fps
+http://stream.skaz.tv/stream/ch2441/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2451.png",UK: Sky Sports Premier League HD 50fps
+http://stream.skaz.tv/stream/ch2451/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2450.png",UK: Sky Sports News HD 50fps
+http://stream.skaz.tv/stream/ch2450/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2446.png",UK: Sky Sports Football HD 50fps
+http://stream.skaz.tv/stream/ch2446/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2449.png",UK: Sky Sports Mix HD 50fps
+http://stream.skaz.tv/stream/ch2449/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2444.png",UK: Sky Sports Cricket HD 50fps
+http://stream.skaz.tv/stream/ch2444/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2448.png",Sky UK: Sports Main Event HD 50fps
+http://stream.skaz.tv/stream/ch2448/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/335.png",UK: Sky Sports Main Event HD
+http://stream.skaz.tv/stream/ch335/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2447.png",UK: Sky Sports Golf HD 50fps
+http://stream.skaz.tv/stream/ch2447/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/306.png",UK: Sky Sports Golf HD
+http://stream.skaz.tv/stream/ch306/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2452.png",UK: Sky Sports Racing HD 50fps
+http://stream.skaz.tv/stream/ch2452/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1100.png",UK: Sky Sports Racing HD
+http://stream.skaz.tv/stream/ch1100/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2442.png",UK: Sky Sports Action HD 50fps
+http://stream.skaz.tv/stream/ch2442/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2105.png",UK: Sky Sports Action HD
+http://stream.skaz.tv/stream/ch2105/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2443.png",UK: Sky Sports Plus HD 50fps
+http://stream.skaz.tv/stream/ch2443/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2445.png",UK: Sky Sports F1 HD 50fps
+http://stream.skaz.tv/stream/ch2445/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2207.png",UK: TNT Sport 1 HD 50fps
+http://stream.skaz.tv/stream/ch2207/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2208.png",UK: TNT Sport 2 HD 50fps
+http://stream.skaz.tv/stream/ch2208/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2209.png",UK: TNT Sport 3 HD 50fps
+http://stream.skaz.tv/stream/ch2209/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2210.png",UK: TNT Sport 4 HD 50fps
+http://stream.skaz.tv/stream/ch2210/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1718.png",UK: Viaplay Sports 1 HD
+http://stream.skaz.tv/stream/ch1718/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1719.png",UK: Viaplay Sports 2 HD
+http://stream.skaz.tv/stream/ch1719/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2496.png",IL: Eurosport 1 HD
+http://stream.skaz.tv/stream/ch2496/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2497.png",IL: Eurosport 2 HD
+http://stream.skaz.tv/stream/ch2497/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2629.png",IL: Edge Sport HD
+http://stream.skaz.tv/stream/ch2629/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1128.png",IL: Sport 1 FHD
+http://stream.skaz.tv/stream/ch1128/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2211.png",IL: Sport 5 4K
+http://stream.skaz.tv/stream/ch2211/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1088.png",KZ: InSport HD
+http://stream.skaz.tv/stream/ch1088/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2036.png",KZ: InHockey HD
+http://stream.skaz.tv/stream/ch2036/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/474.png",KZ: QazSport HD
+http://stream.skaz.tv/stream/ch474/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1091.png",KZ: Q Sport HD
+http://stream.skaz.tv/stream/ch1091/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1092.png",KZ: Q Sport League HD
+http://stream.skaz.tv/stream/ch1092/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/639.png",KZ: Setanta Qazaqstan HD
+http://stream.skaz.tv/stream/ch639/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2514.png",KZ: Setanta Qazaqstan HD RU
+http://stream.skaz.tv/stream/ch2514/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2034.png",KZ: Setanta Sports 1 HD
+http://stream.skaz.tv/stream/ch2034/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2035.png",KZ: Setanta Sports 2 HD
+http://stream.skaz.tv/stream/ch2035/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/137.png",LT: Go3 Sport 1 HD
+http://stream.skaz.tv/stream/ch137/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/622.png",LT: Go3 Sport 2 HD
+http://stream.skaz.tv/stream/ch622/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1629.png",LT: Go3 Sport 3 HD
+http://stream.skaz.tv/stream/ch1629/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/458.png",LT: Go3 Sport Open HD
+http://stream.skaz.tv/stream/ch458/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/676.png",LT: Sport 1 HD
+http://stream.skaz.tv/stream/ch676/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1645.png",LV: Go3 Sport 1 HD
+http://stream.skaz.tv/stream/ch1645/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1646.png",LV: Go3 Sport 2 HD
+http://stream.skaz.tv/stream/ch1646/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1647.png",LV: Go3 Sport 3 HD
+http://stream.skaz.tv/stream/ch1647/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1665.png",LV: Go3 Sport Open HD
+http://stream.skaz.tv/stream/ch1665/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1638.png",EE: Go3 Sport 1 HD
+http://stream.skaz.tv/stream/ch1638/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1639.png",EE: Go3 Sport 2 HD
+http://stream.skaz.tv/stream/ch1639/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1108.png",RO: Digi Sport 1 HD
+http://stream.skaz.tv/stream/ch1108/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1112.png",RO: Digi Sport 2 HD
+http://stream.skaz.tv/stream/ch1112/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1113.png",RO: Digi Sport 3 HD
+http://stream.skaz.tv/stream/ch1113/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1117.png",RO: Digi Sport 4 HD
+http://stream.skaz.tv/stream/ch1117/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1832.png",RO: Eurosport 1 HD
+http://stream.skaz.tv/stream/ch1832/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1831.png",RO: Eurosport 2 HD
+http://stream.skaz.tv/stream/ch1831/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1844.png",RO: Prima Sport 1 HD
+http://stream.skaz.tv/stream/ch1844/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1847.png",RO: Prima Sport 2 HD
+http://stream.skaz.tv/stream/ch1847/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1845.png",RO: Prima Sport 3 HD
+http://stream.skaz.tv/stream/ch1845/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1492.png",AM: FastSports
+http://stream.skaz.tv/stream/ch1492/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2587.png",AM: FastSports 1
+http://stream.skaz.tv/stream/ch2587/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2588.png",AM: FastSports 2
+http://stream.skaz.tv/stream/ch2588/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1199.png",GE: Setanta Sports 1 Georgia HD
+http://stream.skaz.tv/stream/ch1199/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1206.png",GE: Setanta Sports 2 Georgia HD
+http://stream.skaz.tv/stream/ch1206/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2060.png",GE: Setanta Sports 3 Georgia HD
+http://stream.skaz.tv/stream/ch2060/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1603.png",GE: Silk Sport 1 HD
+http://stream.skaz.tv/stream/ch1603/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1424.png",TR: Bein Sports 1 HD
+http://stream.skaz.tv/stream/ch1424/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1449.png",TR: Bein Sports MAX 1 HD
+http://stream.skaz.tv/stream/ch1449/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1450.png",TR: Bein Sports MAX 2 HD
+http://stream.skaz.tv/stream/ch1450/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2481.png",TR: Eurosport 1 HD
+http://stream.skaz.tv/stream/ch2481/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2482.png",TR: Eurosport 2 HD
+http://stream.skaz.tv/stream/ch2482/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1397.png",TR: S Sport HD
+http://stream.skaz.tv/stream/ch1397/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1398.png",TR: S Sport 2 HD
+http://stream.skaz.tv/stream/ch1398/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1408.png",TR: Spor Smart HD
+http://stream.skaz.tv/stream/ch1408/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1416.png",TR: TRT Spor HD
+http://stream.skaz.tv/stream/ch1416/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1451.png",TR: Tivibu Spor 1 HD
+http://stream.skaz.tv/stream/ch1451/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1994.png",TR: Exxen 1 HD
+http://stream.skaz.tv/stream/ch1994/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1995.png",TR: Exxen 2 HD
+http://stream.skaz.tv/stream/ch1995/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3043.png",TR: Tabii Spor 1 HD
+http://stream.skaz.tv/stream/ch3043/fde215a0/mono.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1534.png",AZ: CBC Sport HD
+http://stream.skaz.tv/stream/ch1534/fde215a0/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Padre Cicero PI (🇧🇷)
@@ -4123,517 +4636,6 @@ http://stream.skaz.tv/stream/ch1879/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch625/fde215a0/mono.m3u8
 
 
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/333.png",UA: Setanta Sports+ Ukraine HD
-http://stream.skaz.tv/stream/ch333/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/602.png",UA: Спорт-1
-http://stream.skaz.tv/stream/ch602/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/603.png",UA: Спорт-2
-http://stream.skaz.tv/stream/ch603/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/138.png",КХЛ Prime HD
-http://stream.skaz.tv/stream/ch138/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/34.png",КХЛ
-http://stream.skaz.tv/stream/ch034/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/39.png",Eurosport 1 HD
-http://stream.skaz.tv/stream/ch039/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/71.png",Eurosport 2 HD
-http://stream.skaz.tv/stream/ch071/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/48.png",Точка отрыва
-http://stream.skaz.tv/stream/ch048/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/36.png",МАТЧ! БОЕЦ
-http://stream.skaz.tv/stream/ch036/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/57.png",Матч! FHD
-http://stream.skaz.tv/stream/ch057/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/61.png",Матч! Футбол 1 FHD
-http://stream.skaz.tv/stream/ch061/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/62.png",Матч! Футбол 2 FHD
-http://stream.skaz.tv/stream/ch062/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/63.png",Матч! Футбол 3 FHD
-http://stream.skaz.tv/stream/ch063/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/135.png",Матч! Премьер FHD
-http://stream.skaz.tv/stream/ch135/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/56.png",Матч! Игра FHD
-http://stream.skaz.tv/stream/ch056/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/55.png",Матч! Арена HD
-http://stream.skaz.tv/stream/ch055/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/688.png",Матч! Планета
-http://stream.skaz.tv/stream/ch688/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1993.png",Setanta Sports 1 HD
-http://stream.skaz.tv/stream/ch1993/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/477.png",Setanta Sports 2 HD
-http://stream.skaz.tv/stream/ch477/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1702.png",Футбол HD
-http://stream.skaz.tv/stream/ch1702/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/708.png",Мяч HD
-http://stream.skaz.tv/stream/ch708/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/447.png",ТВ Спорт HD
-http://stream.skaz.tv/stream/ch447/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/663.png",Хоккей ТВ HD
-http://stream.skaz.tv/stream/ch663/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/475.png",Viju+ Sport HD
-http://stream.skaz.tv/stream/ch475/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/133.png",Конный Мир HD
-http://stream.skaz.tv/stream/ch133/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/549.png",UDAR TV HD
-http://stream.skaz.tv/stream/ch549/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/358.png",Fast and FunBox HD
-http://stream.skaz.tv/stream/ch358/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/359.png",FightBox HD
-http://stream.skaz.tv/stream/ch359/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/476.png",Extreme Sports
-http://stream.skaz.tv/stream/ch476/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/530.png",Живи!
-http://stream.skaz.tv/stream/ch530/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1880.png",Живи Активно HD
-http://stream.skaz.tv/stream/ch1880/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/536.png",Драйв
-http://stream.skaz.tv/stream/ch536/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/662.png",Старт HD
-http://stream.skaz.tv/stream/ch662/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2502.png",Старт Триумф
-http://stream.skaz.tv/stream/ch2502/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/567.png",Мир Баскетбола
-http://stream.skaz.tv/stream/ch567/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/725.png",NBA TV HD
-http://stream.skaz.tv/stream/ch725/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3050.png",Окко Спорт HD
-http://stream.skaz.tv/stream/ch3050/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3051.png",Окко Футбол HD
-http://stream.skaz.tv/stream/ch3051/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2810.png",Box AutoTrend HD
-http://stream.skaz.tv/stream/ch2810/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2282.png",Box Be ON Edge HD
-http://stream.skaz.tv/stream/ch2282/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2283.png",Box Be ON Edge 1 Live HD
-http://stream.skaz.tv/stream/ch2283/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2336.png",Box Sport Cast 1 Live
-http://stream.skaz.tv/stream/ch2336/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2467.png",Box Sport Cast HD
-http://stream.skaz.tv/stream/ch2467/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2808.png",Box SR Sport 4K HDR
-http://stream.skaz.tv/stream/ch2808/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2809.png",BOX SR Sport 1 Live 4K HDR
-http://stream.skaz.tv/stream/ch2809/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2807.png",Box SR Sport 2 Live 4K HDR
-http://stream.skaz.tv/stream/ch2807/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2916.png",BOX SR Sport 3 Live 4K HDR
-http://stream.skaz.tv/stream/ch2916/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2956.png",BOX SR Sport 4 Live 4K
-http://stream.skaz.tv/stream/ch2956/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2558.png",ViP Sport 1 (Sport Event)
-http://stream.skaz.tv/stream/ch2558/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2571.png",Vital Sport 1 (Sport Event)
-http://stream.skaz.tv/stream/ch2571/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2577.png",Pimple TV 1 (Sport Event)
-http://stream.skaz.tv/stream/ch2577/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2583.png",Fint Ga 1 (Sport Event)
-http://stream.skaz.tv/stream/ch2583/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1768.png",Liberty Автогир FHD
-http://stream.skaz.tv/stream/ch1768/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1981.png",Sky High Fight+ HD
-http://stream.skaz.tv/stream/ch1981/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1550.png",Clarity4k Единоборства
-http://stream.skaz.tv/stream/ch1550/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2695.png",Oasis WWE In English
-http://stream.skaz.tv/stream/ch2695/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2665.png",Oasis Фитнес
-http://stream.skaz.tv/stream/ch2665/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2923.png",CineMan Фитнес
-http://stream.skaz.tv/stream/ch2923/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1066.png",BE: Dazn Pro League 1 HD
-http://stream.skaz.tv/stream/ch1066/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/227.png",AR: Bein Sports 1 HD
-http://stream.skaz.tv/stream/ch227/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1109.png",SE: V Sport 1 HD
-http://stream.skaz.tv/stream/ch1109/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1687.png",SE: V Sport Extra
-http://stream.skaz.tv/stream/ch1687/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1689.png",SE: V Sport Premium
-http://stream.skaz.tv/stream/ch1689/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1110.png",SE: V Sport Football HD
-http://stream.skaz.tv/stream/ch1110/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1111.png",SE: V Sport Golf HD
-http://stream.skaz.tv/stream/ch1111/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1688.png",SE: V Sport Motor
-http://stream.skaz.tv/stream/ch1688/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1691.png",SE: V Sport Vinter
-http://stream.skaz.tv/stream/ch1691/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1114.png",SE: TV4 Fotboll HD
-http://stream.skaz.tv/stream/ch1114/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1115.png",SE: C More Golf HD
-http://stream.skaz.tv/stream/ch1115/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/144.png",FI: C More Max HD
-http://stream.skaz.tv/stream/ch144/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1098.png",AL: Tring Sport 1 HD
-http://stream.skaz.tv/stream/ch1098/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1331.png",US: FOX Sports 1 HD
-http://stream.skaz.tv/stream/ch1331/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1332.png",US: FOX Sports 2 HD
-http://stream.skaz.tv/stream/ch1332/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1067.png",US: NHL Network HD
-http://stream.skaz.tv/stream/ch1067/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/322.png",US: UFC Fight Pass HD
-http://stream.skaz.tv/stream/ch322/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/108.png",US: NFL Red Zone HD
-http://stream.skaz.tv/stream/ch108/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1329.png",US: MLB Network HD
-http://stream.skaz.tv/stream/ch1329/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1334.png",US: WWE Network HD
-http://stream.skaz.tv/stream/ch1334/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1336.png",US: FUBO Sports Network HD
-http://stream.skaz.tv/stream/ch1336/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1330.png",US: CBS Sports Network HD
-http://stream.skaz.tv/stream/ch1330/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1333.png",US: NBC Sports Network HD
-http://stream.skaz.tv/stream/ch1333/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1335.png",US: World Fishing Network HD
-http://stream.skaz.tv/stream/ch1335/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1623.png",US: Tennis Channel HD
-http://stream.skaz.tv/stream/ch1623/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1624.png",US: Tennis Channel International HD
-http://stream.skaz.tv/stream/ch1624/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1625.png",US: ESPN HD
-http://stream.skaz.tv/stream/ch1625/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1626.png",US: ESPN 2 HD
-http://stream.skaz.tv/stream/ch1626/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1627.png",US: ESPN 3 HD
-http://stream.skaz.tv/stream/ch1627/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1337.png",CA: Fight Network HD
-http://stream.skaz.tv/stream/ch1337/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1338.png",HR: Arena Sport 1 HD
-http://stream.skaz.tv/stream/ch1338/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1063.png",SR: Arena Sport Premium 1 HD
-http://stream.skaz.tv/stream/ch1063/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1705.png",PT: Sport TV 1 HD
-http://stream.skaz.tv/stream/ch1705/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2104.png",PT: Dazn 1 UHD
-http://stream.skaz.tv/stream/ch2104/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1711.png",SR: Sport Klub 1 HD
-http://stream.skaz.tv/stream/ch1711/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1712.png",SR: Sport Klub 2 HD
-http://stream.skaz.tv/stream/ch1712/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1988.png",MY: Astro Cricket
-http://stream.skaz.tv/stream/ch1988/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2132.png",MY: Astro Sports UHD
-http://stream.skaz.tv/stream/ch2132/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1989.png",MY: Astro Premier League 1 HD
-http://stream.skaz.tv/stream/ch1989/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1990.png",MY: Astro Premier League 2 HD
-http://stream.skaz.tv/stream/ch1990/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1991.png",MY: Astro Grandstand HD
-http://stream.skaz.tv/stream/ch1991/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2096.png",CH: Blue Sport 1 HD
-http://stream.skaz.tv/stream/ch2096/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2108.png",CZ: Nova Sport 1 HD
-http://stream.skaz.tv/stream/ch2108/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2109.png",CZ: Nova Sport 2 HD
-http://stream.skaz.tv/stream/ch2109/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2202.png",NL: ESPN HD
-http://stream.skaz.tv/stream/ch2202/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2113.png",NL: Ziggo Sport HD
-http://stream.skaz.tv/stream/ch2113/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2742.png",HK: Now Sports 4K
-http://stream.skaz.tv/stream/ch2742/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2753.png",HK: Now Sports 1 HD
-http://stream.skaz.tv/stream/ch2753/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1846.png",RO: Prima Sport 4 HD
-http://stream.skaz.tv/stream/ch1846/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/273.png",Auto Motor Sport HD
-http://stream.skaz.tv/stream/ch273/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/86.png",Dazn 1 Bar HD
-http://stream.skaz.tv/stream/ch086/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2512.png",Dazn 1 Sat HD
-http://stream.skaz.tv/stream/ch2512/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1292.png",Dazn Kabel 1 HD
-http://stream.skaz.tv/stream/ch1292/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/35.png",Dazn 2 Bar HD
-http://stream.skaz.tv/stream/ch035/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2513.png",Dazn 2 Sat HD
-http://stream.skaz.tv/stream/ch2513/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1293.png",Dazn Kabel 2 HD
-http://stream.skaz.tv/stream/ch1293/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2511.png",Dazn NFL Network HD
-http://stream.skaz.tv/stream/ch2511/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/285.png",Dazn NBA HD
-http://stream.skaz.tv/stream/ch285/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2017.png",Dazn Event 1 HD
-http://stream.skaz.tv/stream/ch2017/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/286.png",Eurosport 1 HD DE
-http://stream.skaz.tv/stream/ch286/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/287.png",Eurosport 2 HD DE
-http://stream.skaz.tv/stream/ch287/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/288.png",Eurosport 2Xtra HD
-http://stream.skaz.tv/stream/ch288/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/215.png",eSports1 HD
-http://stream.skaz.tv/stream/ch215/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3057.png",RTL+ Sport Event 1 HD
-http://stream.skaz.tv/stream/ch3057/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3066.png",RTL+ Sport Event 10 HD
-http://stream.skaz.tv/stream/ch3066/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/186.png",Sky Sport News HD
-http://stream.skaz.tv/stream/ch186/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3031.png",Sky Sport Premier League Sat HD
-http://stream.skaz.tv/stream/ch3031/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1873.png",Sky Sport Premier League HD DE
-http://stream.skaz.tv/stream/ch1873/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3032.png",Sky Sport Top Event Sat HD
-http://stream.skaz.tv/stream/ch3032/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1874.png",Sky Sport Top Event HD DE
-http://stream.skaz.tv/stream/ch1874/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3033.png",Sky Sport Golf Sat HD
-http://stream.skaz.tv/stream/ch3033/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3034.png",Sky Sport Mix Sat HD
-http://stream.skaz.tv/stream/ch3034/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1876.png",Sky Sport Mix HD DE
-http://stream.skaz.tv/stream/ch1876/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3035.png",Sky Sport Tennis Sat HD
-http://stream.skaz.tv/stream/ch3035/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1432.png",Sky Sport UHD
-http://stream.skaz.tv/stream/ch1432/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1433.png",Sky Sport Bundesliga UHD
-http://stream.skaz.tv/stream/ch1433/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2701.png",Sky Sport F1 Sat HD
-http://stream.skaz.tv/stream/ch2701/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/852.png",Sky Sport F1 HD DE
-http://stream.skaz.tv/stream/ch852/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1431.png",Sky Sport F1 Kabel HD
-http://stream.skaz.tv/stream/ch1431/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3039.png",Sky Sport Austria 1 Sat HD
-http://stream.skaz.tv/stream/ch3039/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1283.png",Sky Sport Austria 2 HD
-http://stream.skaz.tv/stream/ch1283/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1318.png",Sky Sport Austria 6 HD
-http://stream.skaz.tv/stream/ch1318/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1319.png",Sky Sport Austria 7 HD
-http://stream.skaz.tv/stream/ch1319/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/188.png",myTeamTV 1 HD
-http://stream.skaz.tv/stream/ch188/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2546.png",DYN Sport 1 HD (Event Only)
-http://stream.skaz.tv/stream/ch2546/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/868.png",PL: Canal+ 360 HD
-http://stream.skaz.tv/stream/ch868/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/872.png",PL: Canal+ Sport HD
-http://stream.skaz.tv/stream/ch872/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/637.png",PL: Eleven Sports 1 4K
-http://stream.skaz.tv/stream/ch637/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/891.png",PL: Eurosport 1
-http://stream.skaz.tv/stream/ch891/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/892.png",PL: Eurosport 2
-http://stream.skaz.tv/stream/ch892/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/893.png",PL: Extreme Sports
-http://stream.skaz.tv/stream/ch893/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/894.png",PL: FightBox
-http://stream.skaz.tv/stream/ch894/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/895.png",PL: Fightklub HD
-http://stream.skaz.tv/stream/ch895/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/932.png",PL: Polsat Sport 1 HD
-http://stream.skaz.tv/stream/ch932/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/933.png",PL: Polsat Sport 2 HD
-http://stream.skaz.tv/stream/ch933/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2489.png",PL: Polsat Sport 3 HD
-http://stream.skaz.tv/stream/ch2489/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/934.png",PL: Polsat Sport Premium 1 HD
-http://stream.skaz.tv/stream/ch934/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/937.png",PL: Sport Klub HD
-http://stream.skaz.tv/stream/ch937/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/963.png",PL: TVP Sport HD
-http://stream.skaz.tv/stream/ch963/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2958.png",ES: Dazn 1 HD
-http://stream.skaz.tv/stream/ch2958/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2959.png",ES: Dazn 2 HD
-http://stream.skaz.tv/stream/ch2959/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/765.png",ES: DAZN F1 HD
-http://stream.skaz.tv/stream/ch765/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2106.png",ES: DAZN LaLiga HD
-http://stream.skaz.tv/stream/ch2106/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2107.png",ES: DAZN LaLiga 2 HD
-http://stream.skaz.tv/stream/ch2107/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2992.png",ES: Eurosport 1 HD
-http://stream.skaz.tv/stream/ch2992/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2993.png",ES: Eurosport 2 HD
-http://stream.skaz.tv/stream/ch2993/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2219.png",ES: Real Madrid TV HD
-http://stream.skaz.tv/stream/ch2219/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2403.png",IT: Eurosport 1 HD
-http://stream.skaz.tv/stream/ch2403/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2406.png",IT: Eurosport 2 HD
-http://stream.skaz.tv/stream/ch2406/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2388.png",IT: Rai Sport HD
-http://stream.skaz.tv/stream/ch2388/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2417.png",IT: Sky Sport Arena HD
-http://stream.skaz.tv/stream/ch2417/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2418.png",IT: Sky Sport Calcio HD
-http://stream.skaz.tv/stream/ch2418/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2413.png",IT: Sky Sport Max HD
-http://stream.skaz.tv/stream/ch2413/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2419.png",IT: Sky Sport F1 HD
-http://stream.skaz.tv/stream/ch2419/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2421.png",IT: Sky Sport Golf HD
-http://stream.skaz.tv/stream/ch2421/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2422.png",IT: Sky Sport MotoGP HD
-http://stream.skaz.tv/stream/ch2422/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2423.png",IT: Sky Sport NBA HD
-http://stream.skaz.tv/stream/ch2423/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2424.png",IT: Sky Sport Tennis HD
-http://stream.skaz.tv/stream/ch2424/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2412.png",IT: Sky Sport Super Tennis HD
-http://stream.skaz.tv/stream/ch2412/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2440.png",IE: Premier Sports 1 HD 50fps
-http://stream.skaz.tv/stream/ch2440/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2441.png",IE: Premier Sports 2 HD 50fps
-http://stream.skaz.tv/stream/ch2441/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2451.png",UK: Sky Sports Premier League HD 50fps
-http://stream.skaz.tv/stream/ch2451/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2450.png",UK: Sky Sports News HD 50fps
-http://stream.skaz.tv/stream/ch2450/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2446.png",UK: Sky Sports Football HD 50fps
-http://stream.skaz.tv/stream/ch2446/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2449.png",UK: Sky Sports Mix HD 50fps
-http://stream.skaz.tv/stream/ch2449/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2444.png",UK: Sky Sports Cricket HD 50fps
-http://stream.skaz.tv/stream/ch2444/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2448.png",Sky UK: Sports Main Event HD 50fps
-http://stream.skaz.tv/stream/ch2448/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/335.png",UK: Sky Sports Main Event HD
-http://stream.skaz.tv/stream/ch335/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2447.png",UK: Sky Sports Golf HD 50fps
-http://stream.skaz.tv/stream/ch2447/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/306.png",UK: Sky Sports Golf HD
-http://stream.skaz.tv/stream/ch306/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2452.png",UK: Sky Sports Racing HD 50fps
-http://stream.skaz.tv/stream/ch2452/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1100.png",UK: Sky Sports Racing HD
-http://stream.skaz.tv/stream/ch1100/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2442.png",UK: Sky Sports Action HD 50fps
-http://stream.skaz.tv/stream/ch2442/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2105.png",UK: Sky Sports Action HD
-http://stream.skaz.tv/stream/ch2105/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2443.png",UK: Sky Sports Plus HD 50fps
-http://stream.skaz.tv/stream/ch2443/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2445.png",UK: Sky Sports F1 HD 50fps
-http://stream.skaz.tv/stream/ch2445/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2207.png",UK: TNT Sport 1 HD 50fps
-http://stream.skaz.tv/stream/ch2207/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2208.png",UK: TNT Sport 2 HD 50fps
-http://stream.skaz.tv/stream/ch2208/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2209.png",UK: TNT Sport 3 HD 50fps
-http://stream.skaz.tv/stream/ch2209/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2210.png",UK: TNT Sport 4 HD 50fps
-http://stream.skaz.tv/stream/ch2210/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1718.png",UK: Viaplay Sports 1 HD
-http://stream.skaz.tv/stream/ch1718/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1719.png",UK: Viaplay Sports 2 HD
-http://stream.skaz.tv/stream/ch1719/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2496.png",IL: Eurosport 1 HD
-http://stream.skaz.tv/stream/ch2496/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2497.png",IL: Eurosport 2 HD
-http://stream.skaz.tv/stream/ch2497/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2629.png",IL: Edge Sport HD
-http://stream.skaz.tv/stream/ch2629/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1128.png",IL: Sport 1 FHD
-http://stream.skaz.tv/stream/ch1128/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2211.png",IL: Sport 5 4K
-http://stream.skaz.tv/stream/ch2211/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1088.png",KZ: InSport HD
-http://stream.skaz.tv/stream/ch1088/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2036.png",KZ: InHockey HD
-http://stream.skaz.tv/stream/ch2036/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/474.png",KZ: QazSport HD
-http://stream.skaz.tv/stream/ch474/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1091.png",KZ: Q Sport HD
-http://stream.skaz.tv/stream/ch1091/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1092.png",KZ: Q Sport League HD
-http://stream.skaz.tv/stream/ch1092/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/639.png",KZ: Setanta Qazaqstan HD
-http://stream.skaz.tv/stream/ch639/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2514.png",KZ: Setanta Qazaqstan HD RU
-http://stream.skaz.tv/stream/ch2514/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2034.png",KZ: Setanta Sports 1 HD
-http://stream.skaz.tv/stream/ch2034/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2035.png",KZ: Setanta Sports 2 HD
-http://stream.skaz.tv/stream/ch2035/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/137.png",LT: Go3 Sport 1 HD
-http://stream.skaz.tv/stream/ch137/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/622.png",LT: Go3 Sport 2 HD
-http://stream.skaz.tv/stream/ch622/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1629.png",LT: Go3 Sport 3 HD
-http://stream.skaz.tv/stream/ch1629/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/458.png",LT: Go3 Sport Open HD
-http://stream.skaz.tv/stream/ch458/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/676.png",LT: Sport 1 HD
-http://stream.skaz.tv/stream/ch676/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1645.png",LV: Go3 Sport 1 HD
-http://stream.skaz.tv/stream/ch1645/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1646.png",LV: Go3 Sport 2 HD
-http://stream.skaz.tv/stream/ch1646/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1647.png",LV: Go3 Sport 3 HD
-http://stream.skaz.tv/stream/ch1647/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1665.png",LV: Go3 Sport Open HD
-http://stream.skaz.tv/stream/ch1665/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1638.png",EE: Go3 Sport 1 HD
-http://stream.skaz.tv/stream/ch1638/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1639.png",EE: Go3 Sport 2 HD
-http://stream.skaz.tv/stream/ch1639/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1108.png",RO: Digi Sport 1 HD
-http://stream.skaz.tv/stream/ch1108/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1112.png",RO: Digi Sport 2 HD
-http://stream.skaz.tv/stream/ch1112/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1113.png",RO: Digi Sport 3 HD
-http://stream.skaz.tv/stream/ch1113/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1117.png",RO: Digi Sport 4 HD
-http://stream.skaz.tv/stream/ch1117/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1832.png",RO: Eurosport 1 HD
-http://stream.skaz.tv/stream/ch1832/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1831.png",RO: Eurosport 2 HD
-http://stream.skaz.tv/stream/ch1831/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1844.png",RO: Prima Sport 1 HD
-http://stream.skaz.tv/stream/ch1844/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1847.png",RO: Prima Sport 2 HD
-http://stream.skaz.tv/stream/ch1847/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1845.png",RO: Prima Sport 3 HD
-http://stream.skaz.tv/stream/ch1845/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1492.png",AM: FastSports
-http://stream.skaz.tv/stream/ch1492/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2587.png",AM: FastSports 1
-http://stream.skaz.tv/stream/ch2587/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2588.png",AM: FastSports 2
-http://stream.skaz.tv/stream/ch2588/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1199.png",GE: Setanta Sports 1 Georgia HD
-http://stream.skaz.tv/stream/ch1199/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1206.png",GE: Setanta Sports 2 Georgia HD
-http://stream.skaz.tv/stream/ch1206/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2060.png",GE: Setanta Sports 3 Georgia HD
-http://stream.skaz.tv/stream/ch2060/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1603.png",GE: Silk Sport 1 HD
-http://stream.skaz.tv/stream/ch1603/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1424.png",TR: Bein Sports 1 HD
-http://stream.skaz.tv/stream/ch1424/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1449.png",TR: Bein Sports MAX 1 HD
-http://stream.skaz.tv/stream/ch1449/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1450.png",TR: Bein Sports MAX 2 HD
-http://stream.skaz.tv/stream/ch1450/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2481.png",TR: Eurosport 1 HD
-http://stream.skaz.tv/stream/ch2481/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/2482.png",TR: Eurosport 2 HD
-http://stream.skaz.tv/stream/ch2482/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1397.png",TR: S Sport HD
-http://stream.skaz.tv/stream/ch1397/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1398.png",TR: S Sport 2 HD
-http://stream.skaz.tv/stream/ch1398/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1408.png",TR: Spor Smart HD
-http://stream.skaz.tv/stream/ch1408/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1416.png",TR: TRT Spor HD
-http://stream.skaz.tv/stream/ch1416/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1451.png",TR: Tivibu Spor 1 HD
-http://stream.skaz.tv/stream/ch1451/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1994.png",TR: Exxen 1 HD
-http://stream.skaz.tv/stream/ch1994/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1995.png",TR: Exxen 2 HD
-http://stream.skaz.tv/stream/ch1995/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/3043.png",TR: Tabii Spor 1 HD
-http://stream.skaz.tv/stream/ch3043/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="http://skaz.tv/tvicon/1534.png",AZ: CBC Sport HD
-http://stream.skaz.tv/stream/ch1534/fde215a0/mono.m3u8
-
 
 #EXTINF:-1 group-title="International 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷" tvg-logo="https://af-play.com/storage/images/channel_logos/bf31f8c4a1c5302b1acab110f0913069.png",ABC News HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/abc-us-hd/video.m3u8
@@ -5567,6 +5569,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
