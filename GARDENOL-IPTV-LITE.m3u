@@ -72,8 +72,6 @@ http://stream.skaz.tv/stream/ch2311/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch654/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Relax & Style 🏝" tvg-logo="http://skaz.tv/tvicon/550.png",Fashion TV HD
 http://stream.skaz.tv/stream/ch550/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Relax & Style 🏝" tvg-logo="https://i.ibb.co/7ytLDvK/resize-3.png",Fashion TV Bikini Live
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/8f00dd6b-9a8e-4614-8537-dd95d5fd7707/0.m3u8
 #EXTINF:-1 group-title="Relax & Style 🏝" tvg-logo="https://i.ibb.co/7ytLDvK/resize-3.png",Fashion TV [SK]
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="Relax & Style 🏝" tvg-logo="https://i.ibb.co/cTrNr06/resize-6.png",FASHION ONE
@@ -5579,6 +5577,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
