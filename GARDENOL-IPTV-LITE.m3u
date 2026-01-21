@@ -5545,41 +5545,28 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/QMadWXp.png",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/viB0FS2.png",Canaf54 TV
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/viB0FS2.png",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/BzA2z7m.png",Canal 2 International
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/BzA2z7m.png",Canal 2 International
 http://69.64.57.208/canal2international/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1 group-title="General",Dr G Medical Examiner
+#EXTINF:-1 group-title="Em Geral/General 📺📰",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/CiA3plN.png",MBC 1 (1080p)
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/CiA3plN.png",MBC 1 (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png",TVI África (480p) [Not 24/7]
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png",TVI África (480p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/fRV6p50.png",TVM Internacional (480p) [Not 24/7]
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/fRV6p50.png",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg",TVM para ti (1080p)
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vtGED07.jpg",Venevisión Internacional (720p)
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/vtGED07.jpg",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",РТР Планета Азия
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://i.imgur.com/DTtK0z7.png",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета Евро
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
+#EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-
-
-
-
-
-
-
-
-
-
-
-
-
 
