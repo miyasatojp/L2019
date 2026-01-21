@@ -34,24 +34,34 @@ https://video02.logicahost.com.br/ponteguaratuba/pontedeguaratuba.stream/chunkli
 https://video02.logicahost.com.br/ponteguaratuba/consorcioponte2.stream/chunklist_w184892715.m3u8
 
 
-#EXTINF:-1 group-title="Relax 🧘🎶🇺🇸" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png",SOCHI LIVE HD
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png",SOCHI LIVE HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 14
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 14
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 10
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 10
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 6
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 6
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 2
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 2
 https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Cozy Vibes
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Cozy Vibes
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 15
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 15
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 5
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 5
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Relax 🇺🇸" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 1
+#EXTINF:-1 group-title="Relax 🧘🎶" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 1
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Urso.png",Kuriakos Kids (🇧🇷)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Aliento Vision (🇺🇸)
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",FONTE TV Gospel (🇧🇷)
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV TERCEIRO ANJO (🇧🇷)
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 
 
 #EXTINF:-1 group-title="CLIPS 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RadioItaliaTV (🇮🇹)
@@ -1885,14 +1895,6 @@ http://stream.skaz.tv/stream/ch1306/fde215a0/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",Aliento Vision (🇺🇸)
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",FONTE TV Gospel (🇧🇷)
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 group-title="GOSPEL 🙏" tvg-logo="https://img.freepik.com/icones-gratis/biblia_318-547839.jpg",TV TERCEIRO ANJO (🇧🇷)
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-
-
 #EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",PonTV (Brasil) (🇧🇷)
 https://is.gd/Qy0INv
 #EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Inter (Brasil) (🇧🇷)
@@ -2440,8 +2442,7 @@ http://stream.skaz.tv/stream/ch1534/fde215a0/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://dlskits.com/wp-content/uploads/2018/05/Captain-America-Logo-Dream-League-Soccer.png",Kuriakos Kids (🇧🇷)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Padre Cicero PI (🇧🇷)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV do Povo (🇧🇷)
@@ -5577,5 +5578,6 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
