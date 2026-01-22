@@ -167,6 +167,10 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/tracks-v1a1/m
 
 
 
+#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza Deep House (Grecia) 🇬🇷
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing (Grecia) 🇬🇷
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",RadioItaliaTV (🇮🇹)
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Vevo 2K (🇺🇸)
@@ -395,10 +399,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.ibb.co/JFSzJgJ/resize-2024-09-29-T200212-090.png",Salto Brasa Music [NL]
 https://salto-streams.nl/hls/sotv1_high.m3u8
-#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Christmas Deep House [GR]
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing [GR]
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/Nq00n8h.png",Notioi TV [GR]
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG 91 [GR]
@@ -5572,6 +5572,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
