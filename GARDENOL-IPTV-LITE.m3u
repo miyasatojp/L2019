@@ -798,32 +798,6 @@ http://stream.skaz.tv/stream/ch2064/fde215a0/mono.m3u8
 
 #EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2295.png",BOX Music 4K
 http://stream.skaz.tv/stream/ch2295/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1294.png",Clarity4K BluesString
-http://stream.skaz.tv/stream/ch1294/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2399.png",Clarity4K Bollywood Music
-http://stream.skaz.tv/stream/ch2399/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1551.png",Clarity4k Deep House
-http://stream.skaz.tv/stream/ch1551/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1438.png",Clarity4K DeepMe
-http://stream.skaz.tv/stream/ch1438/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2888.png",Clarity4K France Music
-http://stream.skaz.tv/stream/ch2888/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2492.png",Clarity4K Heavy Metal
-http://stream.skaz.tv/stream/ch2492/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/128.png",Clarity4K Korean Music
-http://stream.skaz.tv/stream/ch128/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2503.png",Clarity4K Latin Music
-http://stream.skaz.tv/stream/ch2503/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1441.png",Clarity4k RemasterWave
-http://stream.skaz.tv/stream/ch1441/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2404.png",Clarity4K Russian Music
-http://stream.skaz.tv/stream/ch2404/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1549.png",Clarity4K Ukrainian Music
-http://stream.skaz.tv/stream/ch1549/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/2504.png",Clarity4K UrbanBlack
-http://stream.skaz.tv/stream/ch2504/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Music 4K 📻🎶" tvg-logo="http://skaz.tv/tvicon/1435.png",Clarity4K World Music
-http://stream.skaz.tv/stream/ch1435/fde215a0/mono.m3u8
 
 #EXTINF:-1 group-title="Musical/Музыкальные 📻🎶" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
@@ -1315,12 +1289,8 @@ http://stream.skaz.tv/stream/ch512/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2154/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2342.png",Liberty Criminal 4K
 http://stream.skaz.tv/stream/ch2342/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2788.png",Liberty Dreamworks 4K
-http://stream.skaz.tv/stream/ch2788/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://s.skaz.tv/tvicon/3151.png",Liberty Medval 4K
 http://stream.skaz.tv/stream/ch3151/fde215a0/mono.m3u8
-#EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/1773.png",Liberty Netflix 4K
-http://stream.skaz.tv/stream/ch1773/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2787.png",Liberty Serialy 4K
 http://stream.skaz.tv/stream/ch2787/fde215a0/mono.m3u8
 #EXTINF:-1 group-title="Movies UHD (4k) 🎗️🖥️🇷🇺" tvg-logo="http://skaz.tv/tvicon/2458.png",Liberty XX Век 4K
@@ -5031,5 +5001,6 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
