@@ -11,7 +11,7 @@
 ##################################################
 
 #EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Gardenol3.png",Gardenol Web Tv (🇧🇷)
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+http://iptv.prosto.tv:7000/ch317/video.m3u8
 
 #EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/gwr-site/arte/Logo-Gardenol-WebRadio.png",Gardenol Web Rádio (🇧🇷)
 http://node-19.zeno.fm:80/419bxfcv868uv
@@ -288,6 +288,9 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.is
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 group-title="Religião pelo Mundo 🙏🌍" tvg-logo="https://i.imgur.com/TjQP7kS.png",W14DK-D 14.1 TV Delmarva
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Relaxe e Tenha Estilo 🧘🎶🏝" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png",SOCHI LIVE HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Relaxe e Tenha Estilo 🧘🎶🏝" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax 14
@@ -5001,6 +5004,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Em Geral/General 📺📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+
 
 
 
