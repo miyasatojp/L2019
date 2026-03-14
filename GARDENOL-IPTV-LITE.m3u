@@ -10,7 +10,7 @@
 ##                                              ##
 ##################################################
 
-#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/2:/Logo/Logo-tropical-GWTV1.png",Gardenol Web Tv (🇧🇷)
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/2:/Logo/Logo-512x420px.png",Gardenol Web Tv (🇧🇷)
 https://tv.gardenolwebtv.com.br/hls/stream1.m3u8
 
 #EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/gwr-site/arte/Logo-Gardenol-WebRadio.png",Gardenol WebRádio audio (🇧🇷)
