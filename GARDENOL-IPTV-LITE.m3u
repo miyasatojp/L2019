@@ -10,15 +10,15 @@
 ##                                              ##
 ##################################################
 
-#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
-https://gardenol.miyasatojp.workers.dev/0:/movie/retro1.mp4
-
 
 #EXTINF:-1 tvg-id="Gardenol Web Rádio" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol Web Rádio (🇧🇷)
 http://node-19.zeno.fm:80/419bxfcv868uv
 
 #EXTINF:-1 tvg-id="Vencerás Rádio Web" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg" group-title="Gardenol IPTV list 🤗🇧🇷",Vencerás Rádio Web (🇧🇷)
 http://node-19.zeno.fm:80/xacqjxjn0m7uv
+
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
+https://gardenol.miyasatojp.workers.dev/0:/movie/retro1.mp4
 
 
 #EXTINF:-1 group-title="Guaratuba-PR 🏄🇧🇷" tvg-logo="https://img.freepik.com/fotos-premium/bandeira-do-estado-do-parana-no-brasil_2227-696.jpg",Trevo do Coroados (🇧🇷)
