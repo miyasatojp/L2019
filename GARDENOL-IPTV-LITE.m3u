@@ -14,11 +14,10 @@
 https://gardenol.miyasatojp.workers.dev/0:/movie/retro1.mp4
 
 
-#EXTINF:-1 tvg-id="Gardenol Web Rádio" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol Web Rádio
+#EXTINF:-1 tvg-id="Gardenol Web Rádio" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol Web Rádio (🇧🇷)
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-
-#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",Vencerás Rádio Web audio(🇧🇷)
+#EXTINF:-1 tvg-id="Vencerás Rádio Web" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg" group-title="Gardenol IPTV list 🤗🇧🇷",Vencerás Rádio Web (🇧🇷)
 http://node-19.zeno.fm:80/xacqjxjn0m7uv
 
 
