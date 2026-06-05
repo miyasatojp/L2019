@@ -10,18 +10,13 @@
 ##                                              ##
 ##################################################
 
-#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/2:/Logo/Logo-512x420px.png",Gardenol Web Tv (🇧🇷)
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
 https://gardenol.miyasatojp.workers.dev/0:/movie/retro1.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Xonotic_512.png" tvg-bg="https://wallpaperaccess.com/full/4727363.jpg" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol WebRádio Teste1
+#EXTINF:-1 tvg-id="Gardenol WebRádio" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol Web Rádio
 http://node-19.zeno.fm:80/419bxfcv868uv
 
-#EXTINF:-1 tvg-id="Gardenol WebRádio" tvg-logo="https://wallpaperaccess.com/full/4727363.jpg" group-title="Gardenol IPTV list 🤗🇧🇷",Gardenol WebRádio Teste
-http://node-19.zeno.fm:80/419bxfcv868uv
-
-#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/1:/gwr-site/arte/Logo-Gardenol-WebRadio.png",Gardenol WebRádio audio (🇧🇷)
-http://node-19.zeno.fm:80/419bxfcv868uv
 
 #EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",Vencerás Rádio Web audio(🇧🇷)
 http://node-19.zeno.fm:80/xacqjxjn0m7uv
