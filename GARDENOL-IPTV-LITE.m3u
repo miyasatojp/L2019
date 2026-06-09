@@ -657,10 +657,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",DarkFlix HD 🇧🇷
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",24 Hour Free Movies (720p) (🇺🇸)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",30A TV Classic Movies (🇺🇸)
@@ -671,7 +667,6 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Movie Sphere (1080p) (🇺🇸)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Kinowood (🇷🇺)
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
@@ -711,167 +706,167 @@ https://is.gd/Od5UeT
 
 
 
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Padre Cicero PI (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Padre Cicero PI (🇧🇷)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Assim é Portugal (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Assim é Portugal (Brasil) (🇧🇷)
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",COM Brasil (Brasil) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",COM Brasil (Brasil) (🇧🇷)
 https://n9.cl/dl9g1
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",E PARANÁ (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",E PARANÁ (🇧🇷)
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",TV CULTURA PR (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV CULTURA PR (🇧🇷)
 http://200.189.113.201:80/hls/tve.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png",CATVE HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",CATVE HD (🇧🇷)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://www.coolstreaming.us/img/ch/ima23926463304.jpg",NOVA ERA TV HD Lages SC (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",NOVA ERA TV HD Lages SC (🇧🇷)
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MASTER TV HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",MASTER TV HD (🇧🇷)
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://esporteemidia.com/wp-content/uploads/2018/07/fonte-tv.jpg",FonteTV HD (GO) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",FonteTV HD (GO) (🇧🇷)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Pet Lovers TV HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Pet Lovers TV HD (🇧🇷)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Santa Cecília HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Santa Cecília HD (🇧🇷)
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TVídeoNews HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TVídeoNews HD (🇧🇷)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NGT HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",NGT HD (🇧🇷)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",REDE SPTV HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",REDE SPTV HD (🇧🇷)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Brusque (SC) (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Brusque (SC) (🇧🇷)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV COM BRASIL (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV COM BRASIL (🇧🇷)
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",MASTER TV PR (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",MASTER TV PR (🇧🇷)
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",JP NOTÍCIAS SD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",JP NOTÍCIAS SD (🇧🇷)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",JP NOTÍCIAS HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",JP NOTÍCIAS HD (🇧🇷)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV VIDEONEWS (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV VIDEONEWS (🇧🇷)
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",SONY ONE SHARK TANK (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",SONY ONE SHARK TANK (🇧🇷)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Exija África HD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Exija África HD (🇧🇷)
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",BS TV (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",BS TV (🇧🇷)
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",NGT (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",NGT (🇧🇷)
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",TV Aracati (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Aracati (🇧🇷)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Astral TV FHD (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Astral TV FHD (🇧🇷)
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Wtj TV Minas (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Wtj TV Minas (🇧🇷)
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/brasil.png",Play TV (🇧🇷)
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Play TV (🇧🇷)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/argentina.png",Radio TV Neuquen (ARG) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://i.ibb.co/WvjRD6zv/argentina.png",Radio TV Neuquen (ARG) (🇦🇷)
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/argentina.png",13 La Rioja (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://i.ibb.co/WvjRD6zv/argentina.png",13 La Rioja (Argentina) (🇦🇷)
 http://arcast.net:1935/mp/mp/.m3u8
-#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/argentina.png",C2 Misiones (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://i.ibb.co/WvjRD6zv/argentina.png",C2 Misiones (Argentina) (🇦🇷)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/argentina.png",Good Radio (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://i.ibb.co/WvjRD6zv/argentina.png",Good Radio (Argentina) (🇦🇷)
 https://is.gd/DEhBI5
-#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/argentina.png",Power (Argentina) (🇦🇷)
+#EXTINF:-1 group-title="ARGENTINA 🇦🇷" tvg-logo="https://i.ibb.co/WvjRD6zv/argentina.png",Power (Argentina) (🇦🇷)
 https://is.gd/I1gqMu
 
 
 
 
-#EXTINF:-1 group-title="BOLIVIA 🇧🇴" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",DW (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA 🇧🇴" tvg-logo="https://i.ibb.co/bTdnzPn/bolivia.png",DW (Bolivia) (🇧🇴)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="BOLIVIA 🇧🇴" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/bolivia.png",Univalle (Bolivia) (🇧🇴)
+#EXTINF:-1 group-title="BOLIVIA 🇧🇴" tvg-logo="https://i.ibb.co/bTdnzPn/bolivia.png",Univalle (Bolivia) (🇧🇴)
 https://is.gd/YRhBEU
 
 
 
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Tevex (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Tevex (Chile) (🇨🇱)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",El Pinguino (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",El Pinguino (Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",El Pinguino 2(Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",El Pinguino 2(Chile) (🇨🇱)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",AE Radio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",AE Radio (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Alerce (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Alerce (Chile) (🇨🇱)
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",C21 Chillan (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",C21 Chillan (Chile) (🇨🇱)
 https://tls-cl.cdnz.cl/canal21tv/live/.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Caracola (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Caracola (Chile) (🇨🇱)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Futuro FM (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Futuro FM (Chile) (🇨🇱)
 https://is.gd/2OF1sO
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",La Melinkana (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",La Melinkana (Chile) (🇨🇱)
 https://is.gd/wq5YCy
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Patagonia Radio (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Patagonia Radio (Chile) (🇨🇱)
 https://is.gd/L1dCGN
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Recuerdos Retro (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Recuerdos Retro (Chile) (🇨🇱)
 https://is.gd/WwApFq
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Soberania (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Soberania (Chile) (🇨🇱)
 https://is.gd/uZu0gn
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",Tevex (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",Tevex (Chile) (🇨🇱)
 https://is.gd/TSkTKW
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",UCV (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",UCV (Chile) (🇨🇱)
 https://is.gd/sGNX5s
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",UMAG (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",UMAG (Chile) (🇨🇱)
 https://is.gd/MMoyT1
-#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/chile.png",VC Medios (Chile) (🇨🇱)
+#EXTINF:-1 group-title="CHILE 🇨🇱" tvg-logo="https://i.ibb.co/3953P8QQ/chile.png",VC Medios (Chile) (🇨🇱)
 https://is.gd/Ymfb0E
 
 
 
 
-#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/colombia.png",Asucap San Jorge (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://i.ibb.co/mkfz20C/colombia.png",Asucap San Jorge (Colombia) (🇨🇴)
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/colombia.png",Cali (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://i.ibb.co/mkfz20C/colombia.png",Cali (Colombia) (🇨🇴)
 http://vbox.cehis.net/live-calitv/calitv1/.m3u8
-#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/colombia.png",Suram (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="COLOMBIA 🇨🇴" tvg-logo="https://i.ibb.co/mkfz20C/colombia.png",Suram (Colombia) (🇨🇴)
 https://is.gd/kOYuwW
 
 
 
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Extrema TV (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Extrema TV (Costa Rica) (🇨🇷)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Extrema (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Extrema (Costa Rica) (🇨🇷)
 https://is.gd/wRDufN
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",88 Stereo (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",88 Stereo (Costa Rica) (🇨🇷)
 http://k3.usastreams.com/CableLatino/88stereo/.m3u8
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Colosal (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Colosal (Costa Rica) (🇨🇷)
 https://is.gd/V68BMX
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Garabito (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Garabito (Costa Rica) (🇨🇷)
 https://is.gd/6MWw3A
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Nicoya (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Nicoya (Costa Rica) (🇨🇷)
 https://is.gd/zi5TAj
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",STV Sarapiqui (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",STV Sarapiqui (Costa Rica) (🇨🇷)
 https://is.gd/CEhvNW
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Tele Brunca (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Tele Brunca (Costa Rica) (🇨🇷)
 https://is.gd/BaJ8YL
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Voice Over Radio (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Voice Over Radio (Costa Rica) (🇨🇷)
 https://is.gd/6iBrBn
-#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/Costa%20Rica.png",Zurqui (Costa Rica) (🇨🇷)
+#EXTINF:-1 group-title="COSTA RICA 🇨🇷" tvg-logo="https://i.ibb.co/B2q5yFR7/Costa-Rica.png",Zurqui (Costa Rica) (🇨🇷)
 https://is.gd/V5HZZW
 
 
 
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Prensa Latina (Cuba) 🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://i.ibb.co/dYhyzKR/cuba.png",Prensa Latina (Cuba) 🇨🇺
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Martí HD (Cuba) 🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://i.ibb.co/dYhyzKR/cuba.png",Martí HD (Cuba) 🇨🇺
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_0720.m3u8
-#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/cuba.png",Kanal D Drama (Cuba) 🇨🇺
+#EXTINF:-1 group-title="CUBA 🇨🇺" tvg-logo="https://i.ibb.co/dYhyzKR/cuba.png",Kanal D Drama (Cuba) 🇨🇺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ECUADOR 🇪🇨" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/ecuador.png",Color 36 (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR 🇪🇨" tvg-logo="https://i.ibb.co/DDvQcyYG/ecuador.png",Color 36 (Ecuador) (🇪🇨)
 https://is.gd/ecy3yJ
-#EXTINF:-1 group-title="ECUADOR 🇪🇨" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/Bandeiras/ecuador.png",Puruwa (Ecuador) (🇪🇨)
+#EXTINF:-1 group-title="ECUADOR 🇪🇨" tvg-logo="https://i.ibb.co/DDvQcyYG/ecuador.png",Puruwa (Ecuador) (🇪🇨)
 https://is.gd/dfJdZL
 
 
