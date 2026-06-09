@@ -380,7 +380,10 @@ https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Catve.fm PR-BR 🇧🇷
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1886971786.m3u8
+#EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://cdn-icons-png.flaticon.com/512/6342/6342369.png",Rádio União de Toledo-PR-BR 🇧🇷
+https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w467642585.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza Deep House (Grecia) 🇬🇷
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Music 📻🎶" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing (Grecia) 🇬🇷
