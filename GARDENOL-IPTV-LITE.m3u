@@ -639,6 +639,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 
 
 
+#EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://gardenol.miyasatojp.workers.dev/0:/AVATAR/Faroeste1.png",Grjngo (Faroeste) 🇧🇷
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",Dark Flix 🇧🇷
+https://is.gd/7SctXG
 #EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MyTime Movies 🇧🇷
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 #EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",MOVIE SPHERE 🇧🇷
@@ -647,6 +651,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",CHANNEL ONE 🇧🇷
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",TV Gallo 🇧🇷
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🎞️🇧🇷" tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png",DarkFlix HD 🇧🇷
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
 
 
 
