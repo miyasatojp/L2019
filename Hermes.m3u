@@ -12,5 +12,15 @@
 
 
 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/K81vNbk.png",Akaal Channel (396p)
-https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
+https://tv.gardenolwebtv.com.br/stream1/stream.m3u8
+
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png",Gardenol Web Rádio Live(🇧🇷)
+https://radio.gardenolwebtv.com.br/gardenol.mp3
+
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/F4ftVC30/Logo-Gardenol-Web-Radio.png",Gardenol Web Rádio Zeno(🇧🇷)
+http://node-19.zeno.fm:80/419bxfcv868uv
+
+#EXTINF:-1 group-title="Gardenol IPTV list 🤗🇧🇷" tvg-logo="https://i.ibb.co/M8XnnSL/venceras-gospel-1.jpg",Vencerás Rádio Web Zeno (🇧🇷)
+http://node-19.zeno.fm:80/xacqjxjn0m7uv
+
