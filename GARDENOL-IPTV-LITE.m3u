@@ -538,10 +538,55 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 
 
 
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",ESPN 4 🇧🇷
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",ESPN 🇧🇷
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
+https://is.gd/jJkXaV
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
+https://is.gd/jM8uUZ
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
+https://is.gd/Od5UeT
 
-#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
+
+
+
+
+
+
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv 🇧🇷
 https://tv.gardenolwebtv.com.br/stream1/stream.m3u8
 
+
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",A&E Latin America 🇧🇷
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Adrenalina Pura TV 🇧🇷
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",AMC Latin America 🇧🇷
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",AXN 🇧🇷
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Lifetime 🇧🇷
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",MyTime Movie Network 🇧🇷
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Sony Channel 🇧🇷
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Filmes Suspense 🇧🇷
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 group-title="Filmes/Movies 🇧🇷🇺🇸🇫🇷🇷🇺" tvg-logo="https://i.ibb.co/TD9jz3K3/movie1.png",Grjngo (Faroeste) 🇧🇷
@@ -586,47 +631,14 @@ http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",ESPN 4 🇧🇷
-http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",ESPN 🇧🇷
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Real Madrid Tv (🇬🇧)
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",NBC NHLᴴᴰ (USA) (🇺🇸)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Fuel tvᴴᴰ (USA) (🇺🇸)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Hard Knock Fightingᴴᴰ (USA) (🇺🇸)
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Bein Sports Xtra (UK) (🇬🇧)
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Auto Motor Sport (Suiza) (🇨🇭)
-https://is.gd/jJkXaV
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Sport Digital (Suiza) (🇨🇭)
-https://is.gd/jM8uUZ
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Canal Motor (Noruega) (🇳🇴)
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Sport 🏆" tvg-logo="https://cdn-icons-png.flaticon.com/512/5540/5540420.png",Motor Racing (UK) (🇬🇧)
-https://is.gd/Od5UeT
-
-
 
 
 
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/LdPWttm6/Logo-961x769px.png",Gardenol Web Tv (🇧🇷)
 https://tv.gardenolwebtv.com.br/stream1/stream.m3u8
 
-
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",A&E Latin America (🇧🇷)
-http://170.83.16.50/AeE/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Adrenalina Pura TV (🇧🇷)
-https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",AMC Latin America (🇧🇷)
-http://170.83.49.66:8083/AMCHD/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",AXN (🇧🇷)
-http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TLC (🇧🇷)
+http://79.127.238.228:14433
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Cartoon Network (🇧🇷)
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",History 2 (🇧🇷)
@@ -635,18 +647,10 @@ http://45.177.114.114/HISTORY_2/index.m3u8
 http://45.177.114.114/HISTORY/index.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",ISTV (🇧🇷)
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Lifetime (🇧🇷)
-http://170.83.16.50/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",MyTime Movie Network (🇧🇷)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Nickelodeon (🇧🇷)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",PlayTV Mais (🇧🇷)
 http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Sony Channel (🇧🇷)
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TLC (🇧🇷)
-http://79.127.238.228:14433
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TNT Novelas (🇧🇷)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Camara (🇧🇷)
