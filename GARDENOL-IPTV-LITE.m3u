@@ -653,10 +653,6 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 http://45.162.64.114/PLAY_TV/index.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TNT Novelas (🇧🇷)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Camara (🇧🇷)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Senado (🇧🇷)
-http://45.162.64.114/TV_SENADO/index.m3u8
 
 
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Padre Cicero PI (🇧🇷)
@@ -715,6 +711,10 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",Play TV (🇧🇷)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Camara (🇧🇷)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="BRASIL 🇧🇷" tvg-logo="https://i.ibb.co/VcgGZwZL/brasil.png",TV Senado (🇧🇷)
+http://45.162.64.114/TV_SENADO/index.m3u8
 
 
 
